@@ -1,0 +1,317 @@
+{
+    "陈金莲": {
+        "Name": "陈金莲",
+        "prompt": "1girl, long black hair, straight hair, beautiful, elegant, cold expression, sharp eyes, high cheekbones, red lips, white skin, black dress, high heels, jewelry, cold aura, confident, manipulative, betrayal, revenge, anime, cute, japanese manga style",
+        "num_occurence": 36
+    },
+    "叶笑天": {
+        "Name": "叶笑天",
+        "prompt": "1boy, short black hair, slicked back, arrogant expression, smirking, dark brown eyes, sharp features, black suit, white shirt, black tie, indoors, living room, looking at viewer with disdain, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "秦霜": {
+        "Name": "秦霜",
+        "prompt": "1girl, long black hair, straight hair, elegant, mature, white suit, white dress shirt, black tie, businesswoman, confident, determined, sad expression, holding a urn, indoors, living room, anime, cute, japanese manga style",
+        "num_occurence": 150
+    },
+    "我": {
+        "Name": "金少",
+        "prompt": "1boy, black hair, short hair, straight hair, confident, handsome, light gray eyes, white shirt, casual, indoors, living room, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 62
+    },
+    "伟少": {
+        "Name": "伟少",
+        "prompt": "1boy, slicked-back hair, big back, arrogant, powerful presence, disdainful expression, light brown eyes, beige suit, formal attire, bodyguard beside, looking down on viewer, anime, japanese manga style",
+        "num_occurence": 3
+    },
+    "阿东": {
+        "Name": "阿东",
+        "prompt": "1boy, short black hair, serious expression, muscular build, dark eyes, protective demeanor, black suit, professional attire, anime, cute, japanese manga style",
+        "num_occurence": 25
+    },
+    "马蓉": {
+        "Name": "马蓉",
+        "prompt": "1girl, long wavy hair, golden blonde hair, blue eyes, fair skin, slender, fashionable, stylish, confident, elegant, wearing a designer dress, high heels, jewelry, holding a cup of奶茶, indoors,奶茶店, anime, cute, japanese manga style",
+        "num_occurence": 25
+    },
+    "杨自奎": {
+        "Name": "杨自奎",
+        "prompt": "1boy, short brown hair, messy hair, round glasses, curious expression, casual outfit, t-shirt, jeans, sneakers, indoors, living room, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 77
+    },
+    "杨爸": {
+        "Name": "杨爸",
+        "prompt": "1man, middle-aged, short hair, graying hair, slightly overweight, round face, smiling, happy, brown eyes, casual clothing, t-shirt, jeans, indoors, living room, holding smartphone, taking photo, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "史金": {
+        "Name": "史金",
+        "prompt": "1boy, short brown hair, messy hair, angry expression, narrow eyes, green eyes, casual outfit, t-shirt, jeans, indoors, living room, pointing at viewer, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "女子": {
+        "Name": "女子",
+        "prompt": "1girl, long brown hair, wavy hair, fair skin, gentle smile, warm brown eyes, elegant, wearing a stylish belt, casual outfit, light blue blouse, dark jeans, shopping, happy, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "阮俊": {
+        "Name": "阮俊",
+        "prompt": "1boy, black hair, short hair, straight hair, handsome, confident, light brown eyes, dark business suit, indoors, classroom, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 8
+    },
+    "代红伟": {
+        "Name": "代红伟",
+        "prompt": "1boy, black hair, short hair, straight hair, handsome, serious expression, dark brown eyes, sharp eyes, business suit, tie, formal attire, indoors, office, looking at viewer, anime, japanese manga style, scheming, manipulative, power-hungry",
+        "num_occurence": 16
+    },
+    "黄毛": {
+        "Name": "黄毛",
+        "prompt": "1boy, yellow hair, short hair, messy hair, confident, smirking, angry, brown eyes, red shirt, jeans, holding a beer bottle, aggressive, outdoors, street, looking at viewer, anime, japanese manga style",
+        "num_occurence": 2
+    },
+    "孙小萌": {
+        "Name": "孙小萌",
+        "prompt": "1girl, long brown hair, ponytail, kind eyes, gentle expression, caring, responsible, school uniform, white shirt, red tie, black skirt, knee-high socks, loafers, indoors, university, anime, cute, japanese manga style",
+        "num_occurence": 10
+    },
+    "徐梦娜": {
+        "Name": "徐梦娜",
+        "prompt": "1girl, long black hair, straight hair, stern expression, sharp eyes, light brown eyes, professional attire, white blouse, black skirt, black high heels, office setting, looking authoritative, anime, cute, japanese manga style",
+        "num_occurence": 8
+    },
+    "保安": {
+        "Name": "保安",
+        "prompt": "1man, short hair, black hair, stern expression, alert eyes, uniform, security guard outfit, standing posture, professional demeanor, indoors, office setting, anime, japanese manga style",
+        "num_occurence": 2
+    },
+    "保镖": {
+        "Name": "保镖",
+        "prompt": "1man, muscular, short hair, serious expression, alert, dark eyes, black suit, tie, professional, protective, indoors, nightclub, tense, anime, japanese manga style",
+        "num_occurence": 3
+    },
+    "张老板": {
+        "Name": "张老板",
+        "prompt": "1man, middle-aged, slightly overweight, balding, short hair, friendly smile, round glasses, brown eyes, casual business attire, light blue shirt, dark blue tie, brown blazer, indoors, store, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 3
+    },
+    "吴龙飞": {
+        "Name": "吴龙飞",
+        "prompt": "1boy, messy black hair, sleepy eyes, thin build, glasses, casual clothing, dark t-shirt, jeans, sneakers, office setting, surrounded by computer parts, anime, cute, japanese manga style",
+        "num_occurence": 14
+    },
+    "黄毛青年": {
+        "Name": "黄毛青年",
+        "prompt": "1boy, yellow hair, spiky hair, arrogant expression, smirking, angry eyes, dark circles, casual outfit, sleeveless shirt, ripped jeans, tattoos, holding a bottle, surrounded by women, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "魁梧青年": {
+        "Name": "魁梧青年",
+        "prompt": "1boy, muscular, tall, short hair, black hair, sharp eyes, serious expression, black suit, tie, indoors, looking aggressive, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "陆大海": {
+        "Name": "陆大海",
+        "prompt": "1man, middle-aged, balding, short hair, stern expression, cold eyes, dark suit, indoors, living room, pointing at another character, anime, japanese manga style",
+        "num_occurence": 2
+    },
+    "医护人员": {
+        "Name": "Nurse Lily",
+        "prompt": "1girl, blonde hair, long hair, wavy hair, kind smile, blue eyes, white nurse uniform, red cross on chest, caring expression, indoors, hospital, looking at patient, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "收银员": {
+        "Name": "Cashier",
+        "prompt": "1girl, long brown hair, ponytail, glasses, serious expression, green eyes, white uniform, name tag, cash register, indoors, pharmacy, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "黄三": {
+        "Name": "黄三",
+        "prompt": "1man, muscular, short black hair, slicked back, stern expression, angry eyes, thick eyebrows, gold watch, gold ring, black leather jacket, white t-shirt, jeans, standing, indoors, hospital, looking intimidating, anime, japanese manga style",
+        "num_occurence": 8
+    },
+    "老板": {
+        "Name": "Toy Wholesale Boss",
+        "prompt": "1man, middle-aged, balding, round face, thick eyebrows, shrewd eyes, business suit, tie, confident smile, indoors, toy store, negotiating, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "马士博": {
+        "Name": "马士博",
+        "prompt": "1man, middle-aged, short black hair, slightly balding, sharp eyes, friendly smile, business suit, tie, formal attire, office setting, looking professional, anime, cute, japanese manga style",
+        "num_occurence": 5
+    },
+    "钟良宽": {
+        "Name": "钟良宽",
+        "prompt": "1man, middle-aged, slightly disheveled hair, graying at the temples, tired eyes, wrinkles on forehead, wearing a worn-out factory uniform, holding a remote control plane, expression of hope mixed with desperation, anime, japanese manga style",
+        "num_occurence": 4
+    },
+    "肖雅": {
+        "Name": "肖雅",
+        "prompt": "1girl, long black hair, straight hair, professional attire, business suit, black skirt, white blouse, red tie, serious expression, brown eyes, glasses, office setting, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 8
+    },
+    "兼职学生": {
+        "Name": "兼职学生",
+        "prompt": "1girl, 1boy, group of students, casual clothing, t-shirts, jeans, sneakers, backpacks, determined expressions, focused eyes, working hard, retail environment, shopping mall, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "胡正东": {
+        "Name": "胡正东",
+        "prompt": "1boy, short brown hair, messy hair, confident expression, slightly cocky smile, dark brown eyes, casual outfit, t-shirt with a bold graphic, jeans, sneakers, indoors, living room, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 3
+    },
+    "男生们": {
+        "Name": "杨自奎",
+        "prompt": "1boy, short black hair, straight hair, serious expression, dark brown eyes, white shirt, black pants, classroom setting, looking concerned, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "黎莹": {
+        "Name": "黎莹",
+        "prompt": "1girl, long black hair, straight hair, gentle expression, concerned eyes, professional attire, white blouse, black skirt, office setting, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 8
+    },
+    "代七": {
+        "Name": "代七",
+        "prompt": "1boy, short black hair, sharp eyes, cold expression, tall, lean build, dark suit, black tie, formal attire, indoors, mansion, looking away, anime, japanese manga style, cold aura, manipulative, scheming",
+        "num_occurence": 1
+    },
+    "代仲青": {
+        "Name": "代仲青",
+        "prompt": "1man, middle-aged, black hair, short hair, straight hair, sharp eyes, calculating expression, confident smile, dark business suit, tie, indoors, living room, holding a teacup, anime, japanese manga style",
+        "num_occurence": 3
+    },
+    "无名女子": {
+        "Name": "秦霜",
+        "prompt": "1girl, long black hair, straight hair, elegant, calm expression, sharp eyes, professional attire, business suit, high heels, office setting, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "无名女生": {
+        "Name": "Unknown Girl 1",
+        "prompt": "1girl, long black hair, messy hair, tearful eyes, pale skin, distressed expression, casual clothes, t-shirt, jeans, indoors, office, kneeling, pleading, anime, cute, japanese manga style",
+        "num_occurence": 2
+    },
+    "田守芳": {
+        "Name": "田守芳",
+        "prompt": "1girl, long black hair, messy hair, tearful eyes, desperate expression, pale skin, simple dress, worn-out appearance, indoors, living room, kneeling, crying, anime, cute, japanese manga style",
+        "num_occurence": 4
+    },
+    "守芳": {
+        "Name": "田守芳",
+        "prompt": "1girl, long black hair, straight hair, teary eyes, distressed expression, pale skin, simple dress, white blouse, blue skirt, indoors, worried, desperate, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "邹圣英": {
+        "Name": "邹圣英",
+        "prompt": "1man, middle-aged, gray hair, combed back, sharp eyes, serious expression, dark suit, tie, office setting, looking authoritative, anime, japanese manga style",
+        "num_occurence": 2
+    },
+    "德爷": {
+        "Name": "德爷",
+        "prompt": "1man, middle-aged, bald, stern expression, sharp eyes, dark suit, serious, powerful, underground king, controlling, manipulative, dark background, shadows, anime, japanese manga style",
+        "num_occurence": 8
+    },
+    "高丽梅": {
+        "Name": "高丽梅",
+        "prompt": "1girl, long black hair, wavy hair, mischievous smile, almond-shaped eyes, playful expression, red cheongsam, traditional chinese clothing, gold accessories, indoors, living room, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 2
+    },
+    "小助理": {
+        "Name": "小助理",
+        "prompt": "1boy, nervous expression, short brown hair, parted in the middle, round glasses, pale skin, wide eyes, green eyes, white shirt, black tie, black pants, office setting, looking down, worried, anime, cute, japanese manga style",
+        "num_occurence": 2
+    },
+    "钱九": {
+        "Name": "钱九",
+        "prompt": "1man, middle-aged, stern expression, gray hair, short hair, straight hair, sharp eyes, dark suit, formal attire, indoors, office, looking at viewer, anime, japanese manga style, business attire, serious, mature, authoritative",
+        "num_occurence": 18
+    },
+    "学生甲": {
+        "Name": "学生甲",
+        "prompt": "1boy, brown hair, short hair, messy hair, worried expression, dark circles under eyes, casual clothes, white t-shirt, jeans, sneakers, holding a backpack, school campus, looking anxious, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "彩票店老板": {
+        "Name": "彩票店老板",
+        "prompt": "1man, middle-aged, slightly overweight, balding, mustache, smiling, happy, brown eyes, red polo shirt, apron with lottery logo, indoors, lottery shop, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 5
+    },
+    "路人甲": {
+        "Name": "路人甲",
+        "prompt": "1boy, brown hair, short hair, messy hair, casual, curious, light brown eyes, green hoodie, jeans, standing, outside, lottery store, looking at lottery tickets, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "工作人员": {
+        "Name": "Staff Member",
+        "prompt": "1girl, brown hair, ponytail, friendly, smiling, light brown eyes, white shirt, black vest, black skirt, office setting, checking documents, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "学生A": {
+        "Name": "学生A",
+        "prompt": "1boy, short brown hair, messy hair, casual, smirking, mischievous, green eyes, white t-shirt, jeans, sneakers, school, hallway, talking, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "同学": {
+        "Name": "同学",
+        "prompt": "1girl, short brown hair, side bangs, excited expression, wide eyes, red cheeks, casual outfit, t-shirt, jeans, sneakers, holding a phone, indoors, classroom, gossiping, anime, cute, japanese manga style",
+        "num_occurence": 1
+    },
+    "小五": {
+        "Name": "小五",
+        "prompt": "1boy, short black hair, slightly messy, friendly smile, brown eyes, casual outfit, simple t-shirt, jeans, sneakers, carrying a watermelon box, hospital room, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 4
+    },
+    "护士": {
+        "Name": "Nurse",
+        "prompt": "1girl, blonde hair, wavy hair, long hair, blue eyes, sharp eyes, makeup, sweet smile, nurse uniform, white dress, red cross on chest, indoors, hospital, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 3
+    },
+    "神秘男子": {
+        "Name": "神秘男子",
+        "prompt": "1man, short black hair, stern expression, cold eyes, sharp features, menacing smile, black leather jacket, dark pants, standing, threatening, indoors, anime, japanese manga style",
+        "num_occurence": 2
+    },
+    "为首男子": {
+        "Name": "江河",
+        "prompt": "1man, 35 years old, short black hair, stern expression, cold eyes, scar on left cheek, muscular build, wearing a dark leather jacket, black t-shirt, jeans, holding a knife, threatening, street thug, experienced, tough, anime, japanese manga style",
+        "num_occurence": 3
+    },
+    "无名男子": {
+        "Name": "无名男子",
+        "prompt": "1boy, short hair, angry expression, dark eyes, muscular build, tattoo on arm, wearing a sleeveless black vest, holding a knife, aggressive stance, indoors, dark lighting, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "江河": {
+        "Name": "江河",
+        "prompt": "1man, muscular build, short black hair, stern expression, determined eyes, dark circles under eyes, scar on left cheek, wearing a black leather jacket, white tank top, ripped jeans, combat boots, holding a cigarette, angry, frustrated, street fighter, underground boxing champion, dark and gritty, japanese manga style",
+        "num_occurence": 14
+    },
+    "赖三": {
+        "Name": "赖三",
+        "prompt": "1boy, short black hair, messy hair, determined expression, teary eyes, scar on forehead, simple t-shirt, jeans, sneakers, streetwear, indoors, hospital, looking at viewer, anime, cute, japanese manga style",
+        "num_occurence": 14
+    },
+    "手下": {
+        "Name": "手下",
+        "prompt": "1boy, short hair, black hair, serious expression, dark eyes, uniform, black suit, tie, standing, indoors, office, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "老四": {
+        "Name": "老四",
+        "prompt": "1man, middle-aged, gray hair, short hair, slightly balding, stern expression, deep-set eyes, brown eyes, wrinkled face, traditional chinese clothing, qipao, indoors, study, serious, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "老七": {
+        "Name": "老七",
+        "prompt": "1man, middle-aged, gray hair, short hair, messy hair, stern expression, tired eyes, dark circles, brown eyes, rugged, beard stubble, casual clothes, simple t-shirt, jeans, outdoors, urban setting, looking away, anime, realistic, japanese manga style",
+        "num_occurence": 1
+    },
+    "秦枫": {
+        "Name": "秦枫",
+        "prompt": "1boy, black hair, short hair, straight hair, sharp features, calculating, greedy, dark brown eyes, business suit, tie, indoors, office, looking away, anime, japanese manga style",
+        "num_occurence": 1
+    },
+    "牛人": {
+        "Name": "牛人",
+        "prompt": "1man, middle-aged, muscular, short black hair, stern expression, sharp eyes, dark business suit, tie, indoors, office, looking determined, anime, japanese manga style",
+        "num_occurence": 1
+    }
+}

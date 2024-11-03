@@ -1,0 +1,18 @@
+Poe:
+  email: xxx@xxx.xxx
+
+Deepseek:
+  api_key: sk-xxxx
+  base_url: https://api.deepseek.com
+
+OpenAI:
+  api_key: xxx
+  base_url: https://api.openai.com 
+
+Midjourney:
+  APPLICATION_ID: 12345
+  GUILD_ID: 12345
+  CHANNEL_ID: 12345
+  VERSION: 12345
+  ID: 12345
+  AUTHORIZATION: 12345

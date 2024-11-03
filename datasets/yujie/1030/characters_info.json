@@ -1,0 +1,2238 @@
+{
+    "我": {
+        "Name": "我",
+        "Gender": "Male",
+        "Description": "我是一位经历了重生的年轻男性，内心充满了对过去背叛的愤怒与对未来的坚定决心。随着事件的发展，我对周围的环境变得更加警觉，尤其是面对那些曾经让我受伤的人。我开始更加自信和果断，努力掌控自己的命运，展现出更强的内心力量与智慧。现在的我不再轻易相信他人，而是冷静分析每一个局势，确保自己的安全和利益。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky",
+                "Color": "dark azure hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 1329
+    },
+    "陈金莲": {
+        "Name": "陈金莲",
+        "Gender": "Female",
+        "Description": "陈金莲是一位外表出众的年轻女性，拥有精致的五官和优雅的气质。她性格坚强而冷静，内心深处却隐藏着复杂的情感。她对成功和财富有着强烈的渴望，经常显得冷漠而理智，善于利用周围的人来达成自己的目标。虽然表面上对他人保持距离，但她内心渴望被认同与认可。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "gradient hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 96
+    },
+    "叶笑天": {
+        "Name": "叶笑天",
+        "Gender": "Male",
+        "Description": "叶笑天是一位极具魅力的年轻男子，面容俊朗，常常带着玩世不恭的微笑。他性格外向，喜欢嘲讽他人，尤其是在他人处于低谷时。他的眼神中透着一股狡黠与自信，仿佛总是在盘算着什么。尽管外表潇洒，但他内心深处却隐藏着复杂的情感与动机。",
+        "Role": "antagonist",
+        "Anime character archetype": "psychopath",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "silver hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "lean",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "秦霜": {
+        "Name": "秦霜",
+        "Gender": "Female",
+        "Description": "秦霜是一位气质非凡的女性，身穿白色西装，给人一种优雅而威严的感觉。她性格坚强，冷静而果断，内心深处却隐藏着对他人的关心与保护欲。最近，她在面对危机时展现出更强的决心和勇气，尤其是在处理复杂的商业和社会关系上，表现出长远的眼光和坚定的信念。她的眼中闪烁着怒火与决心，流露出几分坚定和关怀，令身边的人倍感温暖和信任。尽管经历了不少压力和挑战，她依然保持着一种优雅与坚韧，吸引着他人的注意。",
+        "Role": "protagonist",
+        "Anime character archetype": "tsundere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long wavy hair",
+                "Color": "dark purple hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "crimson eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 361
+    },
+    "青年": {
+        "Name": "青年",
+        "Gender": "Male",
+        "Description": "青年是一位气质非凡的年轻人，穿着米色西服，给人一种高傲而自信的感觉。他的外表修长，眼神锐利，仿佛可以一眼洞察他人的心思。他总是保持着一种冷漠的态度，令人难以接近。尽管外表显得强势，但他内心深处隐藏着复杂的情感和不为人知的过往。",
+        "Role": "antagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "slicked back",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "grey eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slim",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 5
+    },
+    "阿东": {
+        "Name": "阿东",
+        "Gender": "Male",
+        "Description": "阿东是一位忠诚而坚定的保镖，身材魁梧，散发着强大的气场。他的性格直率，常常用冷酷的言辞维护自己和他人的尊严。他对待工作认真负责，总是将保护他人放在第一位。虽然学历不高，但他凭借自身的勇气和智慧在团队中占有一席之地。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "crew cut",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "gray eyes"
+                ]
+            },
+            "Skin": [
+                "tanned skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 61
+    },
+    "马蓉": {
+        "Name": "马蓉",
+        "Gender": "Female",
+        "Description": "马蓉是一位充满活力和好奇心的大学女生，性格开朗而外向，喜欢与朋友分享生活的点滴。她总是带着甜美的微笑，内心渴望爱情并对身边的事物充满幻想。马蓉对奢华的生活方式有着强烈的向往，经常梦想着能与有钱的男生相伴，拥有美好的未来。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki girl",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light pink hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 71
+    },
+    "女生们": {
+        "Name": "女生们",
+        "Gender": "Female",
+        "Description": "女生们是一群青春洋溢、活泼可爱的年轻女性。她们总是对身边的事物充满好奇，尤其是在看到帅气的男生时，脸上会不自觉地流露出兴奋和羞涩的神情。她们的性格各异，有的开朗大方，有的则比较内向，但共同点是对美好事物的热爱和对爱情的憧憬。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki girl",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "wavy hair",
+                "Color": "light pink hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "史金": {
+        "Name": "史金",
+        "Gender": "Male",
+        "Description": "史金是一位充满自信和魅力的年轻男性，经历了生活的挑战后，他变得更加坚韧和成熟。他拥有独特的风格，总是能够吸引别人的注意。尽管他的外表看似轻松随意，但内心深处有着对未来的清晰规划和无限的追求。史金的个性豁达幽默，乐于调侃自己和他人，给周围的人带来欢乐。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "medium length",
+                "Color": "light blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 37
+    },
+    "杨自奎": {
+        "Name": "杨自奎",
+        "Gender": "Male",
+        "Description": "杨自奎是一位年轻的男生，性格活泼外向，充满了对生活的热情。他总是充满了好奇心，特别对奢华的事物感到羡慕，尤其是豪车和富有的人。他的外貌俊朗，给人一种阳光的感觉，时常带着些许调皮的笑容，给周围的人带来欢乐。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "messy hair",
+                "Color": "light blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "medium"
+            }
+        },
+        "num_occurence": 147
+    },
+    "杨爸": {
+        "Name": "杨爸",
+        "Gender": "Male",
+        "Description": "杨爸是一位热爱生活、阳光开朗的中年男性，他总是带着微笑，喜欢与家人分享快乐的时光。他对于时尚有独到的见解，常常穿着休闲又不失品位的服装。他热衷于拍照，尤其喜欢记录与家人和豪车的美好瞬间，展现出他的自信与活力。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 2
+    },
+    "胡正东": {
+        "Name": "胡正东",
+        "Gender": "Male",
+        "Description": "胡正东是一位机智而富有魅力的男生，性格开朗，善于交际，常常在班级中扮演调解者的角色。他深知人际关系的重要性，常常为朋友提供建议和支持。他的外表严肃但内心温暖，时常表现出对他人的关心。他热爱运动，尤其擅长篮球，常常在课余时间和朋友们一起打球。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 6
+    },
+    "中年人": {
+        "Name": "中年人",
+        "Gender": "Male",
+        "Description": "中年人是一位经验丰富的家教，外表看起来略显疲惫但依旧精神。他眼中流露出智慧的光芒，常常给人一种深思熟虑的感觉。他重视孩子们的成长，认为适度的艰苦体验能培养他们的独立性和责任感，尽管有时他的教育方式显得有些严厉。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "gray hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "年轻男女": {
+        "Name": "年轻男女",
+        "Gender": "Male and Female",
+        "Description": "年轻男女是一对充满活力的情侣，他们常常被人们称为富家圈的新鲜血液。男孩性格开朗，喜欢冒险，总是带着阳光般的笑容；女孩则聪慧而优雅，拥有独特的审美眼光，时常给人以启发。他们的存在让周围的人感到新奇与向往。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy, gyaru",
+        "Appearance": {
+            "Male": {
+                "Hair": {
+                    "Hair Style": "spiky",
+                    "Color": "light blue hair",
+                    "Length": "short"
+                },
+                "Eyes": {
+                    "Color": [
+                        "green eyes"
+                    ]
+                },
+                "Skin": [
+                    "fair skin"
+                ],
+                "Body": {
+                    "Height": "tall",
+                    "Build": "athletic",
+                    "Chest": "Medium"
+                }
+            },
+            "Female": {
+                "Hair": {
+                    "Hair Style": "long wavy hair",
+                    "Color": "pink hair",
+                    "Length": "long"
+                },
+                "Eyes": {
+                    "Color": [
+                        "purple eyes"
+                    ]
+                },
+                "Skin": [
+                    "fair skin"
+                ],
+                "Body": {
+                    "Height": "medium",
+                    "Build": "slender",
+                    "Chest": "Medium"
+                }
+            }
+        },
+        "num_occurence": 1
+    },
+    "女子": {
+        "Name": "女子",
+        "Gender": "Female",
+        "Description": "女子是一位年轻而富有魅力的女性，身材修长，气质优雅。她的眼神锐利，透露出一种自信和坚定，似乎是在古武修炼中磨炼出来的。她擅长与人交际，常常用幽默和机智吸引周围的人，内心深处却隐藏着一种强烈的保护欲。虽然她在生气时显得强势，但其实她内心深处非常温柔。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "gradient red hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 8
+    },
+    "阮俊": {
+        "Name": "阮俊",
+        "Gender": "Male",
+        "Description": "阮俊是一位自信从容的男生，身上散发着自然的魅力，拥有温柔的眼神和优雅的举止。他的家庭背景显赫，常常出入于学校的核心圈子。他善于与人交往，总是能够轻松地吸引周围人的注意。他的外表和气质让人觉得他是一位天生的领导者，同时他也有着对未来的理想与追求。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short and stylish",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 19
+    },
+    "保镖": {
+        "Name": "冷酷保镖",
+        "Gender": "Male",
+        "Description": "冷酷保镖是一位身材魁梧、气质严肃的男性，他总是保持着高度的警觉和冷静。他的外表给人一种不可接近的感觉，眼神如鹰隼般锐利，能够迅速捕捉周围的动静。他穿着始终整齐的黑色西装，配以黑色手套，显得既专业又威严。虽然他冷酷无情，但内心深处却有着对保护对象的坚定忠诚。",
+        "Role": "antagonist",
+        "Anime character archetype": "dark hero",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Large"
+            }
+        },
+        "num_occurence": 6
+    },
+    "代红伟": {
+        "Name": "代红伟",
+        "Gender": "Male",
+        "Description": "代红伟是一位身世显赫的年轻男子，外表俊朗，性格阴沉且充满野心。他对秦霜的拒绝感到愤怒，对自己所处的家族地位极为自豪，常常在社交场合中表现出强烈的自信和控制欲。他的内心深处藏着不满和嫉妒，尤其是对于那些他认为轻视自己的人。他的情绪波动大，容易被激怒，但在公众面前依然维持着冷静和优雅的外表。",
+        "Role": "antagonist",
+        "Anime character archetype": "rival",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 58
+    },
+    "黄毛": {
+        "Name": "黄毛",
+        "Gender": "Male",
+        "Description": "黄毛是一位充满自信和活力的年轻男性，性格外向，喜欢与人争斗。他常常表现出一丝恶劣的兴奋，期待着冲突。他的外表给人一种不羁的感觉，时常展现出一种挑衅的气质，仿佛随时准备迎接挑战。",
+        "Role": "antagonist",
+        "Anime character archetype": "yankee",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky",
+                "Color": "yellow hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "tanned skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Wide"
+            }
+        },
+        "num_occurence": 6
+    },
+    "徐梦娜": {
+        "Name": "徐梦娜",
+        "Gender": "Female",
+        "Description": "徐梦娜是一位活泼而充满魅力的女性，她在众人面前表现得自信而优雅，作为勤工俭学的负责人，她总是能够在紧张的气氛中带来一丝轻松。她对待工作认真负责，但内心深处也有着对生活的好奇和探索。虽然她常常展现出强势的一面，却也有温柔的一面，特别是对同学们的关心与帮助。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki girl",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light pink hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 50
+    },
+    "孙小萌": {
+        "Name": "孙小萌",
+        "Gender": "Female",
+        "Description": "孙小萌是一位活泼开朗且富有同情心的女性。她在面对困境时表现出坚定的态度，同时对朋友非常关心和支持。她的性格中带着一丝天真和热情，总是能为周围的人带来欢乐。虽然有时会表现出局促和不安，但她内心的勇气和坚定使她始终能迎接挑战。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki girl",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light pink hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "medium"
+            }
+        },
+        "num_occurence": 41
+    },
+    "无名女子": {
+        "Name": "无名女子",
+        "Gender": "Female",
+        "Description": "无名女子是一位充满活力和朝气的年轻女孩，虽然她面临着许多困扰，但她始终保持着乐观的态度。她对未来有着不屈的期待，勇于面对生活的挑战。她的内心深处藏着对美好生活的渴望，尽管外表看似坚强，但偶尔会流露出脆弱的一面，在关键时刻她会展现出坚定的意志。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki girl",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 12
+    },
+    "保安": {
+        "Name": "保安",
+        "Gender": "Male",
+        "Description": "保安是一位身材魁梧的男性，性格严谨且充满责任感。他总是保持着警觉，观察周围的一切，确保学校的安全。尽管他的外表看起来有些严肃，但他内心深处是个热心肠，乐于助人。他的制服整齐划一，总是给人一种可靠的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "buzz cut",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 2
+    },
+    "路人": {
+        "Name": "路人",
+        "Gender": "Male",
+        "Description": "路人是一位充满活力的年轻男孩，常常被人称赞为校园的阳光。他总是面带微笑，热爱与人交流，性格开朗乐观。他对生活充满热情，特别喜欢运动和汽车，尤其对布加迪这样的豪车情有独钟。他的存在如同一道光，吸引着周围人们的目光，带给他们快乐。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "张老板": {
+        "Name": "张老板",
+        "Gender": "Male",
+        "Description": "张老板是一位热情洋溢的中年男性，经营着一家饮料和零食店。他的性格开朗，善于与顾客交流，总是面带微笑，给人一种亲切的感觉。在经营生意的同时，他也关心员工的生活，常常和他们分享自己的生活经验。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light brown hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Large"
+            }
+        },
+        "num_occurence": 1
+    },
+    "吴龙飞": {
+        "Name": "吴龙飞",
+        "Gender": "Male",
+        "Description": "吴龙飞是一位清瘦的学长，擅长技术和编程，性格谦虚而随和。他常常显得有些疲倦，带着眼镜，给人一种聪明但不拘小节的印象。他热爱与朋友一起玩游戏，有时会因为玩得太晚而睡得不够。他的内心深处隐藏着对学业的重视和对技术的热情，尽管外表看起来有些漫不经心。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "messy hair",
+                "Color": "light blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": [
+                    "glasses"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 23
+    },
+    "黄毛青年": {
+        "Name": "黄毛青年",
+        "Gender": "Male",
+        "Description": "黄毛青年是一位外表张扬、个性张狂的年轻人，拥有一头引人注目的金色短发，透着一股不羁的气质。他常常穿着休闲的街头服饰，给人一种叛逆和混乱的感觉。他的性格充满了自信与攻击性，时常表现出对他人的蔑视与挑衅，尤其是在面对敌人时，他的邪魅微笑更是让人感到不寒而栗。",
+        "Role": "antagonist",
+        "Anime character archetype": "psychopath",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "yellow hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "red eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Wide"
+            }
+        },
+        "num_occurence": 5
+    },
+    "魁梧青年": {
+        "Name": "魁梧青年",
+        "Gender": "Male",
+        "Description": "魁梧青年是一名身材魁梧、充满力量感的年轻男子。他的眼神犀利而坚定，似乎总是在准备应对任何突发情况。他的外表冷酷，给人一种不可侵犯的气息，但内心深处却隐藏着正义感和对朋友的保护欲。穿着西装的他，显得既成熟又富有魅力，仿佛随时准备投入战斗。",
+        "Role": "protagonist",
+        "Anime character archetype": "yankee",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short spiky hair",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "tanned skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Large"
+            }
+        },
+        "num_occurence": 3
+    },
+    "陆大海": {
+        "Name": "陆大海",
+        "Gender": "Male",
+        "Description": "陆大海是一位冷静而富有威严的男性角色，他在社团中拥有重要地位，总是给人一种掌控全局的感觉。他的性格外表冷酷，但内心深处少有感情流露。身为一名商人，他懂得人情世故，擅长处理复杂的局势。陆大海的外表强壮，给人一种不容小觑的感觉，常常让人对他心生敬畏。",
+        "Role": "antagonist",
+        "Anime character archetype": "mastermind villain",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "grey eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "large"
+            },
+            "Clothing": [
+                "suit",
+                "tie",
+                "dress shoes"
+            ],
+            "Accessories": [
+                "watch",
+                "earrings"
+            ]
+        },
+        "num_occurence": 12
+    },
+    "黄三": {
+        "Name": "黄三",
+        "Gender": "Male",
+        "Description": "黄三是一位性格刚毅且极为愤怒的男性，他身材魁梧，给人一种强烈的压迫感。他常常穿着奢华的服饰，金饰满身，展示出他的财富与地位。虽然他外表看似强势，但内心对兄弟情谊极为看重，愤怒时的他更是毫不留情，充满了对敌人的威胁与决心。",
+        "Role": "antagonist",
+        "Anime character archetype": "mastermind villain",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "gold hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "red eyes"
+                ]
+            },
+            "Skin": [
+                "tan skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            },
+            "Clothing": [
+                "luxurious clothing",
+                "jewelry",
+                "gold watch"
+            ]
+        },
+        "num_occurence": 17
+    },
+    "马士博": {
+        "Name": "马士博",
+        "Gender": "Male",
+        "Description": "马士博是一位充满热情的商业人士，性格开朗，善于与人沟通。他总是面带微笑，传递出积极的能量。他在工作中表现出很强的领导能力，对待客户非常热情，能够迅速抓住商业机会。尽管他面临压力，但他总能保持冷静，并尝试寻找解决方案。他的外表干练，给人一种值得信赖的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 10
+    },
+    "钟良宽": {
+        "Name": "钟良宽",
+        "Gender": "Male",
+        "Description": "钟良宽是一位勤劳而富有创造力的年轻人，面临着生活的重重困扰，但他依然保持着乐观的态度和坚韧的精神。他的性格内向，常常沉思，善于利用身边的材料进行创造，展现出他对科技和机械的热爱。尽管生活艰难，他总是努力去帮助他人，给人带来希望。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "messy hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 7
+    },
+    "大堂经理": {
+        "Name": "大堂经理",
+        "Gender": "Female",
+        "Description": "大堂经理是一位精明干练的女性，身着得体的职业装，给人一种专业而自信的印象。她的微笑温暖而亲切，能够迅速让客户感到安心。她对金融业务非常熟悉，能够及时并准确地为客户提供帮助。虽然外表看似温柔，但她内心非常坚定，能够在关键时刻做出果断的决策。",
+        "Role": "protagonist",
+        "Anime character archetype": "ojou-sama",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "客户经理": {
+        "Name": "客户经理",
+        "Gender": "Male",
+        "Description": "客户经理是一位专业且亲切的男性，擅长与客户沟通，给人一种可靠的感觉。他有着成熟的气质，常常面带微笑，能够让客户感到安心和信任。他的外表干净利落，穿着得体，总是保持着优雅的姿态，给人一种能干的印象。虽然工作繁忙，但他总是能在客户需要时提供帮助，展现出极高的职业素养。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "brown eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "肖雅": {
+        "Name": "肖雅",
+        "Gender": "Female",
+        "Description": "肖雅是一位聪慧而优雅的女性，身处金融行业的她展现出卓越的职业素养和坚定的决心。她总是保持着温和的微笑，内心却有着丰富的情感与敏锐的洞察力。肖雅不仅是一个出色的职场女性，也是一位关心他人的朋友，能够在复杂的商业环境中游刃有余。",
+        "Role": "protagonist",
+        "Anime character archetype": "ojou-sama",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "dark blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 10
+    },
+    "计算机老师": {
+        "Name": "计算机老师",
+        "Gender": "Male",
+        "Description": "计算机老师是一位看似普通却极具魅力的男性，他在课堂上总是能以幽默风趣的教学方式吸引学生的注意。他的外表散发着一种成熟的气质，似乎对计算机技术有着深厚的理解。虽然他平时表现得轻松随和，但在关键时刻他能展现出严谨和果断的一面。他的眼神中透着智慧和热情，深受学生们的喜爱。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": [
+                    "glasses"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "同学": {
+        "Name": "同学",
+        "Gender": "Male",
+        "Description": "同学是一位活泼开朗的男生，总是充满了好奇心和求知欲。他喜欢和朋友们分享各种新奇的想法，尤其关注校园内发生的趣事。他的性格外向，容易与人交朋友，但有时也会因为太过热情而让人觉得有些烦。总是带着阳光般的笑容，热爱生活。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 16
+    },
+    "其他男生": {
+        "Name": "其他男生",
+        "Gender": "Male",
+        "Description": "其他男生是一群热情洋溢的年轻人，性格各异，但都充满活力和正义感。他们在班级中互相支持，尤其在面对不公平的情况时，总是愿意站出来为同学发声。他们的外貌各有特色，展现出年轻人的朝气与个性，喜欢穿着时尚且舒适的衣物，偶尔会佩戴一些酷炫的配饰，给人一种青春洋溢的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 4
+    },
+    "黎老师": {
+        "Name": "黎老师",
+        "Gender": "Female",
+        "Description": "黎老师是一位温柔而富有耐心的教师，致力于帮助学生克服学习上的困难。她的性格内敛，但对学生充满关爱，常常鼓励他们追求自己的梦想。尽管来自农村，黎老师依然保持着积极向上的态度，努力为学生们创造更好的学习环境。",
+        "Role": "protagonist",
+        "Anime character archetype": "deredere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light pink hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 2
+    },
+    "黎莹": {
+        "Name": "黎莹",
+        "Gender": "Female",
+        "Description": "黎莹是一位智慧而坚定的女性，作为辅导员，她总是关注学生的安全和未来。她的性格中透着温柔和坚定，能够敏锐地洞察他人的情感。她外表优雅，常常给人以安心的感觉，内心却有着强大的决心和应对挑战的能力。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "dark blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 16
+    },
+    "代七": {
+        "Name": "代七",
+        "Gender": "Male",
+        "Description": "代七是一位冷酷而理智的年轻男性，他的存在总是让人感到压迫。他性格内敛，往往冷静地分析局势，善于控制情绪。他的言辞犀利，时常透露出深刻的洞察力，给人一种不容忽视的威严感。尽管外表冷峻，但内心却隐藏着复杂的情感和责任感。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "grey eyes"
+                ]
+            },
+            "Skin": [
+                "pale skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "代仲青": {
+        "Name": "代仲青",
+        "Gender": "Male",
+        "Description": "代仲青是一位冷静而深邃的男性，他的眼神中透露出一种算计和智慧。他在家族中担任重要角色，擅长处理复杂的人际关系和商业事务。尽管外表看似温和，内心却充满了对局势的掌控欲。他的性格优雅而自信，常常在关键时刻展现出果断的一面。",
+        "Role": "antagonist",
+        "Anime character archetype": "mastermind villain",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "slicked back",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "pale skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 15
+    },
+    "无名男子": {
+        "Name": "无名男子",
+        "Gender": "Male",
+        "Description": "无名男子是一位充满激情和斗志的年轻人。他热爱挑战，性格外向，常常在关键时刻表现出坚定的决心。他的眼中闪烁着希望的光芒，给人一种积极向上的感觉。尽管有时显得冲动，但他内心深处有着强烈的正义感和对同伴的保护欲。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "messy hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "田守芳": {
+        "Name": "田守芳",
+        "Gender": "Female",
+        "Description": "田守芳是一位充满焦虑和期待的年轻女性。她的生活因父亲的意外而陷入困境，性格坚韧却又显得脆弱，渴望得到他人的帮助。她常常表现出一种内心的挣扎，但同时也展现出对未来的希望与努力。她的外表给人一种清新而真实的感觉，能够反映出她的情感状态。",
+        "Role": "protagonist",
+        "Anime character archetype": "deredere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long straight hair",
+                "Color": "light pink hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "medium"
+            }
+        },
+        "num_occurence": 2
+    },
+    "邹圣英": {
+        "Name": "邹圣英",
+        "Gender": "Male",
+        "Description": "邹圣英是一位成功的银行行长，外表冷峻而干练，给人一种强大的气场。他总是身着笔挺的西装，展现出他在商界的权威与自信。他的性格稳重，具有很强的洞察力和分析能力，善于掌控局势。他的微笑中带着一丝神秘，似乎总在暗自思考着什么，给人一种难以接近的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 4
+    },
+    "代总": {
+        "Name": "代总",
+        "Gender": "Male",
+        "Description": "代总是一位沉稳而富有魅力的男性，身上散发着强烈的领导气质。他的思维敏捷，总是能在复杂的局势中找到解决方案。代总对工作十分认真，外表优雅，穿着考究，给人一种可靠的感觉。他的眼神中透露出智慧与决断，时常令周围的人感到安心。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "slicked back",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Large"
+            }
+        },
+        "num_occurence": 1
+    },
+    "中年男子": {
+        "Name": "中年男子",
+        "Gender": "Male",
+        "Description": "中年男子是一位身陷困境的商人，面容显得沧桑而疲惫，眼中透着一丝绝望与焦虑。他的生活因高利贷而变得更加艰难，常常显得神经紧绷、心事重重。他的衣着虽然简单，但总是保持整洁，给人一种强烈的生活压力感。",
+        "Role": "antagonist",
+        "Anime character archetype": "dark hero",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short spiky",
+                "Color": "gray hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "dark green eyes"
+                ],
+                "Around the Eyes": [
+                    "wrinkles"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "broad"
+            }
+        },
+        "num_occurence": 3
+    },
+    "管家": {
+        "Name": "管家",
+        "Gender": "Male",
+        "Description": "管家是一位冷静而智慧的男性，身着整洁的西装，总是面带微笑，给人以可靠的感觉。他对主人的命令总是迅速响应，并且擅长处理各种突发情况。在面对村民的抗议时，他表现出一种淡定从容的态度，显得十分成熟稳重。虽然外表温和，但他内心深处隐藏着对工作的强烈责任感和对主人的绝对忠诚。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "德爷": {
+        "Name": "德爷",
+        "Gender": "Male",
+        "Description": "德爷是一位江城的权势人物，外表沉稳而威严，给人一种无法接近的感觉。他性格复杂，内心深处隐藏着无尽的智慧和阴险。他身边总是围绕着忠诚的保镖，显得格外神秘又危险。虽然外表显得冷酷，但在他的眼中流露出智慧和深邃的思考。",
+        "Role": "antagonist",
+        "Anime character archetype": "mastermind villain",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short slicked back",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "red eyes"
+                ],
+                "Around the Eyes": [
+                    "scar"
+                ]
+            },
+            "Skin": [
+                "pale skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Large"
+            }
+        },
+        "num_occurence": 27
+    },
+    "高丽梅": {
+        "Name": "高丽梅",
+        "Gender": "Female",
+        "Description": "高丽梅是一位自信而优雅的女性，散发着强烈的魅力和智慧。她擅长调解复杂的局面，常以机智幽默缓解紧张气氛。她的外表迷人且成熟，身材修长，举止间充满了风度与自信。她总是能够吸引周围人的目光，并以她的气场和智慧赢得尊重。",
+        "Role": "protagonist",
+        "Anime character archetype": "ojou-sama",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long wavy hair",
+                "Color": "deep red hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "large"
+            }
+        },
+        "num_occurence": 9
+    },
+    "村民们": {
+        "Name": "村民们",
+        "Gender": "Male",
+        "Description": "村民们是一群热情洋溢的人，他们团结一致，关心彼此的生活。他们常常聚在一起讨论村里的事务，充满了对未来的憧憬和希望。虽然个性各异，但他们都展现出坚韧不拔和乐观向上的精神面貌。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "messy hair",
+                "Color": "light green hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "brown eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 2
+    },
+    "她": {
+        "Name": "她",
+        "Gender": "Female",
+        "Description": "她是一位自信而坚韧的女孩，内心深处对爱情有着复杂的情感。表面上似乎冷淡，但实际上对于感情十分敏感，常常在心里挣扎。她聪明且有主见，擅长用自己的方式处理事情，尤其在面对拒绝和失落时，显得更加成熟与理智。",
+        "Role": "protagonist",
+        "Anime character archetype": "tsundere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long wavy hair",
+                "Color": "dark blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": [
+                    "eyeliner"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            },
+            "Special Features": [
+                "freckles",
+                "a small silver earring in the shape of a star"
+            ]
+        },
+        "num_occurence": 5
+    },
+    "高大帅气的男生": {
+        "Name": "高大帅气的男生",
+        "Gender": "Male",
+        "Description": "高大帅气的男生是一位阳光、自信的年轻男子，拥有迷人的外表和吸引人的气质。他的身材高大健壮，散发出一种自然的魅力，走到哪里都能吸引众人的目光。他的性格开朗，喜欢和朋友们一起玩乐，总是带着微笑，给人一种温暖的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Wide"
+            }
+        },
+        "num_occurence": 1
+    },
+    "无名学生": {
+        "Name": "无名学生",
+        "Gender": "Male",
+        "Description": "无名学生是一名普通的高中生，外表看似平凡，却时常表现出机智和幽默感。他对周围的事物充满好奇，虽然有些懒散，但在关键时刻总能展现出聪明的一面。他的衣着随意，常常是一件简单的T恤和牛仔裤，给人一种轻松的感觉。虽然并不追求时尚，但他在同学中有着不错的人缘。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "代红伟的助理": {
+        "Name": "代红伟的助理",
+        "Gender": "Female",
+        "Description": "代红伟的助理是一位年轻而聪明的女性，性格温柔却不失坚定。她总是认真地倾听，敏锐地捕捉到周围的细微变化，给人一种可靠的感觉。她的打扮简洁而得体，展现出她的职业素养，同时又流露出一丝青春活力。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long straight hair",
+                "Color": "light blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "小助理": {
+        "Name": "小助理",
+        "Gender": "Male",
+        "Description": "小助理是一位年轻而充满活力的男孩，性格内向却非常聪明。他总是对周围的事物充满好奇，喜欢分析问题并提出解决方案。尽管他在职场中感到压力，但他努力保持乐观，常常用微笑来掩饰内心的紧张。在与人交往时，他有些害羞，但一旦熟悉后就会展现出温暖的一面。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 2
+    },
+    "大管家": {
+        "Name": "大管家",
+        "Gender": "Male",
+        "Description": "大管家是一位冷静而威严的男性，他总是身着得体的西装，给人一种成熟稳重的感觉。他的表情常常是严肃的，但在关键时刻，他会展现出温和的一面，尤其是在照顾主人和家族事务时。他有着丰富的生活经验，聪明而机智，能够处理各种复杂的局面。尽管他在外人面前保持冷静，但内心深处却对家族充满了深厚的情感。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "slicked back",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 1
+    },
+    "钱九": {
+        "Name": "钱九",
+        "Gender": "Male",
+        "Description": "钱九是一位沉稳而果敢的男性角色，具有强烈的责任感和分析能力。他身为大管家，时常在关键时刻给予他人建议，在面对危险时表现出冷静与智慧。虽然外表看似冷酷，但内心深处对家族和朋友充满关心，愿意为他们提供保护和帮助。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "dark blue eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 41
+    },
+    "他": {
+        "Name": "他",
+        "Gender": "Male",
+        "Description": "他是一个充满活力和激情的年轻人，总是带着灿烂的笑容，似乎对生活充满了无限的期待。他非常爱好彩票，常常幻想着能赢得大奖，性格开朗，然而在失去大奖的那一刻，他的痛苦和失落显露无遗，这种强烈的情绪反差让他显得更加真实。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "老板": {
+        "Name": "老板",
+        "Gender": "Male",
+        "Description": "老板是一位中年男性，性格外向且充满热情，通常在生意场合中表现活跃。他总是带着灿烂的笑容，给人一种亲切感。他对待顾客非常热情，总是想方设法让他们感到满意。他的形象给人一种成功商人的印象，穿着考究，谈吐风趣。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 1
+    },
+    "店老板": {
+        "Name": "店老板",
+        "Gender": "Male",
+        "Description": "店老板是一位中年男子，经营着一家小型的彩票店。他总是面带微笑，但眼中透出一丝无奈与疲惫。他热爱自己的工作，虽然彩票的无常让他感到无力，但他仍然努力为顾客提供温暖的服务。他的外表朴素，给人一种可信赖的感觉，身上散发着淡淡的烟草味和咖啡香。",
+        "Role": "protagonist",
+        "Anime character archetype": "onii-san",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light brown hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "average",
+                "Chest": "broad"
+            }
+        },
+        "num_occurence": 1
+    },
+    "工作人员": {
+        "Name": "工作人员",
+        "Gender": "Male",
+        "Description": "工作人员是一位外表沉稳而专业的男性，身穿整齐的制服，时常带着礼貌的微笑。他的面容清秀，眼神中透着智慧和经验，能够敏锐地察觉到顾客的需求。他擅长于处理各种事务，总是能有效地解决问题，给人一种可靠的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "金子": {
+        "Name": "金子",
+        "Gender": "Female",
+        "Description": "金子是一位敏感而坚强的女性，经历了一段深刻的感情波折。她内心深处隐藏着温暖和情感，但外表却常常表现得冷静和理智。金子有着独特的魅力，常常让人感到心动。尽管曾被追求者所伤，她依旧坚守内心的信念，不轻易流露情感。金子在面对困境时总能保持冷静，给人一种成熟的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "gradient purple hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "农家乐老板": {
+        "Name": "农家乐老板",
+        "Gender": "Male",
+        "Description": "农家乐老板是一位热情而精明的中年男性，身材魁梧，常常面带微笑，给人一种亲切的感觉。他在乡村经营着一家农家乐，热爱大自然和美食。他的性格外向，善于交际，但在面对威胁时也会展现出坚定的态度。他喜欢穿着简单舒适的衣物，常常带着一顶草帽，以保护自己免受阳光的照射。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short",
+                "Color": "light brown hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "tan skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 2
+    },
+    "天南": {
+        "Name": "天南",
+        "Gender": "Male",
+        "Description": "天南是一位年轻的男孩，身材瘦削却充满活力，个性叛逆且不羁。他在社会的边缘游走，拥有一种无法忽视的魅力。他的头发是炫目的紫色，常常随风飘扬，给人一种神秘而又危险的感觉。他的眼神深邃而犀利，似乎能看透他人的内心，时常透出一丝不屑，他总是以一种冷漠的态度面对这个世界，但内心却充满了对自由的渴望。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky",
+                "Color": "purple hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 2
+    },
+    "小五": {
+        "Name": "小五",
+        "Gender": "Male",
+        "Description": "小五是一位充满活力和阳光的少年，性格开朗，擅长与人交际，总是能带给周围人快乐。他的外表显得青春洋溢，脸上常挂着灿烂的笑容。虽然有时显得有些笨拙，但他内心善良，愿意帮助他人。小五对朋友非常忠诚，时常为他们着想，是一个值得信赖的伙伴。",
+        "Role": "protagonist",
+        "Anime character archetype": "genki boy",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "athletic",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 3
+    },
+    "病人": {
+        "Name": "病人",
+        "Gender": "Male",
+        "Description": "病人是一位神秘而复杂的角色，身处在一个充满不确定性的环境中。他的外表给人一种脆弱的感觉，似乎承受着巨大的压力。他的眼神透露出深邃的思考和对现实的无奈，往往让人感到不安。他的性格内向，时常沉浸在自己的思维中，带着一丝悲观和绝望，但在关键时刻又会展现出强大的生存意志。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "messy hair",
+                "Color": "dark blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "gray eyes"
+                ],
+                "Around the Eyes": [
+                    "dark circles"
+                ]
+            },
+            "Skin": [
+                "pale skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "为首男子": {
+        "Name": "为首男子",
+        "Gender": "Male",
+        "Description": "为首男子是一位气质冷峻、令人畏惧的男性，身材高大，目光如刀，时常给人一种压迫感。他的性格强势而果断，总是带着一丝阴险的微笑，似乎总在策划着什么阴暗的计划。他身穿黑色风衣，给人一种神秘而危险的感觉，深色的服装使他在夜晚中更加隐秘。",
+        "Role": "antagonist",
+        "Anime character archetype": "mastermind villain",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "medium hair",
+                "Color": "silver hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "red eyes"
+                ]
+            },
+            "Skin": [
+                "pale skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 8
+    },
+    "女护士": {
+        "Name": "女护士",
+        "Gender": "Female",
+        "Description": "女护士是一位外表温柔而内心坚定的女性，她在医院中工作，性格细心且富有同情心。虽然她常常露出微笑，但在面对病人和工作的压力时，她也会展现出不满和坚定的态度。她的专业知识扎实，总是尽力帮助他人。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "light blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "slender",
+                "Chest": "Medium"
+            },
+            "Special Features": {
+                "Around the Eyes": [
+                    "glasses"
+                ],
+                "Accessories": [
+                    "nurse cap",
+                    "medical uniform"
+                ]
+            }
+        },
+        "num_occurence": 1
+    },
+    "带头大哥": {
+        "Name": "带头大哥",
+        "Gender": "Male",
+        "Description": "带头大哥是一位魅力四射的领袖人物，拥有强大的影响力和领导能力。他给人的感觉是自信而沉稳，常常能够吸引周围人的注意。他的外表气质非凡，身上总是散发着一种强烈的个人魅力，让人不由自主地想要靠近。他热爱与人交流，善于倾听他人的想法，同时也有着深思熟虑的个性。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Large"
+            }
+        },
+        "num_occurence": 2
+    },
+    "江河": {
+        "Name": "江河",
+        "Gender": "Male",
+        "Description": "江河是一位经历丰富的男性，外表坚毅，透露出一股不容小觑的气场。他从小在街头混迹，经历了无数次的挑战与磨难，逐渐成长为一名打黑拳的冠军。尽管生活艰辛，他依然保持着坚定的信念和对未来的渴望。他的眼神中透露出深邃的智慧与不屈的斗志，给人一种既温暖又危险的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "dark blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "tanned skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 29
+    },
+    "赖三": {
+        "Name": "赖三",
+        "Gender": "Male",
+        "Description": "赖三是一位年轻而富有智慧的男性角色，他的个性灵活且机智，擅长在复杂的环境中生存。尽管身处黑暗的催收行业，他内心却保持着一份对友情和道义的执念。他对江老大的感激以及对自己选择的反思，使得他在面对困境时有着独特的视角。赖三的外表体现了他的坚韧和内心的复杂性，眼神中常常流露出坚定与迷茫交织的情感。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "dark blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 58
+    },
+    "守卫": {
+        "Name": "守卫",
+        "Gender": "Male",
+        "Description": "守卫是一位身材魁梧的男性，面容严肃，时常保持警惕的神情。他的服装是黑色的军装，搭配坚固的护甲，给人一种强烈的威慑感。他的性格非常认真负责，始终以维护安全为己任，冷静且果断。在危机时刻，他总能迅速做出反应，展现出无畏的气质。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "dark blue hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "gray eyes"
+                ]
+            },
+            "Skin": [
+                "tanned skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 2
+    },
+    "三哥": {
+        "Name": "三哥",
+        "Gender": "Male",
+        "Description": "三哥是一位充满魅力的年轻男子，个性开朗而热情，总是带给周围人积极的能量。他有着强烈的正义感，愿意为朋友挺身而出，面对任何挑战。他的外表阳光帅气，常常吸引周围人的目光，给人一种亲切而可靠的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "ikemen",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "spiky hair",
+                "Color": "light blue hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ]
+            },
+            "Skin": [
+                "fair skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Medium"
+            }
+        },
+        "num_occurence": 1
+    },
+    "堂主": {
+        "Name": "堂主",
+        "Gender": "Male",
+        "Description": "堂主是一位经验丰富的江湖人物，神秘而威严，给人一种不可侵犯的感觉。他身材魁梧，浑身散发着沉稳的气质，总是深思熟虑，口才出众，能够轻松引导他人的思维。他的外表给人一种老练的印象，常常佩戴着传统的江湖服饰，彰显出他的威望与地位。",
+        "Role": "protagonist",
+        "Anime character archetype": "otouto",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "medium length",
+                "Color": "silver hair",
+                "Length": "medium"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 1
+    },
+    "秦枫": {
+        "Name": "秦枫",
+        "Gender": "Male",
+        "Description": "秦枫是一位充满智慧和魅力的男性，外表冷静而自信，常常流露出一丝阴险的微笑。他善于策略和操控人心，身上散发着一种不可一世的气场。虽然他外表看似温和，内心却隐藏着强烈的野心和渴望。他的背景复杂，与权力和财富有着密切的联系，尤其对他所拥有的资源十分看重。",
+        "Role": "antagonist",
+        "Anime character archetype": "mastermind villain",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "long hair",
+                "Color": "dark blue hair",
+                "Length": "long"
+            },
+            "Eyes": {
+                "Color": [
+                    "golden eyes"
+                ]
+            },
+            "Skin": [
+                "pale skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 2
+    },
+    "阿东的师叔": {
+        "Name": "阿东的师叔",
+        "Gender": "Male",
+        "Description": "阿东的师叔是一位神秘而强大的武术大师，拥有超凡的能力和冷静的头脑。他的外表散发出一种威严与力量的气息，身手矫健，能够轻松接住飞来的子弹。他的生活经历丰富，性格深沉，常常以一副淡然的态度面对周围的危险和挑战，给人一种难以接近的感觉。",
+        "Role": "protagonist",
+        "Anime character archetype": "kuudere",
+        "Appearance": {
+            "Hair": {
+                "Hair Style": "short spiky hair",
+                "Color": "silver hair",
+                "Length": "short"
+            },
+            "Eyes": {
+                "Color": [
+                    "green eyes"
+                ],
+                "Around the Eyes": []
+            },
+            "Skin": [
+                "light skin"
+            ],
+            "Body": {
+                "Height": "tall",
+                "Build": "muscular",
+                "Chest": "Broad"
+            }
+        },
+        "num_occurence": 1
+    }
+}

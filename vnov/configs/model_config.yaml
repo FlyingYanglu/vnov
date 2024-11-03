@@ -1,0 +1,7 @@
+Diffusion:
+  model_name: "cagliostrolab/animagine-xl-3.1"
+  model_path: "E:/OneDrive/Documents/Workspace/vision novel/stable-diffusion-webui/models/Stable-diffusion/animagine-xl-3.1.safetensors"
+
+TTS:
+  speed_factor: 0.75
+  audio_format: "mp3"

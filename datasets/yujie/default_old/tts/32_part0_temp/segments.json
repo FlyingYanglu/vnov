@@ -1,0 +1,677 @@
+[
+    {
+        "segment_id": "ddc413e2984211efaa1bdb8c690d2b31",
+        "text": "我的公司刚刚起步 资金流动并不多",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/92f2e865690ca26f63ff095cea76e0c7/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/oEVgxyACEikSEqAgluzRkBMAkEa4haAfQBGiAI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.53
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.53
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc417b6984211efaa1bdb8c690d2b31",
+        "text": "孙小萌独自一人忙得不可开交",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/a2e6858893fd94c02be2fce5c1e66327/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/o4IA4ggNB4AE5AMz7lhiixZkEA9fZAGk6QBuRM/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1
+        },
+        "target_timerange": {
+            "start_offset": 3.53,
+            "end_offset": 6.63
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc41ba8984211efaa1bdb8c690d2b31",
+        "text": "为了吸引她加入 我提出给她的薪水是八千",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/2253a496afa2adf16dde112c5becb65a/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/oEHQ8mugBtxRl5hzIdjAgK8SMiEEEAikAAAkfB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8500000000000005
+        },
+        "target_timerange": {
+            "start_offset": 6.63,
+            "end_offset": 10.48
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc41d6a984211efaa1bdb8c690d2b31",
+        "text": "甚至后来提高到一万二",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/ef85959ca4a2285652d7f9f34ba78914/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/ooCAkFoBjJfMDurARfABLEi6gDEOAAAEtn8nEo/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.299999999999999
+        },
+        "target_timerange": {
+            "start_offset": 10.48,
+            "end_offset": 12.78
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc41f0e984211efaa1bdb8c690d2b31",
+        "text": "这在我们的城市绝对是个高薪",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/5c1d3c5372287319c86b72921a2ced2e/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/oIIJIAAARc9JCNDnxFBqfAfhGjuiBEAgD1LYBV/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.7700000000000014
+        },
+        "target_timerange": {
+            "start_offset": 12.78,
+            "end_offset": 15.55
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4206c984211efaa1bdb8c690d2b31",
+        "text": "徐梦娜和其他同学都惊讶得目瞪口呆",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/c5ffe20571e71910b0aa77b4e8e509fb/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oowkgzQkfBEGnxATABIzAMANuighiRAiElAEzz/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.5599999999999987
+        },
+        "target_timerange": {
+            "start_offset": 15.55,
+            "end_offset": 19.11
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc421e8984211efaa1bdb8c690d2b31",
+        "text": "显然对这个待遇充满了羡慕",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/989679041ac6c4ba031e746872d4192b/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/o0MgEfFGAvDBUlxkAADCEjJjRpnguBAiALEOfo/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.7699999999999996
+        },
+        "target_timerange": {
+            "start_offset": 19.11,
+            "end_offset": 21.88
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4236e984211efaa1bdb8c690d2b31",
+        "text": "就在我和孙小萌商量的时候",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/230e0e2eac67bc955af18fe8a3f35cbe/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/o4B3RADuJALfjA72kIgYDEBEAQfFEinQAEgCMo/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.5600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 21.88,
+            "end_offset": 24.44
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc424ea984211efaa1bdb8c690d2b31",
+        "text": "杨自奎的电话打了过来",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/3094c9495607402869dcdb6b77d374d6/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/oAlyuzAAfBAhAdBgRMykxaEQtiIElk2AphiEgW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.4499999999999993
+        },
+        "target_timerange": {
+            "start_offset": 24.44,
+            "end_offset": 26.89
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4265c984211efaa1bdb8c690d2b31",
+        "text": "他一脸严肃 直接把我拉到厕所",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/09b93225a2cdb43d911db363f9effd14/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/ooBAgRMzhigAAIYExvkfAiukABWFxlE33tm6pQ/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.379999999999999
+        },
+        "target_timerange": {
+            "start_offset": 26.89,
+            "end_offset": 30.27
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc427b0984211efaa1bdb8c690d2b31",
+        "text": "低声问我人生是否受到致命威胁",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/cd56ee1698bf800621fa6a4d7735c124/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/oMglMlQnQiAFbAMzBsAwEuEkfxRA9AghEBxIki/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.349999999999998
+        },
+        "target_timerange": {
+            "start_offset": 30.27,
+            "end_offset": 33.62
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc42922984211efaa1bdb8c690d2b31",
+        "text": "我一头雾水 告诉他我并没有遇到什么危险",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/ce2da6c53178543dc699cd954a0a292c/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/osBAkMfxA28lziAR8O9ABghpikEguEXQIpAAGl/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.740000000000002
+        },
+        "target_timerange": {
+            "start_offset": 33.62,
+            "end_offset": 37.36
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc42aa8984211efaa1bdb8c690d2b31",
+        "text": "他的想法让我哭笑不得 居然怀疑我被老富婆包养",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e0c1638db472c8361416cde4dced9d77/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/ooeqeFGSucBBYLjEOyZDGAGEAIDJClKIAArXIe/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.539999999999999
+        },
+        "target_timerange": {
+            "start_offset": 37.36,
+            "end_offset": 41.9
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc42c06984211efaa1bdb8c690d2b31",
+        "text": "我赶紧解释 秦霜并不是那种人",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/704df3f7cb29d6f15a3c48703b375e56/6724c6d1/video/tos/cn/tos-cn-v-2cd6b0/ocnkM7gEEBDCJDFFLiBfAnujqAEARiAAE5Mcfw/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqGIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459841&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.530000000000001
+        },
+        "target_timerange": {
+            "start_offset": 41.9,
+            "end_offset": 45.43
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc42d64984211efaa1bdb8c690d2b31",
+        "text": "我现在的女友真的不老 她虽然大我七岁",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/c8e79780a8570bff70ea6aede4d8e5a4/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oUDJADBBIBPJNIEeYfRciKzA2j6YLgL3A3CAFn/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.780000000000001
+        },
+        "target_timerange": {
+            "start_offset": 45.43,
+            "end_offset": 49.21
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc42ecc984211efaa1bdb8c690d2b31",
+        "text": "但她现在是芳华正茂 漂亮得很！我向他保证",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d6e7e275742aee94c87a4cf40d7ada75/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oYtRKAik5EB8g3ABx5AQfAiNzkEFIjgghAMluA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.5
+        },
+        "target_timerange": {
+            "start_offset": 49.21,
+            "end_offset": 53.71
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc43138984211efaa1bdb8c690d2b31",
+        "text": "心里暗想 等有机会带他去见见秦霜",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/bc351a0b31f9bf29bb11b760d44d40e0/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/o0LLDFDLRiAHuEABOkEE9jBCuA0gMmATJnf5eA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.780000000000001
+        },
+        "target_timerange": {
+            "start_offset": 53.71,
+            "end_offset": 57.49
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc43322984211efaa1bdb8c690d2b31",
+        "text": "他就会明白我的选择",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/b47ec8dd3c897842280549b939df7861/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ow5E8ALSfEGhDeAFGEAAeWIOOkEHjAbBGAMXuC/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.1999999999999957
+        },
+        "target_timerange": {
+            "start_offset": 57.49,
+            "end_offset": 59.69
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc434da984211efaa1bdb8c690d2b31",
+        "text": "回到别墅 我看到秦霜坐在窗边看书",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/2d79bf930794c10259bbd9f02b9b89cf/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ooEAkz8RwAlAVQIk26EBAiigxuBpXkAEwfXgMh/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.9200000000000017
+        },
+        "target_timerange": {
+            "start_offset": 59.69,
+            "end_offset": 63.61
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4364c984211efaa1bdb8c690d2b31",
+        "text": "优雅的气质让我心动",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/dcabd32fc77bf495ba7bb8b3b598452d/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/o4XdGLGdjEBFDEADMkIEeGCFuA6AMMALSOeeYA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.299999999999997
+        },
+        "target_timerange": {
+            "start_offset": 63.61,
+            "end_offset": 65.91
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc437b4984211efaa1bdb8c690d2b31",
+        "text": "她的眼神中透着一丝审视 突然问我：怎么？",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/129837476d371f0bf0932aedfa074795/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oEdI7kiAgAuJFkhMRwxguLQEBfBMigAlXAAzlE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.359999999999999
+        },
+        "target_timerange": {
+            "start_offset": 65.91,
+            "end_offset": 70.27
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc43912984211efaa1bdb8c690d2b31",
+        "text": "学校的青春美女是不是更有活力",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/51890014df0f83f2ecc34aad0eff5ce2/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ogtOHVGfAFAJAjcIAELfSuGGDeo2uMXIBECAkE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.990000000000009
+        },
+        "target_timerange": {
+            "start_offset": 70.27,
+            "end_offset": 73.26
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc43a70984211efaa1bdb8c690d2b31",
+        "text": "看你今天气色不错嘛！听说 某人当着全班的面",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/89341d54459d6dad9134866c1ef7e356/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oIAoSkvAJ4QLBEIyAAEAikvGgAMoZwNuwBtxi/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.859999999999999
+        },
+        "target_timerange": {
+            "start_offset": 73.26,
+            "end_offset": 78.12
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc43c46984211efaa1bdb8c690d2b31",
+        "text": "说什么要死追某个校花？",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/88f87fcdc5027bd0d74ae42094774b21/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oABFEAmMw3kpoAAS9oxu4AAQiKZvTwI64iyEk/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.6599999999999966
+        },
+        "target_timerange": {
+            "start_offset": 78.12,
+            "end_offset": 80.78
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc43e3a984211efaa1bdb8c690d2b31",
+        "text": "她的话让我有些紧张 心里暗想 她是不是吃醋了？",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/30a276a670ae91ed14834285856ce53b/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/owwvI4oMqkBEkIQ55AAwaitzvAMyuiEZASiAc/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.75
+        },
+        "target_timerange": {
+            "start_offset": 80.78,
+            "end_offset": 85.53
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4401a984211efaa1bdb8c690d2b31",
+        "text": "我知道必须小心应对这个问题",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/0eef12777d6663d109c63de769b95594/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oo9hABxEbAilg6gfRQ7kNhzMuAI7kBiPiEgAAI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.700000000000003
+        },
+        "target_timerange": {
+            "start_offset": 85.53,
+            "end_offset": 88.23
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc44236984211efaa1bdb8c690d2b31",
+        "text": "毕竟秦霜的威严让我无法轻易忽视",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/8edadb0d92ab51e894470854b71d724c/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/okHAALBOQkILwA3AAEvoMvw4myjuEA1ikiZSB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.3799999999999955
+        },
+        "target_timerange": {
+            "start_offset": 88.23,
+            "end_offset": 91.61
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc44434984211efaa1bdb8c690d2b31",
+        "text": "我被秦霜那锐利的目光看得心虚",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d7a63b89cd53d2e914601713a3c85417/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/owEeBFEAGEFL1IXuALjEnSefAGGZBCAECAMOck/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.019999999999996
+        },
+        "target_timerange": {
+            "start_offset": 91.61,
+            "end_offset": 94.63
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc448bc984211efaa1bdb8c690d2b31",
+        "text": "但我知道必须硬着头皮上前",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/b76cfe8cefa4f9309efd716d878ceba5/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/owyrS4yIvMwEoim4IywHkcviQuCAB4ZAAkAEA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.740000000000009
+        },
+        "target_timerange": {
+            "start_offset": 94.63,
+            "end_offset": 97.37
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc44ab0984211efaa1bdb8c690d2b31",
+        "text": "毕竟她是我心中无可替代的女王",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/810150cc115cc7dd5bebdcd97f6b41a0/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oEvMHEo0wyAAACSBAIwEuiQQsKkQTZ6k44yAi/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1700000000000017
+        },
+        "target_timerange": {
+            "start_offset": 97.37,
+            "end_offset": 100.54
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc44cc2984211efaa1bdb8c690d2b31",
+        "text": "我挤出一丝笑容 解释道：霜姐真是神通广大！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/9b3049cc0c785b0d0c817ba699c93796/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/owswEw9BIvAkJiywAEuASo2AZAkgzM4JdiQxS/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.8999999999999915
+        },
+        "target_timerange": {
+            "start_offset": 100.54,
+            "end_offset": 105.44
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc44eac984211efaa1bdb8c690d2b31",
+        "text": "我那是跟她吵架说的气话 又不是真心的",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/37d5e67eb7e9ffcc06a2557d8fd7bfd8/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ocfR1JEAMAqTLkDMiwjCu0gEDfCxFAAUlBAnLE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.2250000000000085
+        },
+        "target_timerange": {
+            "start_offset": 105.44,
+            "end_offset": 108.665
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4508c984211efaa1bdb8c690d2b31",
+        "text": "她不屑地“哦？”",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/37d5e67eb7e9ffcc06a2557d8fd7bfd8/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ocfR1JEAMAqTLkDMiwjCu0gEDfCxFAAUlBAnLE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.2250000000000085,
+            "end_offset": 4.7250000000000085
+        },
+        "target_timerange": {
+            "start_offset": 108.665,
+            "end_offset": 110.165
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4529e984211efaa1bdb8c690d2b31",
+        "text": "了一声 目光如刀 仿佛要将我看穿",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/37d5e67eb7e9ffcc06a2557d8fd7bfd8/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ocfR1JEAMAqTLkDMiwjCu0gEDfCxFAAUlBAnLE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 4.7250000000000085,
+            "end_offset": 7.780000000000001
+        },
+        "target_timerange": {
+            "start_offset": 110.165,
+            "end_offset": 113.22
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4547e984211efaa1bdb8c690d2b31",
+        "text": "那一瞬间 我感到一阵紧张",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e7c91c6134994919f52ba7832f276a0f/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oEkGgJDAAEnAFAKjlDfBRvCPMkVKuLifCEAjLE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 113.22,
+            "end_offset": 116.28
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc456f4984211efaa1bdb8c690d2b31",
+        "text": "心中暗想 我是不是说错了什么？",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/6b2f4a1b22bc718c8b84f9272520c1aa/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/ocQBIAZkA6z4MK6DwAio0yE4E6AAuSPEkvikw/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1700000000000017
+        },
+        "target_timerange": {
+            "start_offset": 116.28,
+            "end_offset": 119.45
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc458f2984211efaa1bdb8c690d2b31",
+        "text": "那婊子自以为是 以为我现在开豪车带保镖",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/cdef1291e137615c8244e675de52cd4a/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/okHeEqBnAgAEJARSAEOMfArCkCMDJFvjLD8u6i/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.069999999999993
+        },
+        "target_timerange": {
+            "start_offset": 119.45,
+            "end_offset": 123.52
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc45adc984211efaa1bdb8c690d2b31",
+        "text": "就是为了吸引她！竟然求我不要再纠缠她",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/75442cac88d03d83bc2ba9eaa2a24cbf/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/o0vM5Eo6w0AAAFSBAIwEuiQHHJkLyZJku4yAi/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8500000000000085
+        },
+        "target_timerange": {
+            "start_offset": 123.52,
+            "end_offset": 127.37
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc45cee984211efaa1bdb8c690d2b31",
+        "text": "这把我气得 我才回骂她",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/4b195b22243c25d07ca456dfeab760b9/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/o4CAJFxCjJUYDceARfsBLUilgDEdABAItnz6Io/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.8400000000000034
+        },
+        "target_timerange": {
+            "start_offset": 127.37,
+            "end_offset": 130.21
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc45f0a984211efaa1bdb8c690d2b31",
+        "text": "只要她死了 我就不会纠缠她了！我认真的解释道",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/c773ea8f8ebc390c030b11a84c7c25a4/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/o0dkC2jEAGRfAELEXBFnCuADgWDnAAPMfLJiv4/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.569999999999993
+        },
+        "target_timerange": {
+            "start_offset": 130.21,
+            "end_offset": 134.78
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc48566984211efaa1bdb8c690d2b31",
+        "text": "努力让自己看起来毫无情绪波动",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/6e82dede2285897fcc456da88dcab02c/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oUAkAA175QvkwyCiS8Mq0uIuBAEZwiD4OoIAE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0999999999999943
+        },
+        "target_timerange": {
+            "start_offset": 134.78,
+            "end_offset": 137.88
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc4885e984211efaa1bdb8c690d2b31",
+        "text": "秦霜闻言 眉头微微舒展",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/c32238a61c8927d62a2778c1a91e494d/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/owAAbcuAwiEMALhkwZBIIQv4dk1yAS1qoiIEW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0999999999999943
+        },
+        "target_timerange": {
+            "start_offset": 137.88,
+            "end_offset": 140.98
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc48a48984211efaa1bdb8c690d2b31",
+        "text": "虽然她的表情依旧带着寒霜",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/07c4f93a5eb2dab56f1c6075888901ee/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oYMiAJCDiECL1AFdD4ujkfAKqgEkeBDAnEIRAF/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.7700000000000102
+        },
+        "target_timerange": {
+            "start_offset": 140.98,
+            "end_offset": 143.75
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc48c46984211efaa1bdb8c690d2b31",
+        "text": "但我能感受到她内心的反应",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/810fdbc6849c390444543dab38bfaf51/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oILiiJAASFQmCBDALneCRagAjEEbfAnDEkuMI5/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.5600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 143.75,
+            "end_offset": 146.31
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ddc48e26984211efaa1bdb8c690d2b31",
+        "text": "我心中一松 看来我还算没有完全惹怒她",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/92ddea6ba771c8cc3f3fb98222cc6f08/6724c6d2/video/tos/cn/tos-cn-v-2cd6b0/oQ1jdADDnBuieBsFEAALgCEniATkfJLg1REMAC/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqqIUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459842&l=202411011917131EB5EC2E40DC706B4524&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4
+        },
+        "target_timerange": {
+            "start_offset": 146.31,
+            "end_offset": 150.31
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

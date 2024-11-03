@@ -1,0 +1,1382 @@
+[
+    {
+        "segment_id": "4bf89708984211ef9d8b00163e36ca41",
+        "text": "以后你们就会明白了！走 咱们去银行！",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/c027c128e20f623bc4baa17fac9a6076/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/osAA1vzsAtI7ildRilBAcEEBkQChkAvA0vfs83/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.675
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.675
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf89aa0984211ef9d8b00163e36ca41",
+        "text": "我胸有成竹地说道",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/c027c128e20f623bc4baa17fac9a6076/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/osAA1vzsAtI7ildRilBAcEEBkQChkAvA0vfs83/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.675,
+            "end_offset": 5.29
+        },
+        "target_timerange": {
+            "start_offset": 3.675,
+            "end_offset": 5.29
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf89cbc984211ef9d8b00163e36ca41",
+        "text": "内心对即将展开的计划充满期待",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/07d66c938931dc43de7fcd1a1b9fb26c/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUEvxAjEEBFf8EAkAOAAFpIsECFfftSDWivLE9/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.2800000000000002
+        },
+        "target_timerange": {
+            "start_offset": 5.29,
+            "end_offset": 8.57
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf89ec4984211ef9d8b00163e36ca41",
+        "text": "好吧！你现在是我们的大哥大 都听你的！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/208b00dbcb55b57a53994f5d2442a50b/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oQpvzAhBzAt5mmXiiAAlgBElRAvkfktQIIE8Al/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.029999999999999
+        },
+        "target_timerange": {
+            "start_offset": 8.57,
+            "end_offset": 12.6
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8a0b8984211ef9d8b00163e36ca41",
+        "text": "刚才看你那成熟老练的样子",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/cb561f000f3a0cef6564035633cc9947/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oEERmAiksEBcl5ABv1AQfviKzkEuIjIAhA8ltA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.700000000000001
+        },
+        "target_timerange": {
+            "start_offset": 12.6,
+            "end_offset": 15.3
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8a2a2984211ef9d8b00163e36ca41",
+        "text": "一度让我感觉到陌生！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/bbc8d226f75ce6c62f2806f52fe3c29b/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oobwv3BlEiBvEHAkMAihAtRAA8lJfIQkzr8AQL/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.1999999999999993
+        },
+        "target_timerange": {
+            "start_offset": 15.3,
+            "end_offset": 17.5
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8a4c8984211ef9d8b00163e36ca41",
+        "text": "不过看你现在这贱兮兮的样子",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/24f681ae97e4087f4d19d3be8b496e1e/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oMtzxiCRiEAEQAkylkfvIAlBIAquzBhRAAN8AG/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.7699999999999996
+        },
+        "target_timerange": {
+            "start_offset": 17.5,
+            "end_offset": 20.27
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8a6d0984211ef9d8b00163e36ca41",
+        "text": "才真实 这才是我家金子！杨自奎笑道",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/6830ed4c7bd2346426b26131c5cc5ddb/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ocFf5APOSFMEBsLAEy2WBjbCEmJfIfoAEJuAID/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.68
+        },
+        "target_timerange": {
+            "start_offset": 20.27,
+            "end_offset": 24.95
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8a9a0984211ef9d8b00163e36ca41",
+        "text": "随着我和他的接触加深",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d8cc4084cfbbfc68b51b5d124c723d09/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oskUQkBAAEzAiApvthfAI1lx88OutlR3BiAMME/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.34
+        },
+        "target_timerange": {
+            "start_offset": 24.95,
+            "end_offset": 27.29
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8ac8e984211ef9d8b00163e36ca41",
+        "text": "他似乎真的发现了我身上的变化",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/b43fd2ade022a6722f2673dee5d40beb/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIECSYMFAWADXifSAAAj8LffE3BFktEOAE4EGs/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.8100000000000023
+        },
+        "target_timerange": {
+            "start_offset": 27.29,
+            "end_offset": 30.1
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8afea984211ef9d8b00163e36ca41",
+        "text": "甚至感到陌生与惧怕",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/17c00a5eec3dbc06fa54291aa0f2acc2/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oQ8eEHLuAzIXC9hkCAGKEek4GrcAtEAJAtIeeZ/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.3389999999999986
+        },
+        "target_timerange": {
+            "start_offset": 30.1,
+            "end_offset": 32.439
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8b2ec984211ef9d8b00163e36ca41",
+        "text": "奎儿 爸爸当然比你成熟老练了！不然怎么带你！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/86297cb4d42365d930055ff7818bbbf2/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/okZztAyACEXk25EAyI8iQgjSBPHaAAikoVBA3/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.0760000000000005
+        },
+        "target_timerange": {
+            "start_offset": 32.439,
+            "end_offset": 36.515
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8b562984211ef9d8b00163e36ca41",
+        "text": "我淡然地回应道",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/86297cb4d42365d930055ff7818bbbf2/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/okZztAyACEXk25EAyI8iQgjSBPHaAAikoVBA3/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 4.0760000000000005,
+            "end_offset": 5.7209999999999965
+        },
+        "target_timerange": {
+            "start_offset": 36.515,
+            "end_offset": 38.16
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8b724984211ef9d8b00163e36ca41",
+        "text": "滚犊子！果然失恋能让人成长 唉！",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/9c4e918344d99b5be83552869eb74540/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o0giQxEzADoEyBwKiAtgHZkjA3EIW8kPAASUt/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.210000000000001
+        },
+        "target_timerange": {
+            "start_offset": 38.16,
+            "end_offset": 42.37
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8b8fa984211ef9d8b00163e36ca41",
+        "text": "我什么时候才能成长一次！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/c961933380f709159c2d07808ace8068/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/owBAA8skvKzEfAuA5ABlmElqhktIiviQASIR2v/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.385000000000005
+        },
+        "target_timerange": {
+            "start_offset": 42.37,
+            "end_offset": 44.755
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8babc984211ef9d8b00163e36ca41",
+        "text": "杨自奎笑骂 给了我一拳",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/c961933380f709159c2d07808ace8068/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/owBAA8skvKzEfAuA5ABlmElqhktIiviQASIR2v/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 2.385000000000005,
+            "end_offset": 4.609999999999999
+        },
+        "target_timerange": {
+            "start_offset": 44.755,
+            "end_offset": 46.98
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8bce2984211ef9d8b00163e36ca41",
+        "text": "在我们一番轻松的对话中",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/62503a03e1fa361567b1768cfff20502/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ocmAEBFFiEAfAjAA9vEStfEWzQtLDfKCE8SOEk/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.4100000000000037
+        },
+        "target_timerange": {
+            "start_offset": 46.98,
+            "end_offset": 49.39
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8beb8984211ef9d8b00163e36ca41",
+        "text": "我的内心却在思考着未来的布局",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/1e0f768a9f77e82e721b0145a71da5c6/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oYfjEEfJXfLcAAWknACvENRtAAF8BOFWSnDEAE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.019999999999996
+        },
+        "target_timerange": {
+            "start_offset": 49.39,
+            "end_offset": 52.41
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8c08e984211ef9d8b00163e36ca41",
+        "text": "很快 两辆豪车就停在了银行门口",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d0ae372f50d50851667331efe2a9e7c2/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/owHklNviAWIzAEtErAizBtABQ6hwAAZ8flkRb4/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.710000000000001
+        },
+        "target_timerange": {
+            "start_offset": 52.41,
+            "end_offset": 56.12
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8c250984211ef9d8b00163e36ca41",
+        "text": "银行大堂经理看到我们下车 急忙小跑着迎上前来",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/b1a98a059daddb464857d2fbe6d37f84/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/ocASEELEDSYfWCtaAEf8FsAAzFDJAOBExeGj6k/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.5
+        },
+        "target_timerange": {
+            "start_offset": 56.12,
+            "end_offset": 60.62
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8c408984211ef9d8b00163e36ca41",
+        "text": "欢迎光临！先生需要办理什么业务？",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/bc621469af66b51a2bc453792ea4c919/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/okfzIBIARFBkokiiutivlEA8AgACEQA0lkAhKB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.494000000000007
+        },
+        "target_timerange": {
+            "start_offset": 60.62,
+            "end_offset": 64.114
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8c5e8984211ef9d8b00163e36ca41",
+        "text": "她的微笑和酒窝让我略感舒心",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/bc621469af66b51a2bc453792ea4c919/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/okfzIBIARFBkokiiutivlEA8AgACEQA0lkAhKB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.494000000000007,
+            "end_offset": 5.939999999999998
+        },
+        "target_timerange": {
+            "start_offset": 64.114,
+            "end_offset": 66.56
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8c7a0984211ef9d8b00163e36ca41",
+        "text": "“我想办点贷款！”我淡定地回应 贷款！",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/2d3405df09d9a33eb52920a46f83ef79/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIAiot88EL8RhtkAdkvBfAVIvlBiAAlQAUPzEL/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.209999999999994
+        },
+        "target_timerange": {
+            "start_offset": 66.56,
+            "end_offset": 70.77
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8c9a8984211ef9d8b00163e36ca41",
+        "text": "先生里面请 您是办理的公司的经营贷呢？",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/e960d7c422e207348636ccf59e1ade6e/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/owWZEFDejEBaUIALFJEI6fCFbAaA54A4SOfctB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8900000000000006
+        },
+        "target_timerange": {
+            "start_offset": 70.77,
+            "end_offset": 74.66
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8cb88984211ef9d8b00163e36ca41",
+        "text": "还是个人的消费贷？女经理笑着问道",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/8ddc1077e431d787f8b92b6913e64e14/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oMAEJAtwILKeskAAEGxGIXAKtftAeVckbCVeE8/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.6700000000000017
+        },
+        "target_timerange": {
+            "start_offset": 74.66,
+            "end_offset": 78.33
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8cd54984211ef9d8b00163e36ca41",
+        "text": "当然是经营贷 这些都是资料 你帮我看一下",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/9731dc0544b511e9486b4e65cf17e41f/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIk9QkBAAEzAiA1vohfAIMlV85EttlRTBiAuJE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.25
+        },
+        "target_timerange": {
+            "start_offset": 78.33,
+            "end_offset": 82.58
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8cf16984211ef9d8b00163e36ca41",
+        "text": "贷个五几百万！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/c8dc1347bf755d7e7e6f782611cfbb27/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oU8tEgiuAyhlFm8kAABBEvk7IszQtAARAli0f8/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5649999999999977
+        },
+        "target_timerange": {
+            "start_offset": 82.58,
+            "end_offset": 84.145
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8d0d8984211ef9d8b00163e36ca41",
+        "text": "我将准备好的资料递给她 心中暗自期待",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/c8dc1347bf755d7e7e6f782611cfbb27/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oU8tEgiuAyhlFm8kAABBEvk7IszQtAARAli0f8/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 1.5649999999999977,
+            "end_offset": 4.969999999999999
+        },
+        "target_timerange": {
+            "start_offset": 84.145,
+            "end_offset": 87.55
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8d290984211ef9d8b00163e36ca41",
+        "text": "肖雅立刻带着我进入了一间VIP客户隔间",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/6e03b61b9affdeeeef410cbc241eb110/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/okAsBtbk8iAAXRlAEziBx8fbEAs5Qvl3AhkllI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.780000000000001
+        },
+        "target_timerange": {
+            "start_offset": 87.55,
+            "end_offset": 91.33
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8d45c984211ef9d8b00163e36ca41",
+        "text": "客户经理热情迎接了我们",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/70efa8f9b658c9252663f9267761276a/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oIkBgAil8iBAIuQ8vXAiivkAfzhAAzERttElSL/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.480000000000004
+        },
+        "target_timerange": {
+            "start_offset": 91.33,
+            "end_offset": 93.81
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8d6a0984211ef9d8b00163e36ca41",
+        "text": "虽然我在这家银行并没有任何存款记录",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/857f8ba1cb8f1e93eef85e149b82b249/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUfzyMIARdBkakCiutivlEA8A3AHEQA0lnAhrB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.3499999999999943
+        },
+        "target_timerange": {
+            "start_offset": 93.81,
+            "end_offset": 97.16
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8d86c984211ef9d8b00163e36ca41",
+        "text": "但我的气派和随行的保镖让他们不敢怠慢",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/c31bcb29a13f8d9c91b681d764935d83/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oMqvEhM8lBB8tmAuAli0AIzAARcQjAQkElfCki/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.460000000000008
+        },
+        "target_timerange": {
+            "start_offset": 97.16,
+            "end_offset": 100.62
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8da2e984211ef9d8b00163e36ca41",
+        "text": "在银行的审核过程中 我的过往信息被查阅",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/6f7e7cdeadf9a39ec02602e42a093475/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o0vR7AikbEBTlxABvkAQfviPzkEvIH2AhA8ltA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4
+        },
+        "target_timerange": {
+            "start_offset": 100.62,
+            "end_offset": 104.62
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8dc04984211ef9d8b00163e36ca41",
+        "text": "尽管看似没有优势",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/1b544b414cc0ff83d9831cc581dcb72e/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIIIIfCOBAAIbBjIAEg5fA2FJLkDSFufWEjbZE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.2299999999999898
+        },
+        "target_timerange": {
+            "start_offset": 104.62,
+            "end_offset": 106.85
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8ddda984211ef9d8b00163e36ca41",
+        "text": "但我心中明白 这一切都在我掌控之中",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/e6896465fe9fd433b05a5423a3ba3141/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o0tlzAE3vABaQoBlEsARACNk6hi8IkqiiACFfA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.710000000000008
+        },
+        "target_timerange": {
+            "start_offset": 106.85,
+            "end_offset": 110.56
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8df9c984211ef9d8b00163e36ca41",
+        "text": "史先生 您是第一次来办理贷款吧！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/57a80f344fbcae56838079a0d5211c17/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oQBAkillvkq8BtIAIfaAlsR4QhigAAAEXzJJEV/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.5600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 110.56,
+            "end_offset": 114.12
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8e17c984211ef9d8b00163e36ca41",
+        "text": "你的这些协议合同资料 我们已经审查完成了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/f34a1c18df2d4258d1c815b752e4aa18/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ocAZuAkyIngv3iASoAkQEEWMAwPtTzi883BiZ/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.344999999999999
+        },
+        "target_timerange": {
+            "start_offset": 114.12,
+            "end_offset": 117.465
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf8e352984211ef9d8b00163e36ca41",
+        "text": "客户经理的声音打断了我的思绪",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/f34a1c18df2d4258d1c815b752e4aa18/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ocAZuAkyIngv3iASoAkQEEWMAwPtTzi883BiZ/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.344999999999999,
+            "end_offset": 5.579999999999998
+        },
+        "target_timerange": {
+            "start_offset": 117.465,
+            "end_offset": 119.7
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9454a984211ef9d8b00163e36ca41",
+        "text": "好的 那就先办理两百万贷款",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/b54b18c362f3e6392e13540bd74ce172/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oA8EBSLETEFWZAKVHwtfkfAsmAEe4CDAOEljAF/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.280000000000001
+        },
+        "target_timerange": {
+            "start_offset": 119.7,
+            "end_offset": 122.98
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9496e984211ef9d8b00163e36ca41",
+        "text": "后续如果您还有需求 咱们再向总行申请",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/87a2c636c27fb865a3bba37cbf25f961/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oA9PAizASYBg8kZy3ZJzEQZEAistA9okmDIAy/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.444999999999993
+        },
+        "target_timerange": {
+            "start_offset": 122.98,
+            "end_offset": 126.425
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf94c16984211ef9d8b00163e36ca41",
+        "text": "我点头答应 心中对未来的计划充满信心",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/87a2c636c27fb865a3bba37cbf25f961/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oA9PAizASYBg8kZy3ZJzEQZEAistA9okmDIAy/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.444999999999993,
+            "end_offset": 7.019999999999996
+        },
+        "target_timerange": {
+            "start_offset": 126.425,
+            "end_offset": 130
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf94e50984211ef9d8b00163e36ca41",
+        "text": "一旁的杨自奎看得目瞪口呆了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/0f47325118355d5e7c57a0e73eabe867/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oYAAv8BsiARlktkMAI7nBAWR21rEEhAfQzlrWi/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.8400000000000034
+        },
+        "target_timerange": {
+            "start_offset": 130,
+            "end_offset": 132.84
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9517a984211ef9d8b00163e36ca41",
+        "text": "这金卡可能享受银行的许多优惠福利",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/68c9204e7679a52842661adc672b57ee/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogis5AIREABf8EAkAzAQR5jghAivhtkBl59lC1/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.3499999999999943
+        },
+        "target_timerange": {
+            "start_offset": 132.84,
+            "end_offset": 136.19
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf95404984211ef9d8b00163e36ca41",
+        "text": "听得他羡慕不已 可惜自己没有",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/5a257e030bc29d5dc2a49c6e490ab248/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oYBxk8fvAGHlziARORzABlhTikEAtEwQI4AAvz/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1299999999999955
+        },
+        "target_timerange": {
+            "start_offset": 136.19,
+            "end_offset": 139.32
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf956fc984211ef9d8b00163e36ca41",
+        "text": "虽然我前世也有过金卡",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/80e6d2b341b0dbd09b3dec73d2828b80/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/ooBKAi7AvEtkligRQhufArN8dQAIAIQEkzElBA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.450000000000017
+        },
+        "target_timerange": {
+            "start_offset": 139.32,
+            "end_offset": 141.77
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf95a3a984211ef9d8b00163e36ca41",
+        "text": "知道这张卡在某些方面还是挺方便的",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/538e1e7eafb5e20d96ebd79d72b8e1b3/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogAEQi7AIv5EzBtfkADkAl8xVX3BRAilhTvARO/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.4199999999999875
+        },
+        "target_timerange": {
+            "start_offset": 141.77,
+            "end_offset": 145.19
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf95cd8984211ef9d8b00163e36ca41",
+        "text": "但实际上它不过是比普通人多一些优惠罢了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/50af95f5b6c3ed2bb944cd449a64acf1/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oAv8kBmYlhAvXiEzAkifAAQ0dtBAvjEpIAB1Rl/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.710000000000008
+        },
+        "target_timerange": {
+            "start_offset": 145.19,
+            "end_offset": 148.9
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf95eea984211ef9d8b00163e36ca41",
+        "text": "真正的至尊银行卡 那是黑色的特殊卡",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/a2a4556e40b4e8b994778ee086897414/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIJ0vFCjEDOBS9EfbAALFL5BIf4LqcBEeQIAWA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8899999999999864
+        },
+        "target_timerange": {
+            "start_offset": 148.9,
+            "end_offset": 152.79
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf960b6984211ef9d8b00163e36ca41",
+        "text": "我在秦霜那里见过",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d3dc7c0f9c11c033f87df612cbcda334/6724c5dc/video/tos/cn/tos-cn-v-2cd6b0/oEflAJ8AlzrgEQivtQwiBRdBAiAAkEIkvzhBAA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqb6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459596&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.0900000000000034
+        },
+        "target_timerange": {
+            "start_offset": 152.79,
+            "end_offset": 154.88
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9628c984211ef9d8b00163e36ca41",
+        "text": "先生 方便加您个微信吗？",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/c4feff6e9708d99258f96872bd9ea416/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4AEEACJEFF6vSAAEjLDELQeWstAfwOkDBifC8/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.920000000000016
+        },
+        "target_timerange": {
+            "start_offset": 154.88,
+            "end_offset": 157.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf96458984211ef9d8b00163e36ca41",
+        "text": "您以后有什么需求 可以微信上联系我",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/3eee072cdc868afc34ef98ba329a62ea/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUk6QkBAAEzAiA4vPhfAIjl08wwstlRCBiAVaE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.4599999999999795
+        },
+        "target_timerange": {
+            "start_offset": 157.8,
+            "end_offset": 161.26
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9662e984211ef9d8b00163e36ca41",
+        "text": "如果要大额取现的话 也可以微信上提前跟我说",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/afde7aa7097686d731e981a17d1e99ff/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o8EcJMEAELFFKEWtAxjfmSfVAfDHBCAEOA8OZk/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.210000000000008
+        },
+        "target_timerange": {
+            "start_offset": 161.26,
+            "end_offset": 165.47
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9680e984211ef9d8b00163e36ca41",
+        "text": "我们提前准备好…肖雅笑脸送着我来到门口",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/9dc1fe3f3ad03373bf8ba7c9f5452c7f/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogvYtEhftJfA4A8kEAA8g4avItkXcEKfsCeGAn/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.4550000000000125
+        },
+        "target_timerange": {
+            "start_offset": 165.47,
+            "end_offset": 168.925
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf969e4984211ef9d8b00163e36ca41",
+        "text": "“嗯 可以 以后有什么还要多向你请教！”",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/9dc1fe3f3ad03373bf8ba7c9f5452c7f/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogvYtEhftJfA4A8kEAA8g4avItkXcEKfsCeGAn/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.4550000000000125,
+            "end_offset": 6.925000000000011
+        },
+        "target_timerange": {
+            "start_offset": 168.925,
+            "end_offset": 172.395
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf96bba984211ef9d8b00163e36ca41",
+        "text": "我微笑着答应 心中暗自期待这次的合作",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/9dc1fe3f3ad03373bf8ba7c9f5452c7f/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogvYtEhftJfA4A8kEAA8g4avItkXcEKfsCeGAn/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 6.925000000000011,
+            "end_offset": 10.330000000000013
+        },
+        "target_timerange": {
+            "start_offset": 172.395,
+            "end_offset": 175.8
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf96d7c984211ef9d8b00163e36ca41",
+        "text": "肖雅的这一举动 后来改变了她的人生",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/61cd949910c8bd1b93ca16d600707d78/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUySGcACkCegJ3fCCKQAwj84vleAIvQYAeIE0t/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.5600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 175.8,
+            "end_offset": 179.36
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97010984211ef9d8b00163e36ca41",
+        "text": "让她成为江城金融业的一位传奇",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/f2f75f73531cd4b39c89c811a50dcd15/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4AdAfQIDBAOFASEMkEtWaE8SCEESTYAfyjEfF/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1299999999999955
+        },
+        "target_timerange": {
+            "start_offset": 179.36,
+            "end_offset": 182.49
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97268984211ef9d8b00163e36ca41",
+        "text": "出了银行 杨自奎要过我的金卡",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/6ea1f497672f017878fce40827c8af39/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o0kAizbMFmfEWjEOjvACBp7K5EIfIAFJABASfD/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.3100000000000023
+        },
+        "target_timerange": {
+            "start_offset": 182.49,
+            "end_offset": 185.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9747a984211ef9d8b00163e36ca41",
+        "text": "左右看了看 咕哝道：这就是金卡啊！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/524174858a39d0c85c89e5f579e22a3b/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogBTAOWCjdfEEHFjv2EAMwFEDtAfwMekAASE8D/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4
+        },
+        "target_timerange": {
+            "start_offset": 185.8,
+            "end_offset": 189.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97650984211ef9d8b00163e36ca41",
+        "text": "也不是金子做的嘛 差评！",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/c90765878c3ee88e7296d7650f99b790/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUBQAAgkN83SzzAEHAiiFAkZ8lE5P1yApoInt/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.9199999999999875
+        },
+        "target_timerange": {
+            "start_offset": 189.8,
+            "end_offset": 192.72
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97826984211ef9d8b00163e36ca41",
+        "text": "阿东也好奇地看了一眼 问道：咦！",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/04d16364b3936dacebbf76741ca371a3/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oQk6AIi8zgAS33BAiQAy8tZzvoAABESPyEkNB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.6699999999999875
+        },
+        "target_timerange": {
+            "start_offset": 192.72,
+            "end_offset": 196.39
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf979e8984211ef9d8b00163e36ca41",
+        "text": "金少 你的金卡 为什么跟我的不一样？",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/fff526fdbb12c3da159c2535cdbcfb48/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUI8AB6BkySy830ZFAEQCAitSPgkEAzzviAzo/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8200000000000216
+        },
+        "target_timerange": {
+            "start_offset": 196.39,
+            "end_offset": 200.21
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97bbe984211ef9d8b00163e36ca41",
+        "text": "说着 阿东也拿出一张金卡来",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/de8382b720af76c34797ae13ced36c28/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/osfewAIGcEteCM3LIAAtUKENJCVkekyAwGE8AZ/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.3499999999999943
+        },
+        "target_timerange": {
+            "start_offset": 200.21,
+            "end_offset": 203.56
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97d94984211ef9d8b00163e36ca41",
+        "text": "杨自奎见状 顿时跳了起来",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/2432ecfc2554563a2765548cf4827ecf/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oAEDMAbAEApAE8FAOwfFctWfZfmjCMESkEBxVO/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1999999999999886
+        },
+        "target_timerange": {
+            "start_offset": 203.56,
+            "end_offset": 206.76
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf97f6a984211ef9d8b00163e36ca41",
+        "text": "喝道：卧槽 你们不带这样玩的 感情你们都有！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/b22f0b115c298547e2b8f93a9e84d971/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIAZAASBEzkBIo87yPQZ3EA2Cyk0tii6AgZPk/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.75
+        },
+        "target_timerange": {
+            "start_offset": 206.76,
+            "end_offset": 211.51
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf98136984211ef9d8b00163e36ca41",
+        "text": "我白了杨自奎一眼 少见多怪 东哥的工资可高了",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/b182cb1d3f1c2e45b0ded1a17c7a7a9f/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oA5JjOAPSBnEEbRMBFIAX5ffMZiAeFIDADECoW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.570000000000022
+        },
+        "target_timerange": {
+            "start_offset": 211.51,
+            "end_offset": 216.08
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf982ee984211ef9d8b00163e36ca41",
+        "text": "有金卡不奇怪 毕竟这是银行拉拢客户的手段",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/38bf4b3c9a998b5b675e4076b547ed75/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oEvkMkfEAfjjAEyEZCFOFtADAVE3ABq8fWSEuk/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.2099999999999795
+        },
+        "target_timerange": {
+            "start_offset": 216.08,
+            "end_offset": 220.29
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf984b0984211ef9d8b00163e36ca41",
+        "text": "都想要客户把钱存到他们的银行",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/2ae8bf4ee60e80b2c59642426a22eba0/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4kkEIoyzARgd3Mi9tDZjQAzA87ABSi3PAEz5/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.515000000000015
+        },
+        "target_timerange": {
+            "start_offset": 220.29,
+            "end_offset": 222.805
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9865e984211ef9d8b00163e36ca41",
+        "text": "我接过阿东的金卡看了看 发现了两者的区别",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/2ae8bf4ee60e80b2c59642426a22eba0/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4kkEIoyzARgd3Mi9tDZjQAzA87ABSi3PAEz5/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 2.515000000000015,
+            "end_offset": 5.900000000000006
+        },
+        "target_timerange": {
+            "start_offset": 222.805,
+            "end_offset": 226.19
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf98816984211ef9d8b00163e36ca41",
+        "text": "便好奇地发微信问了肖雅",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/73d94e57b3276dd5e49b35867707cd3e/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oceZAA8AtcexEAIztOULeJ5GEBA6kEGkeJIKAC/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.5600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 226.19,
+            "end_offset": 228.75
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf98a00984211ef9d8b00163e36ca41",
+        "text": "肖雅很快给了回复：先生 您的金卡是白金的",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/c80b84eb2afeb6e974253543d5518316/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4ZkPAAq8EIyiBQHyMi93iAAEktRoz3gSH32A/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.75
+        },
+        "target_timerange": {
+            "start_offset": 228.75,
+            "end_offset": 233.5
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf98c30984211ef9d8b00163e36ca41",
+        "text": "拥有机票 高铁 酒店折扣优惠…“白金！”",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/07dbd9350b7ab4614a2dae1254df3622/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUWOCJ4AEM5FsBbFcAeISgnAjfpkDBAlEflIsE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.824999999999989
+        },
+        "target_timerange": {
+            "start_offset": 233.5,
+            "end_offset": 238.325
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf98df2984211ef9d8b00163e36ca41",
+        "text": "杨自奎兴奋地道：我去 金子 这卡让我揣两天！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/07dbd9350b7ab4614a2dae1254df3622/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUWOCJ4AEM5FsBbFcAeISgnAjfpkDBAlEflIsE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 4.824999999999989,
+            "end_offset": 9.400000000000006
+        },
+        "target_timerange": {
+            "start_offset": 238.325,
+            "end_offset": 242.9
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf99090984211ef9d8b00163e36ca41",
+        "text": "马上开学了 让我装装逼 嘿嘿！是啊！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/81b6a236059ab71594655c1c1ce53e80/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oEmt8AAeOABPPOEkCtFEAfDMESFj3wAEEtfwEW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.859999999999985
+        },
+        "target_timerange": {
+            "start_offset": 242.9,
+            "end_offset": 247.76
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf992b6984211ef9d8b00163e36ca41",
+        "text": "马上要开学了",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/7292a39a68f4192834e6ac219b059993/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ocI8AB98kyDyt3hZGAEQwAitSPgkEAz5LiAzo/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.9099999999999966
+        },
+        "target_timerange": {
+            "start_offset": 247.76,
+            "end_offset": 249.67
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf994a0984211ef9d8b00163e36ca41",
+        "text": "虽然他已经有了致富赚钱的计划与路子",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/b4bb33562e79b5d7f7866ef4b0b465e8/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oUoGoAiQtEDMisEk3Ad1yZIi4ASABA8Pzkglz/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.170000000000016
+        },
+        "target_timerange": {
+            "start_offset": 249.67,
+            "end_offset": 252.84
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf99694984211ef9d8b00163e36ca41",
+        "text": "但学还是要上的",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/5eb6ac80959f25ccc1f70bdf82ca9c42/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/osgEBLfDEInxj2OE1bNsBSbWJC5FfEfAFAAMIA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.9799999999999898
+        },
+        "target_timerange": {
+            "start_offset": 252.84,
+            "end_offset": 254.82
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf99892984211ef9d8b00163e36ca41",
+        "text": "除了获得学历之外",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/5b9bcb3ac852104e60bd22aa1ac2ec83/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ook1AIi8dg8Sx3BAiQAy4tZzzoAAUEhPwEkrI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.0500000000000114
+        },
+        "target_timerange": {
+            "start_offset": 254.82,
+            "end_offset": 256.87
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf99b08984211ef9d8b00163e36ca41",
+        "text": "学校里也是隐藏着一些厉害的老师",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/8a084097b750df2e10d3b3a828a9f2ab/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oYtcEJcAIZ5L2BbKeASIkifAGeWVGCAGJeiIjI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.170000000000016
+        },
+        "target_timerange": {
+            "start_offset": 256.87,
+            "end_offset": 260.04
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf99d24984211ef9d8b00163e36ca41",
+        "text": "能让他获得成就",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/8ee5dc57211e2db8cd0b8d30e7d2b34e/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/owEZkytAiP2iSyBEA7MugkoA3IouAzTu28tAQ/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.019999999999982
+        },
+        "target_timerange": {
+            "start_offset": 260.04,
+            "end_offset": 262.06
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf99f54984211ef9d8b00163e36ca41",
+        "text": "他的思想政治老师",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d55e2d424758873a6ac3e61a4b2baec3/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4VI5fwzBDbSVEXJ0GFBAfIEjF3kATMfEACOAW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.230000000000018
+        },
+        "target_timerange": {
+            "start_offset": 262.06,
+            "end_offset": 264.29
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9a594984211ef9d8b00163e36ca41",
+        "text": "便是兼职着江城纪检副书记的隐藏大佬",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/9cb24db878029947131d12bb50a2d710/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oIkAAEIyzjB3SArQDAAwoEZktjkkDgUi8TiyP/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.6399999999999864
+        },
+        "target_timerange": {
+            "start_offset": 264.29,
+            "end_offset": 267.93
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9a7d8984211ef9d8b00163e36ca41",
+        "text": "我前世也是后面才知道的",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/648f52e60b0601255764e44cdeb76bb8/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/okOk3ipxAyDQSgFBE8ZikNIzEA7A7TQAtAPo0/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.589999999999975
+        },
+        "target_timerange": {
+            "start_offset": 267.93,
+            "end_offset": 270.52
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9aac6984211ef9d8b00163e36ca41",
+        "text": "前世年少 以为思想政治只是混个学分",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/63d01a1f3c6a6f3422d2fffba4c3f03e/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/osht8AA3zAAdOwOkA1iiQvBmRkBI31AEE8fKhl/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.100000000000023
+        },
+        "target_timerange": {
+            "start_offset": 270.52,
+            "end_offset": 274.62
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9acf6984211ef9d8b00163e36ca41",
+        "text": "并没有好好学",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/1fcd597d9e780fdefe8a4c236dff481d/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ooAERA0ViiB03kAQEIFBhmBklrtAv9zkJAFfA8/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.9099999999999682
+        },
+        "target_timerange": {
+            "start_offset": 274.62,
+            "end_offset": 276.53
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9af12984211ef9d8b00163e36ca41",
+        "text": "而且还有计算机老师",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/2abe5926b92585058f880a7696535757/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/oQ4JJBLk6IGbbtAKeeAAeWIYcJIpGemCIA5tbE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.3000000000000114
+        },
+        "target_timerange": {
+            "start_offset": 276.53,
+            "end_offset": 278.83
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9b12e984211ef9d8b00163e36ca41",
+        "text": "那也是持有阿里公司技术股份的隐藏大佬",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/59f8fe880529e1ebb4d15075df25a3f1/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o88EBSNEJEFWRAhLO7tfkfA0RAEfWCDAOEcjAF/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.490000000000009
+        },
+        "target_timerange": {
+            "start_offset": 278.83,
+            "end_offset": 282.32
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9b322984211ef9d8b00163e36ca41",
+        "text": "当时我在学校里根本没有意识到",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/5baaa5ac4a8635c7420109e2c46fbfda/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4ktASDAAEOAFABfcEfCjgNG8gf2tWE2FEBZME/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.019999999999982
+        },
+        "target_timerange": {
+            "start_offset": 282.32,
+            "end_offset": 285.34
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9b520984211ef9d8b00163e36ca41",
+        "text": "这些老师居然是我日后成功的关键",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/111bfcbaafc549b60dba6eb01365ccb6/6724c5de/video/tos/cn/tos-cn-v-2cd6b0/o0ffIE8yNDF5boArAWFrBjOABEoAvCGSIVfRJE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqZ6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459598&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1300000000000523
+        },
+        "target_timerange": {
+            "start_offset": 285.34,
+            "end_offset": 288.47
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9b71e984211ef9d8b00163e36ca41",
+        "text": "如今想来 曾经在学不知珍惜",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e29aef58ae64d7f16b3ddc169040e94b/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/o4EDUAZAEAFAE8FAO1rFdtWfZfejCNESkEBOar/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.419999999999959
+        },
+        "target_timerange": {
+            "start_offset": 288.47,
+            "end_offset": 291.89
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9b930984211ef9d8b00163e36ca41",
+        "text": "后来才知道 大学里接触到的许多老师",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/c5def275a14bfb2c66a03453424db730/6724c5de/video/tos/cn/tos-cn-v-2cd6b0/oIfTk3NFBACEA5AA7dDeEOE8SEAfStjUWF7EAl/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqZ6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459598&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.7800000000000296
+        },
+        "target_timerange": {
+            "start_offset": 291.89,
+            "end_offset": 295.67
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4bf9bb56984211ef9d8b00163e36ca41",
+        "text": "便是一生之中接触到的社会天花板了！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/e050286be9349a0244f6b9c00aebde6a/6724c5dd/video/tos/cn/tos-cn-v-2cd6b0/ogAEQixAIvEEzBtfkAXkAl81kvZBRAimhw0AZ3/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqg6UupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=80000000008000&dy_q=1730459597&l=2024110119130330A625F7A3A7D2A49AE3&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.5299999999999727
+        },
+        "target_timerange": {
+            "start_offset": 295.67,
+            "end_offset": 299.2
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

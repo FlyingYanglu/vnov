@@ -1,0 +1,13 @@
+# Set the default behavior for text files
+* text=auto
+
+# Ignore files and directories
+.gitignore export-ignore
+.gitmodules export-ignore
+.gitattributes export-ignore
+
+# Set specific behavior for certain file types
+*.txt text
+*.jpg binary
+*.java text
+*.ipynb text

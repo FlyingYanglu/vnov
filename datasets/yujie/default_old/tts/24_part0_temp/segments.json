@@ -1,0 +1,1232 @@
+[
+    {
+        "segment_id": "382cc000984211efa7973436ac120018",
+        "text": "马蓉和陈金莲一边调侃 一边感慨着我的身份",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/1f8c6711177be209e775e4a6fd62c838/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oEr8BffDGEmmjhOEItCSASjWkC6FmEeAFAAqEA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.28
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.28
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cc29e984211efa7973436ac120018",
+        "text": "似乎对我有些不满",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e3702ab9a6348d9b8e2eb0ed7339aeaf/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/o8Z6o0oSkAqZIyAE7Avwkt06ui3AqiABAyQEp/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.0199999999999996
+        },
+        "target_timerange": {
+            "start_offset": 4.28,
+            "end_offset": 6.3
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cc424984211efa7973436ac120018",
+        "text": "马蓉说：要是史金是个富二代就好了",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/b5d49433fae7457b376edb005aac406d/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oklkAkeEWrEwSA6OFrAEjttFMfAnptEGBDPCAe/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.46
+        },
+        "target_timerange": {
+            "start_offset": 6.3,
+            "end_offset": 9.76
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cc5dc984211efa7973436ac120018",
+        "text": "爱你 愿意为你付出 又多金…听着她们的话",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/3596c3e32a94feefce3204e8ca2022bf/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ooAEGtC6E6hEGRSCGkuDfBhjerFFAAWAAouOEf/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.835000000000001
+        },
+        "target_timerange": {
+            "start_offset": 9.76,
+            "end_offset": 13.595
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cc762984211efa7973436ac120018",
+        "text": "我心中不由得一笑 虽然我不是什么富二代",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/3596c3e32a94feefce3204e8ca2022bf/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ooAEGtC6E6hEGRSCGkuDfBhjerFFAAWAAouOEf/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.835000000000001,
+            "end_offset": 7.090000000000002
+        },
+        "target_timerange": {
+            "start_offset": 13.595,
+            "end_offset": 16.85
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cc8de984211efa7973436ac120018",
+        "text": "但我有自己的追求和计划 绝对不会让她们失望",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/6bf50d341000ebad5baf47dd212a551c/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/octBiAS3lR7AoAvkEAA6ifcVhtkQzEBUog1IQI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.459999999999997
+        },
+        "target_timerange": {
+            "start_offset": 16.85,
+            "end_offset": 21.31
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cca5a984211efa7973436ac120018",
+        "text": "在她们的唠叨中 我能感受到她们对我悄然的期待",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/8d030599235467e2718d53d4259f553a/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oIAjDEALETOA6xE6ECkAyGFAhSpFtBfWfsFter/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.43
+        },
+        "target_timerange": {
+            "start_offset": 21.31,
+            "end_offset": 25.74
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ccc30984211efa7973436ac120018",
+        "text": "可惜的是 最近我忙于自己的事情",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/e996a2b40ad31ee514553f5ac26d00e7/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oIEzt6vjABAyAIQdQEiRkthBVfvPv6ligRAAkE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.3100000000000023
+        },
+        "target_timerange": {
+            "start_offset": 25.74,
+            "end_offset": 29.05
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cce1a984211efa7973436ac120018",
+        "text": "没能好好陪伴她们 甚至把她们的电话拉黑了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/caa9d216b7e37ceb7c0d8b4b0be5b97b/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/owsBiAp5lR3AjAvkEAA6ifCVhtkqzEBc9gGIQh/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.9999999999999964
+        },
+        "target_timerange": {
+            "start_offset": 29.05,
+            "end_offset": 33.05
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ccf82984211efa7973436ac120018",
+        "text": "马蓉说：史金把我们两的手机都拉黑了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/461c89f42bc318ed04e630e7fc2da151/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/og6RgkVhiEBlXAzIIutvkfAsUQi0KABAzEWIAi/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.9200000000000017
+        },
+        "target_timerange": {
+            "start_offset": 33.05,
+            "end_offset": 36.97
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cd0ea984211efa7973436ac120018",
+        "text": "电话打不通 短信也不回！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/d9f9c9a27c1ae5adfd289ebbc792a547/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oAEAkzHRTAlAqQIvwbEBAiigvtB91kAtTfyV6h/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.020000000000003
+        },
+        "target_timerange": {
+            "start_offset": 36.97,
+            "end_offset": 39.99
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cd252984211efa7973436ac120018",
+        "text": "这都好几天了 他这次不会真的变心了吧？",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/6a37274e19a6f24a4b1205164d117c62/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oAfVAp6Alzq7EQittLZizR0BAHACkEIkvxhBAg/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.5749999999999957
+        },
+        "target_timerange": {
+            "start_offset": 39.99,
+            "end_offset": 43.565
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cd3d8984211efa7973436ac120018",
+        "text": "我心里暗自叹息",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/6a37274e19a6f24a4b1205164d117c62/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oAfVAp6Alzq7EQittLZizR0BAHACkEIkvxhBAg/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.5749999999999957,
+            "end_offset": 5.109999999999999
+        },
+        "target_timerange": {
+            "start_offset": 43.565,
+            "end_offset": 45.1
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cd554984211efa7973436ac120018",
+        "text": "确实是时候找个机会重新联系她们了",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/aec067d743adf423c6b3c82a1d688a66/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oAIAlgVGB6AEoA6zFlhiivRkEAYf5Ask1QBtR1/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.1299999999999955
+        },
+        "target_timerange": {
+            "start_offset": 45.1,
+            "end_offset": 48.23
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cd748984211efa7973436ac120018",
+        "text": "带着杨自奎和阿东 我来到一个玩具厂",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/8791881b2fcbccc3767ea957a3254171/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/okIj5IEkWAyfAkGfCAedLhFGA9EY6AsXBWSOtE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.5600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 48.23,
+            "end_offset": 51.79
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cd8c4984211efa7973436ac120018",
+        "text": "感觉这里快要倒闭了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/69727fdcbd11702b1c41c3d52530f747/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQhBmA6AiAcAE6iQzvMB0tlfdv4IAVRkkEg0wS/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.0900000000000034
+        },
+        "target_timerange": {
+            "start_offset": 51.79,
+            "end_offset": 53.88
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cdb1c984211efa7973436ac120018",
+        "text": "工人都跑光了 只剩下老板钟良宽在支撑",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/fc9f71e4f728d0f2ee64bee5f0143dc1/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oUiAEhvfl6yEmWRIVtkzlAivaA7BSAQgBRyvkA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.9199999999999946
+        },
+        "target_timerange": {
+            "start_offset": 53.88,
+            "end_offset": 57.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cdd60984211efa7973436ac120018",
+        "text": "杨自奎的声音在我耳边响起：",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/bf8cd90d628c725058bb87c137e3f09d/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o4AAREWSOBAvtOrfFDC7ALYSFAeEGEfj6EQMk4/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.6300000000000026
+        },
+        "target_timerange": {
+            "start_offset": 57.8,
+            "end_offset": 60.43
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cdee6984211efa7973436ac120018",
+        "text": "金子 这个玩具厂都快倒闭了 我们来这里做什么？",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/12b9eb43a299b2ac6d885ff4e0f48b17/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oAdVv3A5EikbtzAgltzRkB6AkEcahvAfQBCiAI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.324000000000005
+        },
+        "target_timerange": {
+            "start_offset": 60.43,
+            "end_offset": 64.754
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce04e984211efa7973436ac120018",
+        "text": "我莞尔一笑 事情远没有看上去那么简单",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/12b9eb43a299b2ac6d885ff4e0f48b17/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oAdVv3A5EikbtzAgltzRkB6AkEcahvAfQBCiAI/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 4.324000000000005,
+            "end_offset": 7.519999999999996
+        },
+        "target_timerange": {
+            "start_offset": 64.754,
+            "end_offset": 67.95
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce1ac984211efa7973436ac120018",
+        "text": "“我们今天来 是想找你谈谈合作的！”",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/fc09fff0a651eae0aa9e5b7680844f6f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oAAAlEAVk6zBmMvtRRiuAikRIg6BQQvhPEfA2M/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.105000000000004
+        },
+        "target_timerange": {
+            "start_offset": 67.95,
+            "end_offset": 71.055
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce30a984211efa7973436ac120018",
+        "text": "我淡淡地对钟良宽说道",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/fc09fff0a651eae0aa9e5b7680844f6f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oAAAlEAVk6zBmMvtRRiuAikRIg6BQQvhPEfA2M/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.105000000000004,
+            "end_offset": 5.219999999999999
+        },
+        "target_timerange": {
+            "start_offset": 71.055,
+            "end_offset": 73.17
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce468984211efa7973436ac120018",
+        "text": "他虽然有些犹豫 但还是让我进了厂里",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/7f0f859148723ba549af7d039e1963bd/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ok2vEh3VVBB6tEAtAli3gIzAARyQiAjkEUfqki/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.530000000000001
+        },
+        "target_timerange": {
+            "start_offset": 73.17,
+            "end_offset": 76.7
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce5d0984211efa7973436ac120018",
+        "text": "这个玩具厂的设备相当老旧 甚至有些锈迹斑斑",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/664f1e1f6dd24424e95f513ceb3b876f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQPI5kiAdADgukh6RtvVtUQEBfBCigAwxAAzlE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.640000000000001
+        },
+        "target_timerange": {
+            "start_offset": 76.7,
+            "end_offset": 81.34
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce72e984211efa7973436ac120018",
+        "text": "根本无法满足现代市场的需求",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/e4639fcf19f2f6882e55f00b45c5c3aa/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oo3JGte6cIMAJACobEktCB6gIeYAfZKVvA4e1R/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.989999999999995
+        },
+        "target_timerange": {
+            "start_offset": 81.34,
+            "end_offset": 84.33
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce88c984211efa7973436ac120018",
+        "text": "可我知道 这里藏着的机会 值得我去挖掘",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/359f2a37d6413d69fde7c045baf69243/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/owAIAIDAj9mIOFbeJACSBW1fplSGECLXGfdBXH/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.210000000000008
+        },
+        "target_timerange": {
+            "start_offset": 84.33,
+            "end_offset": 88.54
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ce9f4984211efa7973436ac120018",
+        "text": "“可以先让我们进去说话吗？”",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/573711faf88a54e3babbbf632ae08b30/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o8ASGErEDI1eWCtwAEf6FsAAMFmfAOBEr2Jj6k/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.0049999999999955
+        },
+        "target_timerange": {
+            "start_offset": 88.54,
+            "end_offset": 90.545
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382ceb52984211efa7973436ac120018",
+        "text": "我看着钟良宽 眼神坚定",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/573711faf88a54e3babbbf632ae08b30/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o8ASGErEDI1eWCtwAEf6FsAAMFmfAOBEr2Jj6k/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 2.0049999999999955,
+            "end_offset": 4.459999999999994
+        },
+        "target_timerange": {
+            "start_offset": 90.545,
+            "end_offset": 93
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cecb0984211efa7973436ac120018",
+        "text": "我的计划正在慢慢展开",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/ace5509c5bc4063df5418bf8f0b6df40/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oo6RgkVhgEBlwAXN7ktvkfAsUQizrABAzEHIAi/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.480000000000004
+        },
+        "target_timerange": {
+            "start_offset": 93,
+            "end_offset": 95.48
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cee18984211efa7973436ac120018",
+        "text": "绝不允许任何人打断我的步伐",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/59a299fc66c47d9ebc34e2e89f78c967/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ok6E3fWkgAvjDTAEAfvEFrCGtBSFEycMOAeLAA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.950000000000003
+        },
+        "target_timerange": {
+            "start_offset": 95.48,
+            "end_offset": 98.43
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cef6c984211efa7973436ac120018",
+        "text": "我站在这个几乎倒闭的玩具厂内",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/04b7c5fea9954db4817aa949e9825f45/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o0tJeOQCEciWFFzBoAGIAABbfrASCYDrEI1fjV/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.769999999999996
+        },
+        "target_timerange": {
+            "start_offset": 98.43,
+            "end_offset": 101.2
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cf12e984211efa7973436ac120018",
+        "text": "心中不禁感到一丝不安",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/3a283d40fe07b59a88d40d70271c6cdf/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oIOBIJREFGIZxAAAgbACeL1e9BGeXIJzjWSN0A/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.6599999999999966
+        },
+        "target_timerange": {
+            "start_offset": 101.2,
+            "end_offset": 103.86
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cf2d2984211efa7973436ac120018",
+        "text": "这种地方 曾经的繁华如今已是风雨飘摇",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d7c06823078a1f9a073ce13a3aedd300/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oIAftWtiDEA6Zk9eFMFAGmjr4CfoOABEEoAuES/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.140000000000001
+        },
+        "target_timerange": {
+            "start_offset": 103.86,
+            "end_offset": 108
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cf4a8984211efa7973436ac120018",
+        "text": "咦？这个是做什么的？",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/9eb4bcb2b857b9f85822ce1711c604b0/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQUt6AAPOAB2VrPkCeFEAeDrESFjcvAEEEfcGW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.364999999999995
+        },
+        "target_timerange": {
+            "start_offset": 108,
+            "end_offset": 110.365
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cf69c984211efa7973436ac120018",
+        "text": "我看到一旁有两个飞机与小船模型 出于好奇问道",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/9eb4bcb2b857b9f85822ce1711c604b0/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQUt6AAPOAB2VrPkCeFEAeDrESFjcvAEEEfcGW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 2.364999999999995,
+            "end_offset": 6.439999999999998
+        },
+        "target_timerange": {
+            "start_offset": 110.365,
+            "end_offset": 114.44
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cf818984211efa7973436ac120018",
+        "text": "钟良宽挠了挠头 显得有些不好意思：哦！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/9d6ce96ef17d5c2f1c2bdab6a0ca9437/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ogzAEkzRBBisdQAA9ttAfi6xvghzVE9WIlkOZA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.359999999999999
+        },
+        "target_timerange": {
+            "start_offset": 114.44,
+            "end_offset": 118.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cf98a984211efa7973436ac120018",
+        "text": "那个是我试着做的遥控飞机与遥控船",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/d619b2f20eab9471a81439770586d813/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o4uAvRtrFVeEWeGOjzwCBSkK6EE3EAFkAAASfD/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.200000000000003
+        },
+        "target_timerange": {
+            "start_offset": 118.8,
+            "end_offset": 122
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382cfae8984211efa7973436ac120018",
+        "text": "没办法 现在就这条件 只能用这些材料了",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/3f96e03ef4008c8fc4230ba35957527f/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/o8AUpVdfIziUAhg5A0BkHvilA65kQB9EOttAER/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8149999999999977
+        },
+        "target_timerange": {
+            "start_offset": 122,
+            "end_offset": 125.815
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d1e6a984211efa7973436ac120018",
+        "text": "我心中暗想 或许他并不知道",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/3f96e03ef4008c8fc4230ba35957527f/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/o8AUpVdfIziUAhg5A0BkHvilA65kQB9EOttAER/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.8149999999999977,
+            "end_offset": 6.479000000000013
+        },
+        "target_timerange": {
+            "start_offset": 125.815,
+            "end_offset": 128.479
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d2162984211efa7973436ac120018",
+        "text": "这些看似简单的玩具",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e0b1f9740d57916c60e32066a65a2353/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/osAiWtG6Ec1RhKkAEkuBfgGIvVBiAAlQA5mzE8/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.3409999999999798
+        },
+        "target_timerange": {
+            "start_offset": 128.479,
+            "end_offset": 130.82
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d22fc984211efa7973436ac120018",
+        "text": "未来可能会成为改变世界战争的利器",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/e0b910ab6d1dffba14d5ab06fdad7224/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oktWOBE2eADUAfFrEsAECFUkiGF6jSnEHAvUfA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.420000000000016
+        },
+        "target_timerange": {
+            "start_offset": 130.82,
+            "end_offset": 134.24
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d246e984211efa7973436ac120018",
+        "text": "我仔细查看了一遍厂区 以及玩具厂的营业执照",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/8845e2d4fc9c9717660acc5722062eea/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/okfOPajAEEDS7k6EutFerEA6BhAMEACeWZAGJF/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.25
+        },
+        "target_timerange": {
+            "start_offset": 134.24,
+            "end_offset": 138.49
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d25fe984211efa7973436ac120018",
+        "text": "组织机构代码等证件资料 心中逐渐有了底",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/cfe7c5ca70f4c8ef8e50ff4086eb256d/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oIeHtFfsGSIAmbjBErALIoFECaASAOJ1DKBWCf/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.139999999999986
+        },
+        "target_timerange": {
+            "start_offset": 138.49,
+            "end_offset": 142.63
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d2766984211efa7973436ac120018",
+        "text": "所有的证件都很齐全 前三年都有正常纳税",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/cbd946604a6e5afcd152df5f1520f37d/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQfzhUIAR5Bk0kVivtivVEA6g4ASEQA5lDAhHB/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.5
+        },
+        "target_timerange": {
+            "start_offset": 142.63,
+            "end_offset": 147.13
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d28ce984211efa7973436ac120018",
+        "text": "说明这个厂子并不是毫无希望",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/42b6345c065cead6ae948f773a4f039a/6724c5bb/video/tos/cn/tos-cn-v-2cd6b0/oI1JjOAfSBnIEbePBFIAAi9eXxdAULIGAhGCGW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqwuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459563&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.990000000000009
+        },
+        "target_timerange": {
+            "start_offset": 147.13,
+            "end_offset": 150.12
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d2a9a984211efa7973436ac120018",
+        "text": "我发现附属的商贸资质后 满意地点了点头",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/45677ad2c15f946001da529f2d2f92c0/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ooX9qAvOSFenBhXAQQmWCj3CGfS8QO8AEesAQM/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8499999999999943
+        },
+        "target_timerange": {
+            "start_offset": 150.12,
+            "end_offset": 153.97
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d2ffe984211efa7973436ac120018",
+        "text": "这是官方为了扶持一些乡镇企业",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/861a5b5b18671964edbef92a22d7596f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oAB1AOWCereEEuFjl0EAWsFGDtAfsr0kAASE6D/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 153.97,
+            "end_offset": 157.03
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d31ca984211efa7973436ac120018",
+        "text": "特地给予的一道绿灯",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/6e7f6238572a47062362ef5f65a4795c/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/okSlbAKEjQIFqGe8RCQAfIMOABAXQBXWCAe93S/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.3400000000000034
+        },
+        "target_timerange": {
+            "start_offset": 157.03,
+            "end_offset": 159.37
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d3332984211efa7973436ac120018",
+        "text": "钟老板 我本来想买下你这玩具厂的",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/1145882332cfaab6d6e3479f9d91679f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ogAIAIZAj9yIOFbeJA4SBW1oezeGECLXGZaBK3/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.530000000000001
+        },
+        "target_timerange": {
+            "start_offset": 159.37,
+            "end_offset": 162.9
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d34a4984211efa7973436ac120018",
+        "text": "但是看了你这些之后 我改变了主意！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/49b3af60ee91ce8d0de50346b8d9d61f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oU6LE2FtAZGrEBIkBADFEeSnjfOAtCAEAWE9f5/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0449999999999875
+        },
+        "target_timerange": {
+            "start_offset": 162.9,
+            "end_offset": 165.945
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d360c984211efa7973436ac120018",
+        "text": "我认真地说道",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/49b3af60ee91ce8d0de50346b8d9d61f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oU6LE2FtAZGrEBIkBADFEeSnjfOAtCAEAWE9f5/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 3.0449999999999875,
+            "end_offset": 4.280000000000001
+        },
+        "target_timerange": {
+            "start_offset": 165.945,
+            "end_offset": 167.18
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d376a984211efa7973436ac120018",
+        "text": "看到他有些犹豫",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/3d810fb4301001adea5792fc70918060/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ogCJXjASeFIbo9BBAGjOX1CebIBGLEArPWAIem/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.049999999999983
+        },
+        "target_timerange": {
+            "start_offset": 167.18,
+            "end_offset": 169.23
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d38d2984211efa7973436ac120018",
+        "text": "我直接补充：我看你这厂当时注册资本是十万",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/746d5763b0b0158cc054101d3252e432/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oUDJAGBrIC8SsIEl1fjbEY9BfersWASZA1FAFO/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.360000000000014
+        },
+        "target_timerange": {
+            "start_offset": 169.23,
+            "end_offset": 173.59
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d3a30984211efa7973436ac120018",
+        "text": "我投资三十万 你算上你的厂房院子十万",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/04f3a1820097ec5ef96f98485818446d/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oYA7tjBVEiBvEjAk5AihAtRAgylFfIxkzv6AQj/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.819999999999993
+        },
+        "target_timerange": {
+            "start_offset": 173.59,
+            "end_offset": 177.41
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d3b8e984211efa7973436ac120018",
+        "text": "咱们重新分配股权…日后升级之后",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/21431876029292b7324c329e17483a2c/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/okGJAGBXICZSQIIw1ejbEbtBw9faWAgeANFALO/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.8499999999999943
+        },
+        "target_timerange": {
+            "start_offset": 177.41,
+            "end_offset": 181.26
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d3cec984211efa7973436ac120018",
+        "text": "你负责生产 我来负责销路渠道！",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/e3ae172c147774cddb48631dcde2b550/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oAJ2gAdEjIAF1GaefBIAXpGOATgLIBXWCAf9bS/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.170000000000016
+        },
+        "target_timerange": {
+            "start_offset": 181.26,
+            "end_offset": 184.43
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d3e40984211efa7973436ac120018",
+        "text": "钟良宽听后 震惊地看着我",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/15ee008f9f30f410b7c00f997f81c6a9/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQtMEAkEjGefheAttAAWtEASEF3Oh5DVNr6BFC/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0600000000000023
+        },
+        "target_timerange": {
+            "start_offset": 184.43,
+            "end_offset": 187.49
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d3fa8984211efa7973436ac120018",
+        "text": "似乎不敢相信自己的耳朵",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/9675ba27248eb3f294bd330aab773a1f/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/okAeWL9eFqXjfGNnQQ3BX9A5C1IESOcGAACSQR/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.4499999999999886
+        },
+        "target_timerange": {
+            "start_offset": 187.49,
+            "end_offset": 189.94
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4110984211efa7973436ac120018",
+        "text": "他刚想说什么 我便打断了他：你放心",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/9b101d74b3badd5472c53bfafb521246/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oILzvCv6ABA1AIJUQEi8kthBVfm7D6ligRAAkE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.920000000000016
+        },
+        "target_timerange": {
+            "start_offset": 189.94,
+            "end_offset": 193.86
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4278984211efa7973436ac120018",
+        "text": "我们一定能让这个厂子做大做强！",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/ce70ef920399b4d61e8721421599cc56/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oUAfAehIGBCOLAnEXSI3WcQqSCGQy4cAYfjn9F/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.714999999999975
+        },
+        "target_timerange": {
+            "start_offset": 193.86,
+            "end_offset": 196.575
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d43cc984211efa7973436ac120018",
+        "text": "他这才缓过神来 眼中闪烁着感激的泪光",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/ce70ef920399b4d61e8721421599cc56/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oUAfAehIGBCOLAnEXSI3WcQqSCGQy4cAYfjn9F/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 2.714999999999975,
+            "end_offset": 6.369999999999976
+        },
+        "target_timerange": {
+            "start_offset": 196.575,
+            "end_offset": 200.23
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d452a984211efa7973436ac120018",
+        "text": "扑通一声跪在了我面前：",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e0aa5eaa04b3855d4545a8bfdada3175/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oMWEeSAA4FKZFCGAPOxrjTAAeEEEfB5DEkt6sT/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.450000000000017
+        },
+        "target_timerange": {
+            "start_offset": 200.23,
+            "end_offset": 202.68
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4688984211efa7973436ac120018",
+        "text": "史老板 真是太谢谢你了！你这是救我命呐！",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/8f18d0b77070a4ccc0c7a8f2f9246d58/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/okAfyrhfjOEIAGBsCYDkceFWA60SAFwERstAEE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.389999999999986
+        },
+        "target_timerange": {
+            "start_offset": 202.68,
+            "end_offset": 207.07
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d47fa984211efa7973436ac120018",
+        "text": "我被他的反应吓了一跳 急忙将他扶了起来",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/4a783b344573b5cddc19682101e2df8e/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oEtEvExDAMAC1ehFfAOjBAFfEnkS6SEWWruA3G/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.710000000000008
+        },
+        "target_timerange": {
+            "start_offset": 207.07,
+            "end_offset": 210.78
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d49bc984211efa7973436ac120018",
+        "text": "后来我才了解到 钟良宽的家庭正遭遇困境",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/a1d5052955f2e5cc4a60f005a902e583/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/owBkeObCEt2WFFiA1AGEAABtlrASCRD3EE6fjf/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.359999999999985
+        },
+        "target_timerange": {
+            "start_offset": 210.78,
+            "end_offset": 215.14
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4b6a984211efa7973436ac120018",
+        "text": "老母生病 媳妇跟人跑了 孩子也快要上学了",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/b73ca09a8e252708d5df1f3eec5f0763/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o01JjOA2SBJEEbBcBFIAzlefrrdAeFIDAvGC0W/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.570000000000022
+        },
+        "target_timerange": {
+            "start_offset": 215.14,
+            "end_offset": 219.71
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4cd2984211efa7973436ac120018",
+        "text": "而他却无能为力",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/e689dfe8b61f0a0c703d6edfd4cb0403/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oQNv9AhBzAt1EpGiiAAlxBEcRgWkfkuQ8IE6AV/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.1200000000000045
+        },
+        "target_timerange": {
+            "start_offset": 219.71,
+            "end_offset": 221.83
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4e30984211efa7973436ac120018",
+        "text": "我的到来 仿佛让他看到了生的希望",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/df7059ea7149e68b82d37bd09053c441/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oc0BERGjAEsWVADuBAAF0S62EftrOrECfAeskF/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.4599999999999795
+        },
+        "target_timerange": {
+            "start_offset": 221.83,
+            "end_offset": 225.29
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d4f98984211efa7973436ac120018",
+        "text": "我们很快签了协议合约",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/9baaa2903261e97f775ac17a3d56d36a/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ocKAigBiyEA0AIAQhsRktvElXUtVBf0Ah6Rz0k/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.3000000000000114
+        },
+        "target_timerange": {
+            "start_offset": 225.29,
+            "end_offset": 227.59
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5100984211efa7973436ac120018",
+        "text": "我承诺一个星期内将款项到账",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/c9faaa506de26a56726f35eb58a38aee/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ogt3ViJRiEAEQ7kMlkfvRAVBIAjvzBhngAt6AV/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.9499999999999886
+        },
+        "target_timerange": {
+            "start_offset": 227.59,
+            "end_offset": 230.54
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5312984211efa7973436ac120018",
+        "text": "离开时 杨自奎和阿东对此感到震惊",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/226777f4054dd420b262e63e4de6e879/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o8GE6vSFBDtSKGckWiFAAeEEjFfsAjrfEACOAW/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.070000000000022
+        },
+        "target_timerange": {
+            "start_offset": 230.54,
+            "end_offset": 234.61
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5470984211efa7973436ac120018",
+        "text": "杨自奎不解地问：金子！",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/d416529ede326f216b7b85372875e4e7/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oohvk8uI0EnJRtrgizlQJvB8iVfABA6AAE5kAR/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.7399999999999807
+        },
+        "target_timerange": {
+            "start_offset": 234.61,
+            "end_offset": 237.35
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d55c4984211efa7973436ac120018",
+        "text": "那几家大商场几十万的订金还没有敲定呢！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/5ee3f3999bb764a9fc7c99582dc13f47/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/osAIBiQqEIzAvrR6EAkALhiAZkadtgfl4kBvvV/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.710000000000008
+        },
+        "target_timerange": {
+            "start_offset": 237.35,
+            "end_offset": 241.06
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d57a4984211efa7973436ac120018",
+        "text": "这又投资三十万 我们去哪里搞钱啊？",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/e5e978d55f4f2e6a4f98ed47b2d2894c/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/o8vUADeEJAFWBWrfEAfkjGO6tAjjSFiIEElCAv/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.460000000000008
+        },
+        "target_timerange": {
+            "start_offset": 241.06,
+            "end_offset": 244.52
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d595c984211efa7973436ac120018",
+        "text": "这厂子基本是倒闭状态了",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/d3eded0a3cc8cd88d0f9b801d98e271e/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oseSDf9rEEfGI1bM5AOAFC7JIVjWFACoBBYATd/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.6999999999999886
+        },
+        "target_timerange": {
+            "start_offset": 244.52,
+            "end_offset": 247.22
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5b14984211efa7973436ac120018",
+        "text": "这三十万怕是要打水漂了！",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/d3d5f8ef4a81399f762a63250b3178df/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/owEi37E2ki6rw8QFAtASFIx8ASBjPyAZkyoPA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.5749999999999886
+        },
+        "target_timerange": {
+            "start_offset": 247.22,
+            "end_offset": 249.795
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5c7c984211efa7973436ac120018",
+        "text": "我知道他们在担心什么 但我心中却充满了信心",
+        "audio_url": "https://v26-vvecloud.yangyi08.com/d3d5f8ef4a81399f762a63250b3178df/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/owEi37E2ki6rw8QFAtASFIx8ASBjPyAZkyoPA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 2.5749999999999886,
+            "end_offset": 6.1200000000000045
+        },
+        "target_timerange": {
+            "start_offset": 249.795,
+            "end_offset": 253.34
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5dda984211efa7973436ac120018",
+        "text": "只要有决心和努力",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/ca0f6edb1c0b510197a8eedc56d642ba/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ogOSBlxbIAWOCmuEIsAJfBFQAjF1jGfRJAKDeE/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.0900000000000034
+        },
+        "target_timerange": {
+            "start_offset": 253.34,
+            "end_offset": 255.43
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d5f2e984211efa7973436ac120018",
+        "text": "这个厂子一定能焕发出新的生机",
+        "audio_url": "https://v3-vvecloud.yangyi08.com/c951e6797c20efe7ecc9d87be158fd5e/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oYCw1Ey8PArAAAitiKsEJk8SIkoZBQ306pzYA/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.0989999999999895
+        },
+        "target_timerange": {
+            "start_offset": 255.43,
+            "end_offset": 258.529
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d608c984211efa7973436ac120018",
+        "text": "阿东也看向我 显然他也对我的决定感到疑惑",
+        "audio_url": "https://v6-vvecloud.yangyi08.com/f2793330d7769773d3f95d62b88eb822/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oUAAz6tAwiE6Ay0krZBvIQP33kzyASdCoigEa/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 4.250999999999976
+        },
+        "target_timerange": {
+            "start_offset": 258.529,
+            "end_offset": 262.78
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d61ea984211efa7973436ac120018",
+        "text": "或许 他们还不能理解我所看到的机遇",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/0f764b995e98addf24745268793cecd6/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/ooBIEAewEFFDiSAAIjxDGsVlWabAepOJCBofC1/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.740000000000009
+        },
+        "target_timerange": {
+            "start_offset": 262.78,
+            "end_offset": 266.52
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "382d6348984211efa7973436ac120018",
+        "text": "但我相信 未来会证明我的选择是正确",
+        "audio_url": "https://v9-vvecloud.yangyi08.com/39f04ddefc447877a864a4cf4a6db2e6/6724c5bc/video/tos/cn/tos-cn-v-2cd6b0/oIrJADeI4AFWBwsfEAtJCGO1bBjJSFfJEIlCAg/?a=7073&ch=0&cr=0&dr=0&&br=0&bt=0&ft=xztlUQhhe6BMyqBuUupJD12Nzj&mime_type=audio_mpeg&rc=QGlAYSNz&btag=c0000000008000&dy_q=1730459564&l=20241101191230D7A1DF0FC900026C7CF9&format=mp3",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 3.640000000000043
+        },
+        "target_timerange": {
+            "start_offset": 266.52,
+            "end_offset": 270.16
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]
