@@ -39,14 +39,8 @@ class Novel:
         self.dir = os.path.join(dir, sub_dir)
         self.novel_mode = novel_mode
         self.load_novel_info()
-        self.init_dirs()
         self.main_character = main_character
         self.default_mode = novel_mode
-
-    def init_dirs(self):
-        for dir in self.dirs_dict.values():
-            if not os.path.exists(os.path.join(self.dir, dir)):
-                os.makedirs(os.path.join(self.dir, dir), exist_ok=True)
 
 
     def get_dir(self, mode: str):
