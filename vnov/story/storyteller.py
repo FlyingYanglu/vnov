@@ -30,7 +30,10 @@ class StoryTeller(Role):
     
     def tell_chapter(self, novel:Novel, chapter_num, main_character="史金", last_context="", new_chat=False):
         stories, scene_jsons = [], []
-        cur_max_length = self.model.max_length - len(FIRSTPERSON_TELLING)-len(TELLING_INSERTION) - len(last_context)
+        #cur_max_length = self.model.max_length - len(FIRSTPERSON_TELLING)-len(TELLING_INSERTION) - len(last_context)
+        cur_max_length = self.model.max_length - self.model.token_length(FIRSTPERSON_TELLING)-self.model.token_length(TELLING_INSERTION) - self.model.token_length(last_context)
+        print("method len",len(FIRSTPERSON_TELLING),"\n",len(TELLING_INSERTION),"\n",len(last_context))
+        print("method token",self.model.token_length(FIRSTPERSON_TELLING),"\n",self.model.token_length(TELLING_INSERTION),"\n",self.model.token_length(last_context))
         chapter_content = novel.load_chapter(chapter_num)
         chapter_content, next_content = Novel.trunc_chapter(chapter_content, cur_max_length)
         while chapter_content:
@@ -58,13 +61,15 @@ class StoryTeller(Role):
                 continue
             scene_jsons.extend(scene_json)
             last_context = response
-            if len(last_context) > self.model.max_length//2:
-                last_context = Novel.split_chapter(last_context, self.model.max_length//2)[-1]
-            
+            last_context_len = self.model.max_length//4
+            if len(last_context) > last_context_len:
+                last_context = Novel.split_chapter(last_context, last_context_len)[-1]
+                print("len",len(last_context))
             stories.append(response)
 
             if next_content:
-                cur_max_length = self.model.max_length - len(FIRSTPERSON_TELLING) - len(TELLING_INSERTION) - len(last_context)
+                # cur_max_length = self.model.max_length - len(FIRSTPERSON_TELLING) - len(TELLING_INSERTION) - len(last_context)
+                cur_max_length = self.model.max_length - self.model.token_length(FIRSTPERSON_TELLING)-self.model.token_length(TELLING_INSERTION) - self.model.token_length(last_context)
                 chapter_content, next_content = Novel.trunc_chapter(next_content, cur_max_length)
             else:
                 break
@@ -87,8 +92,12 @@ class StoryTeller(Role):
         if kwargs.get("reset_chapters_inbetween", False):
             self.purge_character_dict(start_chapter, end_chapter, save_dir)
 
+
         self.save_prompt(save_dir)
-        self.send_init_message()
+        
+        if kwargs.get("send_init", False):
+            self.send_init_message()
+            
         last_context = ""
         if end_chapter is None:
             end_chapter = novel.num_chapters + 1
@@ -107,7 +116,7 @@ class StoryTeller(Role):
 
     def update_character_dict(self, scene_json, chapter_num):
         for scene_num, scene in enumerate(scene_json):
-            for character in scene["出场人物列表"]:
+            for character in scene["Character List"]:
                 if character not in self.character_dict:
                     self.character_dict[character] = {}
 
