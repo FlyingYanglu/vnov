@@ -1,7 +1,7 @@
 from vnov.configs import CONFIG
 from vnov.llms.base import BaseLLM
 from openai import OpenAI
-
+import transformers
 
 class Deepseek(BaseLLM):
     max_length = 4096
@@ -25,3 +25,20 @@ class Deepseek(BaseLLM):
         print(response)
         self.last_output = response
         return response.choices[0].message.content
+    
+    def token_length(self, context):
+        token_count = 0
+        
+        for char in context:
+            # Check if the character is Chinese (Unicode range: 0x4e00-0x9fff)
+            if '\u4e00' <= char <= '\u9fff':
+                token_count += 0.6
+            # Check if the character is English (uppercase or lowercase letters a-z or A-Z)
+            elif 'a' <= char <= 'z' or 'A' <= char <= 'Z':
+                token_count += 0.3
+            # If it's another character (e.g., whitespace or punctuation), treat it as an English character
+            else:
+                token_count += 0.3
+
+        # Round the token count to the nearest integer
+        return round(token_count)
