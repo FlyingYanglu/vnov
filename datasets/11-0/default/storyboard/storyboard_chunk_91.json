@@ -1,0 +1,210 @@
+[
+    {
+        "text": "On various pretexts, they all moved off, and I was soon left alone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing alone in the room"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wish I hadn’t mentioned Dinah!” I said to myself in a melancholy tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Nobody seems to like her, down here, and I’m sure she’s the best cat in the world!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Oh, my dear Dinah!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "affectionate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

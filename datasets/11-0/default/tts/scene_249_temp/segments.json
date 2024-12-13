@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "9ad0e37eb2de11efb6001070fd8d78a0",
+        "text": "“Ugh!” said the",
+        "audio_url": "https://v16m-default.akamaized.net/7d57167f32fe4f5b257b5bd7573f6bb9/6751b153/video/tos/maliva/tos-maliva-v-f15faa-us/oQLABhPnJEwAAVNEzlRfBFXUBDYBnVEqU5uPfQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3CkIOXq8Zmo&qs=13&rc=am54eW85cnZvdzUzNzhoM0Bpam54eW85cnZvdzUzNzhoM0BmcG02MmQ0bTVgLS1kLjZzYSNmcG02MmQ0bTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338545620300000000000000000000ffff0a0090026e43e3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.296
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.296
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9ad0e518b2de11efb6001070fd8d78a0",
+        "text": "Lory, with a shiver.",
+        "audio_url": "https://v16m-default.akamaized.net/7d57167f32fe4f5b257b5bd7573f6bb9/6751b153/video/tos/maliva/tos-maliva-v-f15faa-us/oQLABhPnJEwAAVNEzlRfBFXUBDYBnVEqU5uPfQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3CkIOXq8Zmo&qs=13&rc=am54eW85cnZvdzUzNzhoM0Bpam54eW85cnZvdzUzNzhoM0BmcG02MmQ0bTVgLS1kLjZzYSNmcG02MmQ0bTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338545620300000000000000000000ffff0a0090026e43e3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.296,
+            "end_offset": 2.592
+        },
+        "target_timerange": {
+            "start_offset": 1.296,
+            "end_offset": 2.592
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

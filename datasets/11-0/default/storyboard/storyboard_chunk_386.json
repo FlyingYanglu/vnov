@@ -1,0 +1,147 @@
+[
+    {
+        "text": "bit a large piece out of his teacup instead of the bread-and-butter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea table",
+                "soft chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "biting into a teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "teacup",
+                        "type": "porcelain",
+                        "condition": "slightly chipped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Just at this moment I felt a very curious sensation, which puzzled me a good deal until I made out what it was: I was beginning to grow larger again, and I thought at first I would get up and leave the court; but on second thoughts I decided to remain where I was as long as there was room for me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea table",
+                "soft chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "feeling a sensation",
+                    "growing larger"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "puzzled",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wish you wouldn’t squeeze so.” said the Dormouse, who was sitting next to me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea table",
+                "soft chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "complaining",
+                    "sitting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "irritated",
+                    "squinting"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "teacup",
+                        "type": "porcelain",
+                        "condition": "slightly chipped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered, camera slightly low angle"
+            }
+        ]
+    }
+]

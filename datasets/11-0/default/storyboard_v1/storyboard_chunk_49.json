@@ -1,0 +1,182 @@
+[
+    {
+        "text": "I said to myself, “whenever I eat or drink anything; so I’ll just see what this bottle does. I do hope it’ll make me grow large again, for really I’m quite tired of being such a tiny little thing!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "ceiling",
+                "door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a small bottle",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the bottle",
+                "expression": [
+                    "hopeful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "no accessories"
+                    }
+                },
+                "temporary_features": [
+                    "small stature"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It did so indeed, and much sooner than I had expected: before I had drunk half the bottle, I found my head pressing against the ceiling, and had to stoop to save my neck from being broken.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "ceiling",
+                "door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "drinking from the bottle",
+                    "stooping to avoid hitting the ceiling"
+                ],
+                "gaze_and_direction": "looking upward",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "no accessories"
+                    }
+                },
+                "temporary_features": [
+                    "growing rapidly"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I hastily put down the bottle, saying to myself “That’s quite enough—I hope I shan’t grow any more—As it is, I can’t get out at the door—I do wish I hadn’t.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "ceiling",
+                "door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "putting down the bottle",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the door",
+                "expression": [
+                    "worried",
+                    "regretful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "no accessories"
+                    }
+                },
+                "temporary_features": [
+                    "large stature"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Alas! it was too late to wish that! I went on growing, and growing, and very soon had to kneel down on the floor: in another minute there was not even room for this, and I tried the effect of lying down with one elbow against the door, and the other arm curled round my head.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "ceiling",
+                "door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "kneeling on the floor",
+                    "lying down with one elbow against the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "no accessories"
+                    }
+                },
+                "temporary_features": [
+                    "extremely large stature"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

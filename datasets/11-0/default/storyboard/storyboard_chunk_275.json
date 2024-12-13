@@ -1,0 +1,243 @@
+[
+    {
+        "text": "“What for?” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "luxury villa interior",
+                "grand hall",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Did you say ‘What a pity!’?” the Rabbit asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "luxury villa interior",
+                "grand hall",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cane"
+                ],
+                "composition": "Rabbit positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“No, I didn’t,” I said: “I don’t think it’s at all a pity.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "luxury villa interior",
+                "grand hall",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said ‘What for?’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "luxury villa interior",
+                "grand hall",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“She boxed the Queen’s ears—” the Rabbit began.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "luxury villa interior",
+                "grand hall",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cane"
+                ],
+                "composition": "Rabbit positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

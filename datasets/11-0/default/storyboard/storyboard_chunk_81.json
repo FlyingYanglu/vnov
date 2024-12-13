@@ -1,0 +1,125 @@
+[
+    {
+        "text": "mall ones choked and had to be patted on the back.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "patting a small character on the back"
+                ],
+                "gaze_and_direction": "looking at the small character",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse on the left, small character on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "However, it was over at last, and they sat down again in a ring, and begged the Mouse to tell them something more.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "sitting down in a circle with other characters"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, surrounded by other characters, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You promised to tell me your history, you know,” I said to the Mouse, “and why it is you hate—C and D,” I added in a whisper, half afraid that it would be offended again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "whispering to the Mouse"
+                ],
+                "gaze_and_direction": "looking at the Mouse",
+                "expression": [
+                    "hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the right, Mouse on the left, camera slightly low angle"
+            }
+        ]
+    }
+]

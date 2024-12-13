@@ -1,0 +1,187 @@
+[
+    {
+        "text": "He was still gazing at the sky, which I found decidedly uncivil.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "He",
+                "age": "young adult",
+                "actions": [
+                    "gazing at the sky"
+                ],
+                "gaze_and_direction": "looking upwards",
+                "expression": [
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the left side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“But perhaps he can’t help it,” I thought to myself.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“His eyes are so very nearly at the top of his head.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "He",
+                "age": "young adult",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking upwards",
+                "expression": [
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the left side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "But at any rate he might answer questions.—How am I to get in?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

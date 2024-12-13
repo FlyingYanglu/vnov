@@ -1,0 +1,337 @@
+[
+    {
+        "text": "And with that she began nursing her child again, singing a sort of lullaby to it as she did so, and giving it a violent shake at the end of every line:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "nursing the baby",
+                    "singing a lullaby",
+                    "shaking the baby violently at the end of each line"
+                ],
+                "gaze_and_direction": "looking down at the baby",
+                "expression": [
+                    "stern",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby with one hand",
+                    "gesturing with the other hand"
+                ],
+                "composition": "Duchess positioned to the left, baby centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Speak roughly to your little boy, And beat him when he sneezes: He only does it to annoy, Because he knows it teases.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "singing the lullaby",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby with one hand",
+                    "gesturing with the other hand"
+                ],
+                "composition": "Duchess centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "CHORUS. (In which the cook and the baby joined): “Wow! wow! wow!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "joining the chorus",
+                    "singing loudly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enthusiastic",
+                    "open-mouthed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "holding a wooden spoon"
+                ],
+                "composition": "Cook positioned to the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "While the Duchess sang the second verse of the song, she kept tossing the baby violently up and down, and the poor little thing howled so, that I could hardly hear the words:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "singing the second verse",
+                    "tossing the baby violently up and down"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "stern",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby with one hand",
+                    "gesturing with the other hand"
+                ],
+                "composition": "Duchess centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I speak severely to my boy, I beat him when he sneezes; For he can thoroughly enjoy The pepper when he pleases!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "singing the second verse",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby with one hand",
+                    "gesturing with the other hand"
+                ],
+                "composition": "Duchess centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "CHORUS. “Wow! wow! wow!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "joining the chorus",
+                    "singing loudly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enthusiastic",
+                    "open-mouthed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "holding a wooden spoon"
+                ],
+                "composition": "Cook positioned to the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Here! you may nurse it a bit, if you like!” the Duchess said to me, flinging the baby at me as she spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft shadows",
+                "evening light"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "curtains",
+                "crib"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer",
+                    "flinging the baby towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby with one hand",
+                    "gesturing with the other hand"
+                ],
+                "composition": "Duchess centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "36f0b876b2dd11efb11eb8cef659fbf0",
+        "text": "never was so small as",
+        "audio_url": "https://v16m-default.akamaized.net/fd999a5b45e3a8b5b99d31fe7b271239/6751af01/video/tos/maliva/tos-maliva-v-f15faa-us/oAZRvCA1pEU1sBSi4qimaiBAEVWp4n0QFC2vA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThIikIOXq8Zmo&qs=13&rc=am9kZHA5cjpvdzUzNzhoM0Bpam9kZHA5cjpvdzUzNzhoM0BrYWBqMmRraTVgLS1kLjZzYSNrYWBqMmRraTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338486134500000000000000000000ffff0a0066a94012ed&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.464
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.464
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "36f0ba7eb2dd11efb11eb8cef659fbf0",
+        "text": "this before, never!",
+        "audio_url": "https://v16m-default.akamaized.net/fd999a5b45e3a8b5b99d31fe7b271239/6751af01/video/tos/maliva/tos-maliva-v-f15faa-us/oAZRvCA1pEU1sBSi4qimaiBAEVWp4n0QFC2vA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThIikIOXq8Zmo&qs=13&rc=am9kZHA5cjpvdzUzNzhoM0Bpam9kZHA5cjpvdzUzNzhoM0BrYWBqMmRraTVgLS1kLjZzYSNrYWBqMmRraTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338486134500000000000000000000ffff0a0066a94012ed&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.464,
+            "end_offset": 2.928
+        },
+        "target_timerange": {
+            "start_offset": 1.464,
+            "end_offset": 2.928
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

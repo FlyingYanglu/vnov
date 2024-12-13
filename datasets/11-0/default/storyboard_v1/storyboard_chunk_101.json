@@ -1,0 +1,266 @@
+[
+    {
+        "text": "“I must go and get ready to play croquet with the Queen,” and she hurried out of the room.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "large room",
+                "decorative furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "hurriedly walking out of the room"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a croquet mallet"
+                ],
+                "composition": "Main character centered, camera slightly behind her"
+            }
+        ]
+    },
+    {
+        "text": "The cook threw a frying-pan after her as she went out, but it just missed her.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "large room",
+                "decorative furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing a frying-pan towards the door"
+                ],
+                "gaze_and_direction": "looking at the door",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white apron",
+                        "style": "full-length",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [
+                    "holding a frying-pan"
+                ],
+                "composition": "Main character on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I caught the baby with some difficulty, as it was a queer-shaped little creature, and held out its arms and legs in all directions, “just like a star-fish,” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "large room",
+                "decorative furniture"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "struggling to hold the baby"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby with outstretched limbs"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The poor little thing was snorting like a steam-engine when I caught it, and kept doubling itself up and straightening itself out again, so that altogether, for the first minute or two, it was as much as I could do to hold it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "large room",
+                "decorative furniture"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "holding the baby with difficulty"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a wriggling baby"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "As soon as I had made out the proper way of nursing it, (which was to twist it up into a sort of knot, and then keep tight hold of its right ear and left foot, so as to prevent it from undoing itself,) I carried it out into the open air.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "carrying the baby in a twisted knot"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby in a twisted knot"
+                ],
+                "composition": "Main character centered, camera slightly behind her"
+            }
+        ]
+    },
+    {
+        "text": "“If I don’t take this child away with me,”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "thinking to herself"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby in a twisted knot"
+                ],
+                "composition": "Main character centered, camera slightly behind her"
+            }
+        ]
+    }
+]

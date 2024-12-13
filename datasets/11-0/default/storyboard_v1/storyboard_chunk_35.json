@@ -1,0 +1,119 @@
+[
+    {
+        "text": "“What _is_ a Caucus-race?” I said; not that I wanted much to know, but the Dodo had paused as if it thought that _somebody_ ought to.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field"
+            ],
+            "scene_features": [
+                "birds gathered",
+                "open space"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the Dodo",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the Dodo",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Speak English!” said the Eaglet. “I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field"
+            ],
+            "scene_features": [
+                "birds gathered",
+                "open space"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "looking at the Dodo"
+                ],
+                "gaze_and_direction": "looking at the Dodo",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Eaglet positioned slightly right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Eaglet bent down its head to hide a smile, and some of the other birds tittered audibly.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field"
+            ],
+            "scene_features": [
+                "birds gathered",
+                "open space"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "bending head down"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Eaglet positioned slightly right, camera at eye level"
+            }
+        ]
+    }
+]

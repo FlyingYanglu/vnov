@@ -1,0 +1,147 @@
+[
+    {
+        "text": "However, at last I stretched my arms round it as far as they would go, and broke off a bit of the edge with each hand.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large object in the center"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stretching arms around a large object",
+                    "breaking off a bit of the edge with each hand"
+                ],
+                "gaze_and_direction": "focused on the object",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black pants",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "slight sweat on forehead"
+                ],
+                "composition": "Main character positioned to the left, object centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I thought to myself. “And now which is which?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large object in the center"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding two pieces of the object",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down at the pieces",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black pants",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "slight sweat on forehead"
+                ],
+                "composition": "Main character centered, pieces of object in hands, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I said to myself, and nibbled a little of the right-hand bit to try the effect: the next moment I felt a violent blow underneath my chin: it had struck my foot!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large object in the center"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nibbling a piece of the object",
+                    "suddenly reacting to a blow"
+                ],
+                "gaze_and_direction": "looking surprised at the viewer",
+                "expression": [
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black pants",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "slight sweat on forehead",
+                    "holding pieces of object"
+                ],
+                "composition": "Main character centered, camera slightly low angle to emphasize shock"
+            }
+        ]
+    }
+]

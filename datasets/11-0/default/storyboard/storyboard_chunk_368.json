@@ -1,0 +1,259 @@
+[
+    {
+        "text": "The Gryphon went on. No accounting for tastes!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered robe",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Sing her ‘_Turtle Soup_,’ will you, old fellow?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "gesturing towards the Mock Turtle"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered robe",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing this:—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "mature",
+                "actions": [
+                    "sighing deeply",
+                    "beginning to sing"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "teary-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn",
+                        "condition": "dull"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "shell"
+                    }
+                },
+                "composition": "Mock Turtle positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Beautiful Soup, so rich and green,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "mature",
+                "actions": [
+                    "singing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn",
+                        "condition": "dull"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "shell"
+                    }
+                },
+                "composition": "Mock Turtle positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Waiting in a hot tureen!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "mature",
+                "actions": [
+                    "singing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn",
+                        "condition": "dull"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "shell"
+                    }
+                },
+                "composition": "Mock Turtle positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Who for such dainties would not stoop? Soup of the evening, beautiful Soup!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "mature",
+                "actions": [
+                    "singing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn",
+                        "condition": "dull"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "shell"
+                    }
+                },
+                "composition": "Mock Turtle positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

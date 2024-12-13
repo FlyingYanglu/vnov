@@ -1,0 +1,262 @@
+[
+    {
+        "text": "Why, there’s hardly room for _you_, and no room at all for any lesson-books!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "bookshelves",
+                "desk"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "frustrated",
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of books"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and then the other, and making quite a conversation of it altogether;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "bookshelves",
+                "desk"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "thoughtful",
+                    "engaged"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of books"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "but after a few minutes I heard a voice outside, and stopped to listen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "bookshelves",
+                "desk"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "pausing",
+                    "turning head towards the door"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "curious",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of books"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And so I went on, taking first one side “Mary Ann! Mary Ann!” said the voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "bookshelves",
+                "desk"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "continuing to listen",
+                    "looking towards the door"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "focused",
+                    "listening intently"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of books"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Fetch me my gloves this moment!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "bookshelves",
+                "desk"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "reacting to the voice",
+                    "looking towards the door"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "surprised",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of books"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

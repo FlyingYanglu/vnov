@@ -1,0 +1,215 @@
+[
+    {
+        "text": "either way I’ll get into the garden, and I don’t care which happens!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "standing at the garden entrance"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "She ate a little bit, and said anxiously to herself, “Which way?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "eating a small piece of cake",
+                    "speaking to herself"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Which way?”, holding her hand on the top of her head to feel which way it was growing,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "holding hand on top of head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and she was quite surprised to find that she remained the same size: to be sure, this generally happens when one eats cake,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking at her body"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "but Alice had got so much into the way of expecting nothing but out-of-the-way things to",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

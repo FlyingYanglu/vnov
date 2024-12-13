@@ -1,0 +1,214 @@
+[
+    {
+        "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden table",
+                "royal decor"
+            ],
+            "scene_features": [
+                "tarts on the table",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing triumphantly at the tarts"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "triumphant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden table",
+                "royal decor"
+            ],
+            "scene_features": [
+                "tarts on the table",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "addressing the Queen",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden table",
+                "royal decor"
+            ],
+            "scene_features": [
+                "tarts on the table",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing an inkstand",
+                    "speaking furiously"
+                ],
+                "gaze_and_direction": "looking at the Lizard",
+                "expression": [
+                    "furious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Queen positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "(The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden table",
+                "royal decor"
+            ],
+            "scene_features": [
+                "tarts on the table",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "young",
+                "actions": [
+                    "writing hastily on a slate",
+                    "wiping ink from face"
+                ],
+                "gaze_and_direction": "looking down at the slate",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "plain",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "slate",
+                        "type": "writing tool"
+                    }
+                },
+                "temporary_features": [
+                    "ink on face"
+                ],
+                "composition": "Bill positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Then the words don’t _fit_ you,” said the King, looking round the court with a smile.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden table",
+                "royal decor"
+            ],
+            "scene_features": [
+                "tarts on the table",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "looking around the court",
+                    "smiling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

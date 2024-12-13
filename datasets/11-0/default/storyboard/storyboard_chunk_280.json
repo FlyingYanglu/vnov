@@ -1,0 +1,186 @@
+[
+    {
+        "text": "n was in a furious passion, and went stamping about, and shouting “Off with his head!” or “Off with her head!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "ornate furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "stamping feet",
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "veins bulging on forehead"
+                ],
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“The Queen will hear you! about once in a minute.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "ornate furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "whispering"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "sweating"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "I began to feel very uneasy: to be sure, I had not as yet had any dispute with the Queen, but I knew that it might happen any minute,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "ornate furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "fidgeting",
+                    "looking around nervously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uneasy",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "sweating"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“and then,” I thought, “what would become of me?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "ornate furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "fearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "sweating"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "text": "“Idiot!” said the Queen, tossing her head impatiently; and, turning to Alice, she went on, “What’s your name, child?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "rose-tree",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "tossing her head impatiently",
+                    "turning to Alice"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "impatient",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned on the left, camera slightly angled to capture her expression and movement"
+            }
+        ]
+    },
+    {
+        "text": "“My name is Alice, so please your Majesty,” I said very politely; but I added to myself, “Why, they’re only a pack of cards, after all.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "rose-tree",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "speaking politely to the Queen",
+                    "thinking to herself"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "polite",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "modest",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairbow",
+                        "type": "ribbon"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned on the right, camera slightly angled to capture her expression and movement"
+            }
+        ]
+    },
+    {
+        "text": "“And who are _these?_” said the Queen, pointing to the three gardeners who were lying round the rose-tree; for, you see, as they were lying on their faces, and the pattern on their backs was the same as the rest of the pack, she could not tell whether they were gardeners, or soldiers, or courtiers,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "rose-tree",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "pointing to the three gardeners"
+                ],
+                "gaze_and_direction": "looking at the gardeners",
+                "expression": [
+                    "curious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned on the left, camera slightly angled to capture her pointing gesture and the gardeners in the background"
+            }
+        ]
+    }
+]

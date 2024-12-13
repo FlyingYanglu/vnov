@@ -1,0 +1,297 @@
+[
+    {
+        "text": "he added, looking angrily at the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "looking angrily at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "It was the best butter, the March Hare meekly replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "meekly replying"
+                ],
+                "gaze_and_direction": "looking down at the table",
+                "expression": [
+                    "submissive",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "bowler hat",
+                        "style": "small",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Yes, but some crumbs must have got in as well, the Hatter grumbled.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "grumbling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "displeased",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "You shouldn’t have put it in with the bread-knife.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "scolding",
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The March Hare took the watch and looked at it gloomily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "taking the watch",
+                    "looking at it gloomily"
+                ],
+                "gaze_and_direction": "looking down at the watch",
+                "expression": [
+                    "gloomy",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "bowler hat",
+                        "style": "small",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter was the first to break the silence.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "breaking the silence"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera frontal"
+            }
+        ]
+    }
+]

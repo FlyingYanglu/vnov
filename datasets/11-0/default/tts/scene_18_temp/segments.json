@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "c25054deb2d911ef8c075c6f6994e9ec",
+        "text": "(Which was very likely true.)",
+        "audio_url": "https://v16m-default.akamaized.net/16ac5de551cdebd325a52d4180ecfd13/6751a933/video/tos/maliva/tos-maliva-v-f15faa-us/ooCIhAxEEFLROUAQIVfDJRVAVpqATinijB2fBa/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThBOkIOXq8Zmo&qs=13&rc=M25kaGs5cm5vdzUzNzhoM0BpM25kaGs5cm5vdzUzNzhoM0BlLW0xMmRjNjVgLS1kLjZzYSNlLW0xMmRjNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338337689000000000000000000000ffff0a006d7233ac9d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6560000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6560000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c2505d30b2d911ef8c075c6f6994e9ec",
+        "text": "Down, down, down.",
+        "audio_url": "https://v16m-default.akamaized.net/7898e837b8f808b5b1d36596cd952ed9/6751a933/video/tos/maliva/tos-maliva-v-f15faa-us/oExRpznTiFTKFicBEAkEAogVqoAqA4B2wENfqO/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThBOkIOXq8Zmo&qs=13&rc=M2g3c3A5cm5vdzUzNzhoM0BpM2g3c3A5cm5vdzUzNzhoM0BwNXI2MmRjNjVgLS1kLjZzYSNwNXI2MmRjNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338337689000000000000000000000ffff0a006d7233ac9d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.992
+        },
+        "target_timerange": {
+            "start_offset": 1.6560000000000001,
+            "end_offset": 3.648
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

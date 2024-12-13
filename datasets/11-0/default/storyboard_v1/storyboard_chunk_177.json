@@ -1,0 +1,217 @@
+[
+    {
+        "text": "“Of course it is,” said the Duchess, who seemed ready to agree to everything that I said;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand sofa",
+                "crystal chandelier",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "agreeable",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Duchess positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“there’s a large mustard-mine near here.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand sofa",
+                "crystal chandelier",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Duchess positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And the moral of that is—‘The more there is of mine, the less there is of yours.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand sofa",
+                "crystal chandelier",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with emphasis"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Duchess positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, I know!” I exclaimed, who had not attended to this last remark,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand sofa",
+                "crystal chandelier",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "exclaiming enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“it’s a vegetable.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand sofa",
+                "crystal chandelier",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

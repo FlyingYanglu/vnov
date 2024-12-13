@@ -1,0 +1,136 @@
+[
+    {
+        "text": "“Ah, well! It means much the same thing,” said the Duchess, digging her sharp little chin into my shoulder as she added, “and the moral of _that_ is—‘Take care of the sense, and the sounds will take care of themselves.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "curtains",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "digging her sharp little chin into the protagonist's shoulder",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark dress",
+                        "style": "Victorian",
+                        "condition": "well-worn"
+                    },
+                    "accessories": {
+                        "item": "lace collar",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“How fond she is of finding morals in things!” I thought to myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "curtains",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Protagonist",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down, reflective",
+                "expression": [
+                    "amused",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light blouse",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Protagonist centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I dare say you’re wondering why I don’t put my arm round your waist,” the Duchess said after a pause:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "curtains",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with her hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark dress",
+                        "style": "Victorian",
+                        "condition": "well-worn"
+                    },
+                    "accessories": {
+                        "item": "lace collar",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned to the right, camera slightly angled"
+            }
+        ]
+    }
+]

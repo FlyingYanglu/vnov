@@ -1,0 +1,266 @@
+[
+    {
+        "text": "and it put the hookah into its mouth and began smoking again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "putting the hookah into its mouth",
+                    "beginning to smoke"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "This time I waited patiently until it chose to speak again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "waiting patiently"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "patient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing in the grass"
+                ],
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "In a minute or two the Caterpillar took the hookah out of its mouth and yawned once or twice, and shook itself.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "taking the hookah out of its mouth",
+                    "yawning",
+                    "shaking itself"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "bored"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then it got down off the mushroom, and crawled away in the grass, merely remarking as it went, “One side will make you grow taller, and the other side will make you grow shorter.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "getting down off the mushroom",
+                    "crawling away in the grass",
+                    "remarking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "moving away from the mushroom"
+                ],
+                "composition": "Caterpillar off-center, camera at ground level"
+            }
+        ]
+    },
+    {
+        "text": "“One side of _what?_ The other side of _what?_” I thought to myself.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking at the mushroom",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing in the grass"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Of the mushroom,” said the Caterpillar, just as if I had asked it aloud;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "saying",
+                    "looking at the mushroom"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "text": "“And who are _these?_” said the Queen, pointing to the three gardeners who were lying round the rose-tree;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "garden"
+            ],
+            "scene_features": [
+                "rose-tree",
+                "gardeners lying on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "pointing at the gardeners"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "for, you see, as they were lying on their faces, and the pattern on their backs was the same as the rest of the pack, she could not tell whether they were gardeners, or soldiers, or courtiers, or three of her own children.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "garden"
+            ],
+            "scene_features": [
+                "rose-tree",
+                "gardeners lying on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the gardeners",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“How should _I_ know?” I said, surprised at my own courage.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "garden"
+            ],
+            "scene_features": [
+                "rose-tree",
+                "gardeners lying on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a surprised tone"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "surprised",
+                    "brave"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It’s no business of _mine_.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "garden"
+            ],
+            "scene_features": [
+                "rose-tree",
+                "gardeners lying on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking assertively"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "assertive",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Queen turned crimson with fury, and, after glaring at me for a moment like a wild beast, screamed “Off with her head! Off—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "garden"
+            ],
+            "scene_features": [
+                "rose-tree",
+                "gardeners lying on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "glaring fiercely",
+                    "screaming"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious",
+                    "wild"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Nonsense!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "garden"
+            ],
+            "scene_features": [
+                "rose-tree",
+                "gardeners lying on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking defiantly"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "defiant",
+                    "brave"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

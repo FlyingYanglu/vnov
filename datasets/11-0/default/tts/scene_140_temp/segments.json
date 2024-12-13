@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "4e0ce440b2dc11ef98bdb8cef692109a",
+        "text": "“Dear, dear!",
+        "audio_url": "https://v16m-default.akamaized.net/71f45c0e5138871d85f743a6dd1405f7/6751ad78/video/tos/maliva/tos-maliva-v-f15faa-us/okuOoAGgICCIACsqeCXgIyALeritc2JIieQrSs/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThoxkIOXq8Zmo&qs=13&rc=ajd3NXU5cjhvdzUzNzhoM0Bpajd3NXU5cjhvdzUzNzhoM0BxLXEvMmRrZjVgLS1kLjZzYSNxLXEvMmRrZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338447003000000000000000000000ffff0a00af938a5f12&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.08
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.08
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4e0cec7eb2dc11ef98bdb8cef692109a",
+        "text": "How queer everything is to-day!",
+        "audio_url": "https://v16m-default.akamaized.net/0e2a5e62e59a04e6afe516a24d64f54d/6751ad78/video/tos/maliva/tos-maliva-v-f15faa-us/oMACfIOdAsr3QtpCWrXCGIIMigfSoAfC6288iq/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThoxkIOXq8Zmo&qs=13&rc=anV5bG85cjhvdzUzNzhoM0BpanV5bG85cjhvdzUzNzhoM0Byc3FeMmRrZjVgLS1kLjZzYSNyc3FeMmRrZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338447003000000000000000000000ffff0a00af938a5f12&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.92
+        },
+        "target_timerange": {
+            "start_offset": 1.08,
+            "end_offset": 3
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

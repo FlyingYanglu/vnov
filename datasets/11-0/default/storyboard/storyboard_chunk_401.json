@@ -1,0 +1,179 @@
+[
+    {
+        "text": "The court erupted into chaos as everyone scrambled to comply with her orders.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large windows",
+                "wooden benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "raising hand to give orders"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse was hastily removed, and by the time things settled down, the cook had mysteriously vanished.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large windows",
+                "wooden benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "sighing in relief"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "majestic",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Never mind! Call the next witness.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large windows",
+                "wooden benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "speaking to the court"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "majestic",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He leaned towards the Queen and whispered, “Really, my dear, you must cross-examine the next witness.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large windows",
+                "wooden benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "leaning towards the Queen",
+                    "whispering"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "serious",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "majestic",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned slightly to the left, camera slightly overhead"
+            }
+        ]
+    }
+]

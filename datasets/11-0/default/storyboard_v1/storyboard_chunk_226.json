@@ -1,0 +1,214 @@
+[
+    {
+        "text": "“They’re putting down their names,” the Gryphon whispered in reply, “for fear they should forget them before the end of the trial.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "whispering to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "traditional",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Stupid things!” I began in a loud, indignant voice, but I stopped hastily, for the White Rabbit cried out, “Silence in the court!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "crying out to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and the King put on his spectacles and looked anxiously round, to make out who was talking.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "putting on spectacles",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "ornate",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I could see, as well as if I were looking over their shoulders, that all the jurors were writing down “stupid things!” on their slates,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Juror",
+                "age": "adult",
+                "actions": [
+                    "writing on a slate"
+                ],
+                "gaze_and_direction": "looking at the slate",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain robe",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "slate",
+                        "type": "worn"
+                    }
+                },
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and I could even make out that one of them didn’t know how to spell “stupid,” and that he had to ask his neighbour to tell him.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Juror",
+                "age": "adult",
+                "actions": [
+                    "looking confused",
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain robe",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "slate",
+                        "type": "worn"
+                    }
+                },
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    }
+]

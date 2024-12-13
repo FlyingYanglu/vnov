@@ -1,0 +1,314 @@
+[
+    {
+        "text": "I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down, deep in thought",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "notebook in hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Or perhaps they won’t walk the way I want to go! Let me see: I’ll give them a new pair of boots every Christmas.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "writing in the notebook",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the notebook",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "notebook in hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I went on planning how I would manage it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "writing in the notebook",
+                    "deep in thought"
+                ],
+                "gaze_and_direction": "looking at the notebook",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "notebook in hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“They must go by the carrier,” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "writing in the notebook",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the notebook",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "notebook in hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“And how funny it’ll seem, sending presents to one’s own feet! And how odd the directions will look!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "writing in the notebook",
+                    "smiling to oneself"
+                ],
+                "gaze_and_direction": "looking at the notebook",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "notebook in hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "_Alice’s Right Foot, Esq., Hearthrug, near the Fender, (with Alice’s love_).",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "writing in the notebook",
+                    "finalizing the address"
+                ],
+                "gaze_and_direction": "looking at the notebook",
+                "expression": [
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "notebook in hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

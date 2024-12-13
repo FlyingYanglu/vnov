@@ -1,0 +1,194 @@
+[
+    {
+        "text": "“She’d soon fetch it back!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And who is Dinah, if I might venture to ask the question?” said the Lory.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I replied eagerly, for I was always ready to talk about my pet.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital watch"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Dinah’s our cat.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital watch"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

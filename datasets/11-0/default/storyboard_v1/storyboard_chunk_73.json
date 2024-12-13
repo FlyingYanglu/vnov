@@ -1,0 +1,349 @@
+[
+    {
+        "text": "“You are old,” said the youth, “as I mentioned before, And have grown most uncommonly fat;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Yet you turned a back-somersault in at the door— Pray, what is the reason of that?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“In my youth,” said the sage, as he shook his grey locks, “I kept all my limbs very supple By the use of this ointment—one shilling the box— Allow me to sell you a couple?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Sage",
+                "age": "elderly",
+                "actions": [
+                    "shaking grey locks",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "wise",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "robe",
+                        "style": "long",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small box of ointment"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You are old,” said the youth, “and your jaws are too weak For anything tougher than suet;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Yet you finished the goose, with the bones and the beak— Pray, how did you manage to do it?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“In my youth,” said his father, “I took to the law, And argued each case with my wife;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "elderly",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "suit jacket",
+                        "style": "formal",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And the muscular strength, which it gave to my jaw, Has lasted the rest of my life.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "old bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "elderly",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "suit jacket",
+                        "style": "formal",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "text": "“I can hardly breathe.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "soft furniture",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "placing hands on chest",
+                    "gasping for air"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "distressed",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "straight-leg",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "pendant"
+                    }
+                },
+                "temporary_features": [
+                    "pale face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I can’t help it,” I said very meekly: “I’m growing.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "soft furniture",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking softly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "meek",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "straight-leg",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "pendant"
+                    }
+                },
+                "temporary_features": [
+                    "pale face"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You’ve no right to grow _here_,” said the Dormouse.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "soft furniture",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking sternly",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a small stool"
+                ],
+                "composition": "Dormouse positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Don’t talk nonsense,” I said more boldly: “you know you’re growing too.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "small room",
+                "soft furniture",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking confidently",
+                    "pointing at the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "bold",
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "straight-leg",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "pendant"
+                    }
+                },
+                "temporary_features": [
+                    "pale face"
+                ],
+                "composition": "Main character positioned to the right, camera at eye level"
+            }
+        ]
+    }
+]

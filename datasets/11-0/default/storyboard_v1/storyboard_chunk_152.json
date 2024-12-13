@@ -1,0 +1,352 @@
+[
+    {
+        "text": "It was talking in a hurried, nervous manner, smiling at everything that was said, and went by without noticing me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Unknown Character",
+                "age": "adult",
+                "actions": [
+                    "talking hurriedly",
+                    "smiling at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then followed the Knave of Hearts, carrying the King’s crown on a crimson velvet cushion.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave of Hearts",
+                "age": "young adult",
+                "actions": [
+                    "carrying a crimson velvet cushion with a crown"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal attire",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "carried on cushion"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "Last of all this grand procession, came the King and Queen of Hearts.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "walking majestically"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "regal"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly behind"
+            },
+            {
+                "name": "Queen of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "walking majestically"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "regal"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "I was rather doubtful whether I ought not to lie down on my face like the three gardeners, but I couldn’t remember ever having heard of such a rule at processions.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "doubtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And besides, what would be the use of a procession,” I thought, “if people had all to lie down upon their faces, so that they couldn’t see it?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I stood still where I was and waited.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "waiting"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "patient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When the procession came opposite to me, they all stopped and looked at me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant trees"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "King of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "stopping",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly behind"
+            },
+            {
+                "name": "Queen of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "stopping",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly behind"
+            }
+        ]
+    }
+]

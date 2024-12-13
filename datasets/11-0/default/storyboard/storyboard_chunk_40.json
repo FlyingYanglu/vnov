@@ -1,0 +1,161 @@
+[
+    {
+        "text": "I took up the fan and gloves, and, as the hall was very hot, I kept fanning myself all the time I went on talking.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "hot",
+                "daytime"
+            ],
+            "scene_features": [
+                "hall",
+                "luxury villa",
+                "marble floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a fan and gloves",
+                    "fanning self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "slightly uncomfortable",
+                    "talking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding fan and gloves"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Dear, dear! How queer everything is to-day!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "hot",
+                "daytime"
+            ],
+            "scene_features": [
+                "hall",
+                "luxury villa",
+                "marble floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a fan and gloves",
+                    "fanning self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "talking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding fan and gloves"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And yesterday things went on just as usual.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "hot",
+                "daytime"
+            ],
+            "scene_features": [
+                "hall",
+                "luxury villa",
+                "marble floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a fan and gloves",
+                    "fanning self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "talking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding fan and gloves"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

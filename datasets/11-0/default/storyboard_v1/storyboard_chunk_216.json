@@ -1,0 +1,399 @@
+[
+    {
+        "text": "It’s all about as curious as it can be,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered robe",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It all came different!” the Mock Turtle repeated thoughtfully.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn as a cloak",
+                        "condition": "weathered"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round",
+                        "condition": "slightly bent"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I should like to hear her try and repeat something now.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hopeful",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn as a cloak",
+                        "condition": "weathered"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round",
+                        "condition": "slightly bent"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Tell her to begin.” He looked at the Gryphon as if he thought it had some kind of authority over me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "looking at the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "expectant",
+                    "submissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "worn as a cloak",
+                        "condition": "weathered"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round",
+                        "condition": "slightly bent"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Stand up and repeat ‘’Tis the voice of the sluggard,’” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered robe",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "How the creatures order one about, and make one repeat lessons! I thought to myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "resigned",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I might as well be at school at once.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "resigned",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "However, I got up and began to repeat it, but my head was so full of the Lobster Quadrille that I hardly knew what I was saying.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing up",
+                    "beginning to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The words came out very queer indeed:—“’Tis the voice of the Lobster;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large hall",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

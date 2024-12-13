@@ -1,0 +1,188 @@
+[
+    {
+        "text": "“Yes!” I shouted. “Come on, then!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shouting enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "roared the Queen, and I joined the procession, wondering very much what would happen next.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "roaring loudly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It’s—it’s a very fine day!” said a timid voice at my side.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "White Rabbit positioned to the side, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I was walking by the White Rabbit, who was peeping anxiously into my face.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "peeping anxiously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "White Rabbit positioned to the side, camera slightly overhead"
+            }
+        ]
+    }
+]

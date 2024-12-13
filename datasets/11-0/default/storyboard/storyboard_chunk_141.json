@@ -1,0 +1,155 @@
+[
+    {
+        "text": "“Keep your temper,” the Caterpillar advised.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "advising",
+                    "sitting on a mushroom"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "scaled",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "smoking hookah",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Is that all?” I asked, trying to swallow down my anger as well as I could.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking",
+                    "trying to suppress anger"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "frustrated",
+                    "trying to remain calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I decided to wait, as I had nothing else to do, and perhaps it might tell me something worth hearing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "deciding to wait",
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "thoughtful",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

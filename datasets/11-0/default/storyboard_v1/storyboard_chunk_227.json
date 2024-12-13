@@ -1,0 +1,350 @@
+[
+    {
+        "text": "“A nice muddle their slates’ll be in before the trial’s over!” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "standing in the courtroom"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "One of the jurors had a pencil that squeaked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Juror",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a squeaky pencil",
+                    "writing on a slate"
+                ],
+                "gaze_and_direction": "focused on the slate",
+                "expression": [
+                    "concentrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a squeaky pencil"
+                ],
+                "composition": "Juror positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "This of course, I could _not_ stand, and I went round the court and got behind him, and very soon found an opportunity of taking it away.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "moving stealthily around the courtroom",
+                    "reaching towards the juror's pencil"
+                ],
+                "gaze_and_direction": "focused on the juror's pencil",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned behind the juror, camera slightly behind and above"
+            }
+        ]
+    },
+    {
+        "text": "I did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill the Lizard",
+                "age": "middle-aged",
+                "actions": [
+                    "looking confused",
+                    "searching for the pencil"
+                ],
+                "gaze_and_direction": "scanning the area",
+                "expression": [
+                    "confused",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate"
+                ],
+                "composition": "Bill the Lizard positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "so, after hunting all about for it, he was obliged to write with one finger for the rest of the day;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill the Lizard",
+                "age": "middle-aged",
+                "actions": [
+                    "writing with one finger on the slate"
+                ],
+                "gaze_and_direction": "focused on the slate",
+                "expression": [
+                    "resigned",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate"
+                ],
+                "composition": "Bill the Lizard positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and this was of very little use, as it left no mark on the slate.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill the Lizard",
+                "age": "middle-aged",
+                "actions": [
+                    "examining the slate",
+                    "trying to write with one finger"
+                ],
+                "gaze_and_direction": "focused on the slate",
+                "expression": [
+                    "disappointed",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate"
+                ],
+                "composition": "Bill the Lizard positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Herald, read the accusation!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "calling out",
+                    "gesturing towards the herald"
+                ],
+                "gaze_and_direction": "looking at the herald",
+                "expression": [
+                    "commanding",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    }
+]

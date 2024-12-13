@@ -1,0 +1,222 @@
+[
+    {
+        "text": "So they began solemnly dancing round and round me, every now and then treading on my toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open space",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant sea"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "singing slowly and sadly"
+                ],
+                "gaze_and_direction": "looking down at the ground",
+                "expression": [
+                    "melancholic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Will you walk a little faster?” said a whiting to a snail.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open space",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant sea"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“There’s a porpoise close behind us, and he’s treading on my tail.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open space",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant sea"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "looking back nervously"
+                ],
+                "gaze_and_direction": "looking over shoulder at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "See how eagerly the lobsters and the turtles all advance!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open space",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant sea"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lobster",
+                "age": "adult",
+                "actions": [
+                    "advancing eagerly"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve forgotten the words.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open space",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant sea"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "looking confused"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

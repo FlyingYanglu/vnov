@@ -1,0 +1,112 @@
+[
+    {
+        "text": "“Come, my head’s free at last!” I said in a tone of delight, which changed into alarm in another moment, when I found that my shoulders were nowhere to be found.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a tone of delight",
+                    "looking around in alarm"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "delighted",
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "All I could see, when I looked down, was an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves that lay far below me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down",
+                    "staring at the immense length of neck"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "shocked",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

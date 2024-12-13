@@ -1,0 +1,218 @@
+[
+    {
+        "text": "It doesn’t look like one, but it is.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with a hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "choker"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I quite agree with you,” said the Duchess;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a calm tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "agreeable"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "choker"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“and the moral of that is—‘The more there is of yours, the less there is of mine.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a thoughtful tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "choker"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I think I should understand that better,” I said very politely,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a polite tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "bow"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“if I had it written down: but I can’t quite follow it as you say it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a polite tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "slightly confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "bow"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

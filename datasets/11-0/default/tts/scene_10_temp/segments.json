@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "96edbf5cb2d911ef8c075c6f6994e9ec",
+        "text": "I found myself falling",
+        "audio_url": "https://v16m-default.akamaized.net/f8a22fad4a7ca45eb26a98d83edf8f5d/6751a8eb/video/tos/maliva/tos-maliva-v-f15faa-us/osin4AqwEgFfIEBRAzAoqjNLkAip9VqBKrcEDx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvMkIOXq8Zmo&qs=13&rc=anczdGs5cjVvdzUzNzhoM0BpanczdGs5cjVvdzUzNzhoM0Bla2szMmRjNjVgLS1kLjZzYSNla2szMmRjNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338330411700000000000000000000ffff0a00a7324c10b2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.272
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.272
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "96edc128b2d911ef8c075c6f6994e9ec",
+        "text": "down a very deep well.",
+        "audio_url": "https://v16m-default.akamaized.net/f8a22fad4a7ca45eb26a98d83edf8f5d/6751a8eb/video/tos/maliva/tos-maliva-v-f15faa-us/osin4AqwEgFfIEBRAzAoqjNLkAip9VqBKrcEDx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvMkIOXq8Zmo&qs=13&rc=anczdGs5cjVvdzUzNzhoM0BpanczdGs5cjVvdzUzNzhoM0Bla2szMmRjNjVgLS1kLjZzYSNla2szMmRjNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338330411700000000000000000000ffff0a00a7324c10b2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.272,
+            "end_offset": 2.544
+        },
+        "target_timerange": {
+            "start_offset": 1.272,
+            "end_offset": 2.544
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

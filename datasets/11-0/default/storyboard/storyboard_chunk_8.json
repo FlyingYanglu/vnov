@@ -1,0 +1,185 @@
+[
+    {
+        "text": "Presently she began again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "sitting on a sofa",
+                    "holding a book"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wonder if I shall fall right _through_ the earth!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "holding a book",
+                    "looking up with a curious expression"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "wondering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "How funny it’ll seem to come out among the people that walk with their heads downward!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "holding a book",
+                    "looking up with a whimsical expression"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "whimsical",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Antipathies, I think—” (she was rather glad there _was_",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "holding a book",
+                    "looking up with a thoughtful expression"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

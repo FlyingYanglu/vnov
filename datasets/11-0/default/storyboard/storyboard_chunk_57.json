@@ -1,0 +1,262 @@
+[
+    {
+        "text": "“Would _you_ like cats if you were me?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "comfortable furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the living room",
+                    "looking directly at the viewer"
+                ],
+                "gaze_and_direction": "eyes locked with the camera",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "relaxed fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cat toy"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Well, perhaps not,” I said in a soothing tone: “don’t be angry about it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "comfortable furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the living room",
+                    "looking directly at the viewer"
+                ],
+                "gaze_and_direction": "eyes locked with the camera",
+                "expression": [
+                    "soothing",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "relaxed fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cat toy"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And yet I wish I could show you our cat Dinah: I think you’d take a fancy to cats if you could only see her.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "comfortable furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the living room",
+                    "looking directly at the viewer"
+                ],
+                "gaze_and_direction": "eyes locked with the camera",
+                "expression": [
+                    "hopeful",
+                    "enthusiastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "relaxed fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cat toy"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "She is such a dear quiet thing,” I went on, half to myself, as I swam lazily about in the pool,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "comfortable furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the living room",
+                    "looking directly at the viewer"
+                ],
+                "gaze_and_direction": "eyes locked with the camera",
+                "expression": [
+                    "affectionate",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "relaxed fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cat toy"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she’s such a capital one for catching mice—oh, I beg your pardon!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "comfortable furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the living room",
+                    "looking directly at the viewer"
+                ],
+                "gaze_and_direction": "eyes locked with the camera",
+                "expression": [
+                    "affectionate",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "relaxed fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cat toy"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

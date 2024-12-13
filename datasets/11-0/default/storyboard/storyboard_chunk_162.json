@@ -1,0 +1,188 @@
+[
+    {
+        "text": "“I—I’m a little girl,” I said, rather doubtfully, as I remembered the number of changes I had gone through that day.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young child",
+                "actions": [
+                    "speaking with a doubtful tone",
+                    "remembering past events"
+                ],
+                "gaze_and_direction": "looking down, avoiding eye contact with the viewer",
+                "expression": [
+                    "doubtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "slight confusion in the eyes"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“A likely story indeed!” said the Pigeon in a tone of the deepest contempt.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking with a contemptuous tone"
+                ],
+                "gaze_and_direction": "glaring directly at the viewer",
+                "expression": [
+                    "contemptuous",
+                    "disdainful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered coat",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "prominent"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a perch"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve seen a good many little girls in my time, but never _one_ with such a neck as that!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking with emphasis",
+                    "gesturing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer with a critical eye",
+                "expression": [
+                    "critical",
+                    "disapproving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered coat",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "prominent"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a perch"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "No, no!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "shaking head in disapproval"
+                ],
+                "gaze_and_direction": "looking at the viewer with a stern expression",
+                "expression": [
+                    "stern",
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered coat",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "prominent"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a perch"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

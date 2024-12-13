@@ -1,0 +1,202 @@
+[
+    {
+        "text": "I did not wish to offend the Dormouse again, so I began very cautiously: “But I don’t understand.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "tea party setting"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking cautiously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "color": "dark blue"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "color": "light blue"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Where did they draw the treacle from?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "tea party setting"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "color": "dark blue"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "color": "light blue"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“You can draw water out of a water-well,” said the Hatter;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "tea party setting"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "color": "checkered"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“so I should think you could draw treacle out of a treacle-well—eh, stupid?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "tea party setting"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking condescendingly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "color": "checkered"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned slightly right, camera frontal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "text": "Last of all this grand procession, came the King and Queen of Hearts.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal procession",
+                "city streets",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "walking majestically"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "regal",
+                    "stoic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned on the left, camera slightly low angle"
+            },
+            {
+                "name": "Queen of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "walking gracefully beside the King"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "regal",
+                    "stoic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I was rather doubtful whether I ought not to lie down on my face like the three gardeners, but I couldn’t remember ever having heard of such a rule at processions.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal procession",
+                "city streets",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the crowd",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "doubtful",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“And besides, what would be the use of a procession,” I thought, “if people had all to lie down upon their faces, so that they couldn’t see it?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal procession",
+                "city streets",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking contemplative"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "skeptical"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera eye-level"
+            }
+        ]
+    }
+]

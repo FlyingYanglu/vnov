@@ -1,0 +1,131 @@
+[
+    {
+        "text": "whether the happiness of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "daisies",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "running close by the viewer"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "pink eyes",
+                        "type": "distinctive feature"
+                    }
+                },
+                "composition": "Character positioned on the right side of the frame, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "There was nothing so very remarkable in that; nor did I think it so very much out of the way to hear the Rabbit say to itself, \"Oh dear!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "daisies",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking to itself"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "pink eyes",
+                        "type": "distinctive feature"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(When I thought it over afterwards, it occurred to me that I ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, I started to my feet, for it flashed across my mind",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "daisies",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "taking a watch out of its waistcoat-pocket",
+                    "looking at the watch"
+                ],
+                "gaze_and_direction": "looking at the watch",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "pink eyes",
+                        "type": "distinctive feature"
+                    },
+                    "additional_items": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "b716508cb2de11efbff41070fd2669de",
+        "text": "“Found _what_?” said the Duck.",
+        "audio_url": "https://v16m-default.akamaized.net/d565abe7a79c8a5e130f6483760f89e1/6751b183/video/tos/maliva/tos-maliva-v-f15faa-us/o4fnhWVBhCDUVRoELXF0iEASByAKEQBwVfAJ9L/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThmLkIOXq8Zmo&qs=13&rc=M3lkPHI5cjtvdzUzNzhoM0BpM3lkPHI5cjtvdzUzNzhoM0BtajZjMmRrbjVgLS1kLjZzYSNtajZjMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338550539400000000000000000000ffff0a006411c0a368&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.704
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.704
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

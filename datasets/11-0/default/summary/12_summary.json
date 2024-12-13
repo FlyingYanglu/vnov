@@ -1,0 +1,97 @@
+[
+    {
+        "summary": "In the courtroom, Alice finds herself growing larger and more frustrated with the absurd trial of the Knave of Hearts. The King and Queen demand Alice's evidence, but she claims to know nothing about the case. The trial is further complicated by the introduction of a mysterious set of verses, which the King and jury struggle to interpret. Alice challenges the King's logic and refuses to leave the court despite being declared too tall. The Queen insists on pronouncing the sentence before the verdict, leading to chaos. Alice, now fully grown, defies the Queen and declares the courtroom a pack of cards, causing the trial to dissolve into absurdity.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "defiant",
+                    "growing in size"
+                ],
+                "actions": [
+                    "upsets the jury-box",
+                    "refuses to leave the court",
+                    "challenges the King and Queen",
+                    "declares the courtroom a pack of cards"
+                ],
+                "relationships": [
+                    "sister (mentioned at the end)"
+                ]
+            },
+            "King of Hearts": {
+                "traits": [
+                    "authoritative",
+                    "confused",
+                    "trying to maintain order"
+                ],
+                "actions": [
+                    "demands Alice's evidence",
+                    "reads Rule Forty-two",
+                    "tries to interpret the verses"
+                ],
+                "relationships": [
+                    "Queen of Hearts (wife)"
+                ]
+            },
+            "Queen of Hearts": {
+                "traits": [
+                    "tyrannical",
+                    "demanding",
+                    "quick to anger"
+                ],
+                "actions": [
+                    "demands executions",
+                    "throws an inkstand at the Lizard",
+                    "insists on sentence before verdict"
+                ],
+                "relationships": [
+                    "King of Hearts (husband)"
+                ]
+            },
+            "White Rabbit": {
+                "traits": [
+                    "flustered",
+                    "respectful",
+                    "messenger"
+                ],
+                "actions": [
+                    "calls Alice as a witness",
+                    "reads the verses"
+                ],
+                "relationships": []
+            },
+            "Knave of Hearts": {
+                "traits": [
+                    "accused",
+                    "defensive"
+                ],
+                "actions": [
+                    "claims innocence",
+                    "says he didn't write the verses"
+                ],
+                "relationships": []
+            },
+            "Lizard": {
+                "traits": [
+                    "overcome",
+                    "unable to move"
+                ],
+                "actions": [
+                    "sits with mouth open",
+                    "is hit by an inkstand"
+                ],
+                "relationships": []
+            }
+        },
+        "key_events": [
+            "Alice upsets the jury-box and begins picking up the jurymen.",
+            "The King declares the trial cannot proceed until the jurymen are back in their places.",
+            "Alice claims she knows nothing about the case.",
+            "The White Rabbit introduces a mysterious set of verses.",
+            "The King and jury struggle to interpret the verses.",
+            "Alice challenges the King's logic and refuses to leave the court.",
+            "The Queen insists on pronouncing the sentence before the verdict.",
+            "Alice declares the courtroom a pack of cards, causing chaos."
+        ]
+    }
+]

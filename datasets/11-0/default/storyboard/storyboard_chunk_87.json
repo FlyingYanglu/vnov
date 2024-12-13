@@ -1,0 +1,185 @@
+[
+    {
+        "text": "An old Crab took the opportunity of saying to her daughter, “Ah, my dear! Let this be a lesson to you never to lose _your_ temper!”",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "seaweed",
+                "coral"
+            ],
+            "scene_features": [
+                "seabed",
+                "rocks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Old Crab",
+                "age": "elderly",
+                "actions": [
+                    "speaking to her daughter"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "instructive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "crab shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Old Crab centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Hold your tongue, Ma!” said the young Crab, a little snappishly.",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "seaweed",
+                "coral"
+            ],
+            "scene_features": [
+                "seabed",
+                "rocks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Crab",
+                "age": "young",
+                "actions": [
+                    "speaking to her mother"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "irritated",
+                    "snappish"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "crab shell",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Young Crab centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You’re enough to try the patience of an oyster!”",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "seaweed",
+                "coral"
+            ],
+            "scene_features": [
+                "seabed",
+                "rocks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Crab",
+                "age": "young",
+                "actions": [
+                    "speaking to her mother"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "crab shell",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Young Crab centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I wish I had our Dinah here, I know I do!” I said aloud, addressing nobody in particular.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "beach",
+                "ocean",
+                "sand"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking aloud"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "wistful",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    }
+]

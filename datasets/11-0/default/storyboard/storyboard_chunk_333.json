@@ -1,0 +1,197 @@
+[
+    {
+        "text": "He continued, “and perhaps you were never even introduced to a lobster—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "soft furnishings",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "He",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "gentle"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I almost said something about tasting one once, but caught myself just in time and said, “No, never.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "soft furnishings",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "hesitating",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "slightly embarrassed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "earrings",
+                        "type": "stud"
+                    }
+                },
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle seemed not to notice and went on, “—so you can have no idea what a delightful thing a Lobster Quadrille is!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "soft furnishings",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "ageless",
+                "actions": [
+                    "speaking enthusiastically",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "animated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "fantasy",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "composition": "Character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“No, indeed,” I said. “What sort of a dance is it?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "soft furnishings",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "tilting head slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "earrings",
+                        "type": "stud"
+                    }
+                },
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

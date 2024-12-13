@@ -1,0 +1,205 @@
+[
+    {
+        "text": "He looked at the Gryphon as if he thought it had some kind of authority over me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "He",
+                "age": "young adult",
+                "actions": [
+                    "looking at the Gryphon"
+                ],
+                "gaze_and_direction": "gaze follows the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly apprehensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Stand up and repeat ‘’_Tis the voice of the sluggard_,’” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "authoritative",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "majestic",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown-like headpiece",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "How the creatures order one about, and make one repeat lessons!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "He",
+                "age": "young adult",
+                "actions": [
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking away from the camera",
+                "expression": [
+                    "frustrated",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I thought to myself. I might as well be at school at once.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking away from the camera",
+                "expression": [
+                    "resigned",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

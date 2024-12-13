@@ -1,0 +1,217 @@
+[
+    {
+        "text": "“You _must_ remember,” the King insisted, “or I’ll have you executed.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the Hatter",
+                    "speaking forcefully"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "stern",
+                    "threatening"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The miserable Hatter dropped his teacup and bread-and-butter, going down on one knee.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "dropping teacup and bread-and-butter",
+                    "going down on one knee"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "miserable",
+                    "fearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "composition": "Hatter positioned to the side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I’m a poor man, your Majesty,” he began.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "kneeling",
+                    "speaking humbly"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "submissive",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "composition": "Hatter positioned to the side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“You’re a _very_ poor _speaker_,” the King declared.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking dismissively"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "disdainful",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "One of the guinea-pigs cheered, but was immediately suppressed by the officers of the court.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Guinea-pig",
+                "age": "young",
+                "actions": [
+                    "cheering",
+                    "being grabbed by an officer"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "excited",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Guinea-pig positioned to the side, camera slightly low angle"
+            }
+        ]
+    }
+]

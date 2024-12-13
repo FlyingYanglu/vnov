@@ -1,0 +1,309 @@
+[
+    {
+        "text": "“Fourteenth of March, I _think_ it was,” he said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "thoughtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "Character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Fifteenth,” said the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "confident",
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Character positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Sixteenth,” added the Dormouse.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "sleepy",
+                    "mumbling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "blanket",
+                        "type": "worn as a cape"
+                    }
+                },
+                "temporary_features": [
+                    "yawning"
+                ],
+                "composition": "Character positioned center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Write that down,” the King said to the jury,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "regal",
+                        "condition": "luxurious"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "and the jury eagerly wrote down all three dates on their slates,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "middle-aged",
+                "actions": [
+                    "writing on a slate"
+                ],
+                "gaze_and_direction": "looking down at the slate",
+                "expression": [
+                    "focused",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [
+                    "holding a chalk"
+                ],
+                "composition": "Character positioned center, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and then added them up, and reduced the answer to shillings and pence.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "middle-aged",
+                "actions": [
+                    "adding numbers on the slate",
+                    "calculating"
+                ],
+                "gaze_and_direction": "looking down at the slate",
+                "expression": [
+                    "concentrated",
+                    "calculative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [
+                    "holding a chalk"
+                ],
+                "composition": "Character positioned center, camera slightly overhead"
+            }
+        ]
+    }
+]

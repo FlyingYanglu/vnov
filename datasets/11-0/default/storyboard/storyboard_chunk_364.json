@@ -1,0 +1,246 @@
+[
+    {
+        "text": "“She can’t explain it,” said the Gryphon hastily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "bookshelves",
+                "a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking hastily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Go on with the next verse.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "bookshelves",
+                "a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "gesturing with a claw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“But about his toes?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "bookshelves",
+                "a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "tilting head inquisitively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“How could he turn them out with his nose, you know?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "bookshelves",
+                "a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "gesturing with a claw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“It’s the first position in dancing,” I said, but I was dreadfully puzzled by the whole thing and longed to change the subject.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "bookshelves",
+                "a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

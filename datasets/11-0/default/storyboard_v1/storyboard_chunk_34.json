@@ -1,0 +1,236 @@
+[
+    {
+        "text": "“In that case,” said the Dodo solemnly, rising to its feet,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "meeting table",
+                "chairs",
+                "birds gathered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "rising to its feet"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I move that the meeting adjourn, for the immediate adoption of more energetic remedies—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "meeting table",
+                "chairs",
+                "birds gathered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Speak English!” said the Eaglet.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "meeting table",
+                "chairs",
+                "birds gathered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Eaglet centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "meeting table",
+                "chairs",
+                "birds gathered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Eaglet centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "meeting table",
+                "chairs",
+                "birds gathered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "bending down its head"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Eaglet centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“What I was going to say,” said the Dodo in an offended tone,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "meeting table",
+                "chairs",
+                "birds gathered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "text": "“Well, then,” the Gryphon went on, “if you don’t know what to uglify is, you _are_ a simpleton.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "old tapestries"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "condescending",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ancient",
+                        "condition": "worn but regal"
+                    },
+                    "bottom": {
+                        "item": "leopard skin",
+                        "style": "traditional",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "gold necklace",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I did not feel encouraged to ask any more questions about it, so I turned to the Mock Turtle and said, “What else had you to learn?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "old tapestries"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "listening attentively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn but sturdy"
+                    },
+                    "bottom": {
+                        "item": "seaweed skirt",
+                        "style": "traditional",
+                        "condition": "damp"
+                    },
+                    "accessories": {
+                        "item": "pearl bracelet",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Well, there was Mystery,” the Mock Turtle replied, counting off the subjects on his flappers, “—Mystery, ancient and modern, with Seaography: then Drawling—the Drawling-master was an old conger-eel, that used to come once a week: _he_ taught us Drawling, Stretching, and Fainting in Coils.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "old tapestries"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "counting on his flappers",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "reminiscent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn but sturdy"
+                    },
+                    "bottom": {
+                        "item": "seaweed skirt",
+                        "style": "traditional",
+                        "condition": "damp"
+                    },
+                    "accessories": {
+                        "item": "pearl bracelet",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly low angle"
+            }
+        ]
+    }
+]

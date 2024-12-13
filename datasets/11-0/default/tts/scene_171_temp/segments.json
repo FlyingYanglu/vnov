@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "f1dfd938b2dc11efb90d0c42a1a7d90a",
+        "text": "I shall only look up and",
+        "audio_url": "https://v16m-default.akamaized.net/6d02915e34c8f4c659a0d4ac1e4eab87/6751ae8b/video/tos/maliva/tos-maliva-v-f15faa-us/osMEolqEsIAWgDzuyiKUwhiARB0ifnFGqAA0Bk/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThZbkIOXq8Zmo&qs=13&rc=MzkzZm45cmRvdzUzNzhoM0BpMzkzZm45cmRvdzUzNzhoM0BrbGVqMmRjaDVgLS1kLjZzYSNrbGVqMmRjaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338474455400000000000000000000ffff0a006e61eaea15&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.356
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.356
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f1dfda6eb2dc11efb90d0c42a1a7d90a",
+        "text": "say ‘Who am I then?",
+        "audio_url": "https://v16m-default.akamaized.net/6d02915e34c8f4c659a0d4ac1e4eab87/6751ae8b/video/tos/maliva/tos-maliva-v-f15faa-us/osMEolqEsIAWgDzuyiKUwhiARB0ifnFGqAA0Bk/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThZbkIOXq8Zmo&qs=13&rc=MzkzZm45cmRvdzUzNzhoM0BpMzkzZm45cmRvdzUzNzhoM0BrbGVqMmRjaDVgLS1kLjZzYSNrbGVqMmRjaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338474455400000000000000000000ffff0a006e61eaea15&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.356,
+            "end_offset": 2.712
+        },
+        "target_timerange": {
+            "start_offset": 1.356,
+            "end_offset": 2.712
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,363 @@
+[
+    {
+        "text": "but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, I started to my feet, for it flashed across my mind that I had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, I ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "green field",
+                "daytime"
+            ],
+            "scene_features": [
+                "rabbit-hole",
+                "hedge",
+                "field"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running across the field",
+                    "looking at the rabbit-hole"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "In another moment, down I went after it, never once considering how in the world I was to get out again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "rabbit-hole",
+                "tunnel"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "falling down the rabbit-hole"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that I had not a moment to think about stopping myself before I found myself falling down a very deep well.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "deep well",
+                "tunnel"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "falling down the well"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "Either the well was very deep, or I fell very slowly, for I had plenty of time as I went down to look about me and to wonder what was going to happen next.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "deep well",
+                "tunnel"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the well"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "First, I tried to look down and make out what I was coming to, but it was too dark to see anything;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "deep well",
+                "tunnel"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down into the darkness"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "then I looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "deep well",
+                "cupboards",
+                "book-shelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the sides of the well"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "here and there I saw maps and pictures hung upon pegs.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "deep well",
+                "cupboards",
+                "book-shelves",
+                "maps",
+                "pictures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at maps and pictures"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "interested"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "I took down a jar from one of the shelves as I passed;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark",
+                "underground"
+            ],
+            "scene_features": [
+                "deep well",
+                "cupboards",
+                "book-shelves",
+                "jars"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "taking down a jar from the shelf"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a jar"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

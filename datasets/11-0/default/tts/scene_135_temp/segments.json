@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "3437f460b2dc11efb6001070fd8d78a0",
+        "text": "Oh! won’t she be savage if",
+        "audio_url": "https://v16m-default.akamaized.net/50526428961148286cc9c23cc9217137/6751ad4e/video/tos/maliva/tos-maliva-v-f15faa-us/o0FwpBiqyEBz19AFxaAofmi7zREsqckgkAOKWA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2_kIOXq8Zmo&qs=13&rc=M2xsc3c5cnRvdzUzNzhoM0BpM2xsc3c5cnRvdzUzNzhoM0BhZ2hxMmRzZTVgLS1kLjZzYSNhZ2hxMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338442631300000000000000000000ffff0a0081c8cef479&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.62
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.62
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3437f67cb2dc11efb6001070fd8d78a0",
+        "text": "I’ve kept her waiting!”",
+        "audio_url": "https://v16m-default.akamaized.net/50526428961148286cc9c23cc9217137/6751ad4e/video/tos/maliva/tos-maliva-v-f15faa-us/o0FwpBiqyEBz19AFxaAofmi7zREsqckgkAOKWA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2_kIOXq8Zmo&qs=13&rc=M2xsc3c5cnRvdzUzNzhoM0BpM2xsc3c5cnRvdzUzNzhoM0BhZ2hxMmRzZTVgLS1kLjZzYSNhZ2hxMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338442631300000000000000000000ffff0a0081c8cef479&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.62,
+            "end_offset": 3.24
+        },
+        "target_timerange": {
+            "start_offset": 1.62,
+            "end_offset": 3.24
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

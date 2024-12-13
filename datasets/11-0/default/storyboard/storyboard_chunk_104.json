@@ -1,0 +1,143 @@
+[
+    {
+        "text": "Alas! it was too late to wish that!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed room"
+            ],
+            "scene_features": [
+                "wooden walls",
+                "small window",
+                "single bed"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the bed",
+                    "holding head in hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "regretful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "barefoot",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It was much pleasanter at home,” I thought, “when one wasn’t always growing larger and smaller, and being ordered about by mice and rabbits.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed room"
+            ],
+            "scene_features": [
+                "wooden walls",
+                "small window",
+                "single bed"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "lying on the bed",
+                    "staring at the ceiling"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "reflective",
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "barefoot",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I almost wish I hadn’t gone down that rabbit-hole—and yet—and yet—it’s rather curious, you know, this sort of life!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed room"
+            ],
+            "scene_features": [
+                "wooden walls",
+                "small window",
+                "single bed"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up on the bed",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "conflicted",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "barefoot",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

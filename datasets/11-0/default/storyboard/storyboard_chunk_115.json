@@ -1,0 +1,214 @@
+[
+    {
+        "text": "I thought. “I wonder what they’ll do next!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxury furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "As for pulling me out of the window, I only wish they could!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxury furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near a window",
+                    "gesturing towards the window"
+                ],
+                "gaze_and_direction": "looking at the window",
+                "expression": [
+                    "hopeful",
+                    "wistful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I’m sure I don’t want to stay in here any longer!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxury furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near a window",
+                    "gesturing towards the window"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "She waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxury furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "She",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "listening intently"
+                ],
+                "gaze_and_direction": "looking towards the source of the sound",
+                "expression": [
+                    "attentive",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

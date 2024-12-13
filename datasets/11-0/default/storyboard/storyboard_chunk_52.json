@@ -1,0 +1,192 @@
+[
+    {
+        "text": "I shall be punished for it now, I suppose, by being drowned in my own tears!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden floor",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the floor",
+                    "holding head in hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "distraught",
+                    "teary-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "bare feet",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "That _will_ be a queer thing, to be sure!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden floor",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "bare feet",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "tears drying on face"
+                ],
+                "composition": "Main character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "Just then I heard something splashing about in the pool a little way off, and I swam nearer to make out what it was.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight reflecting off water",
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming towards the sound",
+                    "peering into the water"
+                ],
+                "gaze_and_direction": "looking into the pool",
+                "expression": [
+                    "curious",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "swimsuit",
+                        "style": "one-piece",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "bare feet",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on skin"
+                ],
+                "composition": "Main character positioned at the edge of the pool, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "At first, I thought it must be a walrus or hippopotamus, but then I remembered how small I was now, and I soon made out that it was only a mouse that",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight reflecting off water",
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pausing in the water",
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "realization",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "swimsuit",
+                        "style": "one-piece",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "bare feet",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on skin"
+                ],
+                "composition": "Main character positioned centrally in the pool, camera eye-level"
+            }
+        ]
+    }
+]

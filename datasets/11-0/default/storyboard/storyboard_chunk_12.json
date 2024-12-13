@@ -1,0 +1,219 @@
+[
+    {
+        "text": "And here I began to get rather sleepy, and went on saying to myself, in a dreamy sort of way, “Do cats eat bats?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on a couch",
+                    "mumbling to self"
+                ],
+                "gaze_and_direction": "looking down, slightly unfocused",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "loose-fitting shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "pajama pants",
+                        "style": "comfy",
+                        "color": "soft blue"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "minimalistic",
+                        "condition": "sliding down the nose"
+                    }
+                },
+                "temporary_features": [
+                    "heavy eyelids",
+                    "relaxed posture"
+                ],
+                "composition": "Main character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Do cats eat bats?” and sometimes, “Do bats eat cats?” for, you see, as I couldn’t answer either question, it didn’t much matter which way I put it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on a couch",
+                    "mumbling to self"
+                ],
+                "gaze_and_direction": "looking down, slightly unfocused",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "loose-fitting shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "pajama pants",
+                        "style": "comfy",
+                        "color": "soft blue"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "minimalistic",
+                        "condition": "sliding down the nose"
+                    }
+                },
+                "temporary_features": [
+                    "heavy eyelids",
+                    "relaxed posture"
+                ],
+                "composition": "Main character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I felt that I was dozing off, and had just begun to dream that I was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did you ever eat a bat?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning back on the couch",
+                    "eyes closed",
+                    "dreamily speaking"
+                ],
+                "gaze_and_direction": "eyes closed, head slightly tilted back",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "loose-fitting shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "pajama pants",
+                        "style": "comfy",
+                        "color": "soft blue"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "minimalistic",
+                        "condition": "sliding down the nose"
+                    }
+                },
+                "temporary_features": [
+                    "heavy eyelids",
+                    "relaxed posture"
+                ],
+                "composition": "Main character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "when suddenly, thump!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up abruptly",
+                    "eyes wide open"
+                ],
+                "gaze_and_direction": "looking around in surprise",
+                "expression": [
+                    "startled",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "loose-fitting shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "pajama pants",
+                        "style": "comfy",
+                        "color": "soft blue"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "minimalistic",
+                        "condition": "sliding down the nose"
+                    }
+                },
+                "temporary_features": [
+                    "heavy eyelids",
+                    "relaxed posture"
+                ],
+                "composition": "Main character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

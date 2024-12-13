@@ -1,0 +1,188 @@
+[
+    {
+        "text": "All except the Lizard, who seemed too much overcome to do anything but sit with its mouth open, gazing up into the roof of the court.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden architecture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lizard",
+                "age": "adult",
+                "actions": [
+                    "sitting",
+                    "mouth open"
+                ],
+                "gaze_and_direction": "gazing up into the roof of the court",
+                "expression": [
+                    "overcome",
+                    "dazed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "mouth open"
+                ],
+                "composition": "Lizard positioned on a bench, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "\"What do you know about this business?\" the King asked me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden architecture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "pointing finger"
+                ],
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "\"Nothing,\" I replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden architecture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "standing"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "calm",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing"
+                ],
+                "composition": "Main character positioned slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "\"Nothing _whatever_?\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden architecture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "pointing finger"
+                ],
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

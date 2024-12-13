@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "bbb47ebab2da11ef8018506b4b2ab66e",
+        "text": "This time I found a",
+        "audio_url": "https://v16m-default.akamaized.net/c8d514682e967790d6cf1e6d4f7f2c35/6751aad6/video/tos/maliva/tos-maliva-v-f15faa-us/o8mVjUEBeA4zTRJnhSZ0VCQEDfLIFBAaGBAnVE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThbtkIOXq8Zmo&qs=13&rc=M3RyNWs5cndvdzUzNzhoM0BpM3RyNWs5cndvdzUzNzhoM0BnYF9yMmQ0YDVgLS1kLjZzYSNnYF9yMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338379554100000000000000000000ffff0a0063858959db&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.176
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.176
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "bbb48158b2da11ef8018506b4b2ab66e",
+        "text": "little bottle on it.",
+        "audio_url": "https://v16m-default.akamaized.net/c8d514682e967790d6cf1e6d4f7f2c35/6751aad6/video/tos/maliva/tos-maliva-v-f15faa-us/o8mVjUEBeA4zTRJnhSZ0VCQEDfLIFBAaGBAnVE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThbtkIOXq8Zmo&qs=13&rc=M3RyNWs5cndvdzUzNzhoM0BpM3RyNWs5cndvdzUzNzhoM0BnYF9yMmQ0YDVgLS1kLjZzYSNnYF9yMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338379554100000000000000000000ffff0a0063858959db&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.176,
+            "end_offset": 2.352
+        },
+        "target_timerange": {
+            "start_offset": 1.176,
+            "end_offset": 2.352
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

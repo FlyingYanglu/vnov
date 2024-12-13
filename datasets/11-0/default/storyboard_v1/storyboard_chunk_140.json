@@ -1,0 +1,232 @@
+[
+    {
+        "text": "“There’s no such thing!” I was beginning very angrily, but the Hatter and the March Hare went “Sh! sh!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "clenched fists"
+                ],
+                "composition": "Main character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "and the Dormouse sulkily remarked, “If you can’t be civil, you’d better finish the story for yourself.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking sulkily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sullen",
+                    "displeased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "tea party hat"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Character positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“No, please go on!” I said very humbly, “I won’t interrupt again. I dare say there may be _one_.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking humbly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "humble",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "clasped hands"
+                ],
+                "composition": "Main character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“One, indeed!” said the Dormouse indignantly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking indignantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indignant",
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "tea party hat"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Character positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "However, he consented to go on.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "nodding reluctantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reluctant",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "tea party hat"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Character positioned to the right, camera frontal"
+            }
+        ]
+    }
+]

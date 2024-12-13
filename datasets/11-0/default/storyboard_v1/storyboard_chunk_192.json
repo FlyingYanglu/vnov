@@ -1,0 +1,245 @@
+[
+    {
+        "text": "“What!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Character",
+                "age": "middle-aged",
+                "actions": [
+                    "exclaiming with a raised hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Never heard of uglifying!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Character",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hands",
+                    "shaking head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disbelief",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You know what to beautify is, I suppose?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Character",
+                "age": "middle-aged",
+                "actions": [
+                    "raising an eyebrow",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "questioning",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Yes,” I said doubtfully:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hesitantly"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "doubtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“it means—to—make—anything—prettier.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking slowly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

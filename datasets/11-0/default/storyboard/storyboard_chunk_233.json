@@ -1,0 +1,190 @@
+[
+    {
+        "text": "I barely finished the first verse when the Queen jumped up and bawled out, “He’s murdering the time!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "large table",
+                "various tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "jumping up",
+                    "pointing at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "furious",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Queen positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Off with his head!” I exclaimed, “How dreadfully savage!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "large table",
+                "various tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "exclaiming",
+                    "looking at the Queen"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "shocked",
+                    "horrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter went on in a mournful tone, “And ever since that, he won’t do a thing I ask!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "large table",
+                "various tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It’s always six o’clock now.” A bright idea came into my head.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "large table",
+                "various tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking up"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "thoughtful",
+                    "inspired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

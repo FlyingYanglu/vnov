@@ -1,0 +1,101 @@
+[
+    {
+        "text": "“She boxed the Queen’s ears—” the Rabbit began.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "whispering",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "rabbit ears",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I gave a little scream of laughter. “Oh, hush!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "screaming",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "laughing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

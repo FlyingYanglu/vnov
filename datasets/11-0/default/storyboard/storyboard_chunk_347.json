@@ -1,0 +1,256 @@
+[
+    {
+        "text": "So they got thrown out to sea.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "ocean",
+                "waves",
+                "sunset"
+            ],
+            "scene_features": [
+                "sea",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the sea"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Narrator on the left side, sea on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So they had to fall a long way.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "ocean",
+                "waves",
+                "sunset"
+            ],
+            "scene_features": [
+                "sea",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing downwards"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Narrator on the left side, sea on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So they got their tails fast in their mouths.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "ocean",
+                "waves",
+                "sunset"
+            ],
+            "scene_features": [
+                "sea",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing with hands as if grabbing something"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Narrator on the left side, sea on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So they couldn’t get them out again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "ocean",
+                "waves",
+                "sunset"
+            ],
+            "scene_features": [
+                "sea",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing with hands as if struggling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Narrator on the left side, sea on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "That’s all.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "ocean",
+                "waves",
+                "sunset"
+            ],
+            "scene_features": [
+                "sea",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "shrugging"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Narrator on the left side, sea on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I listened intently, finding the explanation both fascinating and strange.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelf",
+                "window"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on a couch",
+                    "leaning forward slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "intrigued",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

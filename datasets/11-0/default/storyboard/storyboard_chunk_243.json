@@ -1,0 +1,210 @@
+[
+    {
+        "text": "“No, please go on!” I said very humbly, “I won’t interrupt again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "plush chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking humbly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "humble",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light-colored blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I dare say there may be _one_.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "plush chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking cautiously",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light-colored blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Take some more tea,” the March Hare said to me, very earnestly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "plush chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking earnestly",
+                    "gesturing towards the teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "earnest",
+                    "kind"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal jacket",
+                        "style": "tailcoat",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve had nothing yet,” I replied in an offended tone, “so I can’t take more.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "plush chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking in an offended tone",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light-colored blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

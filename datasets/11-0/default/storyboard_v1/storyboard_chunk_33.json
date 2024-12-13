@@ -1,0 +1,348 @@
+[
+    {
+        "text": "The question is, what did the archbishop find?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "robes",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "cross necklace",
+                        "type": "metal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "”The Mouse did not notice this question, but hurriedly went on, “",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking hurriedly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "continuing to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "William’s conduct at first was moderate.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking with a pause"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "But the insolence of his Normans—’ How are you getting on now, my dear?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking with concern"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "” it continued, turning to me as it spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "turning to face the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“As wet as ever,” I said in a melancholy tone:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a melancholy tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "damp"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“it doesn’t seem to dry me at all.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-filled room",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a resigned tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "damp"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

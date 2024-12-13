@@ -1,0 +1,137 @@
+[
+    {
+        "text": "“I want a clean cup,” interrupted the Hatter: “let’s all move one place on.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He moved on as he spoke, and the Dormouse followed him: the March Hare moved into the Dormouse’s place, and I rather unwillingly took the place of the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "following the Hatter",
+                    "moving to the next seat"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "sleepy",
+                    "uninterested"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft"
+                    },
+                    "accessories": {
+                        "item": "small teacup",
+                        "type": "porcelain",
+                        "condition": "slightly chipped"
+                    }
+                },
+                "composition": "Dormouse positioned to the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter was the only one who got any advantage from the change: and I was a good deal worse off than before, as the March Hare had just upset the m",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting uncomfortably",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "displeased",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "small handbag",
+                        "type": "leather",
+                        "condition": "worn"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

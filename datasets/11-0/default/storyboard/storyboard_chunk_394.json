@@ -1,0 +1,173 @@
+[
+    {
+        "text": "“You’re a _very_ poor _speaker_,” the King declared.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit hall",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "court officers",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "displeased",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "One of the guinea-pigs cheered, but was immediately suppressed by the officers of the court.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit hall",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "court officers",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Guinea-pig",
+                "age": "adult",
+                "actions": [
+                    "raising a paw in cheer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Guinea-pig positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I watched as they slipped the guinea-pig head first into a large canvas bag, tying it up at the mouth with strings.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit hall",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "court officers",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Court Officer",
+                "age": "middle-aged",
+                "actions": [
+                    "holding the canvas bag open",
+                    "reaching for the guinea-pig"
+                ],
+                "gaze_and_direction": "looking at the guinea-pig",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Court Officer positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I’m glad I’ve seen that done,” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit hall",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "court officers",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the scene"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

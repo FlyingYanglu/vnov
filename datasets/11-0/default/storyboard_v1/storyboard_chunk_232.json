@@ -1,0 +1,297 @@
+[
+    {
+        "text": "“I keep them to sell,” the Hatter added as an explanation;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "crowded",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden tables",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "holding teacup",
+                    "gesturing with free hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "button-up",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve none of my own. I’m a hatter.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "crowded",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden tables",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "holding teacup",
+                    "gesturing with free hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "button-up",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Here the Queen put on her spectacles, and began staring at the Hatter, who turned pale and fidgeted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "crowded",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden tables",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "putting on spectacles",
+                    "staring at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "intimidating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "wearing spectacles"
+                ],
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Give your evidence,” said the King;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "crowded",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden tables",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“and don’t be nervous, or I’ll have you executed on the spot.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "crowded",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden tables",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "This did not seem to encourage the witness at all: he kept shifting from one foot to the other, looking uneasily at the Queen, and in his confusion he bit a large piece out of his teacup instead of the bread-and-butter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "crowded",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden tables",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "shifting feet",
+                    "looking at the viewer",
+                    "biting teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "button-up",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup",
+                    "biting teacup"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    }
+]

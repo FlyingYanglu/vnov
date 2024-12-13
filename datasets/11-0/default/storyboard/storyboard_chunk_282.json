@@ -1,0 +1,178 @@
+[
+    {
+        "text": "“How are you getting on?” said the Cat, as soon as there was mouth enough for it to speak with.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "young",
+                "actions": [
+                    "speaking with a mouth that has just appeared"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "soft and fluffy",
+                        "condition": "well-groomed"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I waited till the eyes appeared, and then nodded.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "waiting patiently",
+                    "nodding"
+                ],
+                "gaze_and_direction": "looking at the Cat",
+                "expression": [
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "relaxed fit",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "modern"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“It’s no use speaking to it,” I thought, “till its ears have come, or at least one of them.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking silently"
+                ],
+                "gaze_and_direction": "looking at the Cat",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "relaxed fit",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "modern"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "In another minute the whole head appeared, and then I put down my flamingo, and began an account of the game, feeling very glad I had someone to listen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "putting down a flamingo",
+                    "beginning to speak"
+                ],
+                "gaze_and_direction": "looking at the Cat",
+                "expression": [
+                    "happy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "relaxed fit",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "modern"
+                    }
+                },
+                "temporary_features": [
+                    "holding a flamingo"
+                ],
+                "composition": "Main character slightly off-center, camera frontal"
+            }
+        ]
+    }
+]

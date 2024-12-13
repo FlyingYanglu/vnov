@@ -1,0 +1,374 @@
+[
+    {
+        "text": "“You are old, Father William,” the young man said,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Man",
+                "age": "young adult",
+                "actions": [
+                    "folding hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "composition": "Young Man centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“And your hair has become very white;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Man",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with one hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "composition": "Young Man centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And yet you incessantly stand on your head—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Man",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with both hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "composition": "Young Man centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Do you think, at your age, it is right?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Man",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with one hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "composition": "Young Man centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“In my youth,” Father William replied to his son,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Father William",
+                "age": "elderly",
+                "actions": [
+                    "folding hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white robe",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round frames"
+                    }
+                },
+                "composition": "Father William centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I feared it might injure the brain;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Father William",
+                "age": "elderly",
+                "actions": [
+                    "gesturing with one hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white robe",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round frames"
+                    }
+                },
+                "composition": "Father William centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "But, now that I’m perfectly sure I have none,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Father William",
+                "age": "elderly",
+                "actions": [
+                    "gesturing with both hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white robe",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round frames"
+                    }
+                },
+                "composition": "Father William centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Why, I do it again and again.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Father William",
+                "age": "elderly",
+                "actions": [
+                    "gesturing with one hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white robe",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round frames"
+                    }
+                },
+                "composition": "Father William centered, camera slightly low angle"
+            }
+        ]
+    }
+]

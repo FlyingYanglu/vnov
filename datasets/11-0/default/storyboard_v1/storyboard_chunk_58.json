@@ -1,0 +1,232 @@
+[
+    {
+        "text": "“We must burn the house down!” said the Rabbit’s voice;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "shadows"
+            ],
+            "scene_features": [
+                "house interior",
+                "wooden floors",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking with urgency"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown jacket",
+                        "style": "button-up",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a match"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and I called out as loud as I could, “If you do, I’ll set Dinah at you!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "shadows"
+            ],
+            "scene_features": [
+                "house interior",
+                "wooden floors",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shouting with urgency"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "alarmed",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small cat figurine"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There was a dead silence instantly, and I thought to myself, “I wonder what they will do next! If they had any sense, they’d take the roof off.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "shadows"
+            ],
+            "scene_features": [
+                "house interior",
+                "wooden floors",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking quietly"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small cat figurine"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "After a minute or two, they began moving about again, and I heard the Rabbit say, “A barrowful will do, to begin with.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "shadows"
+            ],
+            "scene_features": [
+                "house interior",
+                "wooden floors",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking with urgency"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown jacket",
+                        "style": "button-up",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a match"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“A barrowful of what?” I thought;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "shadows"
+            ],
+            "scene_features": [
+                "house interior",
+                "wooden floors",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking quietly"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small cat figurine"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

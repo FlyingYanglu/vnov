@@ -18,11 +18,11 @@ STORYBOARD_EXAMPLE = json.dumps(STORYBOARD_EXAMPLE, separators=(',', ':'), ensur
 class Storyboard(Role):
     bot_id="vnoStoryboardArtist"
     
-    
     def __init__(self, model, **kwargs):
         super().__init__(model, **kwargs)
-        # self.context_token_length = self.model.token_length(self.format_context("",main_character=""))
         self.role = "storyboard"
+        self.character_dict_constructor = storyboard_character_dict_constructer()  # Constructor instance
+        self.character_dict = {}  # Dictionary to store character details
 
     def save_json(self, response_json, output_dir, name):
         output_file = os.path.join(output_dir, f"storyboard_{name}.json")
@@ -40,7 +40,6 @@ class Storyboard(Role):
             return response_json
         except (ValueError, json.JSONDecodeError) as e:
             print(f"Failed to parse response")
-            # print("Response:", response)
             raise e
 
     def send_init_message(self):
@@ -63,18 +62,25 @@ class Storyboard(Role):
         script_content = self._read_chunk(save_dir, chunk_index)
         prompt = self._create_prompt(last_context, script_content, main_character)
 
-        # print(f"Processing chunk {chunk_index}...")
-
         while num_retries > 0:
             try:
                 response = self.model(prompt, new_chat=new_chat, bot_id=self.bot_id, system_msg=STORYBOARD_ARTIST_ROLE)
-                # print(response)
                 scene_json = self.parse_response(response)
+
+                # Save scene JSON
                 self.save_json(scene_json, save_dir, f"chunk_{chunk_index}")
+
+                
+
+                for j, scene in enumerate(scene_json):
+                    original_chunk = self.character_dict_constructor.find_original_chunk(script_content, scene, scene_json, j)
+                    self.character_dict_constructor.update_character_dict(
+                        self.character_dict, scene, original_chunk, chunk_index, j, save_dir=save_dir
+                    )
                 return scene_json
             except Exception as e:
                 num_retries -= 1
-                print(f"Error processing chunk {chunk_index}: , retrying ({num_retries} retries left)")
+                print(f"Error processing chunk {chunk_index}: {e}, retrying ({num_retries} retries left)")
                 time.sleep(5)
 
         print(f"Failed to process chunk {chunk_index}, skipping...")
@@ -82,19 +88,16 @@ class Storyboard(Role):
 
     def _worker(self, chunk_indices, save_dir, main_character, last_context, **kwargs):
         scene_jsons = []
-        count = 0
         for chunk_index in chunk_indices:
-            print(f"Processing chunk {count}/{len(chunk_indices)}...")
             scene_json = self._process_chunk(chunk_index, save_dir, main_character, last_context, 
                                              new_chat=True, num_retries=8)
             if scene_json:
                 scene_jsons.extend(scene_json)
                 last_context = str(self.construct_last_context(mode="original", cur_scene_jsons=scene_jsons, prev_contexts_string=last_context))
-            count += 1
         return scene_jsons
 
     def storyboarding_script(self, script_content, save_dir, main_character="史金", last_context="", 
-                             default_num_of_units=6, start_index=None, num_workers=4, **kwargs):
+                             default_num_of_units=4, start_index=None, num_workers=4, **kwargs):
         num_of_units = default_num_of_units
         if start_index is None:
             Novel.split_chapter_by_units(script_content, num_of_units=num_of_units, save_dir=save_dir)
@@ -107,7 +110,6 @@ class Storyboard(Role):
             print("All chunks have been processed.")
             return
 
-        # Split chunk indices for multithreading
         chunk_indices = list(range(start_index, total_chunks))
         chunks_per_worker = (len(chunk_indices) + num_workers - 1) // num_workers  # Round up
 
@@ -128,7 +130,7 @@ class Storyboard(Role):
                     print(f"Error in worker thread: {e}")
 
         return all_scene_jsons
-    
+
     def construct_last_context(self, mode="original", **kwargs):
         if mode == "original":
             return self.get_history_responses(**kwargs)
@@ -138,9 +140,6 @@ class Storyboard(Role):
             raise ValueError(f"Invalid mode: {mode}")
 
     def get_history_responses(self, cur_scene_jsons, prev_contexts_string, max_length=2000, **kwargs):
-        # construct last context for the next scene
-        # put compressed cur_scene_jsons at the end of prev_contexts_string
-        # remove first several lines until the total length is less than max_length
         cur_scene_jsons = str(self.compress_json(cur_scene_jsons))
         new_context = prev_contexts_string + cur_scene_jsons
         new_context = new_context.split("\n")
@@ -148,37 +147,34 @@ class Storyboard(Role):
             new_context.pop(0)
         return "\n".join(new_context)
 
-
     def get_last_act_scenes(self, scene_jsons, max_act=3, last_act_char_costum=None, **kwargs):
         if last_act_char_costum is None:
             last_act_char_costum = {}
-        cur_act = last_act_char_costum.get("幕", None)
-        
+        cur_act = last_act_char_costum.get("scene", None)
         environment = {}
 
         for scene in scene_jsons[::-1]:
             if cur_act is None:
-                cur_act = scene["幕"]
-                for char in scene["角色"]:
-                    char_name = char["名字"]
-                    last_act_char_costum[char_name] = char.get("服装", {})
-                environment = scene.get("场景", {})
-            elif scene["幕"] == cur_act:
-                last_act_char_costum.update({char["名字"]: char.get("服装", {}) for char in scene["角色"]})
+                cur_act = scene["act"]
+                for char in scene["characters"]:
+                    char_name = char["name"]
+                    last_act_char_costum[char_name] = char.get("costume", {})
+                environment = scene.get("scene", {})
+            elif scene["act"] == cur_act:
+                last_act_char_costum.update({char["name"]: char.get("costume", {}) for char in scene["characters"]})
             else:
                 break
 
         last_context_info = {
-            "幕": cur_act,
-            "场景": environment,
-            "角色服装": last_act_char_costum
+            "act": cur_act,
+            "scene": environment,
+            "costume": last_act_char_costum
         }
         return last_context_info
 
-
-    def storyborading_all_refined(self, novel:Novel, main_character=None, src_file_name="combined_commentaries", start_index=None, **kwargs):
+    def storyborading_all_refined(self, novel: Novel, main_character=None, src_file_name="combined_commentaries", start_index=None, **kwargs):
         if kwargs.get("reconcatenate", False):
-            Refiner.concatenate_refined(os.path.join(novel.dir, novel.dirs_dict["refined_script"]), src_file_name)
+            Refiner.concatenate_refined(os.path.join(novel.dir, novel.dirs_dict["refined"]), src_file_name)
         novel_content = novel.load_chapter(src_file_name, mode=Novel.NOVEL_MODE.REFINED)
         save_dir = os.path.join(novel.dir, novel.dirs_dict["storyboard"])
 
@@ -186,13 +182,8 @@ class Storyboard(Role):
             main_character = novel.main_character
         storyboard_scenes = self.storyboarding_script(novel_content, save_dir, main_character=main_character, start_index=start_index, **kwargs)
         self.save_json(storyboard_scenes, save_dir, "combined")
-        storyboard_character_dict_constructer().construct_refined_character_dict(novel)
+        self.character_dict_constructor.save_json(self.character_dict, save_dir, "character_dict_chunked")
 
-    def construct_refined_character_dict(self, novel: Novel):
-        storyboard_character_dict_constructer().construct_refined_character_dict(novel)
-        
     @staticmethod
     def compress_json(json_obj):
         return json.dumps(json_obj, separators=(',', ':'), ensure_ascii=False)
-
-

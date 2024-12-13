@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "3af9d7d4b2da11efb89698039b7ed938",
+        "text": "There are no mice in the air,",
+        "audio_url": "https://v16m-default.akamaized.net/278f28cf8c68cb5d8949c8ef598740d6/6751aa03/video/tos/maliva/tos-maliva-v-f15faa-us/oMAgPrzPAVqqiOVwiKFBEEEBRopkqA4A33fCZx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th7SkIOXq8Zmo&qs=13&rc=amR5bWs5cjpvdzUzNzhoM0BpamR5bWs5cjpvdzUzNzhoM0BvZW1eMmRjXzVgLS1kLjZzYSNvZW1eMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338357938500000000000000000000ffff0a0090046a9998&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5600000000000005
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5600000000000005
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3af9dc3eb2da11efb89698039b7ed938",
+        "text": "I’m afraid, but you might",
+        "audio_url": "https://v16m-default.akamaized.net/278f28cf8c68cb5d8949c8ef598740d6/6751aa03/video/tos/maliva/tos-maliva-v-f15faa-us/oMAgPrzPAVqqiOVwiKFBEEEBRopkqA4A33fCZx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th7SkIOXq8Zmo&qs=13&rc=amR5bWs5cjpvdzUzNzhoM0BpamR5bWs5cjpvdzUzNzhoM0BvZW1eMmRjXzVgLS1kLjZzYSNvZW1eMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338357938500000000000000000000ffff0a0090046a9998&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.56,
+            "end_offset": 3.12
+        },
+        "target_timerange": {
+            "start_offset": 1.56,
+            "end_offset": 3.12
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3af9dee6b2da11efb89698039b7ed938",
+        "text": "catch a bat, and that’s very",
+        "audio_url": "https://v16m-default.akamaized.net/278f28cf8c68cb5d8949c8ef598740d6/6751aa03/video/tos/maliva/tos-maliva-v-f15faa-us/oMAgPrzPAVqqiOVwiKFBEEEBRopkqA4A33fCZx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th7SkIOXq8Zmo&qs=13&rc=amR5bWs5cjpvdzUzNzhoM0BpamR5bWs5cjpvdzUzNzhoM0BvZW1eMmRjXzVgLS1kLjZzYSNvZW1eMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338357938500000000000000000000ffff0a0090046a9998&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.12,
+            "end_offset": 4.68
+        },
+        "target_timerange": {
+            "start_offset": 3.12,
+            "end_offset": 4.68
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3af9e184b2da11efb89698039b7ed938",
+        "text": "like a mouse, you know.",
+        "audio_url": "https://v16m-default.akamaized.net/278f28cf8c68cb5d8949c8ef598740d6/6751aa03/video/tos/maliva/tos-maliva-v-f15faa-us/oMAgPrzPAVqqiOVwiKFBEEEBRopkqA4A33fCZx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th7SkIOXq8Zmo&qs=13&rc=amR5bWs5cjpvdzUzNzhoM0BpamR5bWs5cjpvdzUzNzhoM0BvZW1eMmRjXzVgLS1kLjZzYSNvZW1eMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338357938500000000000000000000ffff0a0090046a9998&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.68,
+            "end_offset": 6.24
+        },
+        "target_timerange": {
+            "start_offset": 4.68,
+            "end_offset": 6.24
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

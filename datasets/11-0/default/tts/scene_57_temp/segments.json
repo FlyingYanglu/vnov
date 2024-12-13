@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "92028878b2da11ef80ebb8cef6a0339e",
+        "text": "I knelt down and looked along",
+        "audio_url": "https://v16m-default.akamaized.net/715a62d9c102a7878f3dc1d21cd83c8b/6751aa92/video/tos/maliva/tos-maliva-v-f15faa-us/ogRfXAJhVELLiJ7fvBEAGLDnALmFEBuVBQaYVU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThnykIOXq8Zmo&qs=13&rc=M3FxcnE5cmVvdzUzNzhoM0BpM3FxcnE5cmVvdzUzNzhoM0BncmxmMmRrYDVgLS1kLjZzYSNncmxmMmRrYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338372480000000000000000000000ffff0a006e62b256bc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "920289eab2da11ef80ebb8cef6a0339e",
+        "text": "the passage into the",
+        "audio_url": "https://v16m-default.akamaized.net/715a62d9c102a7878f3dc1d21cd83c8b/6751aa92/video/tos/maliva/tos-maliva-v-f15faa-us/ogRfXAJhVELLiJ7fvBEAGLDnALmFEBuVBQaYVU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThnykIOXq8Zmo&qs=13&rc=M3FxcnE5cmVvdzUzNzhoM0BpM3FxcnE5cmVvdzUzNzhoM0BncmxmMmRrYDVgLS1kLjZzYSNncmxmMmRrYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338372480000000000000000000000ffff0a006e62b256bc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4000000000000001,
+            "end_offset": 2.8
+        },
+        "target_timerange": {
+            "start_offset": 1.4000000000000001,
+            "end_offset": 2.8
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "92028b2ab2da11ef80ebb8cef6a0339e",
+        "text": "loveliest garden I ever saw.",
+        "audio_url": "https://v16m-default.akamaized.net/715a62d9c102a7878f3dc1d21cd83c8b/6751aa92/video/tos/maliva/tos-maliva-v-f15faa-us/ogRfXAJhVELLiJ7fvBEAGLDnALmFEBuVBQaYVU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThnykIOXq8Zmo&qs=13&rc=M3FxcnE5cmVvdzUzNzhoM0BpM3FxcnE5cmVvdzUzNzhoM0BncmxmMmRrYDVgLS1kLjZzYSNncmxmMmRrYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338372480000000000000000000000ffff0a006e62b256bc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.8000000000000003,
+            "end_offset": 4.2
+        },
+        "target_timerange": {
+            "start_offset": 2.8000000000000003,
+            "end_offset": 4.2
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

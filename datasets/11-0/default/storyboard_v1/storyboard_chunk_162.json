@@ -1,0 +1,352 @@
+[
+    {
+        "text": "“Get to your places!” shouted the Queen in a voice of thunder, and people began running about in all directions, tumbling up against each other;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "people running",
+                "tumbling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "shouting",
+                    "pointing"
+                ],
+                "gaze_and_direction": "looking at the crowd",
+                "expression": [
+                    "commanding",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "however, they got settled down in a minute or two, and the game began.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "people settling",
+                "game starting"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "watching the game start"
+                ],
+                "gaze_and_direction": "looking at the players",
+                "expression": [
+                    "satisfied"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I thought I had never seen such a curious croquet-ground in my life;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "ridges",
+                "furrows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the croquet-ground"
+                ],
+                "gaze_and_direction": "scanning the area",
+                "expression": [
+                    "surprised",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "it was all ridges and furrows;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "ridges",
+                "furrows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the ground"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amazed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "the balls were live hedgehogs, the mallets live flamingoes, and the soldiers had to double themselves up and to stand on their hands and feet, to make the arches.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "live hedgehogs",
+                "live flamingoes",
+                "doubled-up soldiers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "watching the soldiers"
+                ],
+                "gaze_and_direction": "looking at the soldiers",
+                "expression": [
+                    "astonished"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The chief difficulty I found at first was in managing my flamingo: I succeeded in getting its body tucked away, comfortably enough, under my arm, with its legs hanging down, but generally, just as I had got its neck nicely straightened out, and was going to give the hedgehog a blow with its head, it would twist itself round and look up in my face, with such a puzzled expression that I could not help bursting out laughing:",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "live flamingo",
+                "live hedgehog"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "struggling with the flamingo"
+                ],
+                "gaze_and_direction": "looking at the flamingo",
+                "expression": [
+                    "frustrated",
+                    "laughing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and when I had got its head down, and was going to begin again, it was very provoking to find that the hedgehog had unrolled itself, and was in the act of crawling away: besides all this, there was generally a ridge or furrow in the way wherever I wanted to send the hedgehog to, and, as the doubled-up soldiers were always getting up and walking off to other parts of the ground, I soon came to the conclusion that it was a very difficult game indeed.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "live hedgehog",
+                "live flamingo",
+                "doubled-up soldiers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "watching the hedgehog crawl away"
+                ],
+                "gaze_and_direction": "looking at the hedgehog",
+                "expression": [
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The players all played at once without waiting for turns, quarrelling all the while, and fighting for the hedgehogs;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "players fighting",
+                "live hedgehogs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "watching the players fight"
+                ],
+                "gaze_and_direction": "looking at the players",
+                "expression": [
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character off-center, camera slightly overhead"
+            }
+        ]
+    }
+]

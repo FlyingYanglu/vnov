@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "d7243bfab2d911efb10cb8cef6277d40",
+        "text": "\"I must be getting somewhere",
+        "audio_url": "https://v16m-default.akamaized.net/c17073ee54441b09702226be0b84f707/6751a957/video/tos/maliva/tos-maliva-v-f15faa-us/owkVP2gESAZiAQBF9pBiDI5uQUV4RPziACE1U/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThKOkIOXq8Zmo&qs=13&rc=ajNyNXM5cndvdzUzNzhoM0BpajNyNXM5cndvdzUzNzhoM0BoNDJvMmQ0NjVgLS1kLjZzYSNoNDJvMmQ0NjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338341192700000000000000000000ffff0a008b02289fa6&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.344
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.344
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "d7243d26b2d911efb10cb8cef6277d40",
+        "text": "near the centre of the earth.",
+        "audio_url": "https://v16m-default.akamaized.net/c17073ee54441b09702226be0b84f707/6751a957/video/tos/maliva/tos-maliva-v-f15faa-us/owkVP2gESAZiAQBF9pBiDI5uQUV4RPziACE1U/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThKOkIOXq8Zmo&qs=13&rc=ajNyNXM5cndvdzUzNzhoM0BpajNyNXM5cndvdzUzNzhoM0BoNDJvMmQ0NjVgLS1kLjZzYSNoNDJvMmQ0NjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338341192700000000000000000000ffff0a008b02289fa6&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.344,
+            "end_offset": 2.688
+        },
+        "target_timerange": {
+            "start_offset": 1.344,
+            "end_offset": 2.688
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

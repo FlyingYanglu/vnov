@@ -1,0 +1,90 @@
+[
+    {
+        "text": "“Mystery,” the Mock Turtle replied, counting off the subjects on his flappers, “—Mystery, ancient and modern, with Seaography: then Drawling—the Drawl ing-master was an old conger-eel, that used to come once a week: _ he _ taught us Drawling, Stretching, and Fainting in Coils.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "counting off subjects on flappers",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "flappers",
+                        "type": "paws"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“What was _that_ like?” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "intrigued"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly angled"
+            }
+        ]
+    }
+]

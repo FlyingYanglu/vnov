@@ -1,0 +1,143 @@
+[
+    {
+        "text": "‘Miss Alice! Come here directly, and get ready for your walk!’",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "bright daylight through windows",
+                "soft shadows",
+                "daytime"
+            ],
+            "scene_features": [
+                "nursery room",
+                "toys scattered",
+                "large windows"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Nurse",
+                "age": "middle-aged",
+                "actions": [
+                    "calling out to Miss Alice"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "urgent",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "grey skirt",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Nurse positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "‘Coming in a minute, nurse!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "bright daylight through windows",
+                "soft shadows",
+                "daytime"
+            ],
+            "scene_features": [
+                "nursery room",
+                "toys scattered",
+                "large windows"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Miss Alice",
+                "age": "child",
+                "actions": [
+                    "responding to the nurse"
+                ],
+                "gaze_and_direction": "looking towards the nurse",
+                "expression": [
+                    "playful",
+                    "slightly distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "pink dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small toy mouse"
+                ],
+                "composition": "Miss Alice positioned to the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "But I’ve got to see that the mouse doesn’t get out.’",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "bright daylight through windows",
+                "soft shadows",
+                "daytime"
+            ],
+            "scene_features": [
+                "nursery room",
+                "toys scattered",
+                "large windows"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Miss Alice",
+                "age": "child",
+                "actions": [
+                    "holding the toy mouse close to her chest"
+                ],
+                "gaze_and_direction": "looking at the toy mouse",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "pink dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small toy mouse"
+                ],
+                "composition": "Miss Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

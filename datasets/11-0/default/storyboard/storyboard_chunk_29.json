@@ -1,0 +1,141 @@
+[
+    {
+        "text": "She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy room",
+                "daytime"
+            ],
+            "scene_features": [
+                "comfortable armchair",
+                "bookshelf",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "sitting in an armchair",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "contemplative",
+                    "slightly sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "green lawn",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet set",
+                "trees",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "holding a croquet mallet",
+                    "reaching towards her own ear"
+                ],
+                "gaze_and_direction": "looking at her own ear",
+                "expression": [
+                    "determined",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding croquet mallet"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But it’s no use now,” thought poor Alice, “to pretend to be two people!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy room",
+                "daytime"
+            ],
+            "scene_features": [
+                "comfortable armchair",
+                "bookshelf",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "sitting in an armchair",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "disappointed",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

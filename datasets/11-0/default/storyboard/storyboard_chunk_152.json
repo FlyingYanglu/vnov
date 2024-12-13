@@ -1,0 +1,139 @@
+[
+    {
+        "text": "“One side of _what?_ The other side of _what?_”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "mushroom",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the mushroom",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Of the mushroom,” said the Caterpillar, just as if I had asked it aloud; and in another moment it was out of sight.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "mushroom",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "disappearing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    }
+                },
+                "temporary_features": [
+                    "disappearing into foliage"
+                ],
+                "composition": "Caterpillar on the left side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I remained looking thoughtfully at the mushroom for a minute, trying to make out which were the two sides of it; and as it was perfectly round, I found this a very difficult question.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "mushroom",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the mushroom",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking at the mushroom",
+                "expression": [
+                    "pensive",
+                    "perplexed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

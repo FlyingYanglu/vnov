@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "a9ddccfeb2db11efa395b8cef635af1a",
+        "text": "and she was quite surprised to",
+        "audio_url": "https://v16m-default.akamaized.net/b74d69506a49fbea673db3c3841a3015/6751ac6a/video/tos/maliva/tos-maliva-v-f15faa-us/ocAEQEtAVgqEnLWfRAqUBVAM715DhBFEJtQB6e/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThjfkIOXq8Zmo&qs=13&rc=M29vaXA5cjRvdzUzNzhoM0BpM29vaXA5cjRvdzUzNzhoM0BpcWJvMmQ0ZDVgLS1kLjZzYSNpcWJvMmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338419451100000000000000000000ffff0a00aeb9b99f55&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6500000000000004
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6500000000000004
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a9ddcf1ab2db11efa395b8cef635af1a",
+        "text": "find that she remained the same",
+        "audio_url": "https://v16m-default.akamaized.net/b74d69506a49fbea673db3c3841a3015/6751ac6a/video/tos/maliva/tos-maliva-v-f15faa-us/ocAEQEtAVgqEnLWfRAqUBVAM715DhBFEJtQB6e/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThjfkIOXq8Zmo&qs=13&rc=M29vaXA5cjRvdzUzNzhoM0BpM29vaXA5cjRvdzUzNzhoM0BpcWJvMmQ0ZDVgLS1kLjZzYSNpcWJvMmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338419451100000000000000000000ffff0a00aeb9b99f55&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6500000000000001,
+            "end_offset": 3.3000000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.6500000000000001,
+            "end_offset": 3.3000000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a9ddd08cb2db11efa395b8cef635af1a",
+        "text": "size: to be sure, this generally",
+        "audio_url": "https://v16m-default.akamaized.net/b74d69506a49fbea673db3c3841a3015/6751ac6a/video/tos/maliva/tos-maliva-v-f15faa-us/ocAEQEtAVgqEnLWfRAqUBVAM715DhBFEJtQB6e/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThjfkIOXq8Zmo&qs=13&rc=M29vaXA5cjRvdzUzNzhoM0BpM29vaXA5cjRvdzUzNzhoM0BpcWJvMmQ0ZDVgLS1kLjZzYSNpcWJvMmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338419451100000000000000000000ffff0a00aeb9b99f55&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.3000000000000003,
+            "end_offset": 4.95
+        },
+        "target_timerange": {
+            "start_offset": 3.3000000000000003,
+            "end_offset": 4.95
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a9ddd208b2db11efa395b8cef635af1a",
+        "text": "happens when one eats cake,",
+        "audio_url": "https://v16m-default.akamaized.net/b74d69506a49fbea673db3c3841a3015/6751ac6a/video/tos/maliva/tos-maliva-v-f15faa-us/ocAEQEtAVgqEnLWfRAqUBVAM715DhBFEJtQB6e/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThjfkIOXq8Zmo&qs=13&rc=M29vaXA5cjRvdzUzNzhoM0BpM29vaXA5cjRvdzUzNzhoM0BpcWJvMmQ0ZDVgLS1kLjZzYSNpcWJvMmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338419451100000000000000000000ffff0a00aeb9b99f55&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.95,
+            "end_offset": 6.6000000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.95,
+            "end_offset": 6.6000000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "text": "“That I can’t remember,” the Hatter admitted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "standing near the tea table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "worried",
+                    "hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "button-up",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "worn on head"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Hatter centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You _must_ remember,” the King insisted, “or I’ll have you executed.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "standing near the tea table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "threatening"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "worn on head"
+                    }
+                },
+                "temporary_features": [
+                    "pointing finger at the Hatter"
+                ],
+                "composition": "King centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The miserable Hatter dropped his teacup and bread-and-butter, going down on one knee.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "dropping teacup and bread-and-butter",
+                    "going down on one knee"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "terrified",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "button-up",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "worn on head"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m a poor man, your Majesty,” he began.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "kneeling",
+                    "looking up at the King"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "desperate",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "button-up",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "worn on head"
+                    }
+                },
+                "temporary_features": [
+                    "holding teacup"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    }
+]

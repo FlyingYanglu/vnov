@@ -1,0 +1,318 @@
+[
+    {
+        "text": "The Hatter said, “You mean you can’t take _less_.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "It’s very easy to take _more_ than nothing.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "emphatic",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter asked triumphantly, “Who’s making personal remarks now?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing finger at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "triumphant",
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I did not quite know what to say to this, so I helped myself to some tea and bread-and-butter,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pouring tea into a cup",
+                    "reaching for bread-and-butter"
+                ],
+                "gaze_and_direction": "looking down at the table",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Character positioned on the right side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and then turned to the Dormouse, and repeated my question, “Why did they live at the bottom of a well?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "turning head towards the Dormouse",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Character positioned on the right side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse again took a minute or two to think about it,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "The Dormouse",
+                "age": "young",
+                "actions": [
+                    "sitting still",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive",
+                    "concentrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "headwear": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and then said, “It was a treacle-well.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "The Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "headwear": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "20a16500b2da11efadb4b8cef650d04c",
+        "text": "“And what an ignorant little girl",
+        "audio_url": "https://v16m-default.akamaized.net/8e26833c5534e659fe11cbd3028a2ff4/6751a9d3/video/tos/maliva/tos-maliva-v-f15faa-us/okCEFquuIp4hJaUBiiCDfBOVVwLFAAVQAZfnIX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Tha4kIOXq8Zmo&qs=13&rc=amtlZHY5cnZvdzUzNzhoM0BpamtlZHY5cnZvdzUzNzhoM0AwYnBeMmQ0XjVgLS1kLjZzYSMwYnBeMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338353495800000000000000000000ffff0a006c1197d8ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.512
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.512
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "20a1664ab2da11efadb4b8cef650d04c",
+        "text": "she’ll think me for asking!",
+        "audio_url": "https://v16m-default.akamaized.net/8e26833c5534e659fe11cbd3028a2ff4/6751a9d3/video/tos/maliva/tos-maliva-v-f15faa-us/okCEFquuIp4hJaUBiiCDfBOVVwLFAAVQAZfnIX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Tha4kIOXq8Zmo&qs=13&rc=amtlZHY5cnZvdzUzNzhoM0BpamtlZHY5cnZvdzUzNzhoM0AwYnBeMmQ0XjVgLS1kLjZzYSMwYnBeMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338353495800000000000000000000ffff0a006c1197d8ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.512,
+            "end_offset": 3.024
+        },
+        "target_timerange": {
+            "start_offset": 1.512,
+            "end_offset": 3.024
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "20a1795ab2da11efadb4b8cef650d04c",
+        "text": "No, it’ll never do to ask:",
+        "audio_url": "https://v16m-default.akamaized.net/c46c8f44386ddf507c641a4daa1a1660/6751a9d4/video/tos/maliva/tos-maliva-v-f15faa-us/oYRVEU41cAMQ2V4isVmZoSCGAXCBBFi8PAEDg/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Tha4kIOXq8Zmo&qs=13&rc=M3JsZXY5cnZvdzUzNzhoM0BpM3JsZXY5cnZvdzUzNzhoM0BoYS5vMmQ0XjVgLS1kLjZzYSNoYS5vMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338353495800000000000000000000ffff0a006c1197d8ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5759999999999996
+        },
+        "target_timerange": {
+            "start_offset": 3.024,
+            "end_offset": 4.6
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "20a17aaeb2da11efadb4b8cef650d04c",
+        "text": "perhaps I shall see it",
+        "audio_url": "https://v16m-default.akamaized.net/c46c8f44386ddf507c641a4daa1a1660/6751a9d4/video/tos/maliva/tos-maliva-v-f15faa-us/oYRVEU41cAMQ2V4isVmZoSCGAXCBBFi8PAEDg/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Tha4kIOXq8Zmo&qs=13&rc=M3JsZXY5cnZvdzUzNzhoM0BpM3JsZXY5cnZvdzUzNzhoM0BoYS5vMmQ0XjVgLS1kLjZzYSNoYS5vMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338353495800000000000000000000ffff0a006c1197d8ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5759999999999996,
+            "end_offset": 3.152
+        },
+        "target_timerange": {
+            "start_offset": 4.6,
+            "end_offset": 6.176
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "20a17beeb2da11efadb4b8cef650d04c",
+        "text": "written up somewhere.”",
+        "audio_url": "https://v16m-default.akamaized.net/c46c8f44386ddf507c641a4daa1a1660/6751a9d4/video/tos/maliva/tos-maliva-v-f15faa-us/oYRVEU41cAMQ2V4isVmZoSCGAXCBBFi8PAEDg/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Tha4kIOXq8Zmo&qs=13&rc=M3JsZXY5cnZvdzUzNzhoM0BpM3JsZXY5cnZvdzUzNzhoM0BoYS5vMmQ0XjVgLS1kLjZzYSNoYS5vMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338353495800000000000000000000ffff0a006c1197d8ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.152,
+            "end_offset": 4.728
+        },
+        "target_timerange": {
+            "start_offset": 6.176,
+            "end_offset": 7.752
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

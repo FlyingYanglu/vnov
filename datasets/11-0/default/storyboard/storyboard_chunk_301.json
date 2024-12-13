@@ -1,0 +1,154 @@
+[
+    {
+        "text": "“The game’s going on rather better now,” I said, by way of keeping up the conversation a little.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "elegant furniture",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the Duchess"
+                ],
+                "gaze_and_direction": "looking at the Duchess",
+                "expression": [
+                    "polite",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character on the left, Duchess on the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love, ’tis love, that makes the world go round!’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "elegant furniture",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the main character"
+                ],
+                "gaze_and_direction": "looking at the main character",
+                "expression": [
+                    "thoughtful",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate gown",
+                        "style": "Victorian",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a fan"
+                ],
+                "composition": "Duchess centered, main character slightly off to the side, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Somebody said,” I whispered, “that it’s done by everybody minding their own business!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "elegant furniture",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "whispering to the Duchess"
+                ],
+                "gaze_and_direction": "looking at the Duchess",
+                "expression": [
+                    "curious",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character on the left, Duchess on the right, camera slightly angled"
+            }
+        ]
+    }
+]

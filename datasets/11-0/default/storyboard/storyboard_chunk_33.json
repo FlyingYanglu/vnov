@@ -1,0 +1,160 @@
+[
+    {
+        "text": "Good-bye, feet!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at feet"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I looked down and my feet seemed almost out of sight, they were so far off.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at feet"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at feet",
+                    "speaking to feet"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I’m sure I shan’t be able!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at feet",
+                    "speaking to feet"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

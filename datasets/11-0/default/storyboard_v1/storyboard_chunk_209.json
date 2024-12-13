@@ -1,0 +1,142 @@
+[
+    {
+        "text": "“Thank you,” I said, “it’s very interesting. I never knew so much about a whiting before.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "grateful",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon nodded, clearly pleased with my interest. “I can tell you more than that, if you like,” he said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "nodding",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleased",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown of leaves",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Do you know why it’s called a whiting?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "raising a claw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown of leaves",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned slightly right, camera frontal"
+            }
+        ]
+    }
+]

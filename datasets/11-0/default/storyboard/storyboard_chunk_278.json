@@ -1,0 +1,93 @@
+[
+    {
+        "text": "The chief difficulty I found at first was in managing my flamingo: I succeeded in getting its body tucked away, comfortably enough, under my arm, with its legs hanging down.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "flamingo",
+                "hedgehog"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a flamingo under the arm",
+                    "flamingo's legs hanging down"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a flamingo"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "but generally, just as I had got its neck nicely straightened out, and was going to give the hedgehog a blow with its head, it would twist itself round and look up in my face, with such a puzzled expression that I could not help bursting out laughing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "flamingo",
+                "hedgehog"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a flamingo under the arm",
+                    "flamingo's neck twisted",
+                    "looking at the flamingo"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "laughing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a flamingo"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

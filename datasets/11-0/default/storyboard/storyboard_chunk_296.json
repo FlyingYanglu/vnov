@@ -1,0 +1,177 @@
+[
+    {
+        "text": "As soon as he was gone, the Cat’s head began fading away.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open field"
+            ],
+            "scene_features": [
+                "executioner leaving",
+                "Cat's head fading"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "head fading away"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "mysterious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "partially transparent"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "head fading"
+                ],
+                "composition": "Cat's head centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "By the time the executioner returned with the Duchess, the Cat’s head had entirely disappeared.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open field"
+            ],
+            "scene_features": [
+                "executioner returning",
+                "Duchess arriving"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "returning with Duchess"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "black robe",
+                        "style": "traditional",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sword"
+                ],
+                "composition": "Executioner and Duchess positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The King and the executioner ran wildly up and down looking for it, while the rest of the party went back to the game.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open field"
+            ],
+            "scene_features": [
+                "King running",
+                "executioner searching"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "running wildly"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You can’t think how glad I am to see you again, you dear old thing!” said the Duchess, as she tucked her arm affectionately into mine, and we walked on together.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open field"
+            ],
+            "scene_features": [
+                "Duchess and I walking"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "tucking arm into mine",
+                    "walking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "happy",
+                    "affectionate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "vintage",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Duchess and I positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

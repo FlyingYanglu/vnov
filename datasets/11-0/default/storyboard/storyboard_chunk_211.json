@@ -1,0 +1,190 @@
+[
+    {
+        "text": "I looked all around the table but saw only tea.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "tea set",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the table"
+                ],
+                "gaze_and_direction": "looking at the table",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"I don’t see any wine,\" I remarked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "tea set",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"There isn’t any,\" the March Hare replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "tea set",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Then it wasn’t very civil of you to offer it,\" I said angrily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "tea set",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "text": "So I began: “O Mouse, do you know the way out of this pool?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "earnest",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "swimsuit",
+                        "style": "one-piece",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "swim cap",
+                        "type": "elastic"
+                    }
+                },
+                "temporary_features": [
+                    "slightly tired",
+                    "holding onto the pool edge"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I am very tired of swimming about here, O Mouse!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "continuing to speak directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "exhausted",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "swimsuit",
+                        "style": "one-piece",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "swim cap",
+                        "type": "elastic"
+                    }
+                },
+                "temporary_features": [
+                    "slightly tired",
+                    "holding onto the pool edge"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(I thought this must be the right way of speaking to a mouse: I had never done such a thing before, but I remembered having seen in my brother’s Latin Grammar, “A mouse—of a mouse—to a mouse—a mouse—O mouse!”)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to oneself",
+                    "recalling a memory"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "contemplative",
+                    "reminiscent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "swimsuit",
+                        "style": "one-piece",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "swim cap",
+                        "type": "elastic"
+                    }
+                },
+                "temporary_features": [
+                    "slightly tired",
+                    "holding onto the pool edge"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

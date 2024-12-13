@@ -1,0 +1,227 @@
+[
+    {
+        "text": "\"No room! No room!\" they cried out when they saw me coming.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "candlelight"
+            ],
+            "scene_features": [
+                "large dining table",
+                "armchairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "gesturing wildly",
+                    "pointing towards the table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "\"There’s plenty of room!\" I said indignantly, and I sat down in a large arm-chair at one end of the table.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "candlelight"
+            ],
+            "scene_features": [
+                "large dining table",
+                "armchairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down in an armchair",
+                    "crossing arms"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indignant",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Have some wine,\" the March Hare said in an encouraging tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "candlelight"
+            ],
+            "scene_features": [
+                "large dining table",
+                "armchairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "offering a teacup",
+                    "gesturing towards the table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "encouraging",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I looked all around the table but saw only tea.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "candlelight"
+            ],
+            "scene_features": [
+                "large dining table",
+                "armchairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the table",
+                    "holding a teacup"
+                ],
+                "gaze_and_direction": "scanning the table",
+                "expression": [
+                    "confused",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"I don’t see any wine,\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "candlelight"
+            ],
+            "scene_features": [
+                "large dining table",
+                "armchairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a teacup",
+                    "looking at the March Hare"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "questioning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

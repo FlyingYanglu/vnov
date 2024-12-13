@@ -1,0 +1,294 @@
+[
+    {
+        "text": "Even the Duchess sneezed occasionally, and the baby alternated between sneezing and howling without a moment’s pause.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "hearth",
+                "cooking utensils"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "sneezing"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "alternating between sneezing and howling"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "distressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "baby clothes",
+                        "style": "simple",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The only things in the kitchen that did not sneeze were the cook and a large cat sitting on the hearth, grinning from ear to ear.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "hearth",
+                "cooking utensils"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "standing by the hearth"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stoic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "plain",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            },
+            {
+                "name": "Cheshire Cat",
+                "age": "unknown",
+                "actions": [
+                    "sitting on the hearth",
+                    "grinning"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "smooth"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Please would you tell me,” I said, a little timidly, “why your cat grins like that?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "hearth",
+                "cooking utensils"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“It’s a Cheshire cat,” the Duchess replied, “and that’s why.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "hearth",
+                "cooking utensils"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Pig!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "hearth",
+                "cooking utensils"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Her sudden outburst made me jump, but I realized she was addressing the baby, not me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "hearth",
+                "cooking utensils"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "jumping in surprise"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    }
+]

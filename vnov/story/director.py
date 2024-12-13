@@ -55,30 +55,24 @@ class Director(Role):
         storyboards = novel.load_scene_dict()
         combined_scenes = []
         for scene in storyboards:
-            del scene["原文起始点"]
-            c_dict = scene["角色"]
+            del scene["text"]
+            c_dict = scene["characters"]
             char_info = len(c_dict) > 1
             for character_dict in c_dict:
-                character = character_dict["名字"]
+                character = character_dict["name"]
                 # if character == "我":
                 #     character = novel.main_character
                 if character in character_info.keys():
-                    if mode == "Dambooru":
-                        character_dict["角色信息"] = character_info[character]
-                        character_dict["角色信息"].pop("Name", None)
-                    elif mode == "Midjourney":
+                    if mode == "Midjourney":
                         cinfo = character_info[character]
-                        if not char_info:
-                            character_dict["角色性别"] = cinfo['Gender']
-                        else:
-                            character_dict["角色信息"] = character_info[character]
-                            character_dict["角色信息"].pop("Name", None)
+                        character_dict["char_info"] = character_info[character]
+                        character_dict["char_info"].pop("Name", None)
                 else:
                     char_info = True
-                    character_dict["角色信息"] = character
+                    character_dict["char_info"] = character
                     print(f"Character {character} not found in character_info")
                 if mode == "Midjourney":
-                    character_dict.pop("名字", None)
+                    character_dict.pop("name", None)
             combined_scenes.append(scene)
         return combined_scenes
     

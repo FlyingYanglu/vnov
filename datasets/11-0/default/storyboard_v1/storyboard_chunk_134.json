@@ -1,0 +1,238 @@
+[
+    {
+        "text": "“I’m afraid I don’t know one,” I said, rather alarmed at the proposal.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a worried tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "alarmed",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Then the Dormouse shall!” they both cried.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "pointing at the Dormouse",
+                    "speaking excitedly"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "excited",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Wake up, Dormouse!” And they pinched it on both sides at once.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "pinching the Dormouse on both sides",
+                    "speaking urgently"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "urgent",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "bowler hat",
+                        "style": "small",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "March Hare positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse slowly opened his eyes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "slowly opening eyes"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "headwear": {
+                        "item": "small cap",
+                        "style": "simple",
+                        "condition": "slightly askew"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wasn’t asleep,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking with a drowsy tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "headwear": {
+                        "item": "small cap",
+                        "style": "simple",
+                        "condition": "slightly askew"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "c7a8f480b2da11efadb4b8cef650d04c",
+        "text": "Round the neck of the bottle was",
+        "audio_url": "https://v16m-default.akamaized.net/55702eff4401f9ea425dc4fdbe919b66/6751aaef/video/tos/maliva/tos-maliva-v-f15faa-us/o0JlEe3UQayVLEEonAEBFkF5hHBRJVfVBrAIDA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvRkIOXq8Zmo&qs=13&rc=M2VqNHM5cjVvdzUzNzhoM0BpM2VqNHM5cjVvdzUzNzhoM0AxYzVjMmRjYTVgLS1kLjZzYSMxYzVjMmRjYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338381509300000000000000000000ffff0a00bba12ab39d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5659999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5659999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c7a8f5d4b2da11efadb4b8cef650d04c",
+        "text": "a paper label, with the words",
+        "audio_url": "https://v16m-default.akamaized.net/55702eff4401f9ea425dc4fdbe919b66/6751aaef/video/tos/maliva/tos-maliva-v-f15faa-us/o0JlEe3UQayVLEEonAEBFkF5hHBRJVfVBrAIDA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvRkIOXq8Zmo&qs=13&rc=M2VqNHM5cjVvdzUzNzhoM0BpM2VqNHM5cjVvdzUzNzhoM0AxYzVjMmRjYTVgLS1kLjZzYSMxYzVjMmRjYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338381509300000000000000000000ffff0a00bba12ab39d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.566,
+            "end_offset": 3.132
+        },
+        "target_timerange": {
+            "start_offset": 1.566,
+            "end_offset": 3.132
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c7a8f6e2b2da11efadb4b8cef650d04c",
+        "text": "\"DRINK ME,\" beautifully printed",
+        "audio_url": "https://v16m-default.akamaized.net/55702eff4401f9ea425dc4fdbe919b66/6751aaef/video/tos/maliva/tos-maliva-v-f15faa-us/o0JlEe3UQayVLEEonAEBFkF5hHBRJVfVBrAIDA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvRkIOXq8Zmo&qs=13&rc=M2VqNHM5cjVvdzUzNzhoM0BpM2VqNHM5cjVvdzUzNzhoM0AxYzVjMmRjYTVgLS1kLjZzYSMxYzVjMmRjYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338381509300000000000000000000ffff0a00bba12ab39d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.132,
+            "end_offset": 4.698
+        },
+        "target_timerange": {
+            "start_offset": 3.132,
+            "end_offset": 4.698
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c7a8f822b2da11efadb4b8cef650d04c",
+        "text": "on it in large letters.",
+        "audio_url": "https://v16m-default.akamaized.net/55702eff4401f9ea425dc4fdbe919b66/6751aaef/video/tos/maliva/tos-maliva-v-f15faa-us/o0JlEe3UQayVLEEonAEBFkF5hHBRJVfVBrAIDA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvRkIOXq8Zmo&qs=13&rc=M2VqNHM5cjVvdzUzNzhoM0BpM2VqNHM5cjVvdzUzNzhoM0AxYzVjMmRjYTVgLS1kLjZzYSMxYzVjMmRjYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338381509300000000000000000000ffff0a00bba12ab39d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.698,
+            "end_offset": 6.264
+        },
+        "target_timerange": {
+            "start_offset": 4.698,
+            "end_offset": 6.264
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

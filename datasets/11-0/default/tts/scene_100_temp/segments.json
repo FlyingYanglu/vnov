@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "7baa5514b2db11ef95a2b8cef650d04c",
+        "text": "She generally gave herself",
+        "audio_url": "https://v16m-default.akamaized.net/fba80df6ab0ed68e60e99244ccdb6ebb/6751ac1f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAPWiEEgozasqfjVikRTBjT7vr6wFvBAKqA2/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJQkIOXq8Zmo&qs=13&rc=amlocnA5cmdvdzUzNzhoM0BpamlocnA5cmdvdzUzNzhoM0A2M3FrMmRjYzVgLS1kLjZzYSM2M3FrMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338411543300000000000000000000ffff0a0093c64eafff&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5440000000000005
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5440000000000005
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7baa573ab2db11ef95a2b8cef650d04c",
+        "text": "very good advice, (though she",
+        "audio_url": "https://v16m-default.akamaized.net/fba80df6ab0ed68e60e99244ccdb6ebb/6751ac1f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAPWiEEgozasqfjVikRTBjT7vr6wFvBAKqA2/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJQkIOXq8Zmo&qs=13&rc=amlocnA5cmdvdzUzNzhoM0BpamlocnA5cmdvdzUzNzhoM0A2M3FrMmRjYzVgLS1kLjZzYSM2M3FrMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338411543300000000000000000000ffff0a0093c64eafff&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5439999999999998,
+            "end_offset": 3.088
+        },
+        "target_timerange": {
+            "start_offset": 1.5439999999999998,
+            "end_offset": 3.088
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7baa5866b2db11ef95a2b8cef650d04c",
+        "text": "very seldom followed it), and",
+        "audio_url": "https://v16m-default.akamaized.net/fba80df6ab0ed68e60e99244ccdb6ebb/6751ac1f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAPWiEEgozasqfjVikRTBjT7vr6wFvBAKqA2/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJQkIOXq8Zmo&qs=13&rc=amlocnA5cmdvdzUzNzhoM0BpamlocnA5cmdvdzUzNzhoM0A2M3FrMmRjYzVgLS1kLjZzYSM2M3FrMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338411543300000000000000000000ffff0a0093c64eafff&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0879999999999996,
+            "end_offset": 4.632
+        },
+        "target_timerange": {
+            "start_offset": 3.0879999999999996,
+            "end_offset": 4.632
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7baa5988b2db11ef95a2b8cef650d04c",
+        "text": "sometimes she scolded herself",
+        "audio_url": "https://v16m-default.akamaized.net/fba80df6ab0ed68e60e99244ccdb6ebb/6751ac1f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAPWiEEgozasqfjVikRTBjT7vr6wFvBAKqA2/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJQkIOXq8Zmo&qs=13&rc=amlocnA5cmdvdzUzNzhoM0BpamlocnA5cmdvdzUzNzhoM0A2M3FrMmRjYzVgLS1kLjZzYSM2M3FrMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338411543300000000000000000000ffff0a0093c64eafff&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.632,
+            "end_offset": 6.176
+        },
+        "target_timerange": {
+            "start_offset": 4.632,
+            "end_offset": 6.176
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7baa5ae6b2db11ef95a2b8cef650d04c",
+        "text": "so severely as to bring tears",
+        "audio_url": "https://v16m-default.akamaized.net/fba80df6ab0ed68e60e99244ccdb6ebb/6751ac1f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAPWiEEgozasqfjVikRTBjT7vr6wFvBAKqA2/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJQkIOXq8Zmo&qs=13&rc=amlocnA5cmdvdzUzNzhoM0BpamlocnA5cmdvdzUzNzhoM0A2M3FrMmRjYzVgLS1kLjZzYSM2M3FrMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338411543300000000000000000000ffff0a0093c64eafff&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.175999999999999,
+            "end_offset": 7.72
+        },
+        "target_timerange": {
+            "start_offset": 6.175999999999999,
+            "end_offset": 7.72
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7baa5be0b2db11ef95a2b8cef650d04c",
+        "text": "into her eyes;",
+        "audio_url": "https://v16m-default.akamaized.net/fba80df6ab0ed68e60e99244ccdb6ebb/6751ac1f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAPWiEEgozasqfjVikRTBjT7vr6wFvBAKqA2/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJQkIOXq8Zmo&qs=13&rc=amlocnA5cmdvdzUzNzhoM0BpamlocnA5cmdvdzUzNzhoM0A2M3FrMmRjYzVgLS1kLjZzYSM2M3FrMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338411543300000000000000000000ffff0a0093c64eafff&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.719999999999999,
+            "end_offset": 9.264
+        },
+        "target_timerange": {
+            "start_offset": 7.719999999999999,
+            "end_offset": 9.264
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

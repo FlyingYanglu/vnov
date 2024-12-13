@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "43a1020cb2dc11ef8fb298039b7ed938",
+        "text": "The Rabbit started violently,",
+        "audio_url": "https://v16m-default.akamaized.net/59126b8fea7b505626c795a2619c17ad/6751ad69/video/tos/maliva/tos-maliva-v-f15faa-us/oUBRAkBCEAaqWEiPQfqWwU1gqyMTKok3AHFAiz/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThPxkIOXq8Zmo&qs=13&rc=ajdzd285cjRvdzUzNzhoM0Bpajdzd285cjRvdzUzNzhoM0A2aW4wMmRjZjVgLS1kLjZzYSM2aW4wMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338445258400000000000000000000ffff0a00a732146d89&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.764
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.764
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43a10572b2dc11ef8fb298039b7ed938",
+        "text": "dropped the white kid gloves and",
+        "audio_url": "https://v16m-default.akamaized.net/59126b8fea7b505626c795a2619c17ad/6751ad69/video/tos/maliva/tos-maliva-v-f15faa-us/oUBRAkBCEAaqWEiPQfqWwU1gqyMTKok3AHFAiz/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThPxkIOXq8Zmo&qs=13&rc=ajdzd285cjRvdzUzNzhoM0Bpajdzd285cjRvdzUzNzhoM0A2aW4wMmRjZjVgLS1kLjZzYSM2aW4wMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338445258400000000000000000000ffff0a00a732146d89&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.764,
+            "end_offset": 3.528
+        },
+        "target_timerange": {
+            "start_offset": 1.764,
+            "end_offset": 3.528
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

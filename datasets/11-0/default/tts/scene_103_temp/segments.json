@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "8a4fd1cab2db11ef9abf84160ca7ff58",
+        "text": "Why, there’s hardly enough",
+        "audio_url": "https://v16m-default.akamaized.net/db449395ae011a5fac09a4ac1037f1ff/6751ac32/video/tos/maliva/tos-maliva-v-f15faa-us/ogkRvzP4i8jKFilBiAkEAogVRnAqAQB3wE8fqu/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLnkIOXq8Zmo&qs=13&rc=M2hsNnE5cm1vdzUzNzhoM0BpM2hsNnE5cm1vdzUzNzhoM0A1MnBwMmRzYzVgLS1kLjZzYSM1MnBwMmRzYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338414170900000000000000000000ffff0a0064e256674a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3039999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3039999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8a4fd3dcb2db11ef9abf84160ca7ff58",
+        "text": "of me left to make _one_",
+        "audio_url": "https://v16m-default.akamaized.net/db449395ae011a5fac09a4ac1037f1ff/6751ac32/video/tos/maliva/tos-maliva-v-f15faa-us/ogkRvzP4i8jKFilBiAkEAogVRnAqAQB3wE8fqu/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLnkIOXq8Zmo&qs=13&rc=M2hsNnE5cm1vdzUzNzhoM0BpM2hsNnE5cm1vdzUzNzhoM0A1MnBwMmRzYzVgLS1kLjZzYSM1MnBwMmRzYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338414170900000000000000000000ffff0a0064e256674a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.304,
+            "end_offset": 2.6079999999999997
+        },
+        "target_timerange": {
+            "start_offset": 1.304,
+            "end_offset": 2.6079999999999997
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8a4fd51cb2db11ef9abf84160ca7ff58",
+        "text": "respectable person!",
+        "audio_url": "https://v16m-default.akamaized.net/db449395ae011a5fac09a4ac1037f1ff/6751ac32/video/tos/maliva/tos-maliva-v-f15faa-us/ogkRvzP4i8jKFilBiAkEAogVRnAqAQB3wE8fqu/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLnkIOXq8Zmo&qs=13&rc=M2hsNnE5cm1vdzUzNzhoM0BpM2hsNnE5cm1vdzUzNzhoM0A1MnBwMmRzYzVgLS1kLjZzYSM1MnBwMmRzYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338414170900000000000000000000ffff0a0064e256674a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.608,
+            "end_offset": 3.912
+        },
+        "target_timerange": {
+            "start_offset": 2.608,
+            "end_offset": 3.912
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

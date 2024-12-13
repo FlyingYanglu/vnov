@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "8d1fd6bab2dc11ef8a5ab8cef650d1f4",
+        "text": "Let me see: four times",
+        "audio_url": "https://v16m-default.akamaized.net/a3070e32fb3d27b06926938d3ab1a5f5/6751ade9/video/tos/maliva/tos-maliva-v-f15faa-us/oEvzEkb0ABFYWcAFAKi9gqzABwMorA3qElfmRi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhGkIOXq8Zmo&qs=13&rc=amVuOnc5cjNvdzUzNzhoM0BpamVuOnc5cjNvdzUzNzhoM0BhbTFuMmRjZzVgLS1kLjZzYSNhbTFuMmRjZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338457503500000000000000000000ffff0a00a7397dd9fb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5072
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5072
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d1fd7dcb2dc11ef8a5ab8cef650d1f4",
+        "text": "five is twelve, and",
+        "audio_url": "https://v16m-default.akamaized.net/a3070e32fb3d27b06926938d3ab1a5f5/6751ade9/video/tos/maliva/tos-maliva-v-f15faa-us/oEvzEkb0ABFYWcAFAKi9gqzABwMorA3qElfmRi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhGkIOXq8Zmo&qs=13&rc=amVuOnc5cjNvdzUzNzhoM0BpamVuOnc5cjNvdzUzNzhoM0BhbTFuMmRjZzVgLS1kLjZzYSNhbTFuMmRjZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338457503500000000000000000000ffff0a00a7397dd9fb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5072,
+            "end_offset": 3.0144
+        },
+        "target_timerange": {
+            "start_offset": 1.5072,
+            "end_offset": 3.0144
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d1fd8c2b2dc11ef8a5ab8cef650d1f4",
+        "text": "four times six is",
+        "audio_url": "https://v16m-default.akamaized.net/a3070e32fb3d27b06926938d3ab1a5f5/6751ade9/video/tos/maliva/tos-maliva-v-f15faa-us/oEvzEkb0ABFYWcAFAKi9gqzABwMorA3qElfmRi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhGkIOXq8Zmo&qs=13&rc=amVuOnc5cjNvdzUzNzhoM0BpamVuOnc5cjNvdzUzNzhoM0BhbTFuMmRjZzVgLS1kLjZzYSNhbTFuMmRjZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338457503500000000000000000000ffff0a00a7397dd9fb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0144,
+            "end_offset": 4.5216
+        },
+        "target_timerange": {
+            "start_offset": 3.0144,
+            "end_offset": 4.5216
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d1fd99eb2dc11ef8a5ab8cef650d1f4",
+        "text": "thirteen, and four",
+        "audio_url": "https://v16m-default.akamaized.net/a3070e32fb3d27b06926938d3ab1a5f5/6751ade9/video/tos/maliva/tos-maliva-v-f15faa-us/oEvzEkb0ABFYWcAFAKi9gqzABwMorA3qElfmRi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhGkIOXq8Zmo&qs=13&rc=amVuOnc5cjNvdzUzNzhoM0BpamVuOnc5cjNvdzUzNzhoM0BhbTFuMmRjZzVgLS1kLjZzYSNhbTFuMmRjZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338457503500000000000000000000ffff0a00a7397dd9fb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.5216,
+            "end_offset": 6.0288
+        },
+        "target_timerange": {
+            "start_offset": 4.5216,
+            "end_offset": 6.0288
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d1fda70b2dc11ef8a5ab8cef650d1f4",
+        "text": "times seven is—oh dear!",
+        "audio_url": "https://v16m-default.akamaized.net/a3070e32fb3d27b06926938d3ab1a5f5/6751ade9/video/tos/maliva/tos-maliva-v-f15faa-us/oEvzEkb0ABFYWcAFAKi9gqzABwMorA3qElfmRi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhGkIOXq8Zmo&qs=13&rc=amVuOnc5cjNvdzUzNzhoM0BpamVuOnc5cjNvdzUzNzhoM0BhbTFuMmRjZzVgLS1kLjZzYSNhbTFuMmRjZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338457503500000000000000000000ffff0a00a7397dd9fb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.0288,
+            "end_offset": 7.5360000000000005
+        },
+        "target_timerange": {
+            "start_offset": 6.0288,
+            "end_offset": 7.5360000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

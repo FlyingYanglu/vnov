@@ -28,89 +28,105 @@ class StoryTeller(Role):
         return self.tell_chapter(**kwargs)
 
     
-    def tell_chapter(self, novel:Novel, chapter_num, main_character="史金", last_context="", new_chat=False):
-        stories, scene_jsons = [], []
-        #cur_max_length = self.model.max_length - len(FIRSTPERSON_TELLING)-len(TELLING_INSERTION) - len(last_context)
-        cur_max_length = self.model.max_length - self.model.token_length(FIRSTPERSON_TELLING)-self.model.token_length(TELLING_INSERTION) - self.model.token_length(last_context)
-        print("method len",len(FIRSTPERSON_TELLING),"\n",len(TELLING_INSERTION),"\n",len(last_context))
-        print("method token",self.model.token_length(FIRSTPERSON_TELLING),"\n",self.model.token_length(TELLING_INSERTION),"\n",self.model.token_length(last_context))
-        chapter_content = novel.load_chapter(chapter_num)
-        chapter_content, next_content = Novel.trunc_chapter(chapter_content, cur_max_length)
-        while chapter_content:
+    def tell_chapter(self, novel: Novel, chapter_num, main_character="史金", last_context="", new_chat=False):
+        def calculate_cur_max_length(last_context):
+            """Calculate the current maximum length for the chapter content."""
+            return (self.model.max_length 
+                    - self.model.token_length(FIRSTPERSON_TELLING) 
+                    - self.model.token_length(TELLING_INSERTION) 
+                    - self.model.token_length(last_context))
 
-            if chapter_num == 1:
-                prompt = FIRSTPERSON_TELLING.format(content=chapter_content, main_character=main_character, insertion="")
-            else:
-                prompt = FIRSTPERSON_TELLING.format(content=chapter_content, main_character=main_character, insertion=TELLING_INSERTION)
+        def create_prompt(content, main_character, last_context, chapter_num):
+            """Create the appropriate prompt based on chapter number and context."""
+            insertion = "" if chapter_num == 1 else TELLING_INSERTION
+            prompt = FIRSTPERSON_TELLING.format(content=content, main_character=main_character, insertion=insertion)
             if last_context:
                 prompt = FIRST_PERSON_TELLING_PREVIOUSLY.format(content=last_context) + prompt
+            return prompt
+
+        def handle_rate_limit(e):
+            """Handle rate limit exceptions with retries."""
+            if "Rate limit exceeded" in str(e):
+                print("Rate limit exceeded, waiting for 10 minutes...")
+                time.sleep(600)  # Wait for 10 minutes
+                self.send_init_message()
+
+        # Initialization
+        stories, scene_jsons = [], []
+        cur_max_length = calculate_cur_max_length(last_context)
+        chapter_content = novel.load_chapter(chapter_num)
+        chapter_content, next_content = Novel.trunc_chapter(chapter_content, cur_max_length)
+
+        # Process the chapter
+        while chapter_content:
+            prompt = create_prompt(chapter_content, main_character, last_context, chapter_num)
 
             try:
-                response, scene_json = self.parse_response(self.model(prompt, new_chat=new_chat, bot_id=self.bot_id,
-                                                                  system_msg=FIRSTPERSON_TELLING_SYSTEM_MSG))
+                response, scene_json = self.parse_response(
+                    self.model(prompt, new_chat=new_chat, bot_id=self.bot_id, system_msg=FIRSTPERSON_TELLING_SYSTEM_MSG)
+                )
                 if not scene_json:
-                    raise Exception("No scene json found")
+                    raise Exception("No scene JSON found")
             except Exception as e:
-                # redo the prompt
-                print(f"Failed to generate response for chapter {chapter_num}, retrying...")
-                print(e)
-                if "Rate limit exceeded" in str(e):
-                    print("Rate limit exceeded, waiting for 10 minutes...")
-                    time.sleep(60*10)
-                    self.send_init_message()
+                print(f"Error generating response for chapter {chapter_num}: {e}")
+                handle_rate_limit(e)
                 continue
-            scene_jsons.extend(scene_json)
-            last_context = response
-            last_context_len = self.model.max_length//4
-            if len(last_context) > last_context_len:
-                last_context = Novel.split_chapter(last_context, last_context_len)[-1]
-                print("len",len(last_context))
-            stories.append(response)
 
+            # Update results and context
+            stories.append(response)
+            scene_jsons.extend(scene_json)
+            last_context = Novel.split_chapter(response, self.model.max_length // 4, model=self.model)[-1]
+
+            # Prepare for the next chunk
             if next_content:
-                # cur_max_length = self.model.max_length - len(FIRSTPERSON_TELLING) - len(TELLING_INSERTION) - len(last_context)
-                cur_max_length = self.model.max_length - self.model.token_length(FIRSTPERSON_TELLING)-self.model.token_length(TELLING_INSERTION) - self.model.token_length(last_context)
+                cur_max_length = calculate_cur_max_length(last_context)
                 chapter_content, next_content = Novel.trunc_chapter(next_content, cur_max_length)
             else:
                 break
+
         story = "\n".join(stories)
         return story, scene_jsons
-    
-    
 
 
+    def tell_novel(self, novel: Novel, main_character="史金", save_dir=None, start_chapter=1, end_chapter=None, **kwargs):
+        def setup_save_directory():
+            """Set up the save directory for novel scripts."""
+            return save_dir or novel.get_dir("script")
 
-    def tell_novel(self, novel:Novel, main_character="史金", save_dir=None, start_chapter=1, end_chapter=None, **kwargs):
-        if not save_dir:
-            # save_dir = os.path.join(novel.dir, Novel.dirs_dict["script"])
-            save_dir = novel.get_dir("script")
-        
-        if main_character is None:
-            main_character = novel.main_character
+        def initialize_character_dict():
+            """Load or reset the character dictionary."""
+            self.load_character_dict(save_dir, **kwargs)
+            if kwargs.get("reset_chapters_inbetween", False):
+                self.purge_character_dict(start_chapter, end_chapter, save_dir)
 
-        self.load_character_dict(save_dir, **kwargs)
-        if kwargs.get("reset_chapters_inbetween", False):
-            self.purge_character_dict(start_chapter, end_chapter, save_dir)
-
-
-        self.save_prompt(save_dir)
-        
-        if kwargs.get("send_init", False):
-            self.send_init_message()
-            
-        last_context = ""
-        if end_chapter is None:
-            end_chapter = novel.num_chapters + 1
-        for chapter_num in range(start_chapter, end_chapter+1):
-            print(f"Generating chapter {chapter_num}...")            
-            story, scene_jsons = self.tell_chapter(novel, chapter_num, main_character=main_character, last_context=last_context)
-            last_context = story
-            self.update_character_dict(scene_jsons, chapter_num)
-
+        def save_results(chapter_num, story, scene_jsons):
+            """Save the generated story and scene JSON."""
             self.save_file(story, os.path.join(save_dir, f"{chapter_num}.txt"))
             self.save_json(scene_jsons, os.path.join(save_dir, f"{chapter_num}.json"))
             if chapter_num % self.chardict_save_interval == 0:
                 self.save_character_dict(save_dir)
+
+        # Setup
+        save_dir = setup_save_directory()
+        main_character = main_character or novel.main_character
+        initialize_character_dict()
+        self.save_prompt(save_dir)
+        if kwargs.get("send_init", False):
+            self.send_init_message()
+
+        
+
+        # Generate chapters
+        last_context = ""
+        end_chapter = end_chapter or novel.num_chapters + 1
+
+        for chapter_num in range(start_chapter, end_chapter + 1):
+            print(f"Generating chapter {chapter_num}...")
+            story, scene_jsons = self.tell_chapter(novel, chapter_num, main_character=main_character, last_context=last_context)
+            last_context = Novel.split_chapter(story, self.model.max_length // 4, model=self.model)[-1]
+
+            self.update_character_dict(scene_jsons, chapter_num)
+            save_results(chapter_num, story, scene_jsons)
             print(f"Chapter {chapter_num} generated.")
 
 

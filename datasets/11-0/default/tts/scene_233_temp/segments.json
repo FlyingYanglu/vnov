@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "43ef99e2b2de11efa3e498039b6a5cc0",
+        "text": "It was high time to go, for the",
+        "audio_url": "https://v16m-default.akamaized.net/ef7be4c219542c05bd13754c3bd84b4e/6751b0c9/video/tos/maliva/tos-maliva-v-f15faa-us/oQZYiSXBiAAljQRAUVCB1NZIF4EKvkw0YEGc1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThF-kIOXq8Zmo&qs=13&rc=M24zbW85cnJvdzUzNzhoM0BpM24zbW85cnJvdzUzNzhoM0BsZV9gMmRrbDVgLS1kLjZzYSNsZV9gMmRrbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338531289400000000000000000000ffff0a006752f259dd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.548
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.548
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43ef9c26b2de11efa3e498039b6a5cc0",
+        "text": "pool was getting quite crowded",
+        "audio_url": "https://v16m-default.akamaized.net/ef7be4c219542c05bd13754c3bd84b4e/6751b0c9/video/tos/maliva/tos-maliva-v-f15faa-us/oQZYiSXBiAAljQRAUVCB1NZIF4EKvkw0YEGc1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThF-kIOXq8Zmo&qs=13&rc=M24zbW85cnJvdzUzNzhoM0BpM24zbW85cnJvdzUzNzhoM0BsZV9gMmRrbDVgLS1kLjZzYSNsZV9gMmRrbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338531289400000000000000000000ffff0a006752f259dd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.548,
+            "end_offset": 3.096
+        },
+        "target_timerange": {
+            "start_offset": 1.548,
+            "end_offset": 3.096
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43ef9d52b2de11efa3e498039b6a5cc0",
+        "text": "with the birds and animals that",
+        "audio_url": "https://v16m-default.akamaized.net/ef7be4c219542c05bd13754c3bd84b4e/6751b0c9/video/tos/maliva/tos-maliva-v-f15faa-us/oQZYiSXBiAAljQRAUVCB1NZIF4EKvkw0YEGc1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThF-kIOXq8Zmo&qs=13&rc=M24zbW85cnJvdzUzNzhoM0BpM24zbW85cnJvdzUzNzhoM0BsZV9gMmRrbDVgLS1kLjZzYSNsZV9gMmRrbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338531289400000000000000000000ffff0a006752f259dd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.096,
+            "end_offset": 4.644
+        },
+        "target_timerange": {
+            "start_offset": 3.096,
+            "end_offset": 4.644
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43ef9e6ab2de11efa3e498039b6a5cc0",
+        "text": "had fallen into it.",
+        "audio_url": "https://v16m-default.akamaized.net/ef7be4c219542c05bd13754c3bd84b4e/6751b0c9/video/tos/maliva/tos-maliva-v-f15faa-us/oQZYiSXBiAAljQRAUVCB1NZIF4EKvkw0YEGc1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThF-kIOXq8Zmo&qs=13&rc=M24zbW85cnJvdzUzNzhoM0BpM24zbW85cnJvdzUzNzhoM0BsZV9gMmRrbDVgLS1kLjZzYSNsZV9gMmRrbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338531289400000000000000000000ffff0a006752f259dd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.644,
+            "end_offset": 6.192
+        },
+        "target_timerange": {
+            "start_offset": 4.644,
+            "end_offset": 6.192
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

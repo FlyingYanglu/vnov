@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "5896206cb2db11ef8c075c6f6994e9ec",
+        "text": "When I got to the door, I",
+        "audio_url": "https://v16m-default.akamaized.net/ba774eb66d3a7c4bf6f0c92f3ab57e1c/6751abdf/video/tos/maliva/tos-maliva-v-f15faa-us/oUe3RL64VJAv2EEnBUFfBBQwRViAdAE0VADqh7/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThiTkIOXq8Zmo&qs=13&rc=M2t1Om85cnhvdzUzNzhoM0BpM2t1Om85cnhvdzUzNzhoM0AtaGphMmRzYjVgLS1kLjZzYSMtaGphMmRzYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338405801900000000000000000000ffff0a0066a6a65ae9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3279999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3279999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "589621e8b2db11ef8c075c6f6994e9ec",
+        "text": "found I had forgotten the",
+        "audio_url": "https://v16m-default.akamaized.net/ba774eb66d3a7c4bf6f0c92f3ab57e1c/6751abdf/video/tos/maliva/tos-maliva-v-f15faa-us/oUe3RL64VJAv2EEnBUFfBBQwRViAdAE0VADqh7/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThiTkIOXq8Zmo&qs=13&rc=M2t1Om85cnhvdzUzNzhoM0BpM2t1Om85cnhvdzUzNzhoM0AtaGphMmRzYjVgLS1kLjZzYSMtaGphMmRzYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338405801900000000000000000000ffff0a0066a6a65ae9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.328,
+            "end_offset": 2.6559999999999997
+        },
+        "target_timerange": {
+            "start_offset": 1.328,
+            "end_offset": 2.6559999999999997
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "589622c4b2db11ef8c075c6f6994e9ec",
+        "text": "little golden key.",
+        "audio_url": "https://v16m-default.akamaized.net/ba774eb66d3a7c4bf6f0c92f3ab57e1c/6751abdf/video/tos/maliva/tos-maliva-v-f15faa-us/oUe3RL64VJAv2EEnBUFfBBQwRViAdAE0VADqh7/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThiTkIOXq8Zmo&qs=13&rc=M2t1Om85cnhvdzUzNzhoM0BpM2t1Om85cnhvdzUzNzhoM0AtaGphMmRzYjVgLS1kLjZzYSMtaGphMmRzYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338405801900000000000000000000ffff0a0066a6a65ae9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.656,
+            "end_offset": 3.984
+        },
+        "target_timerange": {
+            "start_offset": 2.656,
+            "end_offset": 3.984
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

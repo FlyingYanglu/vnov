@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "8d414b40b2d911efb90d0c42a1a7d90a",
+        "text": "In another moment, down I",
+        "audio_url": "https://v16m-default.akamaized.net/377e4ffe041e24ae5b2a9872f5ab0361/6751a8df/video/tos/maliva/tos-maliva-v-f15faa-us/oAH8EiinADk8cNIRgABFEoq6qtzoVABwAKi4fC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6IkIOXq8Zmo&qs=13&rc=M2c2anQ5cnhvdzUzNzhoM0BpM2c2anQ5cnhvdzUzNzhoM0BlbHNqMmRjNTVgLS1kLjZzYSNlbHNqMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338328459000000000000000000000ffff0a00b42211f08b&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6020000000000003
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6020000000000003
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d414da2b2d911efb90d0c42a1a7d90a",
+        "text": "went after it, never once",
+        "audio_url": "https://v16m-default.akamaized.net/377e4ffe041e24ae5b2a9872f5ab0361/6751a8df/video/tos/maliva/tos-maliva-v-f15faa-us/oAH8EiinADk8cNIRgABFEoq6qtzoVABwAKi4fC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6IkIOXq8Zmo&qs=13&rc=M2c2anQ5cnhvdzUzNzhoM0BpM2c2anQ5cnhvdzUzNzhoM0BlbHNqMmRjNTVgLS1kLjZzYSNlbHNqMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338328459000000000000000000000ffff0a00b42211f08b&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.602,
+            "end_offset": 3.204
+        },
+        "target_timerange": {
+            "start_offset": 1.602,
+            "end_offset": 3.204
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d414f6eb2d911efb90d0c42a1a7d90a",
+        "text": "considering how in the world",
+        "audio_url": "https://v16m-default.akamaized.net/377e4ffe041e24ae5b2a9872f5ab0361/6751a8df/video/tos/maliva/tos-maliva-v-f15faa-us/oAH8EiinADk8cNIRgABFEoq6qtzoVABwAKi4fC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6IkIOXq8Zmo&qs=13&rc=M2c2anQ5cnhvdzUzNzhoM0BpM2c2anQ5cnhvdzUzNzhoM0BlbHNqMmRjNTVgLS1kLjZzYSNlbHNqMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338328459000000000000000000000ffff0a00b42211f08b&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.204,
+            "end_offset": 4.806
+        },
+        "target_timerange": {
+            "start_offset": 3.204,
+            "end_offset": 4.806
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8d4150ccb2d911efb90d0c42a1a7d90a",
+        "text": "I was to get out again.",
+        "audio_url": "https://v16m-default.akamaized.net/377e4ffe041e24ae5b2a9872f5ab0361/6751a8df/video/tos/maliva/tos-maliva-v-f15faa-us/oAH8EiinADk8cNIRgABFEoq6qtzoVABwAKi4fC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6IkIOXq8Zmo&qs=13&rc=M2c2anQ5cnhvdzUzNzhoM0BpM2c2anQ5cnhvdzUzNzhoM0BlbHNqMmRjNTVgLS1kLjZzYSNlbHNqMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338328459000000000000000000000ffff0a00b42211f08b&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.806,
+            "end_offset": 6.408
+        },
+        "target_timerange": {
+            "start_offset": 4.806,
+            "end_offset": 6.408
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

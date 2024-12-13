@@ -1,0 +1,153 @@
+[
+    {
+        "text": "the other, and growing sometimes taller and sometimes shorter, until I had succeeded in bringing myself down to my usual height.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a mirror",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "growing taller and shorter",
+                    "finally stabilizing at usual height"
+                ],
+                "gaze_and_direction": "looking into a mirror",
+                "expression": [
+                    "surprised",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly behind the character, focusing on the mirror"
+            }
+        ]
+    },
+    {
+        "text": "It was so long since I had been anything near the right size, that it felt quite strange at first; but I got used to it in a few minutes, and began talking to myself, as usual.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a mirror",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "adjusting clothes",
+                    "talking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and then I had to stop and untwist it. “Come, there’s half my plan done now!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a mirror",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stopping",
+                    "untwisting something",
+                    "talking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "encouraged"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

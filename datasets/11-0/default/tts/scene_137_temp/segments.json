@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "3e2bd324b2dc11ef9b2a1c34da79de38",
+        "text": "So, when the Rabbit came",
+        "audio_url": "https://v16m-default.akamaized.net/8fb3ecb9b024d1a64d1a32ad15b2aa0f/6751ad63/video/tos/maliva/tos-maliva-v-f15faa-us/o0YRejQUfLE3OjBsABVnNPB6WiBJihACZVAEJ1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thk_kIOXq8Zmo&qs=13&rc=MzYzbW85cnlvdzUzNzhoM0BpMzYzbW85cnlvdzUzNzhoM0BxMl9gMmRjZTVgLS1kLjZzYSNxMl9gMmRjZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338444377300000000000000000000ffff0a008db3a28f94&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3e2bd568b2dc11ef9b2a1c34da79de38",
+        "text": "near me, I began, in a",
+        "audio_url": "https://v16m-default.akamaized.net/8fb3ecb9b024d1a64d1a32ad15b2aa0f/6751ad63/video/tos/maliva/tos-maliva-v-f15faa-us/o0YRejQUfLE3OjBsABVnNPB6WiBJihACZVAEJ1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thk_kIOXq8Zmo&qs=13&rc=MzYzbW85cnlvdzUzNzhoM0BpMzYzbW85cnlvdzUzNzhoM0BxMl9gMmRjZTVgLS1kLjZzYSNxMl9gMmRjZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338444377300000000000000000000ffff0a008db3a28f94&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5,
+            "end_offset": 3
+        },
+        "target_timerange": {
+            "start_offset": 1.5,
+            "end_offset": 3
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3e2bd702b2dc11ef9b2a1c34da79de38",
+        "text": "low, timid voice, “If",
+        "audio_url": "https://v16m-default.akamaized.net/8fb3ecb9b024d1a64d1a32ad15b2aa0f/6751ad63/video/tos/maliva/tos-maliva-v-f15faa-us/o0YRejQUfLE3OjBsABVnNPB6WiBJihACZVAEJ1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thk_kIOXq8Zmo&qs=13&rc=MzYzbW85cnlvdzUzNzhoM0BpMzYzbW85cnlvdzUzNzhoM0BxMl9gMmRjZTVgLS1kLjZzYSNxMl9gMmRjZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338444377300000000000000000000ffff0a008db3a28f94&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3,
+            "end_offset": 4.5
+        },
+        "target_timerange": {
+            "start_offset": 3,
+            "end_offset": 4.5
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3e2bd86ab2dc11ef9b2a1c34da79de38",
+        "text": "you please, sir—”",
+        "audio_url": "https://v16m-default.akamaized.net/8fb3ecb9b024d1a64d1a32ad15b2aa0f/6751ad63/video/tos/maliva/tos-maliva-v-f15faa-us/o0YRejQUfLE3OjBsABVnNPB6WiBJihACZVAEJ1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thk_kIOXq8Zmo&qs=13&rc=MzYzbW85cnlvdzUzNzhoM0BpMzYzbW85cnlvdzUzNzhoM0BxMl9gMmRjZTVgLS1kLjZzYSNxMl9gMmRjZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338444377300000000000000000000ffff0a008db3a28f94&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.5,
+            "end_offset": 6
+        },
+        "target_timerange": {
+            "start_offset": 4.5,
+            "end_offset": 6
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

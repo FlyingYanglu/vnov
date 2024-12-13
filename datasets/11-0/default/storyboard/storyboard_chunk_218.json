@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Two days wrong! sighed the Hatter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I told you butter wouldn’t suit the works!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "accusing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It was the best butter, the March Hare meekly replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "replying meekly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "submissive",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "March Hare centered, camera slightly overhead"
+            }
+        ]
+    }
+]

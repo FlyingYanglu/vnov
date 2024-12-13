@@ -1,0 +1,196 @@
+[
+    {
+        "text": "“Oh, don’t talk about trouble!” said the Duchess.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly decorated walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "raising her hand slightly"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "exasperated",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant gown",
+                        "style": "Victorian",
+                        "condition": "well-tailored"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I make you a present of everything I’ve said as yet.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly decorated walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with her hand"
+                ],
+                "gaze_and_direction": "looking slightly away from the viewer",
+                "expression": [
+                    "dismissive",
+                    "slightly smug"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant gown",
+                        "style": "Victorian",
+                        "condition": "well-tailored"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“A cheap sort of present!” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly decorated walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking silently"
+                ],
+                "gaze_and_direction": "looking down, avoiding eye contact",
+                "expression": [
+                    "disdainful",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m glad they don’t give birthday presents like that!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "luxurious interior"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly decorated walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking silently"
+                ],
+                "gaze_and_direction": "looking up, with a slight smile",
+                "expression": [
+                    "relieved",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

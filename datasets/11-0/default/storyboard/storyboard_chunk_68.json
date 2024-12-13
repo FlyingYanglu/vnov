@@ -1,0 +1,233 @@
+[
+    {
+        "text": "“Ugh!” said the Lory, with a shiver.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "adult",
+                "actions": [
+                    "shivering"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "discomfort"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered vest",
+                        "style": "ornate",
+                        "condition": "slightly ruffled"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "beaded"
+                    }
+                },
+                "temporary_features": [
+                    "shivering"
+                ],
+                "composition": "Lory positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I beg your pardon!” said the Mouse, frowning, but very politely: “Did you speak?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "frowning"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [
+                    "holding cane"
+                ],
+                "composition": "Mouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Not I!” said the Lory hastily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "adult",
+                "actions": [
+                    "hastily shaking head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "quick"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered vest",
+                        "style": "ornate",
+                        "condition": "slightly ruffled"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "beaded"
+                    }
+                },
+                "temporary_features": [
+                    "shivering"
+                ],
+                "composition": "Lory positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I thought you did,” said the Mouse. “—I proceed.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "thinking",
+                    "continuing to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "polite"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [
+                    "holding cane"
+                ],
+                "composition": "Mouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "narrative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [
+                    "holding cane"
+                ],
+                "composition": "Mouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

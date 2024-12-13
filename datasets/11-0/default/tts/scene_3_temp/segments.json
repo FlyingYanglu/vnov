@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "6be1f0b2b2d911ef952f1070fd2669de",
+        "text": "So I was considering in my own",
+        "audio_url": "https://v16m-default.akamaized.net/218d72c68e126384a08c12d4a36b75c5/6751a8a8/video/tos/maliva/tos-maliva-v-f15faa-us/okefRHDXCACIAIgueDGqSOEEoEAiuVrhqLqCB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhIkIOXq8Zmo&qs=13&rc=M2R2cXk5cmpvdzUzNzhoM0BpM2R2cXk5cmpvdzUzNzhoM0BpZWtfMmRjNTVgLS1kLjZzYSNpZWtfMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338323179200000000000000000000ffff0a008ce394a358&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.638
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.638
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6be1f314b2d911ef952f1070fd2669de",
+        "text": "mind (as well as I could, for",
+        "audio_url": "https://v16m-default.akamaized.net/218d72c68e126384a08c12d4a36b75c5/6751a8a8/video/tos/maliva/tos-maliva-v-f15faa-us/okefRHDXCACIAIgueDGqSOEEoEAiuVrhqLqCB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhIkIOXq8Zmo&qs=13&rc=M2R2cXk5cmpvdzUzNzhoM0BpM2R2cXk5cmpvdzUzNzhoM0BpZWtfMmRjNTVgLS1kLjZzYSNpZWtfMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338323179200000000000000000000ffff0a008ce394a358&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6380000000000001,
+            "end_offset": 3.2760000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.6380000000000001,
+            "end_offset": 3.2760000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6be1f508b2d911ef952f1070fd2669de",
+        "text": "the hot day made me feel very",
+        "audio_url": "https://v16m-default.akamaized.net/218d72c68e126384a08c12d4a36b75c5/6751a8a8/video/tos/maliva/tos-maliva-v-f15faa-us/okefRHDXCACIAIgueDGqSOEEoEAiuVrhqLqCB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhIkIOXq8Zmo&qs=13&rc=M2R2cXk5cmpvdzUzNzhoM0BpM2R2cXk5cmpvdzUzNzhoM0BpZWtfMmRjNTVgLS1kLjZzYSNpZWtfMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338323179200000000000000000000ffff0a008ce394a358&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2760000000000002,
+            "end_offset": 4.914000000000001
+        },
+        "target_timerange": {
+            "start_offset": 3.2760000000000002,
+            "end_offset": 4.914000000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6be1f698b2d911ef952f1070fd2669de",
+        "text": "sleepy and stupid)",
+        "audio_url": "https://v16m-default.akamaized.net/218d72c68e126384a08c12d4a36b75c5/6751a8a8/video/tos/maliva/tos-maliva-v-f15faa-us/okefRHDXCACIAIgueDGqSOEEoEAiuVrhqLqCB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhIkIOXq8Zmo&qs=13&rc=M2R2cXk5cmpvdzUzNzhoM0BpM2R2cXk5cmpvdzUzNzhoM0BpZWtfMmRjNTVgLS1kLjZzYSNpZWtfMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338323179200000000000000000000ffff0a008ce394a358&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.914000000000001,
+            "end_offset": 6.5520000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.914000000000001,
+            "end_offset": 6.5520000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

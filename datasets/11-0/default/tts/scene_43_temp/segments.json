@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "4577ec3cb2da11efa3e498039b6a5cc0",
+        "text": "Do cats eat bats?” and",
+        "audio_url": "https://v16m-default.akamaized.net/fb030cb7cfa0795a11bd82c35da218c3/6751aa18/video/tos/maliva/tos-maliva-v-f15faa-us/oYEVLZIijC61AdDSBQfSFdLJAWIV1AevBVUnqh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7TheSkIOXq8Zmo&qs=13&rc=amRwaGs5cmVvdzUzNzhoM0BpamRwaGs5cmVvdzUzNzhoM0BoZmhrMmRzXzVgLS1kLjZzYSNoZmhrMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338359696400000000000000000000ffff0a00b5025c7d1c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.524
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.524
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4577efd4b2da11efa3e498039b6a5cc0",
+        "text": "sometimes, “Do bats eat",
+        "audio_url": "https://v16m-default.akamaized.net/fb030cb7cfa0795a11bd82c35da218c3/6751aa18/video/tos/maliva/tos-maliva-v-f15faa-us/oYEVLZIijC61AdDSBQfSFdLJAWIV1AevBVUnqh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7TheSkIOXq8Zmo&qs=13&rc=amRwaGs5cmVvdzUzNzhoM0BpamRwaGs5cmVvdzUzNzhoM0BoZmhrMmRzXzVgLS1kLjZzYSNoZmhrMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338359696400000000000000000000ffff0a00b5025c7d1c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.524,
+            "end_offset": 3.048
+        },
+        "target_timerange": {
+            "start_offset": 1.524,
+            "end_offset": 3.048
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4577f1d2b2da11efa3e498039b6a5cc0",
+        "text": "cats?” for, you see, as I",
+        "audio_url": "https://v16m-default.akamaized.net/fb030cb7cfa0795a11bd82c35da218c3/6751aa18/video/tos/maliva/tos-maliva-v-f15faa-us/oYEVLZIijC61AdDSBQfSFdLJAWIV1AevBVUnqh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7TheSkIOXq8Zmo&qs=13&rc=amRwaGs5cmVvdzUzNzhoM0BpamRwaGs5cmVvdzUzNzhoM0BoZmhrMmRzXzVgLS1kLjZzYSNoZmhrMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338359696400000000000000000000ffff0a00b5025c7d1c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.048,
+            "end_offset": 4.572
+        },
+        "target_timerange": {
+            "start_offset": 3.048,
+            "end_offset": 4.572
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4577f376b2da11efa3e498039b6a5cc0",
+        "text": "couldn’t answer either",
+        "audio_url": "https://v16m-default.akamaized.net/fb030cb7cfa0795a11bd82c35da218c3/6751aa18/video/tos/maliva/tos-maliva-v-f15faa-us/oYEVLZIijC61AdDSBQfSFdLJAWIV1AevBVUnqh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7TheSkIOXq8Zmo&qs=13&rc=amRwaGs5cmVvdzUzNzhoM0BpamRwaGs5cmVvdzUzNzhoM0BoZmhrMmRzXzVgLS1kLjZzYSNoZmhrMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338359696400000000000000000000ffff0a00b5025c7d1c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.572,
+            "end_offset": 6.096
+        },
+        "target_timerange": {
+            "start_offset": 4.572,
+            "end_offset": 6.096
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4577f4a2b2da11efa3e498039b6a5cc0",
+        "text": "question, it didn’t much",
+        "audio_url": "https://v16m-default.akamaized.net/fb030cb7cfa0795a11bd82c35da218c3/6751aa18/video/tos/maliva/tos-maliva-v-f15faa-us/oYEVLZIijC61AdDSBQfSFdLJAWIV1AevBVUnqh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7TheSkIOXq8Zmo&qs=13&rc=amRwaGs5cmVvdzUzNzhoM0BpamRwaGs5cmVvdzUzNzhoM0BoZmhrMmRzXzVgLS1kLjZzYSNoZmhrMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338359696400000000000000000000ffff0a00b5025c7d1c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.096,
+            "end_offset": 7.62
+        },
+        "target_timerange": {
+            "start_offset": 6.096,
+            "end_offset": 7.62
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4577f5f6b2da11efa3e498039b6a5cc0",
+        "text": "matter which way I put it.",
+        "audio_url": "https://v16m-default.akamaized.net/fb030cb7cfa0795a11bd82c35da218c3/6751aa18/video/tos/maliva/tos-maliva-v-f15faa-us/oYEVLZIijC61AdDSBQfSFdLJAWIV1AevBVUnqh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7TheSkIOXq8Zmo&qs=13&rc=amRwaGs5cmVvdzUzNzhoM0BpamRwaGs5cmVvdzUzNzhoM0BoZmhrMmRzXzVgLS1kLjZzYSNoZmhrMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338359696400000000000000000000ffff0a00b5025c7d1c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.62,
+            "end_offset": 9.144
+        },
+        "target_timerange": {
+            "start_offset": 7.62,
+            "end_offset": 9.144
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

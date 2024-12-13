@@ -1,0 +1,227 @@
+[
+    {
+        "text": "—did you ever see such a thing as a drawing of a muchness?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a teacup",
+                    "gesturing with free hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Really, now you ask me,” I said, very much confused, “I don’t think—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "holding teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Then you shouldn’t talk,” said the Hatter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with free hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "This piece of rudeness was more than I could bear: I got up in great disgust, and walked off;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing up abruptly",
+                    "walking away"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disgusted",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "the Dormouse fell asleep instantly, and neither of the others took the least notice of my going, though I looked back once or twice, half hoping that they would call after me: the last time I saw them, they",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking back",
+                    "walking away"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

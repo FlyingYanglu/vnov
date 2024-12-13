@@ -1,0 +1,205 @@
+[
+    {
+        "text": "“Come, _that’s_ a good thing!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reassuring",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said to myself, for I had felt quite unhappy at the number of executions the Queen had ordered.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "unhappy",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "We very soon came upon a Gryphon, lying fast asleep in the sun.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "lying down",
+                    "sleeping"
+                ],
+                "gaze_and_direction": "closed eyes",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "golden",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "basking in sunlight"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(If you don’t know what a Gryphon is, look at the picture.)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "lying down",
+                    "sleeping"
+                ],
+                "gaze_and_direction": "closed eyes",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "golden",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "basking in sunlight"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    }
+]

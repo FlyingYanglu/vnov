@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "2808a124b2de11efb4ac0c42a117b3f4",
+        "text": "I cried in a sorrowful tone,",
+        "audio_url": "https://v16m-default.akamaized.net/abed10a1f286f4cb85844e41edd232b2/6751b098/video/tos/maliva/tos-maliva-v-f15faa-us/oYfnZcVBhPDUfRjEOXFwzEADBtAOEQBqVMAJtL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThbgkIOXq8Zmo&qs=13&rc=amZ3PG85cmZvdzUzNzhoM0BpamZ3PG85cmZvdzUzNzhoM0BqbG9fMmRzbDVgLS1kLjZzYSNqbG9fMmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338526590200000000000000000000ffff0a006cc0d1d864&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.528
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.528
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2808a3c2b2de11efb4ac0c42a117b3f4",
+        "text": "realizing I might have",
+        "audio_url": "https://v16m-default.akamaized.net/abed10a1f286f4cb85844e41edd232b2/6751b098/video/tos/maliva/tos-maliva-v-f15faa-us/oYfnZcVBhPDUfRjEOXFwzEADBtAOEQBqVMAJtL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThbgkIOXq8Zmo&qs=13&rc=amZ3PG85cmZvdzUzNzhoM0BpamZ3PG85cmZvdzUzNzhoM0BqbG9fMmRzbDVgLS1kLjZzYSNqbG9fMmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338526590200000000000000000000ffff0a006cc0d1d864&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5280000000000002,
+            "end_offset": 3.056
+        },
+        "target_timerange": {
+            "start_offset": 1.5280000000000002,
+            "end_offset": 3.056
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2808a570b2de11efb4ac0c42a117b3f4",
+        "text": "offended the Mouse again.",
+        "audio_url": "https://v16m-default.akamaized.net/abed10a1f286f4cb85844e41edd232b2/6751b098/video/tos/maliva/tos-maliva-v-f15faa-us/oYfnZcVBhPDUfRjEOXFwzEADBtAOEQBqVMAJtL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThbgkIOXq8Zmo&qs=13&rc=amZ3PG85cmZvdzUzNzhoM0BpamZ3PG85cmZvdzUzNzhoM0BqbG9fMmRzbDVgLS1kLjZzYSNqbG9fMmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338526590200000000000000000000ffff0a006cc0d1d864&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0560000000000005,
+            "end_offset": 4.5840000000000005
+        },
+        "target_timerange": {
+            "start_offset": 3.0560000000000005,
+            "end_offset": 4.5840000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

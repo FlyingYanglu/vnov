@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "0e89cef6b2db11efa806043f72b8e3e6",
+        "text": "I wonder what I should be like then?",
+        "audio_url": "https://v16m-default.akamaized.net/72da5cd5b85692622fcc39a474b73fc1/6751ab60/video/tos/maliva/tos-maliva-v-f15faa-us/o0fVEhbgT6fDBAERr3B8EM4VQAivBnLVUXBJAi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th91kIOXq8Zmo&qs=13&rc=amU0NHQ5cnlvdzUzNzhoM0BpamU0NHQ5cnlvdzUzNzhoM0A2YzRkMmRzYTVgLS1kLjZzYSM2YzRkMmRzYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338393483100000000000000000000ffff0a006d12864037&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.92
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.92
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

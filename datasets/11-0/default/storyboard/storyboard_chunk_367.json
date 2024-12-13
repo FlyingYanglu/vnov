@@ -1,0 +1,131 @@
+[
+    {
+        "text": "“Shall we try another figure of the Lobster Quadrille?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "elegant furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Or would you like the Mock Turtle to sing you a song?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "elegant furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "continuing to speak to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, a song, please, if the Mock Turtle would be so kind,” I replied, so eagerly that the Gryphon said, in a rather offended tone, “Hm!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "elegant furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking with an offended tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

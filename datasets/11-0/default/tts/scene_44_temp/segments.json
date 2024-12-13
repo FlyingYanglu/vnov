@@ -1,0 +1,122 @@
+[
+    {
+        "segment_id": "4cf7d418b2da11efaf4eb8cef659fbf0",
+        "text": "I felt that I was dozing",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.548
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.548
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7d5dab2da11efaf4eb8cef659fbf0",
+        "text": "off, and had just begun to",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.548,
+            "end_offset": 3.096
+        },
+        "target_timerange": {
+            "start_offset": 1.548,
+            "end_offset": 3.096
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7d742b2da11efaf4eb8cef659fbf0",
+        "text": "dream that I was walking",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.096,
+            "end_offset": 4.644
+        },
+        "target_timerange": {
+            "start_offset": 3.096,
+            "end_offset": 4.644
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7d8dcb2da11efaf4eb8cef659fbf0",
+        "text": "hand in hand with Dinah,",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.644,
+            "end_offset": 6.192
+        },
+        "target_timerange": {
+            "start_offset": 4.644,
+            "end_offset": 6.192
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7db0cb2da11efaf4eb8cef659fbf0",
+        "text": "and saying to her very",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.192,
+            "end_offset": 7.74
+        },
+        "target_timerange": {
+            "start_offset": 6.192,
+            "end_offset": 7.74
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7dc24b2da11efaf4eb8cef659fbf0",
+        "text": "earnestly, “Now, Dinah,",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.74,
+            "end_offset": 9.288
+        },
+        "target_timerange": {
+            "start_offset": 7.74,
+            "end_offset": 9.288
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7dd1eb2da11efaf4eb8cef659fbf0",
+        "text": "tell me the truth: did you",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 9.288,
+            "end_offset": 10.836
+        },
+        "target_timerange": {
+            "start_offset": 9.288,
+            "end_offset": 10.836
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4cf7de68b2da11efaf4eb8cef659fbf0",
+        "text": "ever eat a bat?”",
+        "audio_url": "https://v16m-default.akamaized.net/1cd5c0fbd8a9ebe7ec1ed4f15a324669/6751aa25/video/tos/maliva/tos-maliva-v-f15faa-us/o0WUDf95hEdJEbVeBAnQFBxREpVVLANIBBnApl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6SkIOXq8Zmo&qs=13&rc=M3hsaHg5cmhvdzUzNzhoM0BpM3hsaHg5cmhvdzUzNzhoM0AxYTNkMmRjXzVgLS1kLjZzYSMxYTNkMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338360565800000000000000000000ffff0a006c15f44cc1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 10.836,
+            "end_offset": 12.384
+        },
+        "target_timerange": {
+            "start_offset": 10.836,
+            "end_offset": 12.384
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

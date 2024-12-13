@@ -1,0 +1,172 @@
+[
+    {
+        "text": "And then a voice I had never heard before, “Sure then I’m here!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Unknown Voice",
+                "age": "unknown",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "unknown",
+                        "style": "unknown"
+                    },
+                    "accessories": {
+                        "item": "unknown"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Digging for apples, yer honour!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Unknown Voice",
+                "age": "unknown",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "unknown",
+                        "style": "unknown"
+                    },
+                    "accessories": {
+                        "item": "unknown"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Digging for apples, indeed!” said the Rabbit angrily.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking angrily to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rabbit suit",
+                        "style": "formal"
+                    },
+                    "accessories": {
+                        "item": "top hat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Here! Come and help me out of _this! _”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reaching out towards the viewer",
+                    "looking desperate"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rabbit suit",
+                        "style": "formal"
+                    },
+                    "accessories": {
+                        "item": "top hat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

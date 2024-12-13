@@ -1,0 +1,199 @@
+[
+    {
+        "text": "“Then it doesn’t matter which way you go,” said the Cat.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "unknown",
+                "actions": [
+                    "sitting on a fence",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "calm",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "well-groomed"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat positioned on the left side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“—so long as I get somewhere,” I added as an explanation.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the fence",
+                    "looking at the Cat"
+                ],
+                "gaze_and_direction": "looking slightly upward at the Cat",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes",
+                    "holding car keys"
+                ],
+                "composition": "Main character positioned on the right side, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, you’re sure to do that,” said the Cat, “if you only walk long enough.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "unknown",
+                "actions": [
+                    "sitting on the fence",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "calm",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "well-groomed"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat positioned on the left side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I felt that this could not be denied, so I tried another question.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the fence",
+                    "looking at the Cat",
+                    "opening mouth as if to speak"
+                ],
+                "gaze_and_direction": "looking slightly upward at the Cat",
+                "expression": [
+                    "thoughtful",
+                    "slightly determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes",
+                    "holding car keys"
+                ],
+                "composition": "Main character positioned on the right side, camera slightly overhead"
+            }
+        ]
+    }
+]

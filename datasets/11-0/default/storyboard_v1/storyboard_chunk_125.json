@@ -1,0 +1,310 @@
+[
+    {
+        "text": "I remarked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"It tells the day of the month, and doesn’t tell what o’clock it is!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with one hand",
+                    "holding a teacup with the other"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Why should it?\" muttered the Hatter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking softly",
+                    "looking down at the table"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Does _your_ watch tell you what year it is?\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "looking up at the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Of course not,\" I replied very readily: \"but that’s because it stays the same year for such a long time together.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Which is just the case with _mine,\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "looking down at the table",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned to the left, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "text": "I decided to wait, as I had nothing else to do, and perhaps it might tell me something worth hearing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking at the Caterpillar"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "patient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "For some minutes, the Caterpillar puffed away without speaking.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "puffing smoke",
+                    "holding a hookah"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "calm",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "jacket": {
+                        "item": "none",
+                        "style": "none",
+                        "type": "none",
+                        "condition": "none",
+                        "sleeves": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "smoking"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Finally, it unfolded its arms, took the hookah out of its mouth again, and said, “So you think you’re changed, do you?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "unfolding arms",
+                    "holding hookah",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "jacket": {
+                        "item": "none",
+                        "style": "none",
+                        "type": "none",
+                        "condition": "none",
+                        "sleeves": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "smoking"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m afraid I am, sir,” I said;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "worried",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I can’t remember things as I used—and I don’t keep the same size for ten minutes together!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Can’t remember _what_ things?” the Caterpillar asked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "jacket": {
+                        "item": "none",
+                        "style": "none",
+                        "type": "none",
+                        "condition": "none",
+                        "sleeves": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "smoking"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    }
+]

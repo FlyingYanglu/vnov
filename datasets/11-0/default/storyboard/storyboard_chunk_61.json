@@ -1,0 +1,92 @@
+[
+    {
+        "text": "I cried in a sorrowful tone, realizing I might have offended the Mouse again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crying",
+                    "realizing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sorrowful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It was swimming away from me as hard as it could go, making quite a commotion in the pool as it went.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "young",
+                "actions": [
+                    "swimming away",
+                    "making a commotion"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "wet"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse in the pool, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "text": "I remarked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"There isn’t any,\" the March Hare replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Then it wasn’t very civil of you to offer it,\" I said angrily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"It wasn’t very civil of you to sit down without being invited,\" the March Hare retorted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking defiantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"I didn’t know it was your table,\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking defensively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

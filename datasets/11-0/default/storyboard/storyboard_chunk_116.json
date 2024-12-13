@@ -1,0 +1,106 @@
+[
+    {
+        "text": "she made out the words: “Where’s the other ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill! fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em together first—they don’t reach half high enough yet—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open space"
+            ],
+            "scene_features": [
+                "construction site",
+                "ladders",
+                "tools"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "she",
+                "age": "young adult",
+                "actions": [
+                    "speaking loudly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "work shirt",
+                        "style": "plain",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "utility"
+                    }
+                },
+                "temporary_features": [
+                    "holding a ladder"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Oh! they’ll do well enough; don’t be particular—Here, Bill!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open space"
+            ],
+            "scene_features": [
+                "construction site",
+                "ladders",
+                "tools"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "she",
+                "age": "young adult",
+                "actions": [
+                    "speaking loudly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "work shirt",
+                        "style": "plain",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "utility"
+                    }
+                },
+                "temporary_features": [
+                    "holding a ladder"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

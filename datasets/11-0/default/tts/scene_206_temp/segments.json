@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "adf4e55ab2dd11ef8446043f72b8e3e6",
+        "text": "So I began again: “Où est",
+        "audio_url": "https://v16m-default.akamaized.net/c5d99b3aa83ee91d5a1a88c19367eb2e/6751afcb/video/tos/maliva/tos-maliva-v-f15faa-us/oQKAADyfBRKzigF0E227qWpBoiUwkVATuUqEEA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThtPkIOXq8Zmo&qs=13&rc=ajxqN245cnNvdzUzNzhoM0BpajxqN245cnNvdzUzNzhoM0BxNG5rMmRjajVgLS1kLjZzYSNxNG5rMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338505956500000000000000000000ffff0a00b3835a31fc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4160000000000004
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4160000000000004
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "adf4eb5eb2dd11ef8446043f72b8e3e6",
+        "text": "ma chatte?” which was the",
+        "audio_url": "https://v16m-default.akamaized.net/c5d99b3aa83ee91d5a1a88c19367eb2e/6751afcb/video/tos/maliva/tos-maliva-v-f15faa-us/oQKAADyfBRKzigF0E227qWpBoiUwkVATuUqEEA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThtPkIOXq8Zmo&qs=13&rc=ajxqN245cnNvdzUzNzhoM0BpajxqN245cnNvdzUzNzhoM0BxNG5rMmRjajVgLS1kLjZzYSNxNG5rMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338505956500000000000000000000ffff0a00b3835a31fc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.416,
+            "end_offset": 2.832
+        },
+        "target_timerange": {
+            "start_offset": 1.416,
+            "end_offset": 2.832
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "adf4f126b2dd11ef8446043f72b8e3e6",
+        "text": "first sentence in my",
+        "audio_url": "https://v16m-default.akamaized.net/c5d99b3aa83ee91d5a1a88c19367eb2e/6751afcb/video/tos/maliva/tos-maliva-v-f15faa-us/oQKAADyfBRKzigF0E227qWpBoiUwkVATuUqEEA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThtPkIOXq8Zmo&qs=13&rc=ajxqN245cnNvdzUzNzhoM0BpajxqN245cnNvdzUzNzhoM0BxNG5rMmRjajVgLS1kLjZzYSNxNG5rMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338505956500000000000000000000ffff0a00b3835a31fc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.832,
+            "end_offset": 4.247999999999999
+        },
+        "target_timerange": {
+            "start_offset": 2.832,
+            "end_offset": 4.247999999999999
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "adf4f310b2dd11ef8446043f72b8e3e6",
+        "text": "French lesson-book.",
+        "audio_url": "https://v16m-default.akamaized.net/c5d99b3aa83ee91d5a1a88c19367eb2e/6751afcb/video/tos/maliva/tos-maliva-v-f15faa-us/oQKAADyfBRKzigF0E227qWpBoiUwkVATuUqEEA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThtPkIOXq8Zmo&qs=13&rc=ajxqN245cnNvdzUzNzhoM0BpajxqN245cnNvdzUzNzhoM0BxNG5rMmRjajVgLS1kLjZzYSNxNG5rMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338505956500000000000000000000ffff0a00b3835a31fc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.247999999999999,
+            "end_offset": 5.664
+        },
+        "target_timerange": {
+            "start_offset": 4.247999999999999,
+            "end_offset": 5.664
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "text": "“Back to land again, and that’s all the first figure,” said the Mock Turtle, suddenly dropping his voice;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "natural light",
+                "open field"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "dropping voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and the two creatures, who had been jumping about like mad things all this time, sat down again very sadly and quietly, and looked at me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "natural light",
+                "open field"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Two Creatures",
+                "age": "various",
+                "actions": [
+                    "sitting down",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "quiet"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "various",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "various",
+                        "style": "various",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Characters positioned side by side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“It must be a very pretty dance,” I said timidly.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "natural light",
+                "open field"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Would you like to see a little of it?” asked the Mock Turtle.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "natural light",
+                "open field"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

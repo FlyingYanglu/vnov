@@ -1,0 +1,186 @@
+[
+    {
+        "text": "the Rabbit whispered in a frightened tone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "whispering"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a note"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "You see, she came rather late, and the Queen said—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "whispering",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a note"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Get to your places!” shouted the Queen in a voice of thunder, and people began running about in all directions, tumbling up against each other; however, they got settled down in a minute or two, and the game began.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I thought I had never seen such a curious croquet-ground in my life; it was all ridges and furrows; the balls were live hedgehogs, the mallets live flamingos, and the soldiers had to double themselves up and to stand on their hands and feet, to make the arches.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around in amazement"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a croquet mallet"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "text": "I knelt down and looked along the passage into the loveliest garden I ever saw.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "shadowy hall",
+                "nighttime"
+            ],
+            "scene_features": [
+                "passageway",
+                "doorway",
+                "garden view through doorway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "kneeling down",
+                    "looking along the passage"
+                ],
+                "gaze_and_direction": "looking into the garden",
+                "expression": [
+                    "amazed",
+                    "enchanted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character kneeling, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "How I longed to get out of that dark hall and wander about among those beds of bright flowers and those cool fountains.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "shadowy hall",
+                "nighttime"
+            ],
+            "scene_features": [
+                "passageway",
+                "doorway",
+                "garden view through doorway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning against the doorway",
+                    "looking longingly into the garden"
+                ],
+                "gaze_and_direction": "looking into the garden",
+                "expression": [
+                    "longing",
+                    "wistful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character leaning, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "But I could not even get my head through the doorway.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "shadowy hall",
+                "nighttime"
+            ],
+            "scene_features": [
+                "passageway",
+                "doorway",
+                "garden view through doorway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "attempting to poke head through the doorway"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character attempting to poke head through, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And even if my head would go through, I thought, it would be of very little use without my shoulders.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "shadowy hall",
+                "nighttime"
+            ],
+            "scene_features": [
+                "passageway",
+                "doorway",
+                "garden view through doorway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character standing, camera at eye level"
+            }
+        ]
+    }
+]

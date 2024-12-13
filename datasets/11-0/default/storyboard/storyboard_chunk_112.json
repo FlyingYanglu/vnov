@@ -1,0 +1,218 @@
+[
+    {
+        "text": "(Sounds of more broken glass.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "broken glass on the floor"
+            ],
+            "scene_features": [
+                "window with a broken pane",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [],
+        "composition": "Camera focuses on the broken glass, sound effects emphasized"
+    },
+    {
+        "text": "“Now tell me, Pat, what’s that in the window?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "broken glass on the floor"
+            ],
+            "scene_features": [
+                "window with a broken pane",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pat",
+                "age": "middle-aged",
+                "actions": [
+                    "standing near the window",
+                    "looking out the window"
+                ],
+                "gaze_and_direction": "looking out the window",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pat positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Sure, it’s an arm, yer honour!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "broken glass on the floor"
+            ],
+            "scene_features": [
+                "window with a broken pane",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pat",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing out the window"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pat centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Pat’s voice echoed, pronouncing it “arrum.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "broken glass on the floor"
+            ],
+            "scene_features": [
+                "window with a broken pane",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pat",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with emphasis"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pat centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“An arm, you goose! Who ever saw one that size?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "broken glass on the floor"
+            ],
+            "scene_features": [
+                "window with a broken pane",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pat",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pat centered, camera slightly overhead"
+            }
+        ]
+    }
+]

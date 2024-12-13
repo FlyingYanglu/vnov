@@ -1,0 +1,226 @@
+[
+    {
+        "text": "“You’re enough to try the patience of an oyster!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "table",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Young Crab",
+                "age": "young",
+                "actions": [
+                    "gesturing with a claw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "irritated",
+                    "snappish"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wish I had our Dinah here, I know I do!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "table",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking aloud",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "wistful",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“She’d soon fetch it back!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "table",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And who is Dinah, if I might venture to ask the question?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "table",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "middle-aged",
+                "actions": [
+                    "tilting head",
+                    "speaking inquisitively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "polite"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I replied eagerly, for I was always ready to talk about my pet.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "table",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing enthusiastically",
+                    "speaking eagerly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "8c78a0eab2da11efad6e84160ca7ff58",
+        "text": "I opened the door and",
+        "audio_url": "https://v16m-default.akamaized.net/ce92d7fa685283f653c4334e5c6c0364/6751aa8a/video/tos/maliva/tos-maliva-v-f15faa-us/ogzhEBFU9EDgleALYCAQfcErnREXVpqBJAiVVB/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyykIOXq8Zmo&qs=13&rc=M3c7cXg5cjxvdzUzNzhoM0BpM3c7cXg5cjxvdzUzNzhoM0AuNjJpMmRjYDVgLS1kLjZzYSMuNjJpMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338371558000000000000000000000ffff0a00af9ceccc88&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3200000000000003
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3200000000000003
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8c78a216b2da11efad6e84160ca7ff58",
+        "text": "found that it led into a",
+        "audio_url": "https://v16m-default.akamaized.net/ce92d7fa685283f653c4334e5c6c0364/6751aa8a/video/tos/maliva/tos-maliva-v-f15faa-us/ogzhEBFU9EDgleALYCAQfcErnREXVpqBJAiVVB/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyykIOXq8Zmo&qs=13&rc=M3c7cXg5cjxvdzUzNzhoM0BpM3c7cXg5cjxvdzUzNzhoM0AuNjJpMmRjYDVgLS1kLjZzYSMuNjJpMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338371558000000000000000000000ffff0a00af9ceccc88&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.32,
+            "end_offset": 2.64
+        },
+        "target_timerange": {
+            "start_offset": 1.32,
+            "end_offset": 2.64
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8c78a2fcb2da11efad6e84160ca7ff58",
+        "text": "small passage, not much",
+        "audio_url": "https://v16m-default.akamaized.net/ce92d7fa685283f653c4334e5c6c0364/6751aa8a/video/tos/maliva/tos-maliva-v-f15faa-us/ogzhEBFU9EDgleALYCAQfcErnREXVpqBJAiVVB/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyykIOXq8Zmo&qs=13&rc=M3c7cXg5cjxvdzUzNzhoM0BpM3c7cXg5cjxvdzUzNzhoM0AuNjJpMmRjYDVgLS1kLjZzYSMuNjJpMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338371558000000000000000000000ffff0a00af9ceccc88&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.64,
+            "end_offset": 3.96
+        },
+        "target_timerange": {
+            "start_offset": 2.64,
+            "end_offset": 3.96
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8c78a3c4b2da11efad6e84160ca7ff58",
+        "text": "larger than a rat-hole.",
+        "audio_url": "https://v16m-default.akamaized.net/ce92d7fa685283f653c4334e5c6c0364/6751aa8a/video/tos/maliva/tos-maliva-v-f15faa-us/ogzhEBFU9EDgleALYCAQfcErnREXVpqBJAiVVB/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyykIOXq8Zmo&qs=13&rc=M3c7cXg5cjxvdzUzNzhoM0BpM3c7cXg5cjxvdzUzNzhoM0AuNjJpMmRjYDVgLS1kLjZzYSMuNjJpMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338371558000000000000000000000ffff0a00af9ceccc88&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.96,
+            "end_offset": 5.28
+        },
+        "target_timerange": {
+            "start_offset": 3.96,
+            "end_offset": 5.28
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

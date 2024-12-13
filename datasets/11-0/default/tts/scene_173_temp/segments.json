@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "fc97cb60b2dc11ef8c075c6f6994e9ec",
+        "text": "I cried, with a sudden burst",
+        "audio_url": "https://v16m-default.akamaized.net/ae771379078fe1fbf8f1a22af263d958/6751ae9f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAPAfpMDBBnFArh7REWVlEjUBJE63eQisV5oL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCbkIOXq8Zmo&qs=13&rc=ajxxa2s5cmhvdzUzNzhoM0Bpajxxa2s5cmhvdzUzNzhoM0BvcWZiMmRzaDVgLS1kLjZzYSNvcWZiMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338476213100000000000000000000ffff0a00b352959810&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.576
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.576
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "fc97ccdcb2dc11ef8c075c6f6994e9ec",
+        "text": "of tears, “I do wish they",
+        "audio_url": "https://v16m-default.akamaized.net/ae771379078fe1fbf8f1a22af263d958/6751ae9f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAPAfpMDBBnFArh7REWVlEjUBJE63eQisV5oL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCbkIOXq8Zmo&qs=13&rc=ajxxa2s5cmhvdzUzNzhoM0Bpajxxa2s5cmhvdzUzNzhoM0BvcWZiMmRzaDVgLS1kLjZzYSNvcWZiMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338476213100000000000000000000ffff0a00b352959810&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5759999999999998,
+            "end_offset": 3.152
+        },
+        "target_timerange": {
+            "start_offset": 1.5759999999999998,
+            "end_offset": 3.152
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "fc97ce12b2dc11ef8c075c6f6994e9ec",
+        "text": "_would_ put their heads down!",
+        "audio_url": "https://v16m-default.akamaized.net/ae771379078fe1fbf8f1a22af263d958/6751ae9f/video/tos/maliva/tos-maliva-v-f15faa-us/oYAPAfpMDBBnFArh7REWVlEjUBJE63eQisV5oL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCbkIOXq8Zmo&qs=13&rc=ajxxa2s5cmhvdzUzNzhoM0Bpajxxa2s5cmhvdzUzNzhoM0BvcWZiMmRzaDVgLS1kLjZzYSNvcWZiMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338476213100000000000000000000ffff0a00b352959810&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.1519999999999997,
+            "end_offset": 4.728
+        },
+        "target_timerange": {
+            "start_offset": 3.1519999999999997,
+            "end_offset": 4.728
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

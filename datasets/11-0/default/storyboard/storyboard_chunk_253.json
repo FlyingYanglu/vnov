@@ -1,0 +1,203 @@
+[
+    {
+        "text": "were trying to put the Dormouse into the teapot.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teapot",
+                "table",
+                "tea cups",
+                "dormouse"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "reaching toward the teapot"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I was silent.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teapot",
+                "table",
+                "tea cups",
+                "dormouse"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“At any rate I’ll never go _there_ again!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "forest",
+                "evening"
+            ],
+            "scene_features": [
+                "trees",
+                "path",
+                "twilight"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking through the forest"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "I said as I picked my way through the wood.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "forest",
+                "evening"
+            ],
+            "scene_features": [
+                "trees",
+                "path",
+                "twilight"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking carefully through the forest"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "text": "She carried the pepper-box in her hand, and I guessed who it was even before she got into the court, by the way the people near the door began sneezing all at once.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "people sneezing",
+                "large door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "carrying a pepper-box",
+                    "walking towards the court"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "pepper-box",
+                        "type": "small, ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Give your evidence,” the King said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "people sneezing",
+                "large door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "speaking",
+                    "sitting on a throne"
+                ],
+                "gaze_and_direction": "looking at the Cook",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "clean and well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Shan’t,” the cook replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "people sneezing",
+                "large door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "standing defiantly"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "pepper-box",
+                        "type": "small, ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The King looked anxiously at the White Rabbit, who said in a low voice, “Your Majesty must cross-examine _this_ witness.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "courtroom",
+                "people sneezing",
+                "large door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "whispering to the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the right, camera frontal"
+            }
+        ]
+    }
+]

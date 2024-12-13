@@ -1,0 +1,155 @@
+[
+    {
+        "text": "The Cat seemed to think that there was enough of it now in sight, and no more of it appeared.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Cat",
+                "age": "adult",
+                "actions": [
+                    "sitting on a chair",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth and sleek",
+                        "condition": "well-groomed"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple leather"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The Cat centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t think they play at all fairly,” I began, in rather a complaining tone,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the fireplace",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "complaining",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“and they all quarrel so dreadfully one can’t hear oneself speak—and they don’t seem to have any rules in particular; at least, if there are, nobody attends to them—and you’ve no idea how confusing it is all the things",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "exasperated",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

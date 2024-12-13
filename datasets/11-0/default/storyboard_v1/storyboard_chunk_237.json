@@ -1,0 +1,232 @@
+[
+    {
+        "text": "the March Hare interrupted in a great hurry.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "interrupting abruptly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Character positioned left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“You did!” the Hatter insisted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "insisting forcefully"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "intense"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Character positioned right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I deny it!” the March Hare retorted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "retorting defiantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defiant",
+                    "narrowed eyes"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Character positioned left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“He denies it,” the King said, “leave out that part.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "speaking authoritatively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "regal",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Well, at any rate, the Dormouse said—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "timid",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "modest",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "blanket",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Character positioned right, camera slightly low angle"
+            }
+        ]
+    }
+]

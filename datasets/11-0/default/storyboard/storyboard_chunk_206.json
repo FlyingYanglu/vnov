@@ -1,0 +1,140 @@
+[
+    {
+        "text": "“Did you say pig, or fig?” said the Cat.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "ageless",
+                "actions": [
+                    "sitting on a chair",
+                    "tilting head slightly"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "well-groomed"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "grin on face"
+                ],
+                "composition": "Cat positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I said pig,” I replied; “and I wish you wouldn’t keep appearing and vanishing so suddenly: you make one quite giddy.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing",
+                    "gesturing slightly with hand"
+                ],
+                "gaze_and_direction": "looking at the Cat",
+                "expression": [
+                    "annoyed",
+                    "slightly exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“All right,” said the Cat; and this time it vanished quite slowly, beginning with the end of the tail, and ending with the grin, which remained some time after the rest of it had gone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "ageless",
+                "actions": [
+                    "vanishing slowly, starting from the tail"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "well-groomed"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "grin on face"
+                ],
+                "composition": "Cat positioned centrally, camera at eye level, focusing on the vanishing tail"
+            }
+        ]
+    }
+]

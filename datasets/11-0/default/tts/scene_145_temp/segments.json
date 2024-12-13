@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "68edbbc2b2dc11ef82461070fd8d78a0",
+        "text": "But if I’m not the same,",
+        "audio_url": "https://v16m-default.akamaized.net/b37533cf449ab3e74f4d6f2eccbefe6d/6751ada7/video/tos/maliva/tos-maliva-v-f15faa-us/oACVDEQ8IPnAQehoIBiAFJFAiUO3sBfVkXLdlD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThrqkIOXq8Zmo&qs=13&rc=ajVydmw5cmpvdzUzNzhoM0BpajVydmw5cmpvdzUzNzhoM0BnZF8wMmRzZjVgLS1kLjZzYSNnZF8wMmRzZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338451388700000000000000000000ffff0a008db7f8aae3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.528
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.528
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "68edbdf2b2dc11ef82461070fd8d78a0",
+        "text": "the next question is, Who",
+        "audio_url": "https://v16m-default.akamaized.net/b37533cf449ab3e74f4d6f2eccbefe6d/6751ada7/video/tos/maliva/tos-maliva-v-f15faa-us/oACVDEQ8IPnAQehoIBiAFJFAiUO3sBfVkXLdlD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThrqkIOXq8Zmo&qs=13&rc=ajVydmw5cmpvdzUzNzhoM0BpajVydmw5cmpvdzUzNzhoM0BnZF8wMmRzZjVgLS1kLjZzYSNnZF8wMmRzZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338451388700000000000000000000ffff0a008db7f8aae3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5280000000000002,
+            "end_offset": 3.056
+        },
+        "target_timerange": {
+            "start_offset": 1.5280000000000002,
+            "end_offset": 3.056
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "68edbf14b2dc11ef82461070fd8d78a0",
+        "text": "in the world am I?",
+        "audio_url": "https://v16m-default.akamaized.net/b37533cf449ab3e74f4d6f2eccbefe6d/6751ada7/video/tos/maliva/tos-maliva-v-f15faa-us/oACVDEQ8IPnAQehoIBiAFJFAiUO3sBfVkXLdlD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThrqkIOXq8Zmo&qs=13&rc=ajVydmw5cmpvdzUzNzhoM0BpajVydmw5cmpvdzUzNzhoM0BnZF8wMmRzZjVgLS1kLjZzYSNnZF8wMmRzZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338451388700000000000000000000ffff0a008db7f8aae3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0560000000000005,
+            "end_offset": 4.5840000000000005
+        },
+        "target_timerange": {
+            "start_offset": 3.0560000000000005,
+            "end_offset": 4.5840000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

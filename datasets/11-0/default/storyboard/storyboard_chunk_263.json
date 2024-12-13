@@ -1,0 +1,136 @@
+[
+    {
+        "text": "Next came the guests, mostly Kings and Queens, and among them, I recognized the White Rabbit.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "walking briskly",
+                    "looking around nervously"
+                ],
+                "gaze_and_direction": "eyes darting, occasionally glancing at the viewer",
+                "expression": [
+                    "anxious",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It was talking in a hurried, nervous manner, smiling at everything that was said, and went by without noticing me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "gesturing animatedly",
+                    "walking briskly"
+                ],
+                "gaze_and_direction": "eyes darting, occasionally glancing at the viewer",
+                "expression": [
+                    "anxious",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned on the left side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then followed the Knave of Hearts, carrying the King’s crown on a crimson velvet cushion.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Knave of Hearts",
+                "age": "young adult",
+                "actions": [
+                    "carrying a crimson velvet cushion with a crown"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red jacket",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "composition": "Character positioned on the right side of the frame, camera slightly overhead"
+            }
+        ]
+    }
+]

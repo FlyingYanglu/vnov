@@ -1,0 +1,252 @@
+[
+    {
+        "text": "“What are you thinking of?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing and looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cup of tea"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I beg your pardon,” I said very humbly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "bowing slightly"
+                ],
+                "gaze_and_direction": "looking down modestly",
+                "expression": [
+                    "humbled",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cup of tea"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“You had got to the fifth bend, I think?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "thoughtful",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cup of tea"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I had _not!_” cried the Mouse, sharply and very angrily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing and pointing at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "angry",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small book"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“A knot!” I said, always ready to make myself useful, and looking anxiously about me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around anxiously",
+                    "gesturing with both hands"
+                ],
+                "gaze_and_direction": "scanning the room",
+                "expression": [
+                    "concerned",
+                    "helpful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cup of tea"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    }
+]

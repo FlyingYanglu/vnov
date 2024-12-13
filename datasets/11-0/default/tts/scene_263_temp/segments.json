@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "eb8b8d82b2de11ef8fb298039b7ed938",
+        "text": "“Speak English!” said the Eaglet.",
+        "audio_url": "https://v16m-default.akamaized.net/7033b7d0680062272844962f32a164db/6751b1dd/video/tos/maliva/tos-maliva-v-f15faa-us/ogCoSI1IGSfrrCu5gIevXVAA8LRfAOCC99Yrci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCJkIOXq8Zmo&qs=13&rc=M3Y4Onk5cnhvdzUzNzhoM0BpM3Y4Onk5cnhvdzUzNzhoM0BqcHFeMmRrbjVgLS1kLjZzYSNqcHFeMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338559397300000000000000000000ffff0a00848169ead3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

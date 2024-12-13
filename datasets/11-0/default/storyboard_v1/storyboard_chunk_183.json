@@ -1,0 +1,218 @@
+[
+    {
+        "text": "“It’s the thing Mock Turtle Soup is made from,” said the Queen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "royal court",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxuriously adorned"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I never saw one, or heard of one,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "royal court",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Main character positioned slightly to the side, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Come on, then,” said the Queen, “and he shall tell you his history.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "royal court",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "gesturing with hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "encouraging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxuriously adorned"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "As we walked off together, I heard the King say in a low voice, to the company generally, “You are all pardoned.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "royal court",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "speaking softly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxuriously adorned"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Come, _that’s_ a good thing!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "ornate furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "royal court",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Main character positioned slightly to the side, camera eye-level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "text": "said the King;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "royal banners"
+            ],
+            "scene_features": [
+                "throne",
+                "judicial table",
+                "crowd of onlookers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with authority"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the White Rabbit blew three blasts on the trumpet, and called out, “First witness!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "royal banners"
+            ],
+            "scene_features": [
+                "throne",
+                "judicial table",
+                "crowd of onlookers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "blowing trumpet",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit positioned to the side, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread-and-butter in the other.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "royal banners"
+            ],
+            "scene_features": [
+                "throne",
+                "judicial table",
+                "crowd of onlookers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "entering the courtroom",
+                    "holding teacup and bread-and-butter"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "black"
+                    }
+                },
+                "composition": "Hatter positioned at the entrance, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I beg pardon, your Majesty,” he began, “for bringing these in: but I hadn’t quite finished my tea when I was sent for.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "royal banners"
+            ],
+            "scene_features": [
+                "throne",
+                "judicial table",
+                "crowd of onlookers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "holding teacup and bread-and-butter"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "black"
+                    }
+                },
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You ought to have finished,” said the King.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "royal banners"
+            ],
+            "scene_features": [
+                "throne",
+                "judicial table",
+                "crowd of onlookers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with authority"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

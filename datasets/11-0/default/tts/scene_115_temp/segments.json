@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "c9ae6714b2db11ef8446043f72b8e3e6",
+        "text": "I looked down and my feet",
+        "audio_url": "https://v16m-default.akamaized.net/3d7b6f83047c0982881d871b887b7e77/6751ac9d/video/tos/maliva/tos-maliva-v-f15faa-us/o0jRYiNhA1pSFQHBEDZiVIUOEA7APQuBWCP40/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6fkIOXq8Zmo&qs=13&rc=MzppZHU5cmhvdzUzNzhoM0BpMzppZHU5cmhvdzUzNzhoM0BrNWA1MmQ0ZDVgLS1kLjZzYSNrNWA1MmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338424736800000000000000000000ffff0a00be35eaf9df&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.44
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.44
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c9ae6af2b2db11ef8446043f72b8e3e6",
+        "text": "seemed almost out of sight,",
+        "audio_url": "https://v16m-default.akamaized.net/3d7b6f83047c0982881d871b887b7e77/6751ac9d/video/tos/maliva/tos-maliva-v-f15faa-us/o0jRYiNhA1pSFQHBEDZiVIUOEA7APQuBWCP40/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6fkIOXq8Zmo&qs=13&rc=MzppZHU5cmhvdzUzNzhoM0BpMzppZHU5cmhvdzUzNzhoM0BrNWA1MmQ0ZDVgLS1kLjZzYSNrNWA1MmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338424736800000000000000000000ffff0a00be35eaf9df&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4400000000000002,
+            "end_offset": 2.88
+        },
+        "target_timerange": {
+            "start_offset": 1.4400000000000002,
+            "end_offset": 2.88
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c9ae6cc8b2db11ef8446043f72b8e3e6",
+        "text": "they were so far off.",
+        "audio_url": "https://v16m-default.akamaized.net/3d7b6f83047c0982881d871b887b7e77/6751ac9d/video/tos/maliva/tos-maliva-v-f15faa-us/o0jRYiNhA1pSFQHBEDZiVIUOEA7APQuBWCP40/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6fkIOXq8Zmo&qs=13&rc=MzppZHU5cmhvdzUzNzhoM0BpMzppZHU5cmhvdzUzNzhoM0BrNWA1MmQ0ZDVgLS1kLjZzYSNrNWA1MmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338424736800000000000000000000ffff0a00be35eaf9df&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.8800000000000003,
+            "end_offset": 4.32
+        },
+        "target_timerange": {
+            "start_offset": 2.8800000000000003,
+            "end_offset": 4.32
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

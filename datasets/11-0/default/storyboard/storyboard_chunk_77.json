@@ -1,0 +1,173 @@
+[
+    {
+        "text": "“But who is to give the prizes?” quite a chorus of voices asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "crowded room"
+            ],
+            "scene_features": [
+                "decorative walls",
+                "large windows",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "chorus",
+                "age": "various",
+                "actions": [
+                    "asking in unison"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various tops",
+                        "style": "casual to formal"
+                    },
+                    "accessories": {
+                        "item": "various accessories",
+                        "type": "minimalistic to elaborate"
+                    }
+                },
+                "composition": "Multiple characters in the background, camera slightly angled to capture the crowd"
+            }
+        ]
+    },
+    {
+        "text": "“Why, _she_, of course,” said the Dodo, pointing to me with one finger;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "crowded room"
+            ],
+            "scene_features": [
+                "decorative walls",
+                "large windows",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "pointing with one finger"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "tailored"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Dodo character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the whole party at once crowded round me, calling out in a confused way, “Prizes!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "crowded room"
+            ],
+            "scene_features": [
+                "decorative walls",
+                "large windows",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "party guests",
+                "age": "various",
+                "actions": [
+                    "crowding around",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various tops",
+                        "style": "casual to formal"
+                    },
+                    "accessories": {
+                        "item": "various accessories",
+                        "type": "minimalistic to elaborate"
+                    }
+                },
+                "composition": "Multiple characters in the foreground, camera slightly angled to capture the crowd"
+            }
+        ]
+    },
+    {
+        "text": "I had no idea what to do, and in despair, I put my hand in my pocket, and pulled out a box of comfits, (luckily the salt water had not got into it),",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "crowded room"
+            ],
+            "scene_features": [
+                "decorative walls",
+                "large windows",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "putting hand in pocket",
+                    "pulling out a box of comfits"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "desperate",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

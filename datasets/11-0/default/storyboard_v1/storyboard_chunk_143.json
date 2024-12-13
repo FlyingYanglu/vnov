@@ -1,0 +1,229 @@
+[
+    {
+        "text": "“—well in.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "yawning"
+                ],
+                "composition": "Dormouse positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "This answer so confused me, that I let the Dormouse go on for some time without interrupting it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "listening intently"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "tilting head slightly"
+                ],
+                "composition": "Main character positioned to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“They were learning to draw,” the Dormouse went on, yawning and rubbing its eyes, for it was getting very sleepy;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "yawning",
+                    "rubbing eyes"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "yawning"
+                ],
+                "composition": "Dormouse positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“and they drew all manner of things—everything that begins with an M—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "yawning"
+                ],
+                "composition": "Dormouse positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Why with an M?” I asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "tilting head slightly"
+                ],
+                "composition": "Main character positioned to the right, camera slightly low angle"
+            }
+        ]
+    }
+]

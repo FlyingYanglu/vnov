@@ -1,0 +1,110 @@
+[
+    {
+        "text": "“Call the first witness,” said the King; and the White Rabbit blew three blasts on the trumpet, and called out, “First witness!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "royal throne",
+                "courtroom",
+                "trumpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with authority"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            },
+            {
+                "name": "White Rabbit",
+                "age": "young adult",
+                "actions": [
+                    "blowing trumpet"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit positioned to the side, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread-and-butter in the other.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "royal throne",
+                "courtroom",
+                "trumpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "entering the courtroom",
+                    "holding teacup and bread-and-butter"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "black"
+                    }
+                },
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

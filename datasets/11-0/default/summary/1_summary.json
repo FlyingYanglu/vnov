@@ -1,0 +1,51 @@
+[
+    {
+        "summary": "Alice, bored and curious, follows a talking White Rabbit into a rabbit-hole, leading her into a fantastical journey. She falls down a deep well, encountering peculiar objects like a jar labeled 'ORANGE MARMALADE' and a tiny golden key. Alice discovers a small door leading to a beautiful garden but finds herself too large to enter. She consumes a bottle labeled 'DRINK ME,' shrinking to a tiny size, and then eats a cake labeled 'EAT ME,' hoping to either grow or shrink further to access the garden. Throughout her adventure, Alice displays curiosity, bravery, and a sense of wonder, navigating a series of surreal and whimsical challenges.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "brave",
+                    "imaginative"
+                ],
+                "actions": [
+                    "follows the White Rabbit",
+                    "falls down a deep well",
+                    "consumes a bottle labeled 'DRINK ME'",
+                    "eats a cake labeled 'EAT ME'"
+                ],
+                "relationships": []
+            },
+            "White Rabbit": {
+                "traits": [
+                    "hurried",
+                    "anxious"
+                ],
+                "actions": [
+                    "runs by Alice",
+                    "checks watch",
+                    "disappears down a rabbit-hole"
+                ],
+                "relationships": []
+            },
+            "Dinah": {
+                "traits": [
+                    "beloved pet"
+                ],
+                "actions": [
+                    "mentioned as Alice's cat"
+                ],
+                "relationships": [
+                    "Alice's pet"
+                ]
+            }
+        },
+        "key_events": [
+            "Alice follows the White Rabbit into a rabbit-hole.",
+            "Alice falls down a deep well, encountering cupboards and shelves.",
+            "Alice finds a tiny golden key and a small door leading to a garden.",
+            "Alice drinks from a bottle labeled 'DRINK ME' and shrinks.",
+            "Alice eats a cake labeled 'EAT ME' in an attempt to change size again."
+        ]
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "text": "“Then you shouldn’t talk,” said the Hatter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teapot",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "high-crowned"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "This piece of rudeness was more than I could bear: I got up in great disgust, and walked off;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teapot",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing up abruptly",
+                    "walking away"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "disgusted",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "the Dormouse fell asleep instantly, and neither of the others took the least notice of my going, though I looked back once or twice, half hoping that they would call after me: the last time I saw them, they were trying to put the Dormouse into the teapot.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teapot",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking back over the shoulder"
+                ],
+                "gaze_and_direction": "looking back at the viewer",
+                "expression": [
+                    "hopeful",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“At any rate I’ll never go _there_ again!” I said as I picked my way through the wood.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "dense woods",
+                "path"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking through the woods",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small bag"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It’s the stupidest tea-party I ever was at in all my life!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "dense woods",
+                "path"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "exasperated",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small bag"
+                ],
+                "composition": "Main character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Just as I said this, I noticed that one of the trees had a door leading right into it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "dense woods",
+                "path",
+                "tree with door"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stopping",
+                    "looking at the tree door"
+                ],
+                "gaze_and_direction": "looking at the tree door",
+                "expression": [
+                    "surprised",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small bag"
+                ],
+                "composition": "Main character positioned to the left, camera frontal"
+            }
+        ]
+    }
+]

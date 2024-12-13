@@ -1,0 +1,271 @@
+[
+    {
+        "text": "I stretched myself up on tiptoe, and peeped over the edge of the mushroom, and my eyes immediately met those of a large blue caterpillar, that was sitting on the top with its arms folded, quietly smoking a long hookah, and taking not the smallest notice of me or of anything else.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "mushroom field"
+            ],
+            "scene_features": [
+                "large mushroom",
+                "blue sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on top of the mushroom",
+                    "smoking a long hookah",
+                    "arms folded"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "calm",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "long hookah",
+                        "type": "smoking pipe"
+                    }
+                },
+                "temporary_features": [
+                    "large blue body"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I stood there, staring into the eyes of the large blue Caterpillar, who was quietly smoking a long hookah.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "mushroom field"
+            ],
+            "scene_features": [
+                "large mushroom",
+                "blue sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on top of the mushroom",
+                    "smoking a long hookah"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "calm",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "long hookah",
+                        "type": "smoking pipe"
+                    }
+                },
+                "temporary_features": [
+                    "large blue body"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "We remained silent for what felt like an eternity.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "mushroom field"
+            ],
+            "scene_features": [
+                "large mushroom",
+                "blue sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on top of the mushroom",
+                    "smoking a long hookah"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "calm",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "long hookah",
+                        "type": "smoking pipe"
+                    }
+                },
+                "temporary_features": [
+                    "large blue body"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Finally, the Caterpillar broke the silence, taking the hookah out of its mouth and addressing me in a languid, sleepy voice.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "mushroom field"
+            ],
+            "scene_features": [
+                "large mushroom",
+                "blue sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "taking the hookah out of its mouth",
+                    "addressing the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "languid",
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "long hookah",
+                        "type": "smoking pipe"
+                    }
+                },
+                "temporary_features": [
+                    "large blue body"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Who are _you?_” the Caterpillar asked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "mushroom field"
+            ],
+            "scene_features": [
+                "large mushroom",
+                "blue sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "languid",
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "long hookah",
+                        "type": "smoking pipe"
+                    }
+                },
+                "temporary_features": [
+                    "large blue body"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I felt a bit uneasy.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "mushroom field"
+            ],
+            "scene_features": [
+                "large mushroom",
+                "blue sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "feeling uneasy"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uneasy",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

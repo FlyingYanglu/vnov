@@ -1,0 +1,194 @@
+[
+    {
+        "text": "“Thank you,” I said, “it’s very interesting.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grateful",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "I never knew so much about a whiting before.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon nodded, clearly pleased with my interest.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "nodding"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleased",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "leopard-print pants",
+                        "style": "luxurious",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "gold bracelet",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I can tell you more than that, if you like,” he said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "inviting"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "leopard-print pants",
+                        "style": "luxurious",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "gold bracelet",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned slightly right, camera frontal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,265 @@
+[
+    {
+        "text": "shouted the Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Can you play croquet?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The soldiers were silent, and looked at me, as the question was evidently meant for me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "various",
+                "actions": [
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "neutral"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "helmets",
+                        "type": "standard"
+                    }
+                },
+                "composition": "Soldiers in the background, camera focused on the viewer"
+            }
+        ]
+    },
+    {
+        "text": "“Yes!” I shouted.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Come on, then!” roared the Queen, and I joined the procession, wondering very much what would happen next.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "roaring"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It’s—it’s a very fine day!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "commenting on the weather"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "happy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

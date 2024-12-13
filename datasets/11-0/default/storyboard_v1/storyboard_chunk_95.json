@@ -1,0 +1,278 @@
+[
+    {
+        "text": "I said, a little timidly, “why your cat grins like that?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "cozy",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "fireplace",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“It’s a Cheshire cat,” the Duchess replied, “and that’s why. Pig!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "cozy",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "fireplace",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking sharply"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red dress",
+                        "style": "Victorian",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "lace collar",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby"
+                ],
+                "composition": "Duchess centered, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "Her sudden outburst made me jump, but I realized she was addressing the baby, not me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "cozy",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "fireplace",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "jumping in surprise"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Taking courage, I continued, “I didn’t know that Cheshire cats always grinned; in fact, I didn’t know that cats _could_ grin.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "cozy",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "fireplace",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking with renewed confidence"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“They all can,” the Duchess said, “and most of ’em do.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "cozy",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "fireplace",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking matter-of-factly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "unamused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red dress",
+                        "style": "Victorian",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "lace collar",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby"
+                ],
+                "composition": "Duchess centered, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t know of any that do,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "cozy",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "fireplace",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking doubtfully"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    }
+]

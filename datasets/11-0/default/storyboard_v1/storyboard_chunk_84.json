@@ -1,0 +1,246 @@
+[
+    {
+        "text": "“I’m a—I’m a—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stammering"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Well! _What_ are you?” said the Pigeon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "avian"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I can see you’re trying to invent something!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "avian"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I—I’m a little girl,” I said, rather doubtfully, as I remembered the number of changes I had gone through that day.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "doubtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“A likely story indeed!” said the Pigeon in a tone of the deepest contempt.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "contemptuous",
+                    "disdainful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "avian"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon positioned to the left, camera slightly overhead"
+            }
+        ]
+    }
+]

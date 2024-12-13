@@ -1,0 +1,251 @@
+[
+    {
+        "text": "the reason is, that I’m doubtful about the temper of your flamingo.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelves",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Shall I try the experiment?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelves",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "raising an eyebrow",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mischievous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He might bite,” I cautiously replied, not feeling at all anxious to have the experiment tried.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelves",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hesitantly",
+                    "holding back slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "cautious",
+                    "slightly worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "fitted",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Very true,” said the Duchess: “flamingoes and mustard both bite.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelves",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "nodding in agreement",
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And the moral of that is—‘Birds of a feather flock together.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelves",
+                "luxury furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hand",
+                    "speaking with a knowing smile"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused",
+                    "slightly smug"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

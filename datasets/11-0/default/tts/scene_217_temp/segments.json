@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "ecb107ecb2dd11ef8446043f72b8e3e6",
+        "text": "“We won’t talk about her any",
+        "audio_url": "https://v16m-default.akamaized.net/b668dda5434f384b1f90051933ac4803/6751b033/video/tos/maliva/tos-maliva-v-f15faa-us/oAefAG8EMALWFyfeFARRTkd8WBWgRuXNIE2EA8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th4FkIOXq8Zmo&qs=13&rc=M3hndG45cm1vdzUzNzhoM0BpM3hndG45cm1vdzUzNzhoM0AzLWNjMmRzazVgLS1kLjZzYSMzLWNjMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338516638100000000000000000000ffff0a008a0b629318&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.524
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.524
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ecb10c38b2dd11ef8446043f72b8e3e6",
+        "text": "more if you’d rather not.”",
+        "audio_url": "https://v16m-default.akamaized.net/b668dda5434f384b1f90051933ac4803/6751b033/video/tos/maliva/tos-maliva-v-f15faa-us/oAefAG8EMALWFyfeFARRTkd8WBWgRuXNIE2EA8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th4FkIOXq8Zmo&qs=13&rc=M3hndG45cm1vdzUzNzhoM0BpM3hndG45cm1vdzUzNzhoM0AzLWNjMmRzazVgLS1kLjZzYSMzLWNjMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338516638100000000000000000000ffff0a008a0b629318&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.524,
+            "end_offset": 3.048
+        },
+        "target_timerange": {
+            "start_offset": 1.524,
+            "end_offset": 3.048
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

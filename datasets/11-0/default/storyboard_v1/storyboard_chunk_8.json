@@ -1,0 +1,222 @@
+[
+    {
+        "text": "It was all very well to say 'Drink me,' but the wise little Alice was not going to do that in a hurry.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with various bottles and cakes"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "standing near a table",
+                    "looking at a small bottle labeled 'Drink me'"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "cautious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "No, I’ll look first, I said, and see whether it’s marked ‘poison’ or not;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with various bottles and cakes"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "leaning closer to the bottle",
+                    "examining the label"
+                ],
+                "gaze_and_direction": "looking at the bottle",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "for I had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they would not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with various bottles and cakes"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "standing straight",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking into the distance",
+                "expression": [
+                    "reflective",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and that if you cut your finger very deeply with a knife, it usually bleeds;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with various bottles and cakes"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "holding her finger as if it were cut",
+                    "looking at her finger"
+                ],
+                "gaze_and_direction": "looking at her finger",
+                "expression": [
+                    "concerned",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and I had never forgotten that, if you drink much from a bottle marked 'poison,' it is almost certain to disagree with you, sooner or later.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with various bottles and cakes"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "stepping back from the table",
+                    "looking at the bottle with caution"
+                ],
+                "gaze_and_direction": "looking at the bottle",
+                "expression": [
+                    "cautious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

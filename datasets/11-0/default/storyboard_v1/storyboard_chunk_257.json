@@ -1,0 +1,507 @@
+[
+    {
+        "text": "“Where shall I begin, please your Majesty?” he asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "standing respectfully",
+                    "holding a scroll"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "nervous",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Begin at the beginning,” the King said gravely, “and go on till you come to the end: then stop.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "sitting on the throne",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the White Rabbit",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "These were the verses the White Rabbit read:—“They told me you had been to her, And mentioned me to him:She gave me a good character, But said I could not swim.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the scroll",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“He sent them word I had not gone (We know it to be true):If she should push the matter on, What would become of you?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the scroll",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I gave her one, they gave him two, You gave us three or more;They all returned from him to you, Though they were mine before.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the scroll",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“If I or she should chance to be Involved in this affair, He trusts to you to set them free, Exactly as we were.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the scroll",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“My notion was that you had been (Before she had this fit) An obstacle that came between Him, and ourselves, and it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the scroll",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Don’t let him know she liked them best, For this must ever be A secret, kept from all the rest, Between yourself and me.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the scroll",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sweating slightly"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“That’s the most important piece of evidence we’ve heard yet,” said the King, rubbing his hands.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "sitting on the throne",
+                    "rubbing hands together"
+                ],
+                "gaze_and_direction": "looking at the White Rabbit",
+                "expression": [
+                    "pleased",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“so now let the jury—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "sitting on the throne",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the jury",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

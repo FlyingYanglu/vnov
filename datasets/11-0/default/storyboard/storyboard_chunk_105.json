@@ -1,0 +1,262 @@
+[
+    {
+        "text": "I do wonder what _can_ have happened to me!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting in an armchair",
+                    "holding a book"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning back in the armchair",
+                    "holding the book open"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "wide eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There ought to be a book written about me, that there ought!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up straight",
+                    "placing the book on the lap"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "slight smile"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And when I grow up, I’ll write one—but I’m grown up now,” I added in a sorrowful tone;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning forward",
+                    "placing the book on the side table"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“at least there’s no room to grow up any more _here_.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "fireplace",
+                "armchair"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting back in the armchair",
+                    "looking around the room"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "melancholic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "slight sigh"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

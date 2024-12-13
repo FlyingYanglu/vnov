@@ -1,0 +1,595 @@
+[
+    {
+        "text": "I said to myself, for I had felt quite unhappy at the number of executions the Queen had ordered.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking down, reflective",
+                "expression": [
+                    "unhappy",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "We very soon came upon a Gryphon, lying fast asleep in the sun.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "lying down",
+                    "sleeping"
+                ],
+                "gaze_and_direction": "eyes closed",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "winged",
+                        "condition": "soft and fluffy"
+                    },
+                    "jacket": {
+                        "item": "scales",
+                        "style": "reptilian",
+                        "type": "body covering",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "basking in sunlight"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Up, lazy thing!” said the Queen, “and take this young lady to see the Mock Turtle, and to hear his history.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "pointing at Gryphon",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at Gryphon",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "jacket": {
+                        "item": "crown",
+                        "style": "regal",
+                        "type": "headpiece",
+                        "condition": "gleaming"
+                    },
+                    "accessories": {
+                        "item": "scepter",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "holding scepter"
+                ],
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I must go back and see after some executions I have ordered.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "turning away",
+                    "preparing to leave"
+                ],
+                "gaze_and_direction": "looking away from camera",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "jacket": {
+                        "item": "crown",
+                        "style": "regal",
+                        "type": "headpiece",
+                        "condition": "gleaming"
+                    },
+                    "accessories": {
+                        "item": "scepter",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "holding scepter"
+                ],
+                "composition": "Queen centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I watched as the Queen walked off, leaving me alone with the Gryphon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "watching Queen leave"
+                ],
+                "gaze_and_direction": "looking at Queen",
+                "expression": [
+                    "concerned",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I did not quite like the look of the creature, but on the whole, I thought it would be quite as safe to stay with it as to go after that savage Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "glancing at Gryphon"
+                ],
+                "gaze_and_direction": "looking at Gryphon",
+                "expression": [
+                    "uneasy",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I waited.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "waiting"
+                ],
+                "gaze_and_direction": "looking at Gryphon",
+                "expression": [
+                    "patient",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon sat up and rubbed its eyes.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "sitting up",
+                    "rubbing eyes"
+                ],
+                "gaze_and_direction": "eyes half-closed",
+                "expression": [
+                    "sleepy",
+                    "disoriented"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "winged",
+                        "condition": "soft and fluffy"
+                    },
+                    "jacket": {
+                        "item": "scales",
+                        "style": "reptilian",
+                        "type": "body covering",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "just woken up"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then it watched the Queen till she was out of sight.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "watching Queen leave"
+                ],
+                "gaze_and_direction": "looking at Queen",
+                "expression": [
+                    "curious",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "winged",
+                        "condition": "soft and fluffy"
+                    },
+                    "jacket": {
+                        "item": "scales",
+                        "style": "reptilian",
+                        "type": "body covering",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "just woken up"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then it chuckled.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "chuckling"
+                ],
+                "gaze_and_direction": "looking at viewer",
+                "expression": [
+                    "amused",
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "winged",
+                        "condition": "soft and fluffy"
+                    },
+                    "jacket": {
+                        "item": "scales",
+                        "style": "reptilian",
+                        "type": "body covering",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "just woken up"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What fun!” said the Gryphon, half to itself, half to me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "looking at viewer"
+                ],
+                "gaze_and_direction": "looking at viewer",
+                "expression": [
+                    "amused",
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "winged",
+                        "condition": "soft and fluffy"
+                    },
+                    "jacket": {
+                        "item": "scales",
+                        "style": "reptilian",
+                        "type": "body covering",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [
+                    "just woken up"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    }
+]

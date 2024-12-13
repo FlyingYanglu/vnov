@@ -1,0 +1,233 @@
+[
+    {
+        "text": "\"Consider your verdict,\" he said to the jury, in a low, trembling voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "note-book"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the jury"
+                ],
+                "gaze_and_direction": "looking at the jury",
+                "expression": [
+                    "nervous",
+                    "trembling voice"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "holding a note-book"
+                ],
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"There’s more evidence to come yet, please your Majesty,\" said the White Rabbit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "note-book"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking to the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "urgent",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "White Rabbit positioned to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The King turned pale and shut his note-book hastily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "note-book"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "turning pale",
+                    "shutting the note-book"
+                ],
+                "gaze_and_direction": "looking down at the note-book",
+                "expression": [
+                    "shocked",
+                    "pale"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "holding a note-book"
+                ],
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Consider your verdict,\" he said to the jury, in a low, trembling voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "note-book"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the jury"
+                ],
+                "gaze_and_direction": "looking at the jury",
+                "expression": [
+                    "nervous",
+                    "trembling voice"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "holding a note-book"
+                ],
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "White Rabbit, jumping up in a great hurry;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "note-book"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "jumping up"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "urgent",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "White Rabbit positioned to the side, camera at eye level"
+            }
+        ]
+    }
+]

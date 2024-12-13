@@ -1,0 +1,280 @@
+[
+    {
+        "text": "I heard him declare, “You have baked me too brown, I must sugar my hair.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "declaring with a dramatic gesture"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly distressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown tunic",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a mirror"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "As a duck with its eyelids, so he with his nose Trims his belt and his buttons, and turns out his toes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "adjusting belt",
+                    "turning out toes"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown tunic",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a mirror"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“That’s different from what _I_ used to say when I was a child,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a reflective tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red robe",
+                        "style": "flowing",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Well, I never heard it before,” said the Mock Turtle; “but it sounds uncommon nonsense.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a dismissive tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "disbelieving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown tunic",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a mirror"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said nothing; I had sat down with my face in my hands, wondering if anything would ever happen in a natural way again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down",
+                    "covering face with hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I should like to have it explained,” said the Mock Turtle.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a curious tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown tunic",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a mirror"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

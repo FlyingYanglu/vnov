@@ -1,0 +1,198 @@
+[
+    {
+        "text": "“That’s none of your business, Two!” said Seven.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking assertively"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "angry",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Yes, it is his business!” said Five.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking assertively"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "solid color"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And I’ll tell him—it was for bringing the cook tulip-roots instead of onions.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking assertively"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "solid color"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Seven flung down his brush and was about to say, “Well, of all the unjust things—” when he noticed me standing there.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing down a brush",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "shocked",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

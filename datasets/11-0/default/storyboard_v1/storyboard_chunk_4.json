@@ -1,0 +1,370 @@
+[
+    {
+        "text": "(Dinah was the cat.) “I hope they’ll remember her saucer of milk at tea-time. Dinah my dear! I wish you were down here with me!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“There are no mice in the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But do cats eat bats, I wonder?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "tilting head slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "pondering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And here I began to get rather sleepy, and went on saying to myself, in a dreamy sort of way, “Do cats eat bats? Do cats eat bats?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "yawning slightly"
+                ],
+                "gaze_and_direction": "looking slightly upwards",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and sometimes, “Do bats eat cats?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "yawning slightly"
+                ],
+                "gaze_and_direction": "looking slightly upwards",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "for, you see, as I couldn’t answer either question, it didn’t much matter which way I put it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "shrugging slightly"
+                ],
+                "gaze_and_direction": "looking slightly upwards",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I felt that I was dozing off, and had just begun to dream that I was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did you ever eat a bat?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "closing eyes slightly"
+                ],
+                "gaze_and_direction": "looking slightly upwards",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "when suddenly, thump! thump! down I came upon a heap of sticks and dry leaves, and the fall was over.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open air"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "falling",
+                    "landing on a heap of sticks and dry leaves"
+                ],
+                "gaze_and_direction": "looking slightly upwards",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucer of milk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

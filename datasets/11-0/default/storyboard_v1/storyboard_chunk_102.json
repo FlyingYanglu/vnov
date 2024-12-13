@@ -1,0 +1,462 @@
+[
+    {
+        "text": "I thought, “they’re sure to kill it in a day or two: wouldn’t it be murder to leave it behind?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down, reflective",
+                "expression": [
+                    "concerned",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "I said the last words out loud, and the little thing grunted in reply (it had left off sneezing by this time).",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking out loud"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "serious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, baby in foreground, camera slightly angled from the side"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "grunting"
+                ],
+                "gaze_and_direction": "looking away",
+                "expression": [
+                    "unimpressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose"
+                ],
+                "composition": "Baby in foreground, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "“Don’t grunt,” I said;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking sternly"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "serious",
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, baby in foreground, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "“that’s not at all a proper way of expressing yourself.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "serious",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, baby in foreground, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "The baby grunted again, and I looked very anxiously into its face to see what was the matter with it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking anxiously at the baby"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "worried",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, baby in foreground, camera slightly angled from the side"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "grunting"
+                ],
+                "gaze_and_direction": "looking away",
+                "expression": [
+                    "unimpressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose"
+                ],
+                "composition": "Baby in foreground, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "There could be no doubt that it had a _very_ turn-up nose, much more like a snout than a real nose;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "examining the baby's face closely"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "surprised",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, baby in foreground, camera slightly angled from the side"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "sitting quietly"
+                ],
+                "gaze_and_direction": "looking away",
+                "expression": [
+                    "unimpressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose"
+                ],
+                "composition": "Baby in foreground, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "also its eyes were getting extremely small for a baby: altogether I did not like the look of the thing at all.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "soft furniture",
+                "bookshelves",
+                "warm ambiance"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "examining the baby's face closely"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "disgusted",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, baby in foreground, camera slightly angled from the side"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "sitting quietly"
+                ],
+                "gaze_and_direction": "looking away",
+                "expression": [
+                    "unimpressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose",
+                    "small eyes"
+                ],
+                "composition": "Baby in foreground, camera slightly angled from the side"
+            }
+        ]
+    }
+]

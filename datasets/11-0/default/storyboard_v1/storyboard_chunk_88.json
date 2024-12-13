@@ -1,0 +1,362 @@
+[
+    {
+        "text": "His face was so peculiar that I would have called him a fish if not for his attire.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "standing at the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "peculiar",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "He rapped loudly on the door with his knuckles.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "knocking on the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The door opened to reveal another footman, this one with a round face and large eyes like a frog.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "opening the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Both had powdered hair that curled all over their heads.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "standing at the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "I crept closer to listen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "creeping closer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "listening intently"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Fish-Footman produced a large letter from under his arm, nearly as big as himself, and handed it to the Frog-Footman, saying in a solemn tone, “For the Duchess. An invitation from the Queen to play croquet.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "producing a large letter",
+                    "handing it to the Frog-Footman"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Frog-Footman repeated, “From the Queen. An invitation for the Duchess to play croquet.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "repeating the message"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "They both bowed low, and their curls got entangled together.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "ornate wallpaper"
+            ],
+            "scene_features": [
+                "large door",
+                "hallway"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "bowing low"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curled"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

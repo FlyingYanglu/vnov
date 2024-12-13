@@ -1,0 +1,210 @@
+[
+    {
+        "text": "Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’—but, oh dear!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "room with a window",
+                "curtains",
+                "a small table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object in hand"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I cried, with a sudden burst of tears, “I do wish they _would_ put their heads down!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "room with a window",
+                "curtains",
+                "a small table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crying",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "distraught",
+                    "tearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I am so _very_ tired of being all alone here!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "room with a window",
+                "curtains",
+                "a small table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a sigh",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "exhausted",
+                    "lonely"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "tears drying on face"
+                ],
+                "composition": "Main character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "As I said this, I looked down at my hands, and was surprised to see that I had put on one of the Rabbit’s little white kid gloves while I was talking.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "room with a window",
+                "curtains",
+                "a small table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at hands",
+                    "holding a white kid glove"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "surprised",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a white kid glove"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

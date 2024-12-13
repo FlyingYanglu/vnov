@@ -1,0 +1,192 @@
+[
+    {
+        "text": "“The idea of having the sentence first!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "raising voice",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "ruffled",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "choker"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Hold your tongue!” said the Queen, turning purple.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing finger",
+                    "turning purple"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "purple face"
+                ],
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I won’t!” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crossing arms",
+                    "speaking defiantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defiant",
+                    "unwavering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "ruffled",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "choker"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Off with her head!” the Queen shouted at the top of her voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "shouting",
+                    "gesturing violently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "purple face"
+                ],
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

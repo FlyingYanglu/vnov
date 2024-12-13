@@ -1,0 +1,262 @@
+[
+    {
+        "text": "said a timid voice at my side.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "path"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "peeping anxiously into the viewer's face"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "anxious",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I was walking by the White Rabbit, who was peeping anxiously into my face.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "path"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "peeping anxiously into the viewer's face"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "anxious",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Very,” I said: “—where’s the Duchess?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "path"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Hush! Hush!” said the Rabbit in a low, hurried tone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "path"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking in a low, hurried tone"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "anxious",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "He looked anxiously over his shoulder as he spoke, and then raised himself upon tiptoe, put his mouth close to my ear, and whispered “She’s under sentence of execution.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "path"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "looking anxiously over shoulder",
+                    "raising himself on tiptoe",
+                    "whispering into the viewer's ear"
+                ],
+                "gaze_and_direction": "looking over shoulder then directly at the viewer",
+                "expression": [
+                    "anxious",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“What for?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "path"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "shocked",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

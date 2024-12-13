@@ -1,0 +1,148 @@
+[
+    {
+        "text": "“I’ve so often read in the newspapers, at the end of trials, ‘There was some attempts at applause, which was immediately suppressed by the officers of the court,’ and I never understood what it meant till now.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "courtroom benches",
+                "judge's bench",
+                "law books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "blazer",
+                        "style": "tailored",
+                        "type": "single-breasted",
+                        "condition": "clean",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a newspaper"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“If that’s all you know about it, you may stand down,” the King continued.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "courtroom benches",
+                "judge's bench",
+                "law books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a throne"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I can’t go no lower,” the Hatter said, “I’m on the floor, as it is.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom"
+            ],
+            "scene_features": [
+                "courtroom benches",
+                "judge's bench",
+                "law books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "sitting on the floor"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the courtroom floor"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

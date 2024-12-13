@@ -1,0 +1,195 @@
+[
+    {
+        "text": "“Oh, as to the whiting,” the Mock Turtle said, “they—you’ve seen them, of course?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a table",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I nodded, remembering the times I had seen them at dinner.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a table",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nodding"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "thoughtful",
+                    "reminiscent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Yes,” I replied, “I’ve often seen them at dinn—” I quickly stopped myself, realizing I might have said too much.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a table",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "then stopping abruptly"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "startled",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t know where Dinn may be,” the Mock Turtle said, “but if you’ve seen them so often, of course you know what they’re like.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a table",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera at eye level"
+            }
+        ]
+    }
+]

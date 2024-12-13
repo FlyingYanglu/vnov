@@ -1,0 +1,210 @@
+[
+    {
+        "text": "“I’ve been to a day-school, too,” I said, trying to match the Mock Turtle’s tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "book-lined walls"
+            ],
+            "scene_features": [
+                "study room",
+                "large window",
+                "desk with books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "trying to match the Mock Turtle’s tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "You needn’t be so proud as all that.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "book-lined walls"
+            ],
+            "scene_features": [
+                "study room",
+                "large window",
+                "desk with books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "expressing disapproval"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "displeased",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“With extras?” the Mock Turtle asked, a little anxiously.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "book-lined walls"
+            ],
+            "scene_features": [
+                "study room",
+                "large window",
+                "desk with books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "asking anxiously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Main character positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Yes,” I replied,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "book-lined walls"
+            ],
+            "scene_features": [
+                "study room",
+                "large window",
+                "desk with books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "replying"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    }
+]

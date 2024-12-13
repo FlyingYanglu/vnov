@@ -1,0 +1,263 @@
+[
+    {
+        "text": "you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "slates",
+                "gryphon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young girl",
+                "actions": [
+                    "thinking",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly proud"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said this last word two or three times over to myself, being rather proud of it: for I thought, and rightly too, that very few little girls of my age knew the meaning of it at all.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "slates",
+                "gryphon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young girl",
+                "actions": [
+                    "repeating word",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "proud",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "However, “jury-men” would have done just as well.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "slates",
+                "gryphon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young girl",
+                "actions": [
+                    "thinking",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The twelve jurors were all writing very busily on slates.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "slates",
+                "gryphon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jurors",
+                "age": "various",
+                "actions": [
+                    "writing on slates"
+                ],
+                "gaze_and_direction": "focused on slates",
+                "expression": [
+                    "busy",
+                    "concentrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various animal and bird costumes",
+                        "style": "formal",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Jurors in a row, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What are they doing?” I whispered to the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "slates",
+                "gryphon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young girl",
+                "actions": [
+                    "whispering",
+                    "looking at Gryphon"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "whispering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“They can’t have anything to put down yet, before the trial’s begun.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "wooden panels",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "slates",
+                "gryphon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "speaking",
+                    "looking at Alice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    }
+]

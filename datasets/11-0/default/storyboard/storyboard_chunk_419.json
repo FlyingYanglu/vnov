@@ -1,0 +1,598 @@
+[
+    {
+        "text": "I gave her one, they gave him two,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding an object",
+                    "reaching towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small box"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "You gave us three or more;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "You",
+                "age": "young adult",
+                "actions": [
+                    "holding multiple objects",
+                    "smiling at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grateful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of small gifts"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They all returned from him to you,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Him",
+                "age": "young adult",
+                "actions": [
+                    "passing objects to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "trusting"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "holding a handful of items"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Though they were mine before.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an empty hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding an empty hand"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "If I or she should chance to be",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "She",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an object"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "bracelet",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small item"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Involved in this affair,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "She",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an object"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "bracelet",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small item"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He trusts to you to set them free,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Him",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an object"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "trusting"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small item"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Exactly as we were.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an empty hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding an empty hand"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "My notion was that you had been",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an empty hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding an empty hand"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(Before she had this fit)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "She",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an object"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "bracelet",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small item"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "An obstacle that came between",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an empty hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding an empty hand"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Him, and ourselves, and it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "bookshelves"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer",
+                    "holding an empty hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding an empty hand"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

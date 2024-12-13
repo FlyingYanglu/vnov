@@ -1,0 +1,212 @@
+[
+    {
+        "text": "The bark sounded quite faint in the distance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "buttercups"
+            ],
+            "scene_features": [
+                "buttercups",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "listening intently"
+                ],
+                "gaze_and_direction": "looking towards the sound",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And yet what a dear little puppy it was!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "buttercups"
+            ],
+            "scene_features": [
+                "buttercups",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning against a buttercup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "affectionate",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character leaning against a buttercup, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I said, as I leant against a buttercup to rest myself, and fanned myself with one of the leaves.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "buttercups"
+            ],
+            "scene_features": [
+                "buttercups",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning against a buttercup",
+                    "fanning self with a buttercup leaf"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character leaning against a buttercup, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I should have liked teaching it tricks very much, if—if I’d only been the right size to do it!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "buttercups"
+            ],
+            "scene_features": [
+                "buttercups",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "slightly sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    }
+]

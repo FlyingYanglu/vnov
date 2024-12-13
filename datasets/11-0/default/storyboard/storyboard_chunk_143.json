@@ -1,0 +1,139 @@
+[
+    {
+        "text": "“Can’t remember _what_ things?” the Caterpillar asked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime",
+                "green grass"
+            ],
+            "scene_features": [
+                "mushroom",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "sitting on a mushroom",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "curious",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "smoking hookah",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Well, I’ve tried to say “How doth the little busy bee,” but it all came different!” I replied in a very melancholy voice.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime",
+                "green grass"
+            ],
+            "scene_features": [
+                "mushroom",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the Caterpillar",
+                    "looking down"
+                ],
+                "gaze_and_direction": "gaze slightly downward",
+                "expression": [
+                    "melancholy",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "frowning"
+                ],
+                "composition": "Main character positioned to the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Repeat, “_You are old, Father William_,’” the Caterpillar instructed.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime",
+                "green grass"
+            ],
+            "scene_features": [
+                "mushroom",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "sitting on a mushroom",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "instructive",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "smoking hookah",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera at eye level"
+            }
+        ]
+    }
+]

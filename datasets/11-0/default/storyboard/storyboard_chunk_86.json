@@ -1,0 +1,147 @@
+[
+    {
+        "text": "I called after it; and the others all joined in chorus, “Yes, please do!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "calling after the Mouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "but the Mouse only shook its head impatiently, and walked a little quicker.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "shaking head",
+                    "walking quickly"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "impatient",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small vest",
+                        "type": "brown"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned on the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“What a pity it wouldn’t stay!” sighed the Lory, as soon as it was quite out of sight.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "young adult",
+                "actions": [
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "bright green",
+                        "condition": "neatly arranged"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "green"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Lory positioned on the right, camera at eye level"
+            }
+        ]
+    }
+]

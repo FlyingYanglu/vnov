@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "e7cc802cb2dc11ef82461070fd8d78a0",
+        "text": "No, I’ve made up my mind",
+        "audio_url": "https://v16m-default.akamaized.net/7f08219ab392ea0c6950160e7731da64/6751ae7d/video/tos/maliva/tos-maliva-v-f15faa-us/o4d1nPAVEGiBQ1R4BAaWhhiSBGAUwFlCBEZ6z/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXbkIOXq8Zmo&qs=13&rc=amo5a285cjlvdzUzNzhoM0Bpamo5a285cjlvdzUzNzhoM0BtY2QtMmQ0aDVgLS1kLjZzYSNtY2QtMmQ0aDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338472713000000000000000000000ffff0a0081c9783ca4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.616
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.616
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e7cc81a8b2dc11ef82461070fd8d78a0",
+        "text": "about it; if I’m Mabel,",
+        "audio_url": "https://v16m-default.akamaized.net/7f08219ab392ea0c6950160e7731da64/6751ae7d/video/tos/maliva/tos-maliva-v-f15faa-us/o4d1nPAVEGiBQ1R4BAaWhhiSBGAUwFlCBEZ6z/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXbkIOXq8Zmo&qs=13&rc=amo5a285cjlvdzUzNzhoM0Bpamo5a285cjlvdzUzNzhoM0BtY2QtMmQ0aDVgLS1kLjZzYSNtY2QtMmQ0aDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338472713000000000000000000000ffff0a0081c9783ca4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6159999999999999,
+            "end_offset": 3.232
+        },
+        "target_timerange": {
+            "start_offset": 1.6159999999999999,
+            "end_offset": 3.232
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e7cc82a2b2dc11ef82461070fd8d78a0",
+        "text": "I’ll stay down here!",
+        "audio_url": "https://v16m-default.akamaized.net/7f08219ab392ea0c6950160e7731da64/6751ae7d/video/tos/maliva/tos-maliva-v-f15faa-us/o4d1nPAVEGiBQ1R4BAaWhhiSBGAUwFlCBEZ6z/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXbkIOXq8Zmo&qs=13&rc=amo5a285cjlvdzUzNzhoM0Bpamo5a285cjlvdzUzNzhoM0BtY2QtMmQ0aDVgLS1kLjZzYSNtY2QtMmQ0aDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338472713000000000000000000000ffff0a0081c9783ca4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2319999999999998,
+            "end_offset": 4.848
+        },
+        "target_timerange": {
+            "start_offset": 3.2319999999999998,
+            "end_offset": 4.848
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "2271f63ab2dd11efb6001070fd8d78a0",
+        "text": "“That _was_ a narrow escape!”",
+        "audio_url": "https://v16m-default.akamaized.net/d25ba61164c0cfdb35283b3bd60c406e/6751aedc/video/tos/maliva/tos-maliva-v-f15faa-us/oIAcqABWqBKv0Am3R3VskoeiAZ6iEwzWgEoFnN/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCmkIOXq8Zmo&qs=13&rc=amd3dXQ5cnhvdzUzNzhoM0Bpamd3dXQ5cnhvdzUzNzhoM0BgYDNvMmRraDVgLS1kLjZzYSNgYDNvMmRraDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338482611500000000000000000000ffff0a00af81d178a7&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.584
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.584
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "text": "“Mine is a long and a sad tale!” said the Mouse, turning to me and sighing.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "fireplace",
+                "comfortable chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "turning to face the viewer",
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholy",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "worn",
+                        "condition": "slightly frayed"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned on the left side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“It _is_ a long tail, certainly,” I said, looking down with wonder at the Mouse’s tail;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "fireplace",
+                "comfortable chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at the Mouse’s tail"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned on the right side, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“but why do you call it sad?” And I kept on puzzling about it while the Mouse was speaking, so that my idea of the tale was something like this:—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "fireplace",
+                "comfortable chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "puzzling",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "deep in thought"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Fury said to a mouse, That he met in the house, ‘Let us both go to law: _I_ will prosecute _you_.—Come, I’ll take no---“You are not attending!” said the Mouse to Alice severely.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "fireplace",
+                "comfortable chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking sternly",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "severe",
+                    "displeased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "worn",
+                        "condition": "slightly frayed"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned on the left side, camera at eye level"
+            }
+        ]
+    }
+]

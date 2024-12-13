@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "ad7b31b4b2d911ef8add0c42a117b3f4",
+        "text": "I walked out of the",
+        "audio_url": "https://v16m-default.akamaized.net/95e9909366318aff224451a92c0e9320/6751a910/video/tos/maliva/tos-maliva-v-f15faa-us/owC5Ei7CB1UN4VBQUS7ZRYVAAV0FBrWbAEivK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThnMkIOXq8Zmo&qs=13&rc=M3VuaHM5cmVvdzUzNzhoM0BpM3VuaHM5cmVvdzUzNzhoM0BfL21gMmRrNjVgLS1kLjZzYSNfL21gMmRrNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338334152800000000000000000000ffff0a00815382a933&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.308
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.308
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ad7b32e0b2d911ef8add0c42a117b3f4",
+        "text": "villa, ready for a drive.",
+        "audio_url": "https://v16m-default.akamaized.net/95e9909366318aff224451a92c0e9320/6751a910/video/tos/maliva/tos-maliva-v-f15faa-us/owC5Ei7CB1UN4VBQUS7ZRYVAAV0FBrWbAEivK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThnMkIOXq8Zmo&qs=13&rc=M3VuaHM5cmVvdzUzNzhoM0BpM3VuaHM5cmVvdzUzNzhoM0BfL21gMmRrNjVgLS1kLjZzYSNfL21gMmRrNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338334152800000000000000000000ffff0a00815382a933&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.308,
+            "end_offset": 2.616
+        },
+        "target_timerange": {
+            "start_offset": 1.308,
+            "end_offset": 2.616
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

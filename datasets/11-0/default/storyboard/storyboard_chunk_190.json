@@ -1,0 +1,207 @@
+[
+    {
+        "text": "“Wow! wow! wow!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "ornate furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "CHORUS",
+                "age": "various",
+                "actions": [
+                    "exclaiming in surprise"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "astonished"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various elegant outfits",
+                        "style": "formal"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Characters positioned in a group, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Here! you may nurse it a bit, if you like!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "ornate furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer",
+                    "holding a baby"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby"
+                ],
+                "composition": "Duchess positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "the Duchess said to me, flinging the baby at me as she spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "ornate furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "flinging the baby towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [
+                    "holding a baby"
+                ],
+                "composition": "Duchess positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I must go and get ready to play croquet with the Queen,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "ornate furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer",
+                    "preparing to leave"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and she hurried out of the room.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "brightly lit room",
+                "daytime"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "ornate furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "hurrying out of the room"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess exiting frame, camera at eye level"
+            }
+        ]
+    }
+]

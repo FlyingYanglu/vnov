@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "e902d276b2db11ef952f1070fd2669de",
+        "text": "I went on planning how I would manage it.",
+        "audio_url": "https://v16m-default.akamaized.net/8f1e6a12d8aa63a08e1ee12e7c3fd472/6751accf/video/tos/maliva/tos-maliva-v-f15faa-us/oEAArEAbRROX9B1WUaIaCLoCrCGGBgDSeEeBe9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th05kIOXq8Zmo&qs=13&rc=and3OG45cnVvdzUzNzhoM0Bpand3OG45cnVvdzUzNzhoM0BycTY1MmRjZDVgLS1kLjZzYSNycTY1MmRjZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338430041100000000000000000000ffff0a006d64a8358a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.208
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.208
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

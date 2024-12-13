@@ -1,0 +1,202 @@
+[
+    {
+        "text": "“Is that the reason so many tea-things are put out here?” I asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "numerous tea sets",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question",
+                    "gesturing towards the tea sets"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter sighed, “Yes, that’s it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "numerous tea sets",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing",
+                    "nodding slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "slightly tired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The Hatter positioned slightly right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "It’s always tea-time, and we’ve no time to wash the things between whiles.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "numerous tea sets",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "explaining",
+                    "gesturing towards the tea sets"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The Hatter positioned slightly right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Then you keep moving round, I suppose?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "numerous tea sets",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question",
+                    "tilting head slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    }
+]

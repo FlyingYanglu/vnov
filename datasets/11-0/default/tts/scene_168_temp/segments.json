@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "e23a279ab2dc11ef8d5a98039b74ac70",
+        "text": "I must have been changed for Mabel!",
+        "audio_url": "https://v16m-default.akamaized.net/d367875960ea002cd1452ca91c035481/6751ae71/video/tos/maliva/tos-maliva-v-f15faa-us/o0BJIQFeATJPtT5iBADLIoU8V2nQtBChAVEzfM/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLbkIOXq8Zmo&qs=13&rc=Mzw5bHg5cjZvdzUzNzhoM0BpMzw5bHg5cjZvdzUzNzhoM0BoNmNhMmRzaDVgLS1kLjZzYSNoNmNhMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338471846300000000000000000000ffff0a00af95823539&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

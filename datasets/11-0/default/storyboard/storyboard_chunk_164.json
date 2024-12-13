@@ -1,0 +1,102 @@
+[
+    {
+        "text": "This was such a new idea to me, that I was quite silent for a minute or two, which gave the Pigeon the opportunity of adding, “You’re looking for eggs, I know _that_ well enough; and what does it matter to me whether you’re a little girl or a serpent?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Pigeon positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It matters a good deal to _me_,” I said hastily; “but I’m not looking for eggs, as it happens; and if I was, I shouldn’t want _yours_:",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hastily to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

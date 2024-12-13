@@ -1,0 +1,330 @@
+[
+    {
+        "text": "There is such a nice little dog near our house I should like to show you!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "gesturing towards a dog"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick to throw"
+                ],
+                "composition": "Narrator on the left, dog on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "A little bright-eyed terrier, you know, with oh, such long curly brown hair!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dog",
+                "age": "young",
+                "actions": [
+                    "sitting and wagging tail"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "happy",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "curly",
+                        "condition": "clean and shiny",
+                        "color": "brown"
+                    }
+                },
+                "temporary_features": [
+                    "holding a toy in mouth"
+                ],
+                "composition": "Dog centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And it’ll fetch things when you throw them, and it’ll sit up and beg for its dinner, and all sorts of things—I can’t remember half of them—and it belongs to a farmer, you know, and he says it’s so useful, it’s worth a hundred pounds!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dog",
+                "age": "young",
+                "actions": [
+                    "sitting up and begging"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "curly",
+                        "condition": "clean and shiny",
+                        "color": "brown"
+                    }
+                },
+                "temporary_features": [
+                    "holding a toy in mouth"
+                ],
+                "composition": "Dog centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "He says it kills all the rats and—oh dear!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "looking surprised"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick to throw"
+                ],
+                "composition": "Narrator centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I cried in a sorrowful tone, realizing I might have offended the Mouse again. It was swimming away from me as hard as it could go, making quite a commotion in the pool as it went.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees",
+                "pool"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "swimming away from the narrator"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "frightened",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "wet",
+                        "color": "gray"
+                    }
+                },
+                "temporary_features": [
+                    "paws moving rapidly"
+                ],
+                "composition": "Mouse on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "So I called softly after it, “Mouse dear! Do come back again, and we won’t talk about cats or dogs either, if you don’t like them!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees",
+                "pool"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "calling softly"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "apologetic",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick to throw"
+                ],
+                "composition": "Narrator on the left, mouse on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When the Mouse heard this, it turned round and swam slowly back to me. Its face was quite pale, and it said in a low trembling voice, “",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "near a house"
+            ],
+            "scene_features": [
+                "garden",
+                "house",
+                "trees",
+                "pool"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "turning around and swimming back"
+                ],
+                "gaze_and_direction": "looking at the narrator",
+                "expression": [
+                    "frightened",
+                    "hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "wet",
+                        "color": "gray"
+                    }
+                },
+                "temporary_features": [
+                    "paws moving slowly"
+                ],
+                "composition": "Mouse on the right, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "text": "“I don’t like the look of it at all,” the King said:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "displeased",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“however, it may kiss my hand if it likes.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "extending hand towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "imperious",
+                    "stoic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I’d rather not,” the Cat remarked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nonchalant",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Cat positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Don’t be impertinent,” the King said,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“and don’t look at me like that!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

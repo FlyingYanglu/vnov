@@ -10,7 +10,8 @@
         "Starting Line": "“My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”",
         "Character List": [
             "Mr. Bennet",
-            "Mrs. Bennet"
+            "Mrs. Bennet",
+            "Mrs. Long"
         ]
     },
     {
@@ -21,21 +22,16 @@
         ]
     },
     {
-        "Starting Line": "“But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.”",
+        "Starting Line": "“What an excellent father you have, girls,” said she, when the door was shut.",
         "Character List": [
-            "Mr. Bennet",
-            "Mrs. Bennet"
+            "Mrs. Bennet",
+            "Lydia Bennet",
+            "Elizabeth Bennet",
+            "Mr. Bennet"
         ]
     },
     {
-        "Starting Line": "all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters.",
-        "Character List": [
-            "Mr. Bennet",
-            "Mrs. Bennet"
-        ]
-    },
-    {
-        "Starting Line": "Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years had been insufficient to make his wife understand his character.",
+        "Starting Line": "“Mr. Bennet, how can you abuse your own children in such a way?”",
         "Character List": [
             "Mr. Bennet",
             "Mrs. Bennet"

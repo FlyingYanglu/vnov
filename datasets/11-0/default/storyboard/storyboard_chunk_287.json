@@ -1,0 +1,189 @@
+[
+    {
+        "text": "“It’s hardly worth while finishing the game.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "smiling",
+                    "passing by"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smiling",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Queen positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Queen smiled and passed on.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "smiling",
+                    "passing by"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smiling",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Queen positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Who _are_ you talking to?” the King asked, going up to me and looking at the Cat’s head with great curiosity.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "approaching",
+                    "looking at the Cat’s head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "inquiring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "King positioned on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It’s a friend of mine—a Cheshire Cat,” I said: “allow me to introduce it.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing towards the Cat"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

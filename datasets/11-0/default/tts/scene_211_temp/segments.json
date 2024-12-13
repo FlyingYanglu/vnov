@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "cbb54e9ab2dd11ef8aa0b8cef692109a",
+        "text": "“Would _you_",
+        "audio_url": "https://v16m-default.akamaized.net/49957cb3269af31eb8bb7e34602abf41/6751aff8/video/tos/maliva/tos-maliva-v-f15faa-us/oEkAqgQFBKdBGu4rAAAq5Lf3wVgiRWizoEEEyc/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThMzkIOXq8Zmo&qs=13&rc=M29xN3I5cjhvdzUzNzhoM0BpM29xN3I5cjhvdzUzNzhoM0AvMTBrMmRzazVgLS1kLjZzYSMvMTBrMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338511105700000000000000000000ffff0a0090c17e23ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 0.792
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 0.792
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "cbb5580eb2dd11ef8aa0b8cef692109a",
+        "text": "like cats if you were me?”",
+        "audio_url": "https://v16m-default.akamaized.net/1ea80dd9715222fa9649c5ce9b9676c5/6751aff9/video/tos/maliva/tos-maliva-v-f15faa-us/oofFUogQIvGXoSeLriCVFObcvAGCrCAAQzlpea/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThMzkIOXq8Zmo&qs=13&rc=amQ7c3U5cjhvdzUzNzhoM0BpamQ7c3U5cjhvdzUzNzhoM0BeYV9sMmRzazVgLS1kLjZzYSNeYV9sMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338511105700000000000000000000ffff0a0090c17e23ec&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.584
+        },
+        "target_timerange": {
+            "start_offset": 0.792,
+            "end_offset": 2.376
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

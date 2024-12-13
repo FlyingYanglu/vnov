@@ -1,0 +1,214 @@
+[
+    {
+        "text": "“What are tarts made of?” he asked in a deep voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "grand hall",
+                "thrones",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "he",
+                "age": "middle-aged",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Pepper, mostly,” the cook said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "grand hall",
+                "thrones",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "cook",
+                "age": "middle-aged",
+                "actions": [
+                    "answering the question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "chef hat",
+                        "type": "white"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Treacle,” said a sleepy voice behind her.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "grand hall",
+                "thrones",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking in a sleepy voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "kerchief",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Queen's shrill voice cut through the air, “Collar that Dormouse! Behead that Dormouse! Turn that Dormouse out of court! Suppress him! Pinch him! Off with his whiskers!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "grand hall",
+                "thrones",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "shouting orders"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The court erupted into chaos as everyone scrambled to comply with her orders.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "grand hall",
+                "thrones",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "courtiers",
+                "age": "various",
+                "actions": [
+                    "scrambling",
+                    "looking around in confusion"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various outfits",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "various accessories",
+                        "type": "formal"
+                    }
+                },
+                "composition": "Characters positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

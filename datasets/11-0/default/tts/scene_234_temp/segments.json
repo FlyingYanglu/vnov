@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "4a5a3cb0b2de11efa395b8cef635af1a",
+        "text": "There were a Duck and a",
+        "audio_url": "https://v16m-default.akamaized.net/25115fcfe97a4d3a0ec1127fc3952055/6751b0d3/video/tos/maliva/tos-maliva-v-f15faa-us/oQqA4igsA01fB7qPGzw3FlkRqAEwEACWBKXAio/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn-kIOXq8Zmo&qs=13&rc=ajNyd3U5cnRvdzUzNzhoM0BpajNyd3U5cnRvdzUzNzhoM0BmMS80MmRzbDVgLS1kLjZzYSNmMS80MmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338532163700000000000000000000ffff0a008db7707c1a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.428
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.428
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4a5a3e18b2de11efa395b8cef635af1a",
+        "text": "Dodo, a Lory and an",
+        "audio_url": "https://v16m-default.akamaized.net/25115fcfe97a4d3a0ec1127fc3952055/6751b0d3/video/tos/maliva/tos-maliva-v-f15faa-us/oQqA4igsA01fB7qPGzw3FlkRqAEwEACWBKXAio/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn-kIOXq8Zmo&qs=13&rc=ajNyd3U5cnRvdzUzNzhoM0BpajNyd3U5cnRvdzUzNzhoM0BmMS80MmRzbDVgLS1kLjZzYSNmMS80MmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338532163700000000000000000000ffff0a008db7707c1a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.428,
+            "end_offset": 2.856
+        },
+        "target_timerange": {
+            "start_offset": 1.428,
+            "end_offset": 2.856
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4a5a3f08b2de11efa395b8cef635af1a",
+        "text": "Eaglet, and several",
+        "audio_url": "https://v16m-default.akamaized.net/25115fcfe97a4d3a0ec1127fc3952055/6751b0d3/video/tos/maliva/tos-maliva-v-f15faa-us/oQqA4igsA01fB7qPGzw3FlkRqAEwEACWBKXAio/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn-kIOXq8Zmo&qs=13&rc=ajNyd3U5cnRvdzUzNzhoM0BpajNyd3U5cnRvdzUzNzhoM0BmMS80MmRzbDVgLS1kLjZzYSNmMS80MmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338532163700000000000000000000ffff0a008db7707c1a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.856,
+            "end_offset": 4.284
+        },
+        "target_timerange": {
+            "start_offset": 2.856,
+            "end_offset": 4.284
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4a5a4002b2de11efa395b8cef635af1a",
+        "text": "other curious creatures.",
+        "audio_url": "https://v16m-default.akamaized.net/25115fcfe97a4d3a0ec1127fc3952055/6751b0d3/video/tos/maliva/tos-maliva-v-f15faa-us/oQqA4igsA01fB7qPGzw3FlkRqAEwEACWBKXAio/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn-kIOXq8Zmo&qs=13&rc=ajNyd3U5cnRvdzUzNzhoM0BpajNyd3U5cnRvdzUzNzhoM0BmMS80MmRzbDVgLS1kLjZzYSNmMS80MmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338532163700000000000000000000ffff0a008db7707c1a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.284,
+            "end_offset": 5.712
+        },
+        "target_timerange": {
+            "start_offset": 4.284,
+            "end_offset": 5.712
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

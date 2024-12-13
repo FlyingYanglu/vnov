@@ -1,0 +1,213 @@
+[
+    {
+        "text": "Besides, she’s she, and I’m I, and—oh dear, how puzzling it all is!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk with papers",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting at a desk",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pencil",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "papers scattered on desk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I’ll try if I know all the things I used to know.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk with papers",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning forward",
+                    "looking determined"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resolute",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pencil",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "papers scattered on desk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk with papers",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "writing on a paper",
+                    "looking frustrated"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pencil",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen",
+                    "papers scattered on desk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I shall never get to twenty at that rate!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk with papers",
+                "lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "throwing the pen down",
+                    "looking defeated"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defeated",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pencil",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "papers scattered on desk"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

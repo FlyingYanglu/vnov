@@ -1,0 +1,237 @@
+[
+    {
+        "text": "“But they were _in_ the well,” I said to the Dormouse, not choosing to notice this last remark.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "well",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "confused",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, Dormouse on the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“Of course they were,” said the Dormouse; “—well in.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "well",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "sitting on a table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft"
+                    },
+                    "accessories": {
+                        "item": "small glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "This answer so confused me, that I let the Dormouse go on for some time without interrupting it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "well",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "listening to the Dormouse",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "deeply confused",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, Dormouse on the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“They were learning to draw,” the Dormouse went on, yawning and rubbing its eyes, for it was getting very sleepy;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "well",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "yawning",
+                    "rubbing eyes"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy",
+                    "tired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft"
+                    },
+                    "accessories": {
+                        "item": "small glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“and they drew all manner of things—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "well",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "sitting on a table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft"
+                    },
+                    "accessories": {
+                        "item": "small glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "text": "“I have answered three questions, and that is enough,” Said his father; “don’t give yourself airs!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelf",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "disapproving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit jacket",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "matching trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped",
+                        "color": "dark"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Father positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Do you think I can listen all day to such stuff?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelf",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hand",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit jacket",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "matching trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped",
+                        "color": "dark"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Father positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Be off, or I’ll kick you down stairs!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelf",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "middle-aged",
+                "actions": [
+                    "raising foot as if to kick",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "threatening"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit jacket",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "matching trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped",
+                        "color": "dark"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Father positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“That is not said right,” said the Caterpillar.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "green foliage"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "disapproving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke",
+                        "type": "puffing",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Not _quite_",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "green foliage"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "pausing",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "evaluative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke",
+                        "type": "puffing",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar positioned centrally, camera eye-level"
+            }
+        ]
+    }
+]

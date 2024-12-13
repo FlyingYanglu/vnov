@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "510b9986b2da11ef9e2eec0d9a371a46",
+        "text": "when suddenly, thump!",
+        "audio_url": "https://v16m-default.akamaized.net/81f6726fc7e2cfcc8718b6f2ece2e241/6751aa22/video/tos/maliva/tos-maliva-v-f15faa-us/okzUABrEXAiKg3gfwo8RrkzcVBq3qF8WiEiAAG/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thl0kIOXq8Zmo&qs=13&rc=am1lZHY5cmpvdzUzNzhoM0Bpam1lZHY5cmpvdzUzNzhoM0BfY3BeMmRjXzVgLS1kLjZzYSNfY3BeMmRjXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338361644400000000000000000000ffff0a0064a1524e4e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.704
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.704
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

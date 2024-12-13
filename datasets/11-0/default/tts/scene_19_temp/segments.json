@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "c7c9596ab2d911ef8aa0b8cef692109a",
+        "text": "Would the fall never come to an end?",
+        "audio_url": "https://v16m-default.akamaized.net/1978f44e275a2c7f0298777a0af52363/6751a93b/video/tos/maliva/tos-maliva-v-f15faa-us/ogyT5AJDnBV4XwfFEAAVILEMhBORfUqQGVENBa/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThxOkIOXq8Zmo&qs=13&rc=M3F3M3Y5cnBvdzUzNzhoM0BpM3F3M3Y5cnBvdzUzNzhoM0BtcmwwMmRrNjVgLS1kLjZzYSNtcmwwMmRrNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338338578900000000000000000000ffff0a006c111db928&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.992
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.992
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

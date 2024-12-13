@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "3596b78ab2da11ef80ebb8cef6a0339e",
+        "text": "Dinah my dear!",
+        "audio_url": "https://v16m-default.akamaized.net/116a9283af87b9eeedad7afc93274563/6751a9f4/video/tos/maliva/tos-maliva-v-f15faa-us/oYqCARneBROOLCXeEsZPrVTGgIKCSOAfopoQEA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th~SkIOXq8Zmo&qs=13&rc=am04Onk5cjdvdzUzNzhoM0Bpam04Onk5cjdvdzUzNzhoM0A0L3FeMmRzXzVgLS1kLjZzYSM0L3FeMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338357040900000000000000000000ffff0a009006988b18&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.2
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.2
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3596c054b2da11ef80ebb8cef6a0339e",
+        "text": "I wish you were down here with me!",
+        "audio_url": "https://v16m-default.akamaized.net/912b5c52963522cab08e095172913843/6751a9f4/video/tos/maliva/tos-maliva-v-f15faa-us/osLAiFKTWU7yDqfAVftBVdhwQJEgBCAI8nlaIW/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th~SkIOXq8Zmo&qs=13&rc=anhud3I5cjdvdzUzNzhoM0Bpanhud3I5cjdvdzUzNzhoM0AyXmliMmRzXzVgLS1kLjZzYSMyXmliMmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338357040900000000000000000000ffff0a009006988b18&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.752
+        },
+        "target_timerange": {
+            "start_offset": 1.2,
+            "end_offset": 2.952
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "text": "“And washing?” the Mock Turtle inquired.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "soft ambient light"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "tilting head slightly",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Certainly not!” I said indignantly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "soft ambient light"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crossing arms",
+                    "lifting chin slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indignant",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Ah! then yours wasn’t a really good school,” the Mock Turtle said in a tone of great relief.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "soft ambient light"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "relaxing posture",
+                    "smiling slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

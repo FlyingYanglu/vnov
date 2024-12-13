@@ -1,0 +1,155 @@
+[
+    {
+        "text": "The cook was leaning over the fire, stirring a large cauldron that seemed to be full of soup.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light from fire",
+                "smoke",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "fire",
+                "cauldron"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "leaning over the fire",
+                    "stirring the cauldron"
+                ],
+                "gaze_and_direction": "focused on the cauldron",
+                "expression": [
+                    "concentrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "sweat on forehead"
+                ],
+                "composition": "Cook positioned on the left side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“There’s certainly too much pepper in that soup!” I thought to myself, trying to suppress a sneeze.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light from fire",
+                "smoke",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "fire",
+                "cauldron"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "trying to suppress a sneeze"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "annoyed",
+                    "struggling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The air was thick with pepper, making it hard to breathe.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light from fire",
+                "smoke",
+                "nighttime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "fire",
+                "cauldron"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "struggling to breathe"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "discomfort"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

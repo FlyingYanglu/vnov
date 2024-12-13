@@ -1,0 +1,51 @@
+[
+    {
+        "text": "The Queen turned crimson with fury, and, after glaring at me for a moment like a wild beast, screamed “Off with her head!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "The Queen",
+                "age": "mature",
+                "actions": [
+                    "glaring at the viewer",
+                    "screaming"
+                ],
+                "gaze_and_direction": "staring intensely into the camera",
+                "expression": [
+                    "furious",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained",
+                        "color": "crimson"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal",
+                        "condition": "gleaming"
+                    }
+                },
+                "temporary_features": [
+                    "face flushed with anger"
+                ],
+                "composition": "The Queen positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

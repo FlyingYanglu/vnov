@@ -1,0 +1,237 @@
+[
+    {
+        "text": "The other gardeners looked around, and all of them bowed low.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gardeners",
+                "age": "various",
+                "actions": [
+                    "looking around",
+                    "bowing low"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful",
+                    "submissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "work shirts",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "work pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "utility"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Characters positioned in a line, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Would you tell me,” I said, a little timidly, “why you are painting those roses?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the gardeners",
+                "expression": [
+                    "curious",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Five and Seven said nothing, but looked at Two.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at Two"
+                ],
+                "gaze_and_direction": "looking at Two",
+                "expression": [
+                    "silent",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "work shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "work pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "utility"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            },
+            {
+                "name": "Seven",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at Two"
+                ],
+                "gaze_and_direction": "looking at Two",
+                "expression": [
+                    "silent",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "work shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "work pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "utility"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Two began in a low voice, “Why the fact is, you see, Miss, this here ought to have been a red rose-tree, and we put a white one in by mistake; and if the Queen was to find it out, we should all have our heads cut off, you know.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Two",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a low voice"
+                ],
+                "gaze_and_direction": "looking at I",
+                "expression": [
+                    "serious",
+                    "fearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "work shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "work pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "utility"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

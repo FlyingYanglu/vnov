@@ -1,0 +1,214 @@
+[
+    {
+        "text": "I was just beginning to think to myself, “Now, what am I to do with this creature when I get it home?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down at a creature in hands",
+                "expression": [
+                    "pensive",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small creature"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "No, there were no tears. Mind now!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small creature"
+                ],
+                "composition": "Main character positioned slightly right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "when it grunted again, so violently, that I looked down into its face in some alarm.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down in alarm"
+                ],
+                "gaze_and_direction": "looking down at the creature",
+                "expression": [
+                    "startled",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small creature"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "This time there could be _no_ mistake about it: it was neither more nor less than a pig, and I felt that it would be quite absurd for me to carry it f",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "realizing the creature's identity"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small creature"
+                ],
+                "composition": "Main character positioned slightly right, camera at eye level"
+            }
+        ]
+    }
+]

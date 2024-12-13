@@ -1,0 +1,253 @@
+[
+    {
+        "text": "'It goes on, you know,' the Hatter continued, 'in this way:— 'Up above the world you fly, Like a tea-tray in the sky.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with a teacup in hand",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enthusiastic",
+                    "slightly manic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "hat": {
+                        "item": "tall top hat",
+                        "style": "classic",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned on the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "Twinkle, twinkle—'",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "continuing to gesture with a teacup",
+                    "singing to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enthusiastic",
+                    "slightly manic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "hat": {
+                        "item": "tall top hat",
+                        "style": "classic",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned on the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "Here the Dormouse shook itself, and began singing in its sleep '_Twinkle, twinkle, twinkle, twinkle_—'",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "shaking slightly",
+                    "singing in its sleep"
+                ],
+                "gaze_and_direction": "eyes closed, head tilted slightly",
+                "expression": [
+                    "dreamy",
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "nightwear",
+                        "condition": "soft and worn"
+                    },
+                    "accessories": {
+                        "item": "blanket",
+                        "type": "cozy"
+                    }
+                },
+                "temporary_features": [
+                    "sleeping"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and went on so long that they had to pinch it to make it stop.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "being pinched",
+                    "waking up abruptly"
+                ],
+                "gaze_and_direction": "eyes opening wide",
+                "expression": [
+                    "startled",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "nightwear",
+                        "condition": "soft and worn"
+                    },
+                    "accessories": {
+                        "item": "blanket",
+                        "type": "cozy"
+                    }
+                },
+                "temporary_features": [
+                    "waking up"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I’ve heard something like it,' I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

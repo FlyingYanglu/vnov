@@ -1,0 +1,142 @@
+[
+    {
+        "text": "it had fallen into a cucumber-frame, or something of the sort.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "cucumber-frame",
+                "vegetable garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Unknown Character",
+                "age": "adult",
+                "actions": [
+                    "falling into a cucumber-frame"
+                ],
+                "gaze_and_direction": "looking up at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“_That_ you won’t!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "cucumber-frame",
+                "vegetable garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Unknown Character",
+                "age": "adult",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Next came an angry voice—the Rabbit’s—“Pat! Pat! Where are you?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "cucumber-frame",
+                "vegetable garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "calling out",
+                    "looking around"
+                ],
+                "gaze_and_direction": "scanning the area",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rabbit suit",
+                        "style": "animal costume",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "ears twitching"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

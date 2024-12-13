@@ -1,0 +1,140 @@
+[
+    {
+        "text": "The Mouse did not notice this question, but hurriedly went on, “‘—found it advisable to go with Edgar Atheling to meet William and offer him the crown.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking hurriedly",
+                    "gesturing with paws"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Mouse positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "William’s conduct at first was moderate.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "pausing",
+                    "gesturing with paws"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Mouse positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "But the insolence of his Normans—’ How are you getting on now, my dear?” it continued, turning to me as it spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "turning towards the viewer",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Mouse positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

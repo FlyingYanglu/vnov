@@ -1,0 +1,149 @@
+[
+    {
+        "text": "“Call it what you like,” said the Cat.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking into the camera",
+                "expression": [
+                    "calm",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "floating in mid-air"
+                ],
+                "composition": "Cat centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I was not much surprised at this, I was getting so used to queer things happening.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking at the Cat"
+                ],
+                "gaze_and_direction": "looking at the Cat",
+                "expression": [
+                    "calm",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "While I was looking at the place where it had been, it suddenly appeared again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "appearing suddenly in the same spot"
+                ],
+                "gaze_and_direction": "looking into the camera",
+                "expression": [
+                    "calm",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "smooth",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "floating in mid-air"
+                ],
+                "composition": "Cat centered, camera slightly overhead"
+            }
+        ]
+    }
+]

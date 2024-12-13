@@ -1,0 +1,360 @@
+[
+    {
+        "text": "“Well, I’ve tried to say “How doth the little busy bee,” but it all came different!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholy",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I replied in a very melancholy voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking in a low, sad tone"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Repeat, “You are old, Father William_,’” the Caterpillar instructed.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "instructing the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I folded my hands and began:—“You are old, Father William,” the young man said,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "folding hands",
+                    "beginning to recite"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And your hair has become very white;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "continuing to recite"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And yet you incessantly stand on your head—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "continuing to recite"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Do you think, at your age, it is right?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "wooden floor",
+                "bookshelves",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "finishing the recitation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

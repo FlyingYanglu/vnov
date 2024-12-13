@@ -1,0 +1,78 @@
+[
+    {
+        "summary": "Alice attends a bizarre tea party hosted by the March Hare and the Hatter, where the Dormouse is used as a cushion and falls asleep frequently. The party is filled with nonsensical conversations, riddles with no answers, and constant movement around the table. The Hatter complains about his malfunctioning watch, which always shows six o'clock, leading to an endless tea-time. Alice struggles to engage in meaningful conversation and eventually leaves the party in frustration, vowing never to return. She then discovers a door in a tree that leads her back to the garden.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "frustrated",
+                    "polite"
+                ],
+                "actions": [
+                    "attends the tea party",
+                    "tries to engage in conversation",
+                    "leaves the party in frustration",
+                    "discovers a door in a tree"
+                ],
+                "relationships": [
+                    "engages with the March Hare, Hatter, and Dormouse"
+                ]
+            },
+            "March Hare": {
+                "traits": [
+                    "rude",
+                    "hostile",
+                    "nonsensical"
+                ],
+                "actions": [
+                    "hosts the tea party",
+                    "offers Alice wine that doesn't exist",
+                    "argues with Alice and the Hatter",
+                    "moves around the table"
+                ],
+                "relationships": [
+                    "host to Alice, Hatter, and Dormouse"
+                ]
+            },
+            "Hatter": {
+                "traits": [
+                    "eccentric",
+                    "rude",
+                    "mysterious"
+                ],
+                "actions": [
+                    "participates in the tea party",
+                    "asks nonsensical riddles",
+                    "complains about his watch",
+                    "pours tea on the Dormouse"
+                ],
+                "relationships": [
+                    "tea party companion to Alice, March Hare, and Dormouse"
+                ]
+            },
+            "Dormouse": {
+                "traits": [
+                    "sleepy",
+                    "passive",
+                    "nonsensical"
+                ],
+                "actions": [
+                    "used as a cushion",
+                    "falls asleep frequently",
+                    "tells a story about three sisters",
+                    "shakes itself awake"
+                ],
+                "relationships": [
+                    "tea party companion to Alice, March Hare, and Hatter"
+                ]
+            }
+        },
+        "key_events": [
+            "Alice arrives at the tea party hosted by the March Hare and the Hatter.",
+            "The Hatter asks a riddle with no answer, leading to a nonsensical conversation.",
+            "The Hatter complains about his malfunctioning watch, which always shows six o'clock.",
+            "The Dormouse tells a story about three sisters living at the bottom of a well.",
+            "Alice leaves the tea party in frustration and discovers a door in a tree leading back to the garden."
+        ]
+    }
+]

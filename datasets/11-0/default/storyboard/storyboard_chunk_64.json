@@ -1,0 +1,171 @@
+[
+    {
+        "text": "They were indeed a queer-looking party that assembled on the bank—the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross, and uncomfortable.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "overcast sky",
+                "wet ground",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "wet grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on the bank",
+                    "fur clinging close to body"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "cross",
+                    "uncomfortable"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "natural",
+                        "condition": "wet and clinging"
+                    }
+                },
+                "temporary_features": [
+                    "dripping wet"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I looked around at the Mouse, the Duck, the Dodo, the Lory, and the Eaglet.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "overcast sky",
+                "wet ground",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "wet grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duck",
+                "age": "adult",
+                "actions": [
+                    "standing on the bank",
+                    "feathers draggled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uncomfortable"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "wet and draggled"
+                    }
+                },
+                "temporary_features": [
+                    "dripping wet"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "We were quite a sight, and I couldn't help but feel a bit out of place among them.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "overcast sky",
+                "wet ground",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "wet grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "adult",
+                "actions": [
+                    "standing on the bank",
+                    "feathers draggled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uncomfortable"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "wet and draggled"
+                    }
+                },
+                "temporary_features": [
+                    "dripping wet"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "We were quite a sight, and I couldn't help but feel a bit out of place among them.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "overcast sky",
+                "wet ground",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "wet grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "standing on the bank",
+                    "feathers draggled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uncomfortable"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "wet and draggled"
+                    }
+                },
+                "temporary_features": [
+                    "dripping wet"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

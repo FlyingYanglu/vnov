@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "2b1b2d04b2da11ef8446043f72b8e3e6",
+        "text": "“Dinah’ll miss me very much",
+        "audio_url": "https://v16m-default.akamaized.net/8f80ff00115db6d44d13de47f0e6edc1/6751a9e5/video/tos/maliva/tos-maliva-v-f15faa-us/osDRCnQUfLELIWBWADVnYYBOVEBJFhAe4VAE6z/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhSkIOXq8Zmo&qs=13&rc=Mzo6NnM5cjNvdzUzNzhoM0BpMzo6NnM5cjNvdzUzNzhoM0A0cS1yMmRrXzVgLS1kLjZzYSM0cS1yMmRrXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338355295900000000000000000000ffff0a00b661df6295&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.572
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.572
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2b1b3128b2da11ef8446043f72b8e3e6",
+        "text": "to-night, I should think!”",
+        "audio_url": "https://v16m-default.akamaized.net/8f80ff00115db6d44d13de47f0e6edc1/6751a9e5/video/tos/maliva/tos-maliva-v-f15faa-us/osDRCnQUfLELIWBWADVnYYBOVEBJFhAe4VAE6z/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhSkIOXq8Zmo&qs=13&rc=Mzo6NnM5cjNvdzUzNzhoM0BpMzo6NnM5cjNvdzUzNzhoM0A0cS1yMmRrXzVgLS1kLjZzYSM0cS1yMmRrXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338355295900000000000000000000ffff0a00b661df6295&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.572,
+            "end_offset": 3.144
+        },
+        "target_timerange": {
+            "start_offset": 1.572,
+            "end_offset": 3.144
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "text": "“It wasn’t very civil of you to sit down without being invited,” the March Hare retorted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "retorting with a finger pointed at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "stern",
+                    "displeased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "March Hare positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I didn’t know it was your table,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the March Hare",
+                "expression": [
+                    "calm",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "headwear": {
+                        "item": "ribbon",
+                        "style": "bow",
+                        "condition": "tied"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It’s laid for a great many more than three.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the table"
+                ],
+                "gaze_and_direction": "looking at the table",
+                "expression": [
+                    "slightly annoyed",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "March Hare positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Your hair wants cutting,” the Hatter said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "pointing at the viewer's hair"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly disheveled"
+                    },
+                    "headwear": {
+                        "item": "hat",
+                        "style": "tall",
+                        "condition": "tilted"
+                    },
+                    "accessories": {
+                        "item": "cravat",
+                        "type": "bow tie"
+                    }
+                },
+                "composition": "Hatter positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "He had been looking at me with great curiosity, and this was his first speech.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "looking at the viewer with curiosity"
+                ],
+                "gaze_and_direction": "staring intently at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly disheveled"
+                    },
+                    "headwear": {
+                        "item": "hat",
+                        "style": "tall",
+                        "condition": "tilted"
+                    },
+                    "accessories": {
+                        "item": "cravat",
+                        "type": "bow tie"
+                    }
+                },
+                "composition": "Hatter positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    }
+]

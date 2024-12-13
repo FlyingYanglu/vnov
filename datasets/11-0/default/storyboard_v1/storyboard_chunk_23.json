@@ -1,0 +1,272 @@
+[
+    {
+        "text": "Just then I heard something splashing about in the pool a little way off, and I swam nearer to make out what it was.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "water",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming towards the source of splashing"
+                ],
+                "gaze_and_direction": "looking towards the pool",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "loose",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned on the left side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "At first, I thought it must be a walrus or hippopotamus, but then I remembered how small I was now, and I soon made out that it was only a mouse that had slipped in like myself.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "water",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the mouse in the water"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "loose",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned on the left side of the frame, camera slightly overhead"
+            },
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "paddling in the water"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet fur"
+                ],
+                "composition": "Mouse positioned on the right side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Would it be of any use, now, to speak to this mouse?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "water",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the mouse"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "loose",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned on the left side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there’s no harm in trying.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "water",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the mouse"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "loose",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned on the left side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I began: “O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pool",
+                "water",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the mouse",
+                    "looking at the mouse"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "loose",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character positioned on the left side of the frame, camera slightly overhead"
+            },
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "paddling in the water",
+                    "looking at the speaker"
+                ],
+                "gaze_and_direction": "looking at the speaker",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet fur"
+                ],
+                "composition": "Mouse positioned on the right side of the frame, camera slightly overhead"
+            }
+        ]
+    }
+]

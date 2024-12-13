@@ -1,0 +1,200 @@
+[
+    {
+        "text": "“right, I’m afraid,” I timidly replied; “some of the words have got altered.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "soft carpet",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking timidly",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "straight-cut",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "biting lower lip"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It is wrong from beginning to end,” said the Caterpillar decidedly, and there was silence for some minutes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "soft carpet",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "speaking decisively",
+                    "sitting on a mushroom"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke ring",
+                        "type": "smoking"
+                    }
+                },
+                "temporary_features": [
+                    "smoking a hookah"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Caterpillar was the first to speak. “What size do you want to be?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "soft carpet",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "sitting on a mushroom"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke ring",
+                        "type": "smoking"
+                    }
+                },
+                "temporary_features": [
+                    "smoking a hookah"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, I’m not particular as to size,” I hastily replied; “only one doesn’t like changing so often, you know.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "soft carpet",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hastily",
+                    "looking at the Caterpillar"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "straight-cut",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "biting lower lip"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

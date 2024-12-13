@@ -1,0 +1,157 @@
+[
+    {
+        "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large wooden table",
+                "golden tarts",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing triumphantly at the tarts on the table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "triumphantly",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "luxurious",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Nothing can be clearer than _that_.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large wooden table",
+                "golden tarts",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "luxurious",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large wooden table",
+                "golden tarts",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "turning slightly towards the Queen",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "curious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "luxurious",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King on the left, Queen on the right, camera slightly overhead"
+            },
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "standing still",
+                    "listening"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "calm",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "luxurious",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen on the right, camera slightly overhead"
+            }
+        ]
+    }
+]

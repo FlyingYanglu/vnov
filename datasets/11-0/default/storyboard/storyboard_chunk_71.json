@@ -1,0 +1,228 @@
+[
+    {
+        "text": "“As wet as ever,” I said in a melancholy tone: “it doesn’t seem to dry me at all.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "closed room",
+                "daytime"
+            ],
+            "scene_features": [
+                "meeting room",
+                "chairs",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a melancholy tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "slightly damp"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet hair"
+                ],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“In that case,” said the Dodo solemnly, rising to its feet, “I move that the meeting adjourn, for the immediate adoption of more energetic remedies—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "closed room",
+                "daytime"
+            ],
+            "scene_features": [
+                "meeting room",
+                "chairs",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "rising to its feet",
+                    "speaking solemnly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "button-up",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Dodo centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Speak English!” said the Eaglet.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "closed room",
+                "daytime"
+            ],
+            "scene_features": [
+                "meeting room",
+                "chairs",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "speaking assertively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "demanding",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual attire",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Eaglet centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "closed room",
+                "daytime"
+            ],
+            "scene_features": [
+                "meeting room",
+                "chairs",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "speaking with skepticism"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "disbelieving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual attire",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Eaglet centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "closed room",
+                "daytime"
+            ],
+            "scene_features": [
+                "meeting room",
+                "chairs",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "bending down its head to hide a smile"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "smiling",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual attire",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Eaglet centered, camera slightly overhead"
+            }
+        ]
+    }
+]

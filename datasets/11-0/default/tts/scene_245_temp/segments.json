@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "850eb3e0b2de11efbff41070fd2669de",
+        "text": "I kept my eyes anxiously fixed",
+        "audio_url": "https://v16m-default.akamaized.net/f6d842e5b37265e62577b54b826ff8f1/6751b132/video/tos/maliva/tos-maliva-v-f15faa-us/oQCUBjAD8K1zXEMy4cEVZRiABFA3TwxSizPQA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThcCkIOXq8Zmo&qs=13&rc=M2tlN205cm1vdzUzNzhoM0BpM2tlN205cm1vdzUzNzhoM0BsbW0tMmQ0bTVgLS1kLjZzYSNsbW0tMmQ0bTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338541835100000000000000000000ffff0a008db1dd95c2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6500000000000004
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6500000000000004
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "850eb5deb2de11efbff41070fd2669de",
+        "text": "on it, for I felt sure I would",
+        "audio_url": "https://v16m-default.akamaized.net/f6d842e5b37265e62577b54b826ff8f1/6751b132/video/tos/maliva/tos-maliva-v-f15faa-us/oQCUBjAD8K1zXEMy4cEVZRiABFA3TwxSizPQA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThcCkIOXq8Zmo&qs=13&rc=M2tlN205cm1vdzUzNzhoM0BpM2tlN205cm1vdzUzNzhoM0BsbW0tMmQ0bTVgLS1kLjZzYSNsbW0tMmQ0bTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338541835100000000000000000000ffff0a008db1dd95c2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6500000000000001,
+            "end_offset": 3.3000000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.6500000000000001,
+            "end_offset": 3.3000000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "850eb7c8b2de11efbff41070fd2669de",
+        "text": "catch a bad cold if I did not",
+        "audio_url": "https://v16m-default.akamaized.net/f6d842e5b37265e62577b54b826ff8f1/6751b132/video/tos/maliva/tos-maliva-v-f15faa-us/oQCUBjAD8K1zXEMy4cEVZRiABFA3TwxSizPQA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThcCkIOXq8Zmo&qs=13&rc=M2tlN205cm1vdzUzNzhoM0BpM2tlN205cm1vdzUzNzhoM0BsbW0tMmQ0bTVgLS1kLjZzYSNsbW0tMmQ0bTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338541835100000000000000000000ffff0a008db1dd95c2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.3000000000000003,
+            "end_offset": 4.95
+        },
+        "target_timerange": {
+            "start_offset": 3.3000000000000003,
+            "end_offset": 4.95
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "850eb94eb2de11efbff41070fd2669de",
+        "text": "get dry very soon.",
+        "audio_url": "https://v16m-default.akamaized.net/f6d842e5b37265e62577b54b826ff8f1/6751b132/video/tos/maliva/tos-maliva-v-f15faa-us/oQCUBjAD8K1zXEMy4cEVZRiABFA3TwxSizPQA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThcCkIOXq8Zmo&qs=13&rc=M2tlN205cm1vdzUzNzhoM0BpM2tlN205cm1vdzUzNzhoM0BsbW0tMmQ0bTVgLS1kLjZzYSNsbW0tMmQ0bTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338541835100000000000000000000ffff0a008db1dd95c2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.95,
+            "end_offset": 6.6000000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.95,
+            "end_offset": 6.6000000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

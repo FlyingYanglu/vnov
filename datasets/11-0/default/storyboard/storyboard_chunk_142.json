@@ -1,0 +1,173 @@
+[
+    {
+        "text": "“No,” the Caterpillar said.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit clearing",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "dense forest"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on a mushroom",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "For some minutes, the Caterpillar puffed away without speaking.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit clearing",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "dense forest"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on a mushroom",
+                    "puffing on the hookah"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "Finally, it unfolded its arms, took the hookah out of its mouth again, and said, “So you think you’re changed, do you?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit clearing",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "dense forest"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "unfolding arms",
+                    "taking the hookah out of its mouth",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“I’m afraid I am, sir,” I said; “I can’t remember things as I used—and I don’t keep the same size for ten minutes together!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit clearing",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "dense forest"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "varying size"
+                ],
+                "composition": "Main character positioned to the side, camera eye-level"
+            }
+        ]
+    }
+]

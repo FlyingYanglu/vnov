@@ -1,0 +1,261 @@
+[
+    {
+        "text": "“Oh, do let me help to undo it!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "reaching toward the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I shall do nothing of the sort,” said the Mouse, getting up and walking away.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "getting up",
+                    "walking away"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small vest",
+                        "type": "brown"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned on the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You insult me by talking such nonsense!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small vest",
+                        "type": "brown"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I didn’t mean it!” I pleaded.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "pleading with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But you’re so easily offended, you know!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Mouse only growled in reply.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "growling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small vest",
+                        "type": "brown"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

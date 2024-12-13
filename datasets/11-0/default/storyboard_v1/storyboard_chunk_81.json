@@ -1,0 +1,280 @@
+[
+    {
+        "text": "As there seemed to be no chance of getting my hands up to my head, I tried to get my head down to them, and was delighted to find that my neck would bend about easily in any direction, like a serpent.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit forest",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "bending neck like a serpent"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "delighted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flexible neck"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, which I found to be nothing but the tops of the trees under which I had been wandering, when a sharp hiss made me draw back in a hurry: a large pigeon had flown into my face, and was beating me violently with its wings.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit forest",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "drawing back in surprise"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flexible neck"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Serpent!” screamed the Pigeon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit forest",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "screaming"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "large wings",
+                        "condition": "flapping"
+                    },
+                    "bottom": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flying close to the viewer"
+                ],
+                "composition": "Pigeon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m _not_ a serpent!” I said indignantly.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit forest",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking indignantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indignant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flexible neck"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Let me alone!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit forest",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "demanding"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flexible neck"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Serpent, I say again!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit forest",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "screaming again"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "large wings",
+                        "condition": "flapping"
+                    },
+                    "bottom": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flying close to the viewer"
+                ],
+                "composition": "Pigeon centered, camera slightly overhead"
+            }
+        ]
+    }
+]

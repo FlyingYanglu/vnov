@@ -1,0 +1,141 @@
+[
+    {
+        "text": "This time I waited patiently until it chose to speak again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "waiting"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "patient",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Main character on the left, Caterpillar on the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "In a minute or two the Caterpillar took the hookah out of its mouth and yawned once or twice, and shook itself.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "taking hookah out of mouth",
+                    "yawning",
+                    "shaking body"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "bored",
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then it got down off the mushroom, and crawled away in the grass, merely remarking as it went, “One side will make you grow taller, and the other side will make you grow shorter.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "mushroom",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "getting down from mushroom",
+                    "crawling away in grass",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Caterpillar crawling, camera at ground level"
+            }
+        ]
+    }
+]

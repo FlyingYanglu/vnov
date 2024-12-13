@@ -715,7 +715,7 @@ class Midjourney():
             raise ValueError("Timeout: Failed to fetch image after 10 attempts")
     
 
-    def fetch_image(self, prompt, image_folder, image_name, cref="", sref="", cw=-1, sw=-1, niji=False, raw_style=False, need_new_ref_url=False):
+    def fetch_image(self, prompt, image_folder, image_name, cref="", sref="", cw=-1, sw=-1, niji=False, raw_style=False, need_new_ref_url=False, download_all=False):
         prompt = self.clean_prompt(prompt)
         raw_prompt = prompt
         # print(prompt)
@@ -731,7 +731,10 @@ class Midjourney():
             prompt += f" --niji 6"
         if raw_style:
             prompt += f" --style raw"
-        
+        if download_all:
+            num_images = 4
+        else:
+            num_images = 1
 
         time.sleep(random.uniform(0.5, 1.0))
         print("sending", prompt)
@@ -741,7 +744,8 @@ class Midjourney():
 
         i_urls = []
         ret = {}
-        for i in range(4):
+        
+        for i in range(num_images):
             time.sleep(random.uniform(0.5, 1))
             msg = self.receive_message(raw_prompt, image_index=i)
             # print(msg)

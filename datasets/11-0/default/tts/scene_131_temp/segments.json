@@ -1,0 +1,107 @@
+[
+    {
+        "segment_id": "1e666ea0b2dc11ef8018506b4b2ab66e",
+        "text": "Stop this moment, I tell you!”",
+        "audio_url": "https://v16m-default.akamaized.net/371cac6b525204a1452a1e3b369b7bd8/6751ad2b/video/tos/maliva/tos-maliva-v-f15faa-us/osRwQUDAAEnAFBfjTJfBVEIEMz8iWVhjLEB0TE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Y6OXM5cmxvdzUzNzhoM0BpM3Y6OXM5cmxvdzUzNzhoM0Bucy9lMmQ0ZTVgLS1kLjZzYSNucy9lMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.064
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.064
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1e669f92b2dc11ef8018506b4b2ab66e",
+        "text": "But I went on all the same,",
+        "audio_url": "https://v16m-default.akamaized.net/cfaf4ebc02d09316773d83ba01d46202/6751ad31/video/tos/maliva/tos-maliva-v-f15faa-us/owPMZE4qy3AAASFBBUQEWiS7kgR8aZnViY1Ci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Zrc3E5cmxvdzUzNzhoM0BpM3Zrc3E5cmxvdzUzNzhoM0BlaXBxMmQ0ZTVgLS1kLjZzYSNlaXBxMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.468
+        },
+        "target_timerange": {
+            "start_offset": 2.064,
+            "end_offset": 3.532
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1e66a14ab2dc11ef8018506b4b2ab66e",
+        "text": "shedding gallons of tears,",
+        "audio_url": "https://v16m-default.akamaized.net/cfaf4ebc02d09316773d83ba01d46202/6751ad31/video/tos/maliva/tos-maliva-v-f15faa-us/owPMZE4qy3AAASFBBUQEWiS7kgR8aZnViY1Ci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Zrc3E5cmxvdzUzNzhoM0BpM3Zrc3E5cmxvdzUzNzhoM0BlaXBxMmQ0ZTVgLS1kLjZzYSNlaXBxMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.468,
+            "end_offset": 2.936
+        },
+        "target_timerange": {
+            "start_offset": 3.532,
+            "end_offset": 5
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1e66a280b2dc11ef8018506b4b2ab66e",
+        "text": "until there was a large",
+        "audio_url": "https://v16m-default.akamaized.net/cfaf4ebc02d09316773d83ba01d46202/6751ad31/video/tos/maliva/tos-maliva-v-f15faa-us/owPMZE4qy3AAASFBBUQEWiS7kgR8aZnViY1Ci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Zrc3E5cmxvdzUzNzhoM0BpM3Zrc3E5cmxvdzUzNzhoM0BlaXBxMmQ0ZTVgLS1kLjZzYSNlaXBxMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.936,
+            "end_offset": 4.404
+        },
+        "target_timerange": {
+            "start_offset": 5,
+            "end_offset": 6.468
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1e66a38eb2dc11ef8018506b4b2ab66e",
+        "text": "pool all round me, about",
+        "audio_url": "https://v16m-default.akamaized.net/cfaf4ebc02d09316773d83ba01d46202/6751ad31/video/tos/maliva/tos-maliva-v-f15faa-us/owPMZE4qy3AAASFBBUQEWiS7kgR8aZnViY1Ci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Zrc3E5cmxvdzUzNzhoM0BpM3Zrc3E5cmxvdzUzNzhoM0BlaXBxMmQ0ZTVgLS1kLjZzYSNlaXBxMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.404,
+            "end_offset": 5.872
+        },
+        "target_timerange": {
+            "start_offset": 6.468,
+            "end_offset": 7.936
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1e66a488b2dc11ef8018506b4b2ab66e",
+        "text": "four inches deep and",
+        "audio_url": "https://v16m-default.akamaized.net/cfaf4ebc02d09316773d83ba01d46202/6751ad31/video/tos/maliva/tos-maliva-v-f15faa-us/owPMZE4qy3AAASFBBUQEWiS7kgR8aZnViY1Ci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Zrc3E5cmxvdzUzNzhoM0BpM3Zrc3E5cmxvdzUzNzhoM0BlaXBxMmQ0ZTVgLS1kLjZzYSNlaXBxMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.872,
+            "end_offset": 7.34
+        },
+        "target_timerange": {
+            "start_offset": 7.936,
+            "end_offset": 9.404
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1e66a58cb2dc11ef8018506b4b2ab66e",
+        "text": "reaching half down the ha",
+        "audio_url": "https://v16m-default.akamaized.net/cfaf4ebc02d09316773d83ba01d46202/6751ad31/video/tos/maliva/tos-maliva-v-f15faa-us/owPMZE4qy3AAASFBBUQEWiS7kgR8aZnViY1Ci/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv_kIOXq8Zmo&qs=13&rc=M3Zrc3E5cmxvdzUzNzhoM0BpM3Zrc3E5cmxvdzUzNzhoM0BlaXBxMmQ0ZTVgLS1kLjZzYSNlaXBxMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338439055600000000000000000000ffff0a0081c6cfa256&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.34,
+            "end_offset": 8.808
+        },
+        "target_timerange": {
+            "start_offset": 9.404,
+            "end_offset": 10.872
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

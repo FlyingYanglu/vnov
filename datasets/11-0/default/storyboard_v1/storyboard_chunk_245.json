@@ -1,0 +1,290 @@
+[
+    {
+        "text": "The Dormouse was hastily removed, and by the time things settled down, the cook had mysteriously vanished.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on a throne"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The King sighed in relief, “Never mind! Call the next witness.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing",
+                    "speaking to the court"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He leaned towards the Queen and whispered, “Really, my dear, you must cross-examine the next witness. It quite makes my forehead ache!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "leaning towards the Queen",
+                    "whispering"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I watched the White Rabbit fumble with his list, feeling a growing curiosity about who the next witness would be.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "fumbling with a list"
+                ],
+                "gaze_and_direction": "looking at the list",
+                "expression": [
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“—for they haven’t got much evidence yet,” I thought to myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "My heart skipped a beat when the White Rabbit, in his shrill little voice, read out the name “Alice!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from the list"
+                ],
+                "gaze_and_direction": "looking at the list",
+                "expression": [
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I barely had time to process what was happening when I jumped up, forgetting how large I had become.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "jumping up"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

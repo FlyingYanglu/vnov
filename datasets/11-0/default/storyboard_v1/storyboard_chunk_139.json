@@ -1,0 +1,265 @@
+[
+    {
+        "text": "“I’ve had nothing yet,” I replied in an offended tone, “so I can’t take more.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with an offended tone"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter said, “You mean you can’t take _less_. It’s very easy to take _more_ than nothing.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a sarcastic tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall and narrow"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Nobody asked _your_ opinion,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a defiant tone"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter asked triumphantly, “Who’s making personal remarks now?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking triumphantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "triumphant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall and narrow"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I did not quite know what to say to this, so I helped myself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated my question, “Why did they live at the bottom of a well?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "helping herself to tea and bread-and-butter",
+                    "turning to the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse again took a minute or two to think about it, and then said, “It was a treacle-well.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Dormouse",
+                "age": "young",
+                "actions": [
+                    "thinking for a moment",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "headwear": {
+                        "item": "kerchief",
+                        "style": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

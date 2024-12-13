@@ -1,0 +1,167 @@
+[
+    {
+        "segment_id": "7fe41248b2d911efadb4b8cef650d04c",
+        "text": "(When I thought it over",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.538181818181819
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.538181818181819
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe41464b2d911efadb4b8cef650d04c",
+        "text": "afterwards, it occurred to me",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5381818181818183,
+            "end_offset": 3.076363636363636
+        },
+        "target_timerange": {
+            "start_offset": 1.5381818181818183,
+            "end_offset": 3.076363636363636
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe41612b2d911efadb4b8cef650d04c",
+        "text": "that I ought to have wondered",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0763636363636366,
+            "end_offset": 4.614545454545455
+        },
+        "target_timerange": {
+            "start_offset": 3.0763636363636366,
+            "end_offset": 4.614545454545455
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe4178eb2d911efadb4b8cef650d04c",
+        "text": "at this, but at the time it",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.614545454545455,
+            "end_offset": 6.152727272727274
+        },
+        "target_timerange": {
+            "start_offset": 4.614545454545455,
+            "end_offset": 6.152727272727274
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe4190ab2d911efadb4b8cef650d04c",
+        "text": "all seemed quite natural); but",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.152727272727273,
+            "end_offset": 7.690909090909091
+        },
+        "target_timerange": {
+            "start_offset": 6.152727272727273,
+            "end_offset": 7.690909090909091
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe41a9ab2d911efadb4b8cef650d04c",
+        "text": "when the Rabbit actually took",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.690909090909091,
+            "end_offset": 9.22909090909091
+        },
+        "target_timerange": {
+            "start_offset": 7.690909090909091,
+            "end_offset": 9.22909090909091
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe41c16b2d911efadb4b8cef650d04c",
+        "text": "a watch out of its waistcoat-",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 9.22909090909091,
+            "end_offset": 10.76727272727273
+        },
+        "target_timerange": {
+            "start_offset": 9.22909090909091,
+            "end_offset": 10.76727272727273
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe41dd8b2d911efadb4b8cef650d04c",
+        "text": "pocket, and looked at it, and",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 10.767272727272728,
+            "end_offset": 12.305454545454547
+        },
+        "target_timerange": {
+            "start_offset": 10.767272727272728,
+            "end_offset": 12.305454545454547
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe41f5eb2d911efadb4b8cef650d04c",
+        "text": "then hurried on, I started to",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 12.305454545454547,
+            "end_offset": 13.843636363636366
+        },
+        "target_timerange": {
+            "start_offset": 12.305454545454547,
+            "end_offset": 13.843636363636366
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe420d0b2d911efadb4b8cef650d04c",
+        "text": "my feet, for it flashed across",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 13.843636363636366,
+            "end_offset": 15.381818181818183
+        },
+        "target_timerange": {
+            "start_offset": 13.843636363636366,
+            "end_offset": 15.381818181818183
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7fe4224cb2d911efadb4b8cef650d04c",
+        "text": "my mind",
+        "audio_url": "https://v16m-default.akamaized.net/ff3b86a1b35fd831ab3ff7544b6d5aea/6751a8d5/video/tos/maliva/tos-maliva-v-f15faa-us/oAZYVACwHEBVPyEA1UGiSQaFBPHoBAiR4ShCU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThyIkIOXq8Zmo&qs=13&rc=amlkdmw5cnJvdzUzNzhoM0Bpamlkdmw5cnJvdzUzNzhoM0AwZDAtMmQ0NTVgLS1kLjZzYSMwZDAtMmQ0NTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338325838200000000000000000000ffff0a009001c8670e&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 15.381818181818183,
+            "end_offset": 16.92
+        },
+        "target_timerange": {
+            "start_offset": 15.381818181818183,
+            "end_offset": 16.92
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

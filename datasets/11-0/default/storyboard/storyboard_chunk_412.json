@@ -1,0 +1,178 @@
+[
+    {
+        "text": "“There’s more evidence to come yet, please your Majesty,” said the White Rabbit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "notebooks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "holding a piece of paper"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "urgent",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The King turned pale and shut his note-book hastily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "notebooks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "closing a notebook",
+                    "turning pale"
+                ],
+                "gaze_and_direction": "looking down at the notebook",
+                "expression": [
+                    "shocked",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Consider your verdict,” he said to the jury, in a low, trembling voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "notebooks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing towards the jury"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "nervous",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "White Rabbit, jumping up in a great hurry; “this paper has just been picked up.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "notebooks"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "jumping up",
+                    "holding a piece of paper"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "urgent",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text": "“Everything’s got a moral, if only you can find it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "intimate setting",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking into the camera",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And she squeezed herself up closer to my side as she spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "intimate setting",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "moving closer to the viewer",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking into the camera",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon my shoulder, and it was an uncomfortably sharp chin.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "intimate setting",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking uncomfortable"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "discomfort",
+                    "uneasy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

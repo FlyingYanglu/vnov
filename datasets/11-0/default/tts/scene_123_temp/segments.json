@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "f36efabeb2db11efb4ac0c42a117b3f4",
+        "text": "“And how funny it’ll seem,",
+        "audio_url": "https://v16m-default.akamaized.net/e30a3d06ab12e976a708f45c20c09b3f/6751ace2/video/tos/maliva/tos-maliva-v-f15faa-us/oEdAkiiofEpIWuLWeF6IDPfAARFRAoeC1HsGI8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th95kIOXq8Zmo&qs=13&rc=M242M3k5cnlvdzUzNzhoM0BpM242M3k5cnlvdzUzNzhoM0BzbmFeMmRzZDVgLS1kLjZzYSNzbmFeMmRzZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338431799500000000000000000000ffff0a007142c6cb8f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.86
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.86
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f36efc26b2db11efb4ac0c42a117b3f4",
+        "text": "sending presents to one’s own feet!",
+        "audio_url": "https://v16m-default.akamaized.net/e30a3d06ab12e976a708f45c20c09b3f/6751ace2/video/tos/maliva/tos-maliva-v-f15faa-us/oEdAkiiofEpIWuLWeF6IDPfAARFRAoeC1HsGI8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th95kIOXq8Zmo&qs=13&rc=M242M3k5cnlvdzUzNzhoM0BpM242M3k5cnlvdzUzNzhoM0BzbmFeMmRzZDVgLS1kLjZzYSNzbmFeMmRzZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338431799500000000000000000000ffff0a007142c6cb8f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.86,
+            "end_offset": 3.72
+        },
+        "target_timerange": {
+            "start_offset": 1.86,
+            "end_offset": 3.72
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

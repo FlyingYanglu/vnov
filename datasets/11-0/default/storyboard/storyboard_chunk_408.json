@@ -1,0 +1,132 @@
+[
+    {
+        "text": "\"Unimportant, of course, I meant,\" the King hastily said, and went on to himself in an undertone, \"important—unimportant—unimportant—important—\" as if he were trying which word sounded best.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking hastily",
+                    "murmuring to himself"
+                ],
+                "gaze_and_direction": "looking down, avoiding eye contact",
+                "expression": [
+                    "anxious",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Some of the jury wrote it down \"important,\" and some \"unimportant.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "various",
+                "actions": [
+                    "writing on slates"
+                ],
+                "gaze_and_direction": "focused on slates",
+                "expression": [
+                    "serious",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "slate",
+                        "type": "writing"
+                    }
+                },
+                "composition": "Jury members in the background, camera focused on slates"
+            }
+        ]
+    },
+    {
+        "text": "I could see this, as I was near enough to look over their slates; \"but it doesn’t matter a bit,\" I thought to myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking over jury slates",
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "focused on slates, then looking away",
+                "expression": [
+                    "indifferent",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

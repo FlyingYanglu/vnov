@@ -115,9 +115,10 @@ class AudioDownloader:
                 stretched_audio = AudioSegment.from_file(stretched_audio_path, format=self.audio_format)
                 
                 # Update segment with new duration based on speed_factor
-                duration = stretched_audio.duration_seconds
-                segment['adjusted_duration'] = duration
-                
+                # duration = stretched_audio.duration_seconds
+                # print(f"Segment {segment['segment_id']} duration: {duration}")
+                # segment['adjusted_duration'] = segment["source_timerange"]["end_offset"] - segment["source_timerange"]["start_offset"]
+                # segment['adjusted_duration'] = segment['adjusted_duration'] * self.speed_factor
                 combined_audio += stretched_audio
         combined_audio.export(self.combined_audio_path, format=self.audio_format)
 
@@ -135,7 +136,7 @@ class AudioDownloader:
         current_time = 0.0
         for idx, segment in enumerate(self.segments):
             start_offset = current_time
-            end_offset = start_offset + segment.get('adjusted_duration', 0)
+            end_offset = start_offset + (segment["source_timerange"]["end_offset"] - segment["source_timerange"]["start_offset"]) * self.speed_factor
             text = segment['text']
             srt_entry = self.generate_srt_entry(idx + 1, start_offset, end_offset, text)
             srt_content.append(srt_entry)

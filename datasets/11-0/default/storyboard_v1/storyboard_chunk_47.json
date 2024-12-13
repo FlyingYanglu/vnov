@@ -1,0 +1,283 @@
+[
+    {
+        "text": "I was so much frightened that I ran off at once in the direction it pointed to, without trying to explain the mistake it had made.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running in a determined direction"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "frightened",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "black ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "panting",
+                    "hair slightly messy"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "“He took me for his housemaid,” I said to myself as I ran.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running",
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "frightened",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "black ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "panting",
+                    "hair slightly messy"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "“How surprised he’ll be when he finds out who I am! But I’d better take him his fan and gloves—that is, if I can find them.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running",
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "black ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "panting",
+                    "hair slightly messy"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "As I said this, I came upon a neat little house, on the door of which was a bright brass plate with the name “W. RABBIT,” engraved upon it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "neat little house",
+                "brass plate on door"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stopping in front of the house",
+                    "looking at the brass plate"
+                ],
+                "gaze_and_direction": "looking at the brass plate",
+                "expression": [
+                    "curious",
+                    "slightly relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "black ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "panting",
+                    "hair slightly messy"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "I went in without knocking, and hurried upstairs, in great fear lest I should meet the real Mary Ann, and be turned out of the house before I had found the fan and gloves.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "daytime"
+            ],
+            "scene_features": [
+                "neat little house",
+                "staircase"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "entering the house",
+                    "hurrying up the stairs"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "anxious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "black ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "panting",
+                    "hair slightly messy"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "“How queer it seems,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "daytime"
+            ],
+            "scene_features": [
+                "neat little house",
+                "staircase"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stopping on the stairs",
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "puzzled",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "black ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "panting",
+                    "hair slightly messy"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    }
+]

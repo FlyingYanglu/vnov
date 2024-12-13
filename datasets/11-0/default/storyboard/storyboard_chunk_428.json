@@ -1,0 +1,155 @@
+[
+    {
+        "text": "Nobody moved. “Who cares for you?” I said, (I had grown to my full size by this time.)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open field"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant mountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing confidently",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "determined",
+                    "slightly defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [
+                    "full size",
+                    "standing tall"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "At this the whole pack rose up into the air, and came flying down upon me: I gave a little scream, half of fright and half of anger, and tried to beat them off,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open field"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "distant mountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "raising arms defensively",
+                    "screaming"
+                ],
+                "gaze_and_direction": "looking up at the pack",
+                "expression": [
+                    "frightened",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [
+                    "full size",
+                    "standing tall"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and found myself lying on the bank, with my head in the lap of my sister, who was gently brushing away some dead leaves that had fluttered",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "riverbank"
+            ],
+            "scene_features": [
+                "grass",
+                "trees",
+                "river"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Sister",
+                "age": "young adult",
+                "actions": [
+                    "sitting calmly",
+                    "brushing away dead leaves from the protagonist's head"
+                ],
+                "gaze_and_direction": "looking down at the protagonist",
+                "expression": [
+                    "calm",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the riverbank"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

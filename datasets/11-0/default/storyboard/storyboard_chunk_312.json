@@ -1,0 +1,259 @@
+[
+    {
+        "text": "“Let’s go on with the game,” the Queen said to me;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and I was too much frightened to say a word, but slowly followed her back to the croquet-ground.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "following the Queen",
+                    "walking slowly"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "frightened",
+                    "submissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Main character slightly off-center, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "The other guests had taken advantage of the Queen’s absence, and were resting in the shade:",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers",
+                "shade"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Guests",
+                "age": "various",
+                "actions": [
+                    "resting under a tree"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various casual attire",
+                        "style": "relaxed",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Guests positioned in the shade, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "however, the moment they saw her, they hurried back to the game, the Queen merely remarking that a moment’s delay would cost them their lives.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "All the time they were playing, the Queen never left off quarrelling with the other players,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "quarrelling with other players"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and shouting “Off with his head!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "croquet-ground",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "shouting directly at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious",
+                    "threatening"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "585d0cccb2dc11ef903208c0eb61f8d0",
+        "text": "I wonder if I’ve been",
+        "audio_url": "https://v16m-default.akamaized.net/d4768e6bd7b2bcd031cb92c96d6365d6/6751ad8a/video/tos/maliva/tos-maliva-v-f15faa-us/ooiLUBSiZPjVAB4AAKZS0CEGRz1AEQFZ4Wi7U/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThGxkIOXq8Zmo&qs=13&rc=ajlmaG05cmRvdzUzNzhoM0BpajlmaG05cmRvdzUzNzhoM0BxLS5lMmQ0ZjVgLS1kLjZzYSNxLS5lMmQ0ZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338448776800000000000000000000ffff0a00aeb425963d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1520000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1520000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "585d0e5cb2dc11ef903208c0eb61f8d0",
+        "text": "changed in the night?",
+        "audio_url": "https://v16m-default.akamaized.net/d4768e6bd7b2bcd031cb92c96d6365d6/6751ad8a/video/tos/maliva/tos-maliva-v-f15faa-us/ooiLUBSiZPjVAB4AAKZS0CEGRz1AEQFZ4Wi7U/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThGxkIOXq8Zmo&qs=13&rc=ajlmaG05cmRvdzUzNzhoM0BpajlmaG05cmRvdzUzNzhoM0BxLS5lMmQ0ZjVgLS1kLjZzYSNxLS5lMmQ0ZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338448776800000000000000000000ffff0a00aeb425963d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.1520000000000001,
+            "end_offset": 2.3040000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.1520000000000001,
+            "end_offset": 2.3040000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "text": "In my haste, I tipped over the jury-box, sending the jurymen sprawling onto the heads of the crowd below.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded room",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "tipping over the jury-box"
+                ],
+                "gaze_and_direction": "looking at the viewer in shock",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding onto the jury-box"
+                ],
+                "composition": "Main character on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It reminded me of the time I accidentally upset a globe of goldfish.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded room",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking back to the goldfish incident"
+                ],
+                "gaze_and_direction": "looking down, lost in thought",
+                "expression": [
+                    "reflective",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding onto the jury-box"
+                ],
+                "composition": "Main character on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Oh, I _beg_ your pardon!\" I exclaimed, feeling great dismay as I quickly began picking them up, trying to put them back into the jury-box before they could die.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded room",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "exclaiming",
+                    "picking up jurymen"
+                ],
+                "gaze_and_direction": "looking at the viewer in dismay",
+                "expression": [
+                    "apologetic",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding jurymen"
+                ],
+                "composition": "Main character on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The King, in a very grave voice, said, \"The trial cannot proceed until all the jurymen are back in their proper places—_all_.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded room",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a grave voice"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a raised platform"
+                ],
+                "composition": "Main character on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He emphasized the word \"all\" and looked hard at me as he said it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded room",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "emphasizing the word 'all'",
+                    "looking hard at 'I'"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a raised platform"
+                ],
+                "composition": "Main character on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I glanced at the jury-box and saw that I had put the Lizard head downwards.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded room",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom",
+                "audience"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "glancing at the jury-box",
+                    "realizing the mistake"
+                ],
+                "gaze_and_direction": "looking at the jury-box",
+                "expression": [
+                    "shocked",
+                    "dismayed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding jurymen"
+                ],
+                "composition": "Main character on the left, camera slightly overhead"
+            }
+        ]
+    }
+]

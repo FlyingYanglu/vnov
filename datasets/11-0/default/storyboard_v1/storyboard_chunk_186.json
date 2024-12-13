@@ -1,0 +1,371 @@
+[
+    {
+        "text": "I never was so ordered about in all my life, never!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"We had not gone far before we saw the Mock Turtle in the distance, sitting sad and lonely on a little ledge of rock.\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on a ledge",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "sad",
+                    "lonely"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Character positioned on the left side, camera slightly angled from below"
+            }
+        ]
+    },
+    {
+        "text": "\"As we came nearer, I could hear him sighing as if his heart would break. I pitied him deeply.\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing deeply",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "sad",
+                    "heartbroken"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Character positioned on the left side, camera slightly angled from below"
+            }
+        ]
+    },
+    {
+        "text": "\"What is his sorrow?\" I asked the Gryphon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "listening attentively",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the right side, camera slightly angled from above"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon answered, very nearly in the same words as before, \"It’s all his fancy, that: he hasn’t got no sorrow, you know.\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "matter-of-fact",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the right side, camera slightly angled from above"
+            }
+        ]
+    },
+    {
+        "text": "\"Come on!\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "gesturing forward",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "encouraging",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the right side, camera slightly angled from above"
+            }
+        ]
+    },
+    {
+        "text": "So we went up to the Mock Turtle, who looked at us with large eyes full of tears, but said nothing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at the viewer",
+                    "holding back tears"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "silent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Character positioned on the left side, camera slightly angled from below"
+            }
+        ]
+    },
+    {
+        "text": "\"This here young lady,\" said the Gryphon,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "rocky ledge",
+                "distant landscape"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "formal",
+                    "introducing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the right side, camera slightly angled from above"
+            }
+        ]
+    }
+]

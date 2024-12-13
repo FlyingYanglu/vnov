@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "7d4a0ec6b2dd11efaf4eb8cef659fbf0",
+        "text": "However, everything",
+        "audio_url": "https://v16m-default.akamaized.net/37793b455f24970bd1b0aab563aff521/6751af76/video/tos/maliva/tos-maliva-v-f15faa-us/oQOASuRJnCeErXLrQCeEUxMAAoCmgWeBPYWGI7/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thg7kIOXq8Zmo&qs=13&rc=ang5OG45cjdvdzUzNzhoM0Bpang5OG45cjdvdzUzNzhoM0BxcjYuMmRzajVgLS1kLjZzYSNxcjYuMmRzajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338497869300000000000000000000ffff0a009008846eba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.224
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.224
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7d4a109cb2dd11efaf4eb8cef659fbf0",
+        "text": "is queer to-day.",
+        "audio_url": "https://v16m-default.akamaized.net/37793b455f24970bd1b0aab563aff521/6751af76/video/tos/maliva/tos-maliva-v-f15faa-us/oQOASuRJnCeErXLrQCeEUxMAAoCmgWeBPYWGI7/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thg7kIOXq8Zmo&qs=13&rc=ang5OG45cjdvdzUzNzhoM0Bpang5OG45cjdvdzUzNzhoM0BxcjYuMmRzajVgLS1kLjZzYSNxcjYuMmRzajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338497869300000000000000000000ffff0a009008846eba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.224,
+            "end_offset": 2.448
+        },
+        "target_timerange": {
+            "start_offset": 1.224,
+            "end_offset": 2.448
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

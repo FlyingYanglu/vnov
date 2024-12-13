@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "f4edeec8b2da11ef83e6b8cef650d1f4",
+        "text": "I was now only ten inches",
+        "audio_url": "https://v16m-default.akamaized.net/ce193440d4863f68b48e13a2464a1070/6751ab3d/video/tos/maliva/tos-maliva-v-f15faa-us/ow4WA4SABVCiZidVF1UCy8ERREB4RZOQ1zAtP/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th_1kIOXq8Zmo&qs=13&rc=M2g4aXI5cm9vdzUzNzhoM0BpM2g4aXI5cm9vdzUzNzhoM0Aubi9wMmQ0YTVgLS1kLjZzYSMubi9wMmQ0YTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338389076000000000000000000000ffff0a0081c3bfc8ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.388
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.388
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f4edf0a8b2da11ef83e6b8cef650d1f4",
+        "text": "high, and my face brightened",
+        "audio_url": "https://v16m-default.akamaized.net/ce193440d4863f68b48e13a2464a1070/6751ab3d/video/tos/maliva/tos-maliva-v-f15faa-us/ow4WA4SABVCiZidVF1UCy8ERREB4RZOQ1zAtP/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th_1kIOXq8Zmo&qs=13&rc=M2g4aXI5cm9vdzUzNzhoM0BpM2g4aXI5cm9vdzUzNzhoM0Aubi9wMmQ0YTVgLS1kLjZzYSMubi9wMmQ0YTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338389076000000000000000000000ffff0a0081c3bfc8ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.388,
+            "end_offset": 2.776
+        },
+        "target_timerange": {
+            "start_offset": 1.388,
+            "end_offset": 2.776
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f4edf242b2da11ef83e6b8cef650d1f4",
+        "text": "up at the thought that I was",
+        "audio_url": "https://v16m-default.akamaized.net/ce193440d4863f68b48e13a2464a1070/6751ab3d/video/tos/maliva/tos-maliva-v-f15faa-us/ow4WA4SABVCiZidVF1UCy8ERREB4RZOQ1zAtP/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th_1kIOXq8Zmo&qs=13&rc=M2g4aXI5cm9vdzUzNzhoM0BpM2g4aXI5cm9vdzUzNzhoM0Aubi9wMmQ0YTVgLS1kLjZzYSMubi9wMmQ0YTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338389076000000000000000000000ffff0a0081c3bfc8ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.776,
+            "end_offset": 4.164
+        },
+        "target_timerange": {
+            "start_offset": 2.776,
+            "end_offset": 4.164
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f4edf3beb2da11ef83e6b8cef650d1f4",
+        "text": "now the right size for going",
+        "audio_url": "https://v16m-default.akamaized.net/ce193440d4863f68b48e13a2464a1070/6751ab3d/video/tos/maliva/tos-maliva-v-f15faa-us/ow4WA4SABVCiZidVF1UCy8ERREB4RZOQ1zAtP/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th_1kIOXq8Zmo&qs=13&rc=M2g4aXI5cm9vdzUzNzhoM0BpM2g4aXI5cm9vdzUzNzhoM0Aubi9wMmQ0YTVgLS1kLjZzYSMubi9wMmQ0YTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338389076000000000000000000000ffff0a0081c3bfc8ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.164,
+            "end_offset": 5.552
+        },
+        "target_timerange": {
+            "start_offset": 4.164,
+            "end_offset": 5.552
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f4edf526b2da11ef83e6b8cef650d1f4",
+        "text": "through the little door into",
+        "audio_url": "https://v16m-default.akamaized.net/ce193440d4863f68b48e13a2464a1070/6751ab3d/video/tos/maliva/tos-maliva-v-f15faa-us/ow4WA4SABVCiZidVF1UCy8ERREB4RZOQ1zAtP/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th_1kIOXq8Zmo&qs=13&rc=M2g4aXI5cm9vdzUzNzhoM0BpM2g4aXI5cm9vdzUzNzhoM0Aubi9wMmQ0YTVgLS1kLjZzYSMubi9wMmQ0YTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338389076000000000000000000000ffff0a0081c3bfc8ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.552,
+            "end_offset": 6.9399999999999995
+        },
+        "target_timerange": {
+            "start_offset": 5.552,
+            "end_offset": 6.9399999999999995
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f4edf68eb2da11ef83e6b8cef650d1f4",
+        "text": "that lovely garden.",
+        "audio_url": "https://v16m-default.akamaized.net/ce193440d4863f68b48e13a2464a1070/6751ab3d/video/tos/maliva/tos-maliva-v-f15faa-us/ow4WA4SABVCiZidVF1UCy8ERREB4RZOQ1zAtP/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th_1kIOXq8Zmo&qs=13&rc=M2g4aXI5cm9vdzUzNzhoM0BpM2g4aXI5cm9vdzUzNzhoM0Aubi9wMmQ0YTVgLS1kLjZzYSMubi9wMmQ0YTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338389076000000000000000000000ffff0a0081c3bfc8ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.9399999999999995,
+            "end_offset": 8.328
+        },
+        "target_timerange": {
+            "start_offset": 6.9399999999999995,
+            "end_offset": 8.328
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

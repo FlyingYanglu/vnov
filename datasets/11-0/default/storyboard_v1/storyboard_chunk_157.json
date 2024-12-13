@@ -1,0 +1,242 @@
+[
+    {
+        "text": "“You shan’t be beheaded!” I said, and I put them into a large flower-pot that stood near.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "large flower-pot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "saying 'You shan’t be beheaded!'",
+                    "placing items into a large flower-pot"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding items to be placed in the flower-pot"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The three soldiers wandered about for a minute or two, looking for them, and then quietly marched off after the others.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "large flower-pot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "adult",
+                "actions": [
+                    "wandering around",
+                    "looking for items",
+                    "marching off"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "confused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "helmets",
+                        "type": "military"
+                    }
+                },
+                "temporary_features": [
+                    "holding weapons"
+                ],
+                "composition": "Soldiers in a group, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "“Are their heads off?” shouted the Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "large flower-pot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "shouting 'Are their heads off?'"
+                ],
+                "gaze_and_direction": "looking at the soldiers",
+                "expression": [
+                    "commanding",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a raised platform"
+                ],
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Their heads are gone, if it please your Majesty!” the soldiers shouted in reply.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "large flower-pot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "adult",
+                "actions": [
+                    "shouting 'Their heads are gone, if it please your Majesty!'"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "respectful",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "helmets",
+                        "type": "military"
+                    }
+                },
+                "temporary_features": [
+                    "holding weapons"
+                ],
+                "composition": "Soldiers in a group, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "“That’s right!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "garden",
+                "large flower-pot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "saying 'That’s right!'"
+                ],
+                "gaze_and_direction": "looking at the soldiers",
+                "expression": [
+                    "satisfied",
+                    "triumphant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a raised platform"
+                ],
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    }
+]

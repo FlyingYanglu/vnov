@@ -1,0 +1,170 @@
+[
+    {
+        "text": "The adventures first,” said the Gryphon in an impatient tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Explanations take such a dreadful time.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "So I began telling them my adventures from the time when I first saw the White Rabbit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the Gryphon and another creature"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "narrative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I was a little nervous at first, with the two creatures getting so close to me, one on each side, and opening their eyes and mouths so very wide.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "feeling nervous"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

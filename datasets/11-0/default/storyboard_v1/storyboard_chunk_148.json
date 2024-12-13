@@ -1,0 +1,310 @@
+[
+    {
+        "text": "As I approached, I heard one of them say, “Look out now, Five! Don’t go splashing paint over me like that!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "holding a paintbrush"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly stained with paint"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "paint-splattered apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "paint on hands"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I couldn’t help it,” said Five, in a sulky tone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "holding the paintbrush",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the ground",
+                "expression": [
+                    "sulky"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly stained with paint"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "paint-splattered apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "paint on hands"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Seven jogged my elbow.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with the paintbrush"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly stained with paint"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "paint-splattered apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "paint on hands"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Seven looked up and said, “That’s right, Five! Always lay the blame on others!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "young adult",
+                "actions": [
+                    "looking up",
+                    "pointing at Five"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "accusing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "hands on hips"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You’d better not talk!” said Five.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "pointing back at Seven"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly stained with paint"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "paint-splattered apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "paint on hands"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I heard the Queen say only yesterday you deserved to be beheaded!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "gesturing dramatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly stained with paint"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "paint-splattered apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "paint on hands"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "14b84096b2db11efb89698039b7ed938",
+        "text": "After a while, finding",
+        "audio_url": "https://v16m-default.akamaized.net/20f37d92a2c01bd894bf848c0aee647a/6751ab6e/video/tos/maliva/tos-maliva-v-f15faa-us/ow0mADcEZAFVBbJfhQfRXJnwVBVvUL0aEEyBAn/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv8kIOXq8Zmo&qs=13&rc=am5kOHk5cjVvdzUzNzhoM0Bpam5kOHk5cjVvdzUzNzhoM0Bgc3JnMmRjYjVgLS1kLjZzYSNgc3JnMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338394364300000000000000000000ffff0a009151d8e9b9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.38
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.38
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "14b843cab2db11efb89698039b7ed938",
+        "text": "that nothing more",
+        "audio_url": "https://v16m-default.akamaized.net/20f37d92a2c01bd894bf848c0aee647a/6751ab6e/video/tos/maliva/tos-maliva-v-f15faa-us/ow0mADcEZAFVBbJfhQfRXJnwVBVvUL0aEEyBAn/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv8kIOXq8Zmo&qs=13&rc=am5kOHk5cjVvdzUzNzhoM0Bpam5kOHk5cjVvdzUzNzhoM0Bgc3JnMmRjYjVgLS1kLjZzYSNgc3JnMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338394364300000000000000000000ffff0a009151d8e9b9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3800000000000001,
+            "end_offset": 2.7600000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.3800000000000001,
+            "end_offset": 2.7600000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "14b8467cb2db11efb89698039b7ed938",
+        "text": "happened, I decided on",
+        "audio_url": "https://v16m-default.akamaized.net/20f37d92a2c01bd894bf848c0aee647a/6751ab6e/video/tos/maliva/tos-maliva-v-f15faa-us/ow0mADcEZAFVBbJfhQfRXJnwVBVvUL0aEEyBAn/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv8kIOXq8Zmo&qs=13&rc=am5kOHk5cjVvdzUzNzhoM0Bpam5kOHk5cjVvdzUzNzhoM0Bgc3JnMmRjYjVgLS1kLjZzYSNgc3JnMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338394364300000000000000000000ffff0a009151d8e9b9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7600000000000002,
+            "end_offset": 4.140000000000001
+        },
+        "target_timerange": {
+            "start_offset": 2.7600000000000002,
+            "end_offset": 4.140000000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "14b8485cb2db11efb89698039b7ed938",
+        "text": "going into the garden at once.",
+        "audio_url": "https://v16m-default.akamaized.net/20f37d92a2c01bd894bf848c0aee647a/6751ab6e/video/tos/maliva/tos-maliva-v-f15faa-us/ow0mADcEZAFVBbJfhQfRXJnwVBVvUL0aEEyBAn/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thv8kIOXq8Zmo&qs=13&rc=am5kOHk5cjVvdzUzNzhoM0Bpam5kOHk5cjVvdzUzNzhoM0Bgc3JnMmRjYjVgLS1kLjZzYSNgc3JnMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338394364300000000000000000000ffff0a009151d8e9b9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.140000000000001,
+            "end_offset": 5.5200000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.140000000000001,
+            "end_offset": 5.5200000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

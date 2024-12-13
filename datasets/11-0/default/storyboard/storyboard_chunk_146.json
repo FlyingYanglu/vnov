@@ -1,0 +1,146 @@
+[
+    {
+        "text": "“You are old,” said the youth, “and your jaws are too weak For anything tougher than suet; Yet you finished the goose, with the bones and the beak— Pray, how did you manage to do it?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly skeptical"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“In my youth,” said his father, “I took to the law, And argued each case with my wife; And the muscular strength, which it gave to my jaw, Has lasted the rest of my life.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "elderly",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You are old,” said the youth, “one would hardly suppose That your eye was as steady as ever; Yet you balanced an eel on the end of your nose— What made you so awfully clever?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "antique furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "impressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "text": "“Why, it fills the whole window!” the Rabbit retorted angrily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "window",
+                "room with a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "retorting angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Sure, it does, yer honour: but it’s an arm for all that.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "window",
+                "room with a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Servant",
+                "age": "middle-aged",
+                "actions": [
+                    "defending calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "servant",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "white"
+                    }
+                },
+                "composition": "Character positioned slightly to the left, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Well, it’s got no business there, at any rate: go and take it away!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "window",
+                "room with a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "commanding sternly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "There was a long silence after this, and I could only hear whispers now and then; such as, “Sure, I don’t like it, yer honour, at all, at all!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "window",
+                "room with a fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Servant",
+                "age": "middle-aged",
+                "actions": [
+                    "whispering nervously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "apprehensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "servant",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "white"
+                    }
+                },
+                "composition": "Character positioned slightly to the right, camera eye-level"
+            }
+        ]
+    }
+]

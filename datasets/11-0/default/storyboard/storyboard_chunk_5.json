@@ -1,0 +1,210 @@
+[
+    {
+        "text": "I thought to myself, \"after such a fall as this, I shall think nothing of tumbling down stairs!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down, lost in thought",
+                "expression": [
+                    "reflective",
+                    "slightly worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "How brave they’ll all think me at home!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "proud",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "slight smile"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Why, I wouldn’t say anything about it, even if I fell off the top of the house!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "slight smirk"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "(Which was very likely true.) Down, down, down.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down, lost in thought",
+                "expression": [
+                    "reflective",
+                    "slightly worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    }
+]

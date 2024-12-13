@@ -1,0 +1,146 @@
+[
+    {
+        "text": "For instance, suppose it were nine o’clock in the morning, just time to begin lessons: you’d only have to whisper a hint to Time, and round goes the clock in a twinkling!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "morning light",
+                "wooden furniture",
+                "wall clock"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the clock"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned to the left, clock visible in the background, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Half-past one, time for dinner!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "afternoon light",
+                "wooden furniture",
+                "wall clock"
+            ],
+            "scene_features": [
+                "dining room",
+                "table",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the clock"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned to the left, clock visible in the background, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "\"I only wish it was,\" the March Hare said to itself in a whisper.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "afternoon light",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "tea party",
+                "table",
+                "teacups"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "whispering to itself"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "March Hare positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

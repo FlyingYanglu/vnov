@@ -1,0 +1,218 @@
+[
+    {
+        "text": "I began in a loud, indignant voice, but I stopped hastily, for the White Rabbit cried out, “Silence in the court!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking loudly",
+                    "stopping abruptly"
+                ],
+                "gaze_and_direction": "looking at the White Rabbit",
+                "expression": [
+                    "indignant",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "formal trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned to the left, camera slightly low angle"
+            },
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "crying out"
+                ],
+                "gaze_and_direction": "looking at the court",
+                "expression": [
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "court robe",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Stupid things!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "temporary_features": [
+                    "wearing spectacles"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and the King put on his spectacles and looked anxiously round, to make out who was talking.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "putting on spectacles",
+                    "looking around anxiously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "temporary_features": [
+                    "wearing spectacles"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I could see, as well as if I were looking over their shoulders, that all the jurors were writing down “stupid things!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "judge's bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Juror",
+                "age": "middle-aged",
+                "actions": [
+                    "writing down 'stupid things!'"
+                ],
+                "gaze_and_direction": "looking at the paper",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "formal trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pen",
+                        "type": "ballpoint"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned to the left, camera slightly low angle"
+            }
+        ]
+    }
+]

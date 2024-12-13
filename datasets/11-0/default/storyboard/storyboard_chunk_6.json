@@ -1,0 +1,210 @@
+[
+    {
+        "text": "Would the fall never come to an end?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "empty room",
+                "dark walls",
+                "single window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up",
+                    "reaching toward the viewer"
+                ],
+                "gaze_and_direction": "staring into the camera",
+                "expression": [
+                    "anxious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "sweating",
+                    "clenched fists"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"I wonder how many miles I’ve fallen by this time?\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "empty room",
+                "dark walls",
+                "single window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "sweating",
+                    "clenched fists"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said aloud.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "empty room",
+                "dark walls",
+                "single window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "sweating",
+                    "clenched fists"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"I must be getting somewhere near the centre of the earth.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "empty room",
+                "dark walls",
+                "single window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "sweating",
+                    "clenched fists"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

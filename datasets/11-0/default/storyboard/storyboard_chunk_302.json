@@ -1,0 +1,143 @@
+[
+    {
+        "text": "“It means much the same thing,” said the Duchess, digging her sharp little chin into my shoulder as she added, “and the moral of _that_ is—‘Take care of the sense, and the sounds will take care of themselves.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "digging sharp little chin into shoulder",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Duchess positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“How fond she is of finding morals in things!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "amused",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "modern",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Narrator positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I dare say you’re wondering why I don’t put my arm round your waist,” the Duchess said after a pause: “the reason is, that I’m doubtful about the temper of your flamingo.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Duchess positioned to the left, camera slightly low angle"
+            }
+        ]
+    }
+]

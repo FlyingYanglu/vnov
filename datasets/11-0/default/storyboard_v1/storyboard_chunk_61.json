@@ -1,0 +1,335 @@
+[
+    {
+        "text": "while I was peering about anxiously among the trees, a little sharp bark just over my head made me look up in a great hurry.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "peering anxiously among the trees",
+                    "looking up suddenly"
+                ],
+                "gaze_and_direction": "looking up at the puppy",
+                "expression": [
+                    "anxious",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character on the left, camera slightly angled upwards"
+            }
+        ]
+    },
+    {
+        "text": "An enormous puppy was looking down at me with large round eyes, and feebly stretching out one paw, trying to touch me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "looking down at the viewer",
+                    "stretching out a paw"
+                ],
+                "gaze_and_direction": "looking down at the viewer",
+                "expression": [
+                    "curious",
+                    "playful"
+                ],
+                "costume": {
+                    "body": {
+                        "item": "fur",
+                        "color": "brown and white",
+                        "condition": "shaggy"
+                    }
+                },
+                "temporary_features": [
+                    "large round eyes"
+                ],
+                "composition": "Puppy on the right, camera slightly angled downwards"
+            }
+        ]
+    },
+    {
+        "text": "“Poor little thing!” I said, in a coaxing tone, and I tried hard to whistle to it;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking in a coaxing tone",
+                    "trying to whistle"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "compassionate",
+                    "encouraging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character on the left, camera slightly angled upwards"
+            }
+        ]
+    },
+    {
+        "text": "but I was terribly frightened all the time at the thought that it might be hungry, in which case it would be very likely to eat me up in spite of all my coaxing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking worried"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "frightened",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character on the left, camera slightly angled upwards"
+            }
+        ]
+    },
+    {
+        "text": "Hardly knowing what I did, I picked up a little bit of stick, and held it out to the puppy;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "picking up a stick",
+                    "holding it out to the puppy"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "uncertain",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character on the left, camera slightly angled upwards"
+            }
+        ]
+    },
+    {
+        "text": "whereupon the puppy jumped into the air off all its feet at once, with a yelp of delight, and rushed at the stick, and made believe to worry it;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "jumping into the air",
+                    "rushing at the stick",
+                    "pretending to worry the stick"
+                ],
+                "gaze_and_direction": "looking at the stick",
+                "expression": [
+                    "delighted",
+                    "excited"
+                ],
+                "costume": {
+                    "body": {
+                        "item": "fur",
+                        "color": "brown and white",
+                        "condition": "shaggy"
+                    }
+                },
+                "temporary_features": [
+                    "large round eyes"
+                ],
+                "composition": "Puppy on the right, camera slightly angled downwards"
+            }
+        ]
+    },
+    {
+        "text": "then I dodged behind a great thistle, to keep myself from being run over;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor with underbrush",
+                "thistle"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "dodging behind a thistle"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "startled",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character on the left, camera slightly angled upwards"
+            }
+        ]
+    }
+]

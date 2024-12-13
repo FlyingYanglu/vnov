@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "b6498ae2b2da11ef83e6b8cef650d1f4",
+        "text": "There seemed to be no use in",
+        "audio_url": "https://v16m-default.akamaized.net/e7cf85f5fdbb024359df8feb738d3b37/6751aad5/video/tos/maliva/tos-maliva-v-f15faa-us/o8VCBEUwbMBWFAASAAAy4EZiVlRnMQhimEi1P/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th0tkIOXq8Zmo&qs=13&rc=Mzc5Nmo5cnVvdzUzNzhoM0BpMzc5Nmo5cnVvdzUzNzhoM0BlYjEtMmQ0YDVgLS1kLjZzYSNlYjEtMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338378655900000000000000000000ffff0a007020c0329a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.492
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.492
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b6498c86b2da11ef83e6b8cef650d1f4",
+        "text": "waiting by the little door,",
+        "audio_url": "https://v16m-default.akamaized.net/e7cf85f5fdbb024359df8feb738d3b37/6751aad5/video/tos/maliva/tos-maliva-v-f15faa-us/o8VCBEUwbMBWFAASAAAy4EZiVlRnMQhimEi1P/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th0tkIOXq8Zmo&qs=13&rc=Mzc5Nmo5cnVvdzUzNzhoM0BpMzc5Nmo5cnVvdzUzNzhoM0BlYjEtMmQ0YDVgLS1kLjZzYSNlYjEtMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338378655900000000000000000000ffff0a007020c0329a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.492,
+            "end_offset": 2.984
+        },
+        "target_timerange": {
+            "start_offset": 1.492,
+            "end_offset": 2.984
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b6498ddab2da11ef83e6b8cef650d1f4",
+        "text": "so I went back to the table,",
+        "audio_url": "https://v16m-default.akamaized.net/e7cf85f5fdbb024359df8feb738d3b37/6751aad5/video/tos/maliva/tos-maliva-v-f15faa-us/o8VCBEUwbMBWFAASAAAy4EZiVlRnMQhimEi1P/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th0tkIOXq8Zmo&qs=13&rc=Mzc5Nmo5cnVvdzUzNzhoM0BpMzc5Nmo5cnVvdzUzNzhoM0BlYjEtMmQ0YDVgLS1kLjZzYSNlYjEtMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338378655900000000000000000000ffff0a007020c0329a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.984,
+            "end_offset": 4.476
+        },
+        "target_timerange": {
+            "start_offset": 2.984,
+            "end_offset": 4.476
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b6498f42b2da11ef83e6b8cef650d1f4",
+        "text": "half hoping I might find",
+        "audio_url": "https://v16m-default.akamaized.net/e7cf85f5fdbb024359df8feb738d3b37/6751aad5/video/tos/maliva/tos-maliva-v-f15faa-us/o8VCBEUwbMBWFAASAAAy4EZiVlRnMQhimEi1P/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th0tkIOXq8Zmo&qs=13&rc=Mzc5Nmo5cnVvdzUzNzhoM0BpMzc5Nmo5cnVvdzUzNzhoM0BlYjEtMmQ0YDVgLS1kLjZzYSNlYjEtMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338378655900000000000000000000ffff0a007020c0329a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.476,
+            "end_offset": 5.968
+        },
+        "target_timerange": {
+            "start_offset": 4.476,
+            "end_offset": 5.968
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b6499082b2da11ef83e6b8cef650d1f4",
+        "text": "another key on it, or at any",
+        "audio_url": "https://v16m-default.akamaized.net/e7cf85f5fdbb024359df8feb738d3b37/6751aad5/video/tos/maliva/tos-maliva-v-f15faa-us/o8VCBEUwbMBWFAASAAAy4EZiVlRnMQhimEi1P/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th0tkIOXq8Zmo&qs=13&rc=Mzc5Nmo5cnVvdzUzNzhoM0BpMzc5Nmo5cnVvdzUzNzhoM0BlYjEtMmQ0YDVgLS1kLjZzYSNlYjEtMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338378655900000000000000000000ffff0a007020c0329a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.968,
+            "end_offset": 7.46
+        },
+        "target_timerange": {
+            "start_offset": 5.968,
+            "end_offset": 7.46
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b64991d6b2da11ef83e6b8cef650d1f4",
+        "text": "rate a book.",
+        "audio_url": "https://v16m-default.akamaized.net/e7cf85f5fdbb024359df8feb738d3b37/6751aad5/video/tos/maliva/tos-maliva-v-f15faa-us/o8VCBEUwbMBWFAASAAAy4EZiVlRnMQhimEi1P/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th0tkIOXq8Zmo&qs=13&rc=Mzc5Nmo5cnVvdzUzNzhoM0BpMzc5Nmo5cnVvdzUzNzhoM0BlYjEtMmQ0YDVgLS1kLjZzYSNlYjEtMmQ0YDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338378655900000000000000000000ffff0a007020c0329a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.46,
+            "end_offset": 8.952
+        },
+        "target_timerange": {
+            "start_offset": 7.46,
+            "end_offset": 8.952
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

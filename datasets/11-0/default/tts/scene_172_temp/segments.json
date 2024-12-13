@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "f7bb73b2b2dc11efb89698039b7ed938",
+        "text": "Tell me that first, and",
+        "audio_url": "https://v16m-default.akamaized.net/0e792b6344abfcf38ef192285f518e14/6751ae9e/video/tos/maliva/tos-maliva-v-f15faa-us/ooAUFWOqhiBALwKAEziB0jfsEAMdo0wygkRZ8q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThfbkIOXq8Zmo&qs=13&rc=M2g2dm45cmZvdzUzNzhoM0BpM2g2dm45cmZvdzUzNzhoM0BqbGoyMmRzaDVgLS1kLjZzYSNqbGoyMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338475316300000000000000000000ffff0a008b02a2d8bb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5503999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5503999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f7bb7664b2dc11efb89698039b7ed938",
+        "text": "then, if I like being that",
+        "audio_url": "https://v16m-default.akamaized.net/0e792b6344abfcf38ef192285f518e14/6751ae9e/video/tos/maliva/tos-maliva-v-f15faa-us/ooAUFWOqhiBALwKAEziB0jfsEAMdo0wygkRZ8q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThfbkIOXq8Zmo&qs=13&rc=M2g2dm45cmZvdzUzNzhoM0BpM2g2dm45cmZvdzUzNzhoM0BqbGoyMmRzaDVgLS1kLjZzYSNqbGoyMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338475316300000000000000000000ffff0a008b02a2d8bb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5504,
+            "end_offset": 3.1007999999999996
+        },
+        "target_timerange": {
+            "start_offset": 1.5504,
+            "end_offset": 3.1007999999999996
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f7bb78b2b2dc11efb89698039b7ed938",
+        "text": "person, I’ll come up: if",
+        "audio_url": "https://v16m-default.akamaized.net/0e792b6344abfcf38ef192285f518e14/6751ae9e/video/tos/maliva/tos-maliva-v-f15faa-us/ooAUFWOqhiBALwKAEziB0jfsEAMdo0wygkRZ8q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThfbkIOXq8Zmo&qs=13&rc=M2g2dm45cmZvdzUzNzhoM0BpM2g2dm45cmZvdzUzNzhoM0BqbGoyMmRzaDVgLS1kLjZzYSNqbGoyMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338475316300000000000000000000ffff0a008b02a2d8bb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.1008,
+            "end_offset": 4.651199999999999
+        },
+        "target_timerange": {
+            "start_offset": 3.1008,
+            "end_offset": 4.651199999999999
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f7bb7b3cb2dc11efb89698039b7ed938",
+        "text": "not, I’ll stay down here",
+        "audio_url": "https://v16m-default.akamaized.net/0e792b6344abfcf38ef192285f518e14/6751ae9e/video/tos/maliva/tos-maliva-v-f15faa-us/ooAUFWOqhiBALwKAEziB0jfsEAMdo0wygkRZ8q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThfbkIOXq8Zmo&qs=13&rc=M2g2dm45cmZvdzUzNzhoM0BpM2g2dm45cmZvdzUzNzhoM0BqbGoyMmRzaDVgLS1kLjZzYSNqbGoyMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338475316300000000000000000000ffff0a008b02a2d8bb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.6512,
+            "end_offset": 6.2016
+        },
+        "target_timerange": {
+            "start_offset": 4.6512,
+            "end_offset": 6.2016
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f7bb7d08b2dc11efb89698039b7ed938",
+        "text": "till I’m somebody",
+        "audio_url": "https://v16m-default.akamaized.net/0e792b6344abfcf38ef192285f518e14/6751ae9e/video/tos/maliva/tos-maliva-v-f15faa-us/ooAUFWOqhiBALwKAEziB0jfsEAMdo0wygkRZ8q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThfbkIOXq8Zmo&qs=13&rc=M2g2dm45cmZvdzUzNzhoM0BpM2g2dm45cmZvdzUzNzhoM0BqbGoyMmRzaDVgLS1kLjZzYSNqbGoyMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338475316300000000000000000000ffff0a008b02a2d8bb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.2016,
+            "end_offset": 7.752
+        },
+        "target_timerange": {
+            "start_offset": 6.2016,
+            "end_offset": 7.752
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f7bb8ee2b2dc11efb89698039b7ed938",
+        "text": "else’—but, oh dear!”",
+        "audio_url": "https://v16m-default.akamaized.net/45e566efbb8c469eb0a717ec4a5a88f9/6751ae94/video/tos/maliva/tos-maliva-v-f15faa-us/oYAAVEAzR7nLYiNWQMEzBFUhVBjDfQoJwEfB25/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th.bkIOXq8Zmo&qs=13&rc=M3M2bnc5cmZvdzUzNzhoM0BpM3M2bnc5cmZvdzUzNzhoM0BgYTNzMmRzaDVgLS1kLjZzYSNgYTNzMmRzaDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338475316300000000000000000000ffff0a008b02a2d8bb&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "target_timerange": {
+            "start_offset": 7.752,
+            "end_offset": 9.552
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

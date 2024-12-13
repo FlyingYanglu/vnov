@@ -1,0 +1,180 @@
+[
+    {
+        "text": "“You’re nothing but a pack of cards!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "soft furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn over the dress"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "So I got up and ran off, thinking while I ran, as well I might, what a wonderful dream it had been.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "soft light",
+                "evening"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "pathway"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "running down a pathway"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "thoughtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn over the dress"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice running from left to right, camera slightly behind her"
+            }
+        ]
+    },
+    {
+        "text": "But my sister sat still just as I left her, leaning her head on her hand, watching the setting sun, and thinking of little Alice and all her wonderful Adventures, till she too began dreaming after a fashion, and this was her dream:—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "soft light",
+                "evening"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "pathway"
+            ]
+        },
+        "act": 2,
+        "characters": [
+            {
+                "name": "Sister",
+                "age": "adult",
+                "actions": [
+                    "leaning head on hand",
+                    "watching the setting sun"
+                ],
+                "gaze_and_direction": "looking at the horizon",
+                "expression": [
+                    "thoughtful",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "shawl",
+                        "type": "worn over shoulders"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Sister positioned on a bench, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "First, she dreamed of little Alice herself, and once again the tin",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "soft light",
+                "evening"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "pathway"
+            ]
+        },
+        "act": 3,
+        "characters": [
+            {
+                "name": "Sister",
+                "age": "adult",
+                "actions": [
+                    "sitting still",
+                    "eyes closed"
+                ],
+                "gaze_and_direction": "looking inward",
+                "expression": [
+                    "dreamy",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "shawl",
+                        "type": "worn over shoulders"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Sister positioned on a bench, camera slightly low angle"
+            }
+        ]
+    }
+]

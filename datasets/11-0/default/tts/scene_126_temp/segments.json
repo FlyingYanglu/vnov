@@ -1,0 +1,107 @@
+[
+    {
+        "segment_id": "045c1442b2dc11efad6e84160ca7ff58",
+        "text": "Just then my head struck",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3988571428571426
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3988571428571426
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "045c1578b2dc11efad6e84160ca7ff58",
+        "text": "against the roof of the",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3988571428571428,
+            "end_offset": 2.797714285714286
+        },
+        "target_timerange": {
+            "start_offset": 1.3988571428571428,
+            "end_offset": 2.797714285714286
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "045c164ab2dc11efad6e84160ca7ff58",
+        "text": "hall: in fact, I was now",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7977142857142856,
+            "end_offset": 4.196571428571429
+        },
+        "target_timerange": {
+            "start_offset": 2.7977142857142856,
+            "end_offset": 4.196571428571429
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "045c1712b2dc11efad6e84160ca7ff58",
+        "text": "more than nine feet high,",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.196571428571429,
+            "end_offset": 5.595428571428571
+        },
+        "target_timerange": {
+            "start_offset": 4.196571428571429,
+            "end_offset": 5.595428571428571
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "045c17d0b2dc11efad6e84160ca7ff58",
+        "text": "and I at once took up the",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.595428571428571,
+            "end_offset": 6.994285714285715
+        },
+        "target_timerange": {
+            "start_offset": 5.595428571428571,
+            "end_offset": 6.994285714285715
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "045c1884b2dc11efad6e84160ca7ff58",
+        "text": "little golden key and",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.994285714285714,
+            "end_offset": 8.393142857142857
+        },
+        "target_timerange": {
+            "start_offset": 6.994285714285714,
+            "end_offset": 8.393142857142857
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "045c192eb2dc11efad6e84160ca7ff58",
+        "text": "hurried off to the garden door.",
+        "audio_url": "https://v16m-default.akamaized.net/78fbead77cd10b06fc36242d2ce2fa24/6751ad07/video/tos/maliva/tos-maliva-v-f15faa-us/ogBEkEWaoFxAgN75qifnKzBAtAqwbiw0JAVNAR/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThVokIOXq8Zmo&qs=13&rc=anNxc3U5cjlvdzUzNzhoM0BpanNxc3U5cjlvdzUzNzhoM0BhNm4zMmRzZTVgLS1kLjZzYSNhNm4zMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338434453600000000000000000000ffff0a006d64367458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 8.393142857142857,
+            "end_offset": 9.792
+        },
+        "target_timerange": {
+            "start_offset": 8.393142857142857,
+            "end_offset": 9.792
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "text": "Then came a little pattering of feet on the stairs.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs"
+            ],
+            "scene_features": [
+                "villa",
+                "staircase",
+                "carpeted steps"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "pattering feet on the stairs"
+                ],
+                "gaze_and_direction": "looking downwards",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "small waistcoat",
+                        "style": "classic",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on stairs, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I knew it was the Rabbit coming to look for me, and I trembled till I shook the house, quite forgetting that I was now about a thousand times as large as the Rabbit, and had no reason to be afraid of it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs"
+            ],
+            "scene_features": [
+                "villa",
+                "staircase",
+                "carpeted steps"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "trembling",
+                    "shaking the house"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "fearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Presently the Rabbit came up to the door, and tried to open it;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door"
+            ],
+            "scene_features": [
+                "villa",
+                "doorway",
+                "carpeted floor"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "coming up to the door",
+                    "trying to open it"
+                ],
+                "gaze_and_direction": "looking at the door handle",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "small waistcoat",
+                        "style": "classic",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned near the door, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "but, as the door opened inwards, and my elbow was pressed hard against it, that attempt proved a failure.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door"
+            ],
+            "scene_features": [
+                "villa",
+                "doorway",
+                "carpeted floor"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "elbow pressed hard against the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I heard it say to itself “Then I’ll go round and get in at the window.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door"
+            ],
+            "scene_features": [
+                "villa",
+                "doorway",
+                "carpeted floor"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "saying to itself",
+                    "turning to leave"
+                ],
+                "gaze_and_direction": "looking away from the door",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "small waistcoat",
+                        "style": "classic",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned near the door, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“_That_ you won’t!” I thought, and, after waiting till I fancied I heard the Rabbit just under the window, I suddenly spread out my hand, and made a snatch in the air.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "window"
+            ],
+            "scene_features": [
+                "villa",
+                "window",
+                "carpeted floor"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "waiting",
+                    "suddenly spreading out hand",
+                    "making a snatch in the air"
+                ],
+                "gaze_and_direction": "looking at the window",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I did not get hold of anything, but I heard a little shriek and a fall, and a crash of broken glass, from which I concluded that it was just possible it had fallen into a cucumber-frame, or something of the sort.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "window"
+            ],
+            "scene_features": [
+                "villa",
+                "window",
+                "carpeted floor"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "listening",
+                    "concluding"
+                ],
+                "gaze_and_direction": "looking at the window",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

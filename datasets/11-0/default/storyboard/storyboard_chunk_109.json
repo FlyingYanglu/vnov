@@ -1,0 +1,162 @@
+[
+    {
+        "text": "I heard it say to itself “Then I’ll go round and get in at the window.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the window",
+                    "listening intently"
+                ],
+                "gaze_and_direction": "looking out the window",
+                "expression": [
+                    "focused",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned to the left, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "I thought, and, after waiting till I fancied I heard the Rabbit just under the window, I suddenly spread out my hand, and made a snatch in the air.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "large window",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "spreading hand out",
+                    "making a grabbing motion in the air"
+                ],
+                "gaze_and_direction": "looking out the window",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned to the left, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "I did not get hold of anything, but I heard a little shriek and a fall, and a crash of broken glass, from which I concluded that it was just possible.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "large window",
+                "curtains",
+                "broken glass on the floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the window",
+                    "looking down at the broken glass"
+                ],
+                "gaze_and_direction": "looking at the broken glass",
+                "expression": [
+                    "surprised",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned to the left, camera slightly angled from the side"
+            }
+        ]
+    }
+]

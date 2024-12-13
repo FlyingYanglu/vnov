@@ -1,0 +1,170 @@
+[
+    {
+        "text": "“Just about as much right,” said the Duchess, “as pigs have to fly; and the m—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "slightly sarcastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "But here, to my great surprise, the Duchess’s voice died away, even in the middle of her favourite word ‘moral,’ and the arm that was linked into mine began to tremble.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "voice fading",
+                    "arm trembling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I looked up, and there stood the Queen in front of us, with her arms folded, frowning like a thunderstorm.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "standing",
+                    "arms folded"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frowning",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“A fine day, your Majesty!” the Duchess began in a low, weak voice.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "voice low and weak"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "nervous",
+                    "submissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera at eye level"
+            }
+        ]
+    }
+]

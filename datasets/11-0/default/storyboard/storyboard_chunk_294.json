@@ -1,0 +1,141 @@
+[
+    {
+        "text": "The King’s argument was, that anything that had a head could be beheaded, and that you weren’t to talk nonsense.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hand",
+                    "speaking assertively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Queen’s argument was, that if something wasn’t done about it in less than no time she’d have everybody executed, all round.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing aggressively",
+                    "speaking urgently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "luxurious",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "So I went in search of my hedgehog.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "garden",
+                "evening"
+            ],
+            "scene_features": [
+                "hedges",
+                "flowers",
+                "stone path"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking through the garden",
+                    "looking around"
+                ],
+                "gaze_and_direction": "scanning the surroundings",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    }
+]

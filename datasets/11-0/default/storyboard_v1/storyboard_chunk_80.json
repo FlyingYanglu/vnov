@@ -1,0 +1,305 @@
+[
+    {
+        "text": "My chin was pressed so closely against my foot, that there was hardly room to open my mouth;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small, confined space"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pressing chin against foot"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pained",
+                    "struggling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned diagonally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "but I did it at last, and managed to swallow a morsel of the lefthand bit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small, confined space"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "opening mouth",
+                    "swallowing"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned diagonally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "*      *      *      *      *      *      *    *      *      *      *      *      **      *      *      *      *      *      *“Come, my head’s free at last!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small, confined space"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "raising head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned diagonally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I said in a tone of delight, which changed into alarm in another moment, when I found that my shoulders were nowhere to be found: all I could see, when I looked down, was an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves that lay far below me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "vast expanse of green leaves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "alarmed",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What _can_ all that green stuff be?” I wondered aloud.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "vast expanse of green leaves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "curious",
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And where _have_ my shoulders got to? And oh, my poor hands, how is it I can’t see you?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "vast expanse of green leaves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "distressed",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I was moving them about as I spoke, but no result seemed to follow, except a little shaking among the distant green leaves.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "vast expanse of green leaves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "moving hands",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "frustrated",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

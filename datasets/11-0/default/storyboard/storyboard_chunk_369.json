@@ -1,0 +1,206 @@
+[
+    {
+        "text": "Soup of the evening, beautiful Soup!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light filtering through curtains"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "luxury decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing towards a bowl of soup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enchanted",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "single-breasted",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Narrator on the left, bowl of soup centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Beau—ootiful Soo—oop!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light filtering through curtains"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "luxury decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "raising a spoonful of soup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enchanted",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "single-breasted",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Narrator on the left, spoonful of soup centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Soo—oop of the e—e—evening, Beautiful, beautiful Soup!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light filtering through curtains"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "luxury decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "sipping the soup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enchanted",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "single-breasted",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Narrator on the left, bowl of soup centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Beautiful Soup! Who cares for fish, Game, or any other dish?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light filtering through curtains"
+            ],
+            "scene_features": [
+                "dining table",
+                "candles",
+                "luxury decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing dismissively towards other dishes on the table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dismissive",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "single-breasted",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Narrator on the left, other dishes on the right, camera slightly overhead"
+            }
+        ]
+    }
+]

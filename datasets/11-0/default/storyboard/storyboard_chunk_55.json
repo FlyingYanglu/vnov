@@ -1,0 +1,175 @@
+[
+    {
+        "text": "The Mouse looked at me rather inquisitively, and seemed to me to wink with one of its little eyes, but it said nothing.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "scattered papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "young",
+                "actions": [
+                    "looking at the viewer",
+                    "winking with one eye"
+                ],
+                "gaze_and_direction": "direct gaze at the camera",
+                "expression": [
+                    "inquisitive"
+                ],
+                "costume": {
+                    "body": {
+                        "item": "small mouse body",
+                        "color": "gray"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Mouse positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Perhaps it doesn’t understand English,” I thought; “I daresay it’s a French mouse, come over with William the Conqueror.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "scattered papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the mouse"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "(For, with all my knowledge of history, I had no very clear notion how long ago anything had happened.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "scattered papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I began again: “Où est ma chatte?” which was the first sentence in my French lesson-book.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "scattered papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "holding a French lesson-book"
+                ],
+                "gaze_and_direction": "looking at the mouse",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    }
+]

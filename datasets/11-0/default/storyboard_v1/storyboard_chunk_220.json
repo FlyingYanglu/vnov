@@ -1,0 +1,237 @@
+[
+    {
+        "text": "“Yes, I think you’d better leave off,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jeweled collar",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And I was relieved to stop, though I still felt puzzled and longed for something more natural to happen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking contemplative"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "relieved",
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Shall we try another figure of the Lobster Quadrille?” the Gryphon went on.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "suggestive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jeweled collar",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Or would you like the Mock Turtle to sing you a song?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jeweled collar",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, a song, please, if the Mock Turtle would be so kind,” I replied, so eagerly that the Gryphon said, in a rather offended tone, “Hm! No accounting for tastes!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking eagerly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            },
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking with an offended tone"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "jeweled collar",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Gryphon slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

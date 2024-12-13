@@ -1,0 +1,207 @@
+[
+    {
+        "text": "When I jumped up, forgetting how large I had become.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury-box",
+                "crowd",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "jumping up suddenly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "formal trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "large size"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "In my haste, I tipped over the jury-box, sending the jurymen sprawling onto the heads of the crowd below.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury-box",
+                "crowd",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "tipping over the jury-box"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "formal trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "large size"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "It reminded me of the time I accidentally upset a globe of goldfish.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury-box",
+                "crowd",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "standing still, reminiscing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "formal trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "large size"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I exclaimed, feeling great dismay as I quickly began picking them up, trying to put them back into the jury-box before they could die.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury-box",
+                "crowd",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "exclaiming",
+                    "quickly picking up jurymen"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dismayed",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "formal trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "large size"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    }
+]

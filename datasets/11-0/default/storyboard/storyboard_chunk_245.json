@@ -1,0 +1,222 @@
+[
+    {
+        "text": "“It was a treacle-well.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "sitting upright in a teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "teacup",
+                        "type": "porcelain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered in teacup, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Nobody asked _your_ opinion,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "standing beside the table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“There’s no such thing!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "pointing at the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I was beginning very angrily, but the Hatter and the March Hare went “Sh! sh!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "shushing",
+                    "holding a teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green suit",
+                        "style": "fancy",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and the Dormouse sulkily remarked, “If you can’t be civil, you’d better finish the story for yourself.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "sitting upright in a teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sullen"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "teacup",
+                        "type": "porcelain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse centered in teacup, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "text": "The King interrupted, “The twinkling of the _what?_”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "decorative chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "raising hand to interrupt",
+                    "pointing at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "confused",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "The King positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“It _began_ with the tea,” the Hatter replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "decorative chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "young adult",
+                "actions": [
+                    "holding a teacup",
+                    "looking at the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall and slightly tilted"
+                    }
+                },
+                "composition": "The Hatter positioned on the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Of course twinkling begins with a T!” the King snapped.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "decorative chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing finger at the Hatter",
+                    "leaning forward"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "irritated",
+                    "condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "The King positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I’m a poor man,” the Hatter went on, “and most things twinkled after that—only the March Hare said—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "decorative chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "resigned",
+                    "slightly sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall and slightly tilted"
+                    }
+                },
+                "composition": "The Hatter positioned on the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“I didn’t!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "decorative chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The March Hare",
+                "age": "young adult",
+                "actions": [
+                    "raising hand to object",
+                    "looking at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "defensive",
+                    "slightly angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "simple",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "hanging from a chain"
+                    }
+                },
+                "composition": "The March Hare positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Do you take me for a dunce?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "decorative chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The March Hare",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the Hatter",
+                    "leaning forward"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "offended",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "simple",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "hanging from a chain"
+                    }
+                },
+                "composition": "The March Hare positioned on the left, camera slightly low angle"
+            }
+        ]
+    }
+]

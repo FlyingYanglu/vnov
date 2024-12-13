@@ -1,0 +1,179 @@
+[
+    {
+        "text": "“I wasn’t asleep,” he said in a hoarse, feeble voice, “I heard every word you fellows were saying.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "plush chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a hoarse, feeble voice"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The March Hare said, “Tell us a story!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "plush chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Yes, please do!” I pleaded.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "plush chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pleading with hands clasped"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "earnest",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter added, “And be quick about it, or you’ll be asleep again before it’s done.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "plush chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "speaking with urgency"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "slightly disheveled"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "96e7f0dab2da11ef8fb298039b7ed938",
+        "text": "How I longed to get out of that",
+        "audio_url": "https://v16m-default.akamaized.net/749a7ce81973af2c2f91846d3248802a/6751aa9e/video/tos/maliva/tos-maliva-v-f15faa-us/owCC2FWoDQMevrAXxkAg8qQJOFQerUfCSANqWC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThwykIOXq8Zmo&qs=13&rc=ajN5bW85cmdvdzUzNzhoM0BpajN5bW85cmdvdzUzNzhoM0Bwb15gMmRzYDVgLS1kLjZzYSNwb15gMmRzYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338373362700000000000000000000ffff0a00a873e456ac&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6799999999999997
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6799999999999997
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "96e7f404b2da11ef8fb298039b7ed938",
+        "text": "dark hall and wander about among",
+        "audio_url": "https://v16m-default.akamaized.net/749a7ce81973af2c2f91846d3248802a/6751aa9e/video/tos/maliva/tos-maliva-v-f15faa-us/owCC2FWoDQMevrAXxkAg8qQJOFQerUfCSANqWC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThwykIOXq8Zmo&qs=13&rc=ajN5bW85cmdvdzUzNzhoM0BpajN5bW85cmdvdzUzNzhoM0Bwb15gMmRzYDVgLS1kLjZzYSNwb15gMmRzYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338373362700000000000000000000ffff0a00a873e456ac&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.68,
+            "end_offset": 3.36
+        },
+        "target_timerange": {
+            "start_offset": 1.68,
+            "end_offset": 3.36
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "96e7f6acb2da11ef8fb298039b7ed938",
+        "text": "those beds of bright flowers and",
+        "audio_url": "https://v16m-default.akamaized.net/749a7ce81973af2c2f91846d3248802a/6751aa9e/video/tos/maliva/tos-maliva-v-f15faa-us/owCC2FWoDQMevrAXxkAg8qQJOFQerUfCSANqWC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThwykIOXq8Zmo&qs=13&rc=ajN5bW85cmdvdzUzNzhoM0BpajN5bW85cmdvdzUzNzhoM0Bwb15gMmRzYDVgLS1kLjZzYSNwb15gMmRzYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338373362700000000000000000000ffff0a00a873e456ac&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.36,
+            "end_offset": 5.04
+        },
+        "target_timerange": {
+            "start_offset": 3.36,
+            "end_offset": 5.04
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "96e7f8f0b2da11ef8fb298039b7ed938",
+        "text": "those cool fountains.",
+        "audio_url": "https://v16m-default.akamaized.net/749a7ce81973af2c2f91846d3248802a/6751aa9e/video/tos/maliva/tos-maliva-v-f15faa-us/owCC2FWoDQMevrAXxkAg8qQJOFQerUfCSANqWC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThwykIOXq8Zmo&qs=13&rc=ajN5bW85cmdvdzUzNzhoM0BpajN5bW85cmdvdzUzNzhoM0Bwb15gMmRzYDVgLS1kLjZzYSNwb15gMmRzYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338373362700000000000000000000ffff0a00a873e456ac&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.04,
+            "end_offset": 6.72
+        },
+        "target_timerange": {
+            "start_offset": 5.04,
+            "end_offset": 6.72
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

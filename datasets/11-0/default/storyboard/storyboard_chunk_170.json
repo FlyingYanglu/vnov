@@ -1,0 +1,139 @@
+[
+    {
+        "text": "The Fish-Footman produced a large letter from under his arm, nearly as big as himself, and handed it to the Frog-Footman, saying in a solemn tone, “For the Duchess.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "near a grand estate"
+            ],
+            "scene_features": [
+                "Fish-Footman",
+                "Frog-Footman",
+                "large letter"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "adult",
+                "actions": [
+                    "producing a large letter from under his arm",
+                    "handing the letter to the Frog-Footman"
+                ],
+                "gaze_and_direction": "looking at the Frog-Footman",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish-themed tunic",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "fish-scale gloves",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a large letter"
+                ],
+                "composition": "Fish-Footman on the left, Frog-Footman on the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I crept closer to listen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "near a grand estate"
+            ],
+            "scene_features": [
+                "Fish-Footman",
+                "Frog-Footman",
+                "large letter"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "creeping closer to listen"
+                ],
+                "gaze_and_direction": "looking at the Fish-Footman and Frog-Footman",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "lightly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "slightly crouched"
+                ],
+                "composition": "Main character on the right, slightly behind the Fish-Footman and Frog-Footman, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "An invitation from the Queen to play croquet.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "near a grand estate"
+            ],
+            "scene_features": [
+                "Fish-Footman",
+                "Frog-Footman",
+                "large letter"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Fish-Footman",
+                "age": "adult",
+                "actions": [
+                    "holding the large letter",
+                    "speaking in a solemn tone"
+                ],
+                "gaze_and_direction": "looking at the Frog-Footman",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish-themed tunic",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "fish-scale gloves",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a large letter"
+                ],
+                "composition": "Fish-Footman on the left, Frog-Footman on the right, camera at eye level"
+            }
+        ]
+    }
+]

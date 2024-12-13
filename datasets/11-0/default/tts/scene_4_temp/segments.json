@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "724e65cab2d911ef90e608c0eb17a1fc",
+        "text": "whether the happiness of making",
+        "audio_url": "https://v16m-default.akamaized.net/505a13d7944f9b569ce9da9387645b74/6751a8b3/video/tos/maliva/tos-maliva-v-f15faa-us/oMmREJfhLDLEVqAuAVF4BVnABhjQuBvUEOfSRE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1IkIOXq8Zmo&qs=13&rc=anF3Z3Y5cmxvdzUzNzhoM0BpanF3Z3Y5cmxvdzUzNzhoM0BjMDU1MmRzNTVgLS1kLjZzYSNjMDU1MmRzNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338324081200000000000000000000ffff0a00af8535bd0f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.444
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.444
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "724e675ab2d911ef90e608c0eb17a1fc",
+        "text": "a daisy-chain would be worth",
+        "audio_url": "https://v16m-default.akamaized.net/505a13d7944f9b569ce9da9387645b74/6751a8b3/video/tos/maliva/tos-maliva-v-f15faa-us/oMmREJfhLDLEVqAuAVF4BVnABhjQuBvUEOfSRE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1IkIOXq8Zmo&qs=13&rc=anF3Z3Y5cmxvdzUzNzhoM0BpanF3Z3Y5cmxvdzUzNzhoM0BjMDU1MmRzNTVgLS1kLjZzYSNjMDU1MmRzNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338324081200000000000000000000ffff0a00af8535bd0f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.444,
+            "end_offset": 2.888
+        },
+        "target_timerange": {
+            "start_offset": 1.444,
+            "end_offset": 2.888
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "724e684ab2d911ef90e608c0eb17a1fc",
+        "text": "the trouble of getting up and",
+        "audio_url": "https://v16m-default.akamaized.net/505a13d7944f9b569ce9da9387645b74/6751a8b3/video/tos/maliva/tos-maliva-v-f15faa-us/oMmREJfhLDLEVqAuAVF4BVnABhjQuBvUEOfSRE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1IkIOXq8Zmo&qs=13&rc=anF3Z3Y5cmxvdzUzNzhoM0BpanF3Z3Y5cmxvdzUzNzhoM0BjMDU1MmRzNTVgLS1kLjZzYSNjMDU1MmRzNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338324081200000000000000000000ffff0a00af8535bd0f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.888,
+            "end_offset": 4.332
+        },
+        "target_timerange": {
+            "start_offset": 2.888,
+            "end_offset": 4.332
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "724e691cb2d911ef90e608c0eb17a1fc",
+        "text": "picking the daisies, when",
+        "audio_url": "https://v16m-default.akamaized.net/505a13d7944f9b569ce9da9387645b74/6751a8b3/video/tos/maliva/tos-maliva-v-f15faa-us/oMmREJfhLDLEVqAuAVF4BVnABhjQuBvUEOfSRE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1IkIOXq8Zmo&qs=13&rc=anF3Z3Y5cmxvdzUzNzhoM0BpanF3Z3Y5cmxvdzUzNzhoM0BjMDU1MmRzNTVgLS1kLjZzYSNjMDU1MmRzNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338324081200000000000000000000ffff0a00af8535bd0f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.332,
+            "end_offset": 5.776
+        },
+        "target_timerange": {
+            "start_offset": 4.332,
+            "end_offset": 5.776
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "724e69f8b2d911ef90e608c0eb17a1fc",
+        "text": "suddenly a White Rabbit with",
+        "audio_url": "https://v16m-default.akamaized.net/505a13d7944f9b569ce9da9387645b74/6751a8b3/video/tos/maliva/tos-maliva-v-f15faa-us/oMmREJfhLDLEVqAuAVF4BVnABhjQuBvUEOfSRE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1IkIOXq8Zmo&qs=13&rc=anF3Z3Y5cmxvdzUzNzhoM0BpanF3Z3Y5cmxvdzUzNzhoM0BjMDU1MmRzNTVgLS1kLjZzYSNjMDU1MmRzNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338324081200000000000000000000ffff0a00af8535bd0f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.776,
+            "end_offset": 7.22
+        },
+        "target_timerange": {
+            "start_offset": 5.776,
+            "end_offset": 7.22
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "724e6adeb2d911ef90e608c0eb17a1fc",
+        "text": "pink eyes ran close by me.",
+        "audio_url": "https://v16m-default.akamaized.net/505a13d7944f9b569ce9da9387645b74/6751a8b3/video/tos/maliva/tos-maliva-v-f15faa-us/oMmREJfhLDLEVqAuAVF4BVnABhjQuBvUEOfSRE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1IkIOXq8Zmo&qs=13&rc=anF3Z3Y5cmxvdzUzNzhoM0BpanF3Z3Y5cmxvdzUzNzhoM0BjMDU1MmRzNTVgLS1kLjZzYSNjMDU1MmRzNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338324081200000000000000000000ffff0a00af8535bd0f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.22,
+            "end_offset": 8.664
+        },
+        "target_timerange": {
+            "start_offset": 7.22,
+            "end_offset": 8.664
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

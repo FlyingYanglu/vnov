@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "eece7336b2db11efa7c508c0eb61f8d0",
+        "text": "“They must go by the",
+        "audio_url": "https://v16m-default.akamaized.net/b55e6c491a528811ef4ed84d353b6196/6751acd8/video/tos/maliva/tos-maliva-v-f15faa-us/oYfnxfVBh5DUuRpEYWFh2EAHBjAhEQBvVvAJxL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJ5kIOXq8Zmo&qs=13&rc=aml3ZnE5cndvdzUzNzhoM0Bpaml3ZnE5cndvdzUzNzhoM0BlczNwMmRrZDVgLS1kLjZzYSNlczNwMmRrZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338430921400000000000000000000ffff0a00b389c994fc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.176
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.176
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "eece752ab2db11efa7c508c0eb61f8d0",
+        "text": "carrier,” I thought.",
+        "audio_url": "https://v16m-default.akamaized.net/b55e6c491a528811ef4ed84d353b6196/6751acd8/video/tos/maliva/tos-maliva-v-f15faa-us/oYfnxfVBh5DUuRpEYWFh2EAHBjAhEQBvVvAJxL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThJ5kIOXq8Zmo&qs=13&rc=aml3ZnE5cndvdzUzNzhoM0Bpaml3ZnE5cndvdzUzNzhoM0BlczNwMmRrZDVgLS1kLjZzYSNlczNwMmRrZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338430921400000000000000000000ffff0a00b389c994fc&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.176,
+            "end_offset": 2.352
+        },
+        "target_timerange": {
+            "start_offset": 1.176,
+            "end_offset": 2.352
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "text": "So I set the little creature down, and felt quite relieved to see it trot away quietly into the wood.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "woodland",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "grass",
+                "small creature"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "setting a small creature down on the ground"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“If it had grown up,” I said to myself, “it would have made a dreadfully ugly child: but it makes a rather pretty pig, I think.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "woodland",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "grass",
+                "small creature"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And she began thinking over other children she knew, who might do very well as pigs, and was just saying to herself, “if one only knew the right way to change them—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "woodland",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking deeply",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

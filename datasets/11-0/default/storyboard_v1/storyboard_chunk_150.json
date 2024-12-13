@@ -1,0 +1,345 @@
+[
+    {
+        "text": "when he noticed me standing there.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "gardener",
+                "age": "middle-aged",
+                "actions": [
+                    "noticing the viewer",
+                    "turning head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The other gardeners looked around, and all of them bowed low.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "gardener",
+                "age": "middle-aged",
+                "actions": [
+                    "looking around",
+                    "bowing low"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Would you tell me,” I said, a little timidly, “why you are painting those roses?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Five and Seven said nothing, but looked at Two.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at Two"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "silent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Two began in a low voice, “Why the fact is, you see, Miss, this here ought to have been a red rose-tree, and we put a white one in by mistake; and if the Queen was to find it out, we should all have our heads cut off, you know. So you see, Miss, we’re doing our best, afore she comes, to—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Two",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a low voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "At that moment, Five, who had been anxiously looking across the garden, called out, “The Queen! The Queen!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "middle-aged",
+                "actions": [
+                    "anxiously looking across the garden",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The three gardeners instantly threw themselves flat upon their faces.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "roses",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "gardener",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing themselves flat on their faces"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "fearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    }
+]

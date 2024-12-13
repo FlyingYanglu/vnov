@@ -1,0 +1,305 @@
+[
+    {
+        "text": "\"You are old,\" said the youth, \"one would hardly suppose That your eye was as steady as ever;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Yet you balanced an eel on the end of your nose— What made you so awfully clever?\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Youth",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "leaning forward"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "intrigued",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "\"I have answered three questions, and that is enough,\" Said his father;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "middle-aged",
+                "actions": [
+                    "crossing arms",
+                    "standing firm"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "\"don’t give yourself airs! Do you think I can listen all day to such stuff? Be off, or I’ll kick you down stairs!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "living room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Father",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing finger",
+                    "frowning"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "\"That is not said right,\" said the Caterpillar.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on a mushroom",
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "smoking a hookah"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"Not _quite_ right, I’m afraid,\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on a mushroom",
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "smoking a hookah"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

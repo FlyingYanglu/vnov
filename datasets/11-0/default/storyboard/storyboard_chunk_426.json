@@ -1,0 +1,254 @@
+[
+    {
+        "text": "“Let the jury consider their verdict,” the King said, for about the twentieth time that day.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the audience"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "There was a dead silence.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking at the jury box",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“It’s a pun!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the audience"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“No, no!” said the Queen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the audience"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Sentence first—verdict afterwards.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the audience"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Stuff and nonsense!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the audience"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "text": "“but I must be on the look-out for serpents night and day! Why, I haven’t had a wink of sleep these three weeks!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "woodland",
+                "trees",
+                "sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "flapping wings nervously",
+                    "looking around vigilantly"
+                ],
+                "gaze_and_direction": "eyes scanning the surroundings",
+                "expression": [
+                    "anxious",
+                    "exhausted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wide-eyed",
+                    "standing on a branch"
+                ],
+                "composition": "Pigeon positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I’m very sorry you’ve been annoyed,” I said, who was beginning to see its meaning.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "woodland",
+                "trees",
+                "sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking at the Pigeon"
+                ],
+                "gaze_and_direction": "gaze fixed on the Pigeon",
+                "expression": [
+                    "sympathetic",
+                    "understanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on the ground"
+                ],
+                "composition": "Main character positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“And just as I’d taken the highest tree in the wood,” continued the Pigeon, raising its voice to a shriek, “and just as I was thinking I should be free of them at last, they must needs come wriggling down from the sky! Ugh, Serpent!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "woodland",
+                "trees",
+                "sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "flapping wings agitatedly",
+                    "looking up at the sky"
+                ],
+                "gaze_and_direction": "eyes wide open, staring upwards",
+                "expression": [
+                    "terrified",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a high branch"
+                ],
+                "composition": "Pigeon positioned on the top left side of the frame, camera slightly below eye level"
+            }
+        ]
+    },
+    {
+        "text": "“But I’m _not_ a serpent, I tell you!” I said.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "woodland",
+                "trees",
+                "sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "raising hands defensively",
+                    "looking at the Pigeon"
+                ],
+                "gaze_and_direction": "gaze fixed on the Pigeon",
+                "expression": [
+                    "frustrated",
+                    "emphatic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on the ground"
+                ],
+                "composition": "Main character positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "b69d48d8b2dc11efa3e498039b6a5cc0",
+        "text": "And welcome little fishes in",
+        "audio_url": "https://v16m-default.akamaized.net/c205ff55c924c9ef94332120f6b4fdea/6751ae29/video/tos/maliva/tos-maliva-v-f15faa-us/oQxRzz7giWrKFi5BGAkEAogW1iAqAEB8wEcfqI/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Ths.kIOXq8Zmo&qs=13&rc=Mzs3aHY5cmtvdzUzNzhoM0BpMzs3aHY5cmtvdzUzNzhoM0AvYHJkMmRjZzVgLS1kLjZzYSMvYHJkMmRjZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338464500300000000000000000000ffff0a00a739fe535c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.704
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.704
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

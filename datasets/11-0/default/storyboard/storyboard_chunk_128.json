@@ -1,0 +1,94 @@
+[
+    {
+        "text": "An enormous puppy was looking down at me with large round eyes, and feebly stretching out one paw, trying to touch me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "looking down",
+                    "stretching out one paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "feeble"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "shaggy",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "large round eyes"
+                ],
+                "composition": "Puppy centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I think that will be the best plan.” “Poor little thing!” I said, in a coaxing tone, and I tried hard to whistle to it; but I was terribly frightened all the time at the thought that it might be hungry, in which case it would be very likely to eat me up in spite of all my coaxing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "saying in a coaxing tone",
+                    "trying to whistle"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "nervous",
+                    "coaxing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "jeans",
+                        "type": "casual"
+                    }
+                },
+                "temporary_features": [
+                    "trembling slightly"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "text": "Everything’s got a moral, if only you can find it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "elaborate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a fan"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And she squeezed herself up closer to my side as she spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "moving closer to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "elaborate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a fan"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon my shoulder, and it was an uncomfortably sharp chin.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking uncomfortable"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "discomfort",
+                    "uneasy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "However, I did not like to be rude, so I bore it as well as I could.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "enduring the discomfort"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "resigned",
+                    "patient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The game’s going on rather better now,” I said, by way of keeping up the conversation a little.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "trying to be engaging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love, ’tis love, that makes the world go round!’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "elaborate"
+                    }
+                },
+                "temporary_features": [
+                    "holding a fan"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Somebody said,” I whispered, “that it’s done by everybody minding their own business!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "whispering to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

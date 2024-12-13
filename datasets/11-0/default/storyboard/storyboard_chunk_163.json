@@ -1,0 +1,186 @@
+[
+    {
+        "text": "You’re a serpent; and there’s no use denying it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "standing on a branch",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "accusing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon positioned on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I suppose you’ll be telling me next that you never tasted an egg!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "standing on a branch",
+                    "gesturing with wing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "challenging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon positioned on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I _have_ tasted eggs, certainly,” I said, who was a very truthful child; “but little girls eat eggs quite as much as serpents do, you know.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "child",
+                "actions": [
+                    "standing on the ground",
+                    "looking up at the Pigeon"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "honest",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t believe it,” the Pigeon said; “but if they do, why then they’re a kind of serpent, that’s all I can say.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "standing on a branch",
+                    "shaking head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disbelieving",
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon positioned on the left, camera slightly overhead"
+            }
+        ]
+    }
+]

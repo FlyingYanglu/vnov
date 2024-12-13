@@ -1,0 +1,276 @@
+[
+    {
+        "text": "“I advise you to leave off this minute!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "large windows",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "large windows",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "holding a mirror",
+                    "scolding herself"
+                ],
+                "gaze_and_direction": "looking into the mirror",
+                "expression": [
+                    "sad",
+                    "teary-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "large windows",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "pretending to box her own ears"
+                ],
+                "gaze_and_direction": "looking at her reflection in a mirror",
+                "expression": [
+                    "regretful",
+                    "embarrassed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a croquet mallet"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“But it’s no use now,” thought poor Alice, “to pretend to be two people! Why, there’s hardly enough of me left to make _one_ respectable person!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "large windows",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "sitting down",
+                    "looking dejected"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [
+                    "holding a croquet mallet"
+                ],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in currants.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "large windows",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "reaching under the table",
+                    "opening a small glass box"
+                ],
+                "gaze_and_direction": "looking at the box",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Well, I’ll eat it,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa",
+                "living room",
+                "large windows",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "holding the small cake",
+                    "preparing to eat it"
+                ],
+                "gaze_and_direction": "looking at the cake",
+                "expression": [
+                    "determined",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "full-length"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    }
+]

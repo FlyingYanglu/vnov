@@ -1,0 +1,286 @@
+[
+    {
+        "text": "“No, indeed,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelf",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What sort of a dance is it?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelf",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“The Gryphon, always eager to explain, jumped in.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "bookshelf",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "jumping into the conversation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "wings spread slightly"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Why,” he said, “you first form into a line along the sea-shore—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "sand",
+                "distant horizon"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "explaining the dance formation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "enthusiastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "wings spread slightly"
+                ],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Two lines!” cried the Mock Turtle.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "sand",
+                "distant horizon"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "interrupting with a cry"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn but sturdy"
+                    },
+                    "accessories": {
+                        "item": "seaweed necklace",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small scroll"
+                ],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Seals, turtles, salmon, and so on;”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "sand",
+                "distant horizon"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "listing the participants"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn but sturdy"
+                    },
+                    "accessories": {
+                        "item": "seaweed necklace",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small scroll"
+                ],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    }
+]

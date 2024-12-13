@@ -1,0 +1,136 @@
+[
+    {
+        "text": "Why, there’s hardly enough of me left to make _one_ respectable person!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "little glass box",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "looking at the viewer",
+                    "gesturing towards herself"
+                ],
+                "gaze_and_direction": "direct eye contact with the viewer",
+                "expression": [
+                    "worried",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in currants.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "little glass box",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "reaching towards the little glass box",
+                    "opening the box"
+                ],
+                "gaze_and_direction": "looking at the box",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Alice positioned to the left, box centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Well, I’ll eat it,” said Alice, “and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "little glass box",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "holding the small cake",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the viewer",
+                "expression": [
+                    "determined",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Alice positioned centrally, cake in hand, camera slightly overhead"
+            }
+        ]
+    }
+]

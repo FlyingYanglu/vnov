@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "5179df38b2dd11ef95a2b8cef650d04c",
+        "text": "I was up to my chin in salt water.",
+        "audio_url": "https://v16m-default.akamaized.net/ffa242abbb1dbd9f8ae59b35da1bfc12/6751af2c/video/tos/maliva/tos-maliva-v-f15faa-us/ossVLDUoELJKR1AhgBWEwPrArEBVQAFvnRBgff/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThNNkIOXq8Zmo&qs=13&rc=anR4Zmo5cmxvdzUzNzhoM0BpanR4Zmo5cmxvdzUzNzhoM0BzYy8xMmRraTVgLS1kLjZzYSNzYy8xMmRraTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338490524900000000000000000000ffff0a0063741ac70d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.208
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.208
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

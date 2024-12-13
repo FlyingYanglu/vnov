@@ -1,0 +1,197 @@
+[
+    {
+        "text": "“If any one of them can explain it,” I said, (I had grown so large in the last few minutes that I wasn’t a bit afraid of interrupting him,) “I’ll give him sixpence. _I_ don’t believe there’s an atom of meaning in it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury seated",
+                "large table with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking confidently",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small coin"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The jury all wrote down on their slates, “_She_ doesn’t believe there’s an atom of meaning in it,” but none of them attempted to explain the paper.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury seated",
+                "large table with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "middle-aged",
+                "actions": [
+                    "writing on a slate",
+                    "looking down at the paper"
+                ],
+                "gaze_and_direction": "focused on the slate",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "clean"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate"
+                ],
+                "composition": "Jury member on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“If there’s no meaning in it,” said the King, “that saves a world of trouble, you know, as we needn’t try to find any. And yet I don’t know,” he went on, spreading out the verses on his knee, and looking at them with one eye;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury seated",
+                "large table with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "spreading papers on knee",
+                    "squinting with one eye"
+                ],
+                "gaze_and_direction": "looking down at the papers",
+                "expression": [
+                    "thoughtful",
+                    "slightly confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "holding papers"
+                ],
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I seem to see some meaning in them, after all. “",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury seated",
+                "large table with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "looking intently at the papers"
+                ],
+                "gaze_and_direction": "looking down at the papers",
+                "expression": [
+                    "thoughtful",
+                    "slightly enlightened"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "holding papers"
+                ],
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    }
+]

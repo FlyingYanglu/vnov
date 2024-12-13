@@ -1,0 +1,152 @@
+[
+    {
+        "text": "The Frog-Footman seemed to think this a good opportunity for repeating his statement, but I was already considering my next move.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "curtains",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "standing still",
+                    "opening mouth as if to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green suit",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "I muttered to myself, “It’s really dreadful, the way all the creatures argue.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "curtains",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "muttering",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the floor",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It’s enough to drive one crazy!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "large window",
+                "curtains",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    }
+]

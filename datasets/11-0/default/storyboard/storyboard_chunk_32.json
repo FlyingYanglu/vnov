@@ -1,0 +1,143 @@
+[
+    {
+        "text": "“Curiouser and curiouser!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "exclaiming",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I cried, so surprised that I forgot how to speak properly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "crying out",
+                    "looking confused"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "disoriented"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Now I’m opening out like the largest telescope that ever was!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "stretching out",
+                    "looking amazed"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "astonished",
+                    "wondering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of cake"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

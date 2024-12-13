@@ -1,0 +1,249 @@
+[
+    {
+        "text": "“A knot!” I said, always ready to make myself useful, and looking anxiously about me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "room with furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking anxiously around the room"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Main character positioned on the left side, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, do let me help to undo it!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "room with furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "reaching out towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Main character positioned on the left side, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“I shall do nothing of the sort,” said the Mouse, getting up and walking away.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "room with furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "getting up from a seated position",
+                    "walking away from the viewer"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "dismissive",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown jacket",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "regular fit",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the right side, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“You insult me by talking such nonsense!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "room with furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "pointing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown jacket",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "regular fit",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the right side, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“I didn’t mean it!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "room with furniture",
+                "open door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "raising hands in a defensive gesture"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Main character positioned on the left side, camera slightly angled"
+            }
+        ]
+    }
+]

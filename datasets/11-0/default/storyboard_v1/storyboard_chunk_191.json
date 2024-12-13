@@ -1,0 +1,314 @@
+[
+    {
+        "text": "“What was that?” I inquired.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "book-lined walls",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "tilting head slightly",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Reeling and Writhing, of course, to begin with,” the Mock Turtle replied;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "book-lined walls",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking with a calm tone",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "patient",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "loose fitting",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "shell necklace",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“and then the different branches of Arithmetic—Ambition, Distraction, Uglification, and Derision.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "book-lined walls",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "continuing to speak",
+                    "gesturing with both hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "educational"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "loose fitting",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "shell necklace",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I never heard of ‘Uglification,’” I ventured to say.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "book-lined walls",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hesitantly",
+                    "looking slightly down"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uncertain",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“What is it?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "book-lined walls",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up",
+                    "speaking with a curious tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon lifted up both its paws in surprise.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "intimate setting",
+                "book-lined walls",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "lifting both paws",
+                    "opening mouth slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornamental",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "leopard-print loincloth",
+                        "style": "decorative",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "gold armband",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "standing on hind legs"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

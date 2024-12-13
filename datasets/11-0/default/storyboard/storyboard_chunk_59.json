@@ -1,0 +1,200 @@
+[
+    {
+        "text": "Our family always hated cats: nasty, low, vulgar things!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "family portraits"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Family Member",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing emphatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disgusted",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "casual",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Don’t let me hear the name again!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "family portraits"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Family Member",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing finger at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "casual",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "reading glasses"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I won’t indeed!” I said, in a great hurry to change the subject.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "family portraits"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking quickly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "t-shirt",
+                        "style": "casual",
+                        "condition": "soft and comfortable"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn but clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Are you—are you fond—of—of dogs?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable furniture",
+                "family portraits"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stammering",
+                    "looking hesitant"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uncertain",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "t-shirt",
+                        "style": "casual",
+                        "condition": "soft and comfortable"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn but clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

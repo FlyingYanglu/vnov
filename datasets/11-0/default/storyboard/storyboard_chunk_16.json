@@ -1,0 +1,168 @@
+[
+    {
+        "text": "Either the locks were too large, or the key was too small, but at any rate it would not open any of them.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "locks",
+                "keys",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a small key",
+                    "trying to insert the key into a lock"
+                ],
+                "gaze_and_direction": "looking at the lock",
+                "expression": [
+                    "frustrated",
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "However, on the second time round, I came upon a low curtain I had not noticed before, and behind it was a little door about fifteen inches high: I tried the little golden key in the lock, and to my great delight it fitted!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "locks",
+                "keys",
+                "curtains",
+                "little door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pulling back a low curtain",
+                    "holding a small golden key",
+                    "inserting the key into a small lock"
+                ],
+                "gaze_and_direction": "looking at the small door",
+                "expression": [
+                    "surprised",
+                    "delighted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I opened the door and found that it led into a small passage, not much larger than a rat-hole.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "locks",
+                "keys",
+                "curtains",
+                "little door",
+                "small passage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "opening the small door",
+                    "peering into the small passage"
+                ],
+                "gaze_and_direction": "looking into the passage",
+                "expression": [
+                    "curious",
+                    "slightly apprehensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

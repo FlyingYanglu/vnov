@@ -1,0 +1,244 @@
+[
+    {
+        "text": "I couldn’t think of any good reason, and the Caterpillar seemed to be in a very unpleasant state of mind.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "sitting on a mushroom",
+                    "smoking a hookah"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "irritated",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I decided to turn away. “Come back!” the Caterpillar called after me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "calling out",
+                    "gesturing with a hookah"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve something important to say!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "speaking loudly",
+                    "gesturing with a hookah"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hookah",
+                        "type": "smoking device"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "That sounded promising.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "turning back towards the Caterpillar"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I turned and came back.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking back towards the Caterpillar"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "determined",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

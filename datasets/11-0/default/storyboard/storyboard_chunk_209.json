@@ -1,0 +1,250 @@
+[
+    {
+        "text": "The March Hare and the Hatter were having tea, with a Dormouse fast asleep between them.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "afternoon",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "holding a teacup",
+                    "sitting on a chair"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "cheerful",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "March Hare on the left side of the frame, camera at eye level"
+            },
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "holding a teacup",
+                    "sitting on a chair"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eccentric",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "jacket",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The two were using the Dormouse as a cushion, their elbows resting on it as they talked over its head.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "afternoon",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "elbows resting on Dormouse",
+                    "talking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "cheerful",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "March Hare on the left side of the frame, camera at eye level"
+            },
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "elbows resting on Dormouse",
+                    "talking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eccentric",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "jacket",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Very uncomfortable for the Dormouse, I thought, though it didn't seem to mind being asleep.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "afternoon",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "adult",
+                "actions": [
+                    "fast asleep",
+                    "being used as a cushion"
+                ],
+                "gaze_and_direction": "closed eyes",
+                "expression": [
+                    "relaxed",
+                    "peaceful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    }
+                },
+                "composition": "Dormouse centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The table was large, but the three of them were crowded together at one corner.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "afternoon",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "sitting close to Hatter and Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "cheerful",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "March Hare on the left side of the frame, camera at eye level"
+            },
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "sitting close to March Hare and Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eccentric",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "jacket",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter on the right side of the frame, camera at eye level"
+            }
+        ]
+    }
+]

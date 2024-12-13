@@ -1,0 +1,62 @@
+[
+    {
+        "summary": "In this segment, Alice encounters the Mock Turtle and the Gryphon, who introduce her to the Lobster Quadrille, a whimsical and elaborate sea-themed dance. The Mock Turtle, deeply melancholy, shares a nostalgic and somewhat cryptic song about the dance, which involves lobsters, seals, and various sea creatures. The Gryphon and Mock Turtle then engage Alice in a bizarre conversation about the nature of whiting and the origins of boots and shoes under the sea. The segment ends with the Mock Turtle singing a sorrowful song about 'Beautiful Soup,' interrupted by the announcement of a trial, prompting Alice and the Gryphon to hurry away.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "timid",
+                    "receptive"
+                ],
+                "actions": [
+                    "listens to the Mock Turtle and Gryphon",
+                    "participates in the Lobster Quadrille discussion",
+                    "tells her adventures"
+                ],
+                "relationships": [
+                    "Mock Turtle",
+                    "Gryphon"
+                ]
+            },
+            "Mock Turtle": {
+                "traits": [
+                    "melancholy",
+                    "nostalgic",
+                    "cryptic"
+                ],
+                "actions": [
+                    "shares the story of the Lobster Quadrille",
+                    "sings a sad song about 'Beautiful Soup'"
+                ],
+                "relationships": [
+                    "Gryphon",
+                    "Alice"
+                ]
+            },
+            "Gryphon": {
+                "traits": [
+                    "impatient",
+                    "whimsical",
+                    "authoritative"
+                ],
+                "actions": [
+                    "introduces the Lobster Quadrille",
+                    "interrupts the Mock Turtle",
+                    "leads Alice away to the trial"
+                ],
+                "relationships": [
+                    "Mock Turtle",
+                    "Alice"
+                ]
+            }
+        },
+        "key_events": [
+            "Alice meets the Mock Turtle and Gryphon.",
+            "The Mock Turtle and Gryphon explain the Lobster Quadrille.",
+            "The Mock Turtle sings a song about the dance.",
+            "Alice learns about the nature of whiting and sea boots.",
+            "The Mock Turtle sings 'Beautiful Soup.'",
+            "The announcement of a trial interrupts the song."
+        ]
+    }
+]

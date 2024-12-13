@@ -1,0 +1,143 @@
+[
+    {
+        "text": "“Once upon a time there were three little sisters,” the Dormouse began in a great hurry, “and their names were Elsie, Lacie, and Tillie; and they lived at the bottom of a well—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with teacups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking hurriedly",
+                    "gesturing with paws"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“What did they live on?” I asked, who always took a great interest in questions of eating and drinking.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with teacups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question",
+                    "leaning slightly forward"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "interested"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "elegant",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "long"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse, after thinking a minute or two, said, “They lived on treacle.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "cozy atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with teacups",
+                "soft cushions"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "thinking",
+                    "speaking slowly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

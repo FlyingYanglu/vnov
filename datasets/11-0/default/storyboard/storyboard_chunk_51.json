@@ -1,0 +1,231 @@
+[
+    {
+        "text": "Another moment, splash!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "sunny day",
+                "sea"
+            ],
+            "scene_features": [
+                "salt water",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "emerging from the water"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "wet shirt",
+                        "style": "casual",
+                        "condition": "drenched"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "wet"
+                    }
+                },
+                "temporary_features": [
+                    "water dripping from hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I was up to my chin in salt water.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "sunny day",
+                "sea"
+            ],
+            "scene_features": [
+                "salt water",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in water",
+                    "water up to chin"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "wet shirt",
+                        "style": "casual",
+                        "condition": "drenched"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "wet"
+                    }
+                },
+                "temporary_features": [
+                    "water dripping from hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "My first idea was that I had somehow fallen into the sea, “and in that case I can go back by…”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "sunny day",
+                "sea"
+            ],
+            "scene_features": [
+                "salt water",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "wet shirt",
+                        "style": "casual",
+                        "condition": "drenched"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "wet"
+                    }
+                },
+                "temporary_features": [
+                    "water dripping from hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wish I hadn’t cried so much!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "sunny day",
+                "sea"
+            ],
+            "scene_features": [
+                "salt water",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming",
+                    "looking frustrated"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "regretful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "wet shirt",
+                        "style": "casual",
+                        "condition": "drenched"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "wet"
+                    }
+                },
+                "temporary_features": [
+                    "water dripping from hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said to myself as I swam about, trying to find my way out.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "sunny day",
+                "sea"
+            ],
+            "scene_features": [
+                "salt water",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "wet shirt",
+                        "style": "casual",
+                        "condition": "drenched"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "wet"
+                    }
+                },
+                "temporary_features": [
+                    "water dripping from hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "text": "“If everybody minded their own business,” the Duchess said in a hoarse growl, “the world would go round a deal faster than it does.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a hoarse growl"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Which would _not_ be an advantage,” I said, glad to show off a little of my knowledge.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a confident tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "proud",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Main character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Just think of what work it would make with the day and night!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "You see the earth takes twenty-four hours to turn round on its axis—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pointing upwards"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "explaining",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Talking of axes,” the Duchess interrupted, “chop off her head!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "interrupting with a commanding tone"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "authoritative",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

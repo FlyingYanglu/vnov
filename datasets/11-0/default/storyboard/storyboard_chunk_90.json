@@ -1,0 +1,177 @@
+[
+    {
+        "text": "One old Magpie began wrapping itself up very carefully, remarking, “I really must be getting home; the night-air doesn’t suit my throat!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "cool breeze",
+                "evening"
+            ],
+            "scene_features": [
+                "trees",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Magpie",
+                "age": "old",
+                "actions": [
+                    "wrapping itself up carefully",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "dull and worn",
+                        "condition": "slightly ruffled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small cloth"
+                ],
+                "composition": "Magpie centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Some of the birds hurried off at once.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "cool breeze",
+                "evening"
+            ],
+            "scene_features": [
+                "trees",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Birds",
+                "age": "various",
+                "actions": [
+                    "flying away quickly"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "various colors",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Birds positioned at the top of the frame, camera slightly angled upwards"
+            }
+        ]
+    },
+    {
+        "text": "A Canary called out in a trembling voice to its children, “Come away, my dears!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "cool breeze",
+                "evening"
+            ],
+            "scene_features": [
+                "trees",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Canary",
+                "age": "adult",
+                "actions": [
+                    "calling out",
+                    "looking at its children"
+                ],
+                "gaze_and_direction": "looking at its children",
+                "expression": [
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "yellow feathers",
+                        "style": "bright and vibrant",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Canary centered, camera slightly angled downwards"
+            }
+        ]
+    },
+    {
+        "text": "It’s high time you were all in bed!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "twilight",
+                "cool breeze",
+                "evening"
+            ],
+            "scene_features": [
+                "trees",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Canary",
+                "age": "adult",
+                "actions": [
+                    "looking at the viewer",
+                    "gesturing with its beak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "yellow feathers",
+                        "style": "bright and vibrant",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Canary centered, camera slightly angled downwards"
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "text": "I said the last words out loud, and the little thing grunted in reply (it had left off sneezing by this time).",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "soft furnishings",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking out loud"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character on the left, baby on the right, camera at eye level"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "grunting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose"
+                ],
+                "composition": "Baby centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Don’t grunt,” I said; “that’s not at all a proper way of expressing yourself.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "soft furnishings",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking out loud"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character on the left, baby on the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The baby grunted again, and I looked very anxiously into its face to see what was the matter with it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "soft furnishings",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking anxiously at the baby"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character on the left, baby on the right, camera at eye level"
+            },
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "grunting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose"
+                ],
+                "composition": "Baby centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "There could be no doubt that it had a _very_ turn-up nose, much more like a snout than a real nose; also its eyes were getting extremely small for a baby.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "soft furnishings",
+                "warm colors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Baby",
+                "age": "infant",
+                "actions": [
+                    "grunting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "onesie",
+                        "style": "simple",
+                        "color": "white"
+                    }
+                },
+                "temporary_features": [
+                    "turn-up nose",
+                    "small eyes"
+                ],
+                "composition": "Baby centered, camera slightly low angle"
+            }
+        ]
+    }
+]

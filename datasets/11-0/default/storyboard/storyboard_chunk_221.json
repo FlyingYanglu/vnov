@@ -1,0 +1,161 @@
+[
+    {
+        "text": "“I told you butter wouldn’t suit the works!” he added, looking angrily at the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "pointing at the March Hare",
+                    "looking angrily"
+                ],
+                "gaze_and_direction": "staring at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“It was the best butter,” the March Hare meekly replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "looking down",
+                    "speaking meekly"
+                ],
+                "gaze_and_direction": "eyes slightly averted from the viewer",
+                "expression": [
+                    "submissive",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "chain",
+                        "condition": "dangling"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "March Hare positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Yes, but some crumbs must have got in as well,” the Hatter grumbled.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "grumbling",
+                    "looking down at the table"
+                ],
+                "gaze_and_direction": "eyes slightly averted from the viewer",
+                "expression": [
+                    "displeased",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned to the left, camera frontal"
+            }
+        ]
+    }
+]

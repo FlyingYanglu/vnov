@@ -1,0 +1,252 @@
+[
+    {
+        "text": "“It _began_ with the tea,” the Hatter replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea cups",
+                "table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a teacup",
+                    "gesturing with free hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "slightly disheveled hair"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Of course twinkling begins with a T!” the King snapped.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea cups",
+                "table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "pointing finger at the viewer",
+                    "sitting rigidly"
+                ],
+                "gaze_and_direction": "staring at the viewer",
+                "expression": [
+                    "irritated",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold",
+                        "condition": "gleaming"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Do you take me for a dunce? Go on!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea cups",
+                "table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "pointing finger at the viewer",
+                    "sitting rigidly"
+                ],
+                "gaze_and_direction": "staring at the viewer",
+                "expression": [
+                    "irritated",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold",
+                        "condition": "gleaming"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m a poor man,” the Hatter went on, “and most things twinkled after that—only the March Hare said—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea cups",
+                "table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a teacup",
+                    "gesturing with free hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "slightly disheveled hair"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I didn’t!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea cups",
+                "table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "raising hand",
+                    "sitting upright"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique",
+                        "condition": "slightly tarnished"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "March Hare centered, camera slightly overhead"
+            }
+        ]
+    }
+]

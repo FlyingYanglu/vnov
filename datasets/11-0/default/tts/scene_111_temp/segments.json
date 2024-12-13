@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "b484211cb2db11efae5b08c0eb17a1fc",
+        "text": "“Curiouser and curiouser!”",
+        "audio_url": "https://v16m-default.akamaized.net/c748ae4a1014dd8c86a0feec3a622dfa/6751ac7a/video/tos/maliva/tos-maliva-v-f15faa-us/oISCoKjXCrMGTv7eAAArCpeACmCLisIOgIQIfm/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThMfkIOXq8Zmo&qs=13&rc=M21meHg5cjhvdzUzNzhoM0BpM21meHg5cjhvdzUzNzhoM0AxczNxMmQ0ZDVgLS1kLjZzYSMxczNxMmQ0ZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338421213000000000000000000000ffff0a0066a2665481&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

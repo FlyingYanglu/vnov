@@ -1,0 +1,188 @@
+[
+    {
+        "text": "I wonder if I’ve been changed in the night?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "nightstand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up in bed",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white pajama top",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "white pajama pants",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Let me think: was I the same when I got up this morning?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "nightstand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up in bed",
+                    "rubbing eyes"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white pajama top",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "white pajama pants",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I almost think I can remember feeling a little different.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "nightstand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up in bed",
+                    "touching chin"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white pajama top",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "white pajama pants",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "But if I’m not the same, the next question is, Who in the world am I?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "nightstand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up in bed",
+                    "looking directly at the camera"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "alarmed",
+                    "intrigued"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white pajama top",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "white pajama pants",
+                        "style": "loose",
+                        "condition": "slightly wrinkled"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

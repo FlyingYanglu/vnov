@@ -1,0 +1,135 @@
+[
+    {
+        "text": "As there seemed to be no chance of getting my hands up to my head, I tried to get my head down to them, and was delighted to find that my neck would bend about easily in any direction, like a serpent.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "bending neck like a serpent"
+                ],
+                "gaze_and_direction": "looking down at hands",
+                "expression": [
+                    "delighted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "hands outstretched"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, which I found to be nothing but the tops of the trees under which I had been wandering, when a sharp hiss made me draw back in a hurry.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "curving neck into a zigzag",
+                    "drawing back in surprise"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "hands still outstretched"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "A large pigeon had flown into my face, and was beating me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "forest floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shielding face from pigeon"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "hands raised to shield face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

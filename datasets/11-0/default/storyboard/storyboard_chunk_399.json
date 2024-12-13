@@ -1,0 +1,172 @@
+[
+    {
+        "text": "“Well, if I must, I must,” the King said, with a melancholy air.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "standing with arms folded"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "He folded his arms and frowned at the cook till his eyes were nearly out of sight.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "folding arms",
+                    "frowning"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frowning",
+                    "eyes nearly closed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“What are tarts made of?” he asked in a deep voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a deep voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Pepper, mostly,” the cook said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "plain",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "white"
+                    }
+                },
+                "composition": "Cook centered, camera slightly low angle"
+            }
+        ]
+    }
+]

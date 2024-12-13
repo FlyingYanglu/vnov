@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "d2a0800cb2d911ef9ba6b8cef635af1a",
+        "text": "I said aloud.",
+        "audio_url": "https://v16m-default.akamaized.net/316ada28fcdc31b7e551f6aaa0332d59/6751a94d/video/tos/maliva/tos-maliva-v-f15faa-us/oMdCCoXSXIXqcAfte3qnieAcWgIwaCGCOI6rAL/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzOkIOXq8Zmo&qs=13&rc=amh0ZHY5cnRvdzUzNzhoM0Bpamh0ZHY5cnRvdzUzNzhoM0Aycm8wMmRzNjVgLS1kLjZzYSMycm8wMmRzNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338340330300000000000000000000ffff0a0082c09a6097&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.104
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.104
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

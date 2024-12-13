@@ -1,0 +1,178 @@
+[
+    {
+        "text": "The Hatter said, “You mean you can’t take _less_. It’s very easy to take _more_ than nothing.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "slightly agitated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter asked triumphantly, “Who’s making personal remarks now?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking with a triumphant tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I did not quite know what to say to this, so I helped myself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated my question, “Why did they live at the bottom of a well?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pouring tea into a teacup",
+                    "looking at the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "thoughtful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon in hair",
+                        "type": "bow",
+                        "condition": "slightly loose"
+                    }
+                },
+                "composition": "Main character positioned on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse again took a minute or two to think about it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "thinking deeply",
+                    "sitting still"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive",
+                    "concentrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "small glasses",
+                        "type": "round",
+                        "condition": "slightly askew"
+                    }
+                },
+                "composition": "Dormouse positioned on the right, camera slightly overhead"
+            }
+        ]
+    }
+]

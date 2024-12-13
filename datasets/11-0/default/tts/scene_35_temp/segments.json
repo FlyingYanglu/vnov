@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "1b1f0fb0b2da11ef8d67506b4b2ab66e",
+        "text": "Do you think you could manage it?)",
+        "audio_url": "https://v16m-default.akamaized.net/550da786e95c4bc4d7c9ed796016c04f/6751a9c8/video/tos/maliva/tos-maliva-v-f15faa-us/oEVPF4CBvBPPAxVbARiZMVTAiQ1V4WZSE9VEU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thd4kIOXq8Zmo&qs=13&rc=am95bWs5cnNvdzUzNzhoM0Bpam95bWs5cnNvdzUzNzhoM0A2ZG1eMmRrXjVgLS1kLjZzYSM2ZG1eMmRrXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338352629400000000000000000000ffff0a009129d24ebf&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "83245a1eb2dc11ef9e65ec0d9a371a46",
+        "text": "Besides, she’s she,",
+        "audio_url": "https://v16m-default.akamaized.net/f1fa6b32a0e4e229edc81684a4e27a9f/6751add7/video/tos/maliva/tos-maliva-v-f15faa-us/oIvJQUGZj4W3z8XBAdVZERc5SsFBt1QiAEACi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThAqkIOXq8Zmo&qs=13&rc=amZzO205cnZvdzUzNzhoM0BpamZzO205cnZvdzUzNzhoM0BwLmxyMmRrZjVgLS1kLjZzYSNwLmxyMmRrZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338455776700000000000000000000ffff0a008c9138ac01&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3979999999999997
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3979999999999997
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "83245c8ab2dc11ef9e65ec0d9a371a46",
+        "text": "and I’m I, and—oh",
+        "audio_url": "https://v16m-default.akamaized.net/f1fa6b32a0e4e229edc81684a4e27a9f/6751add7/video/tos/maliva/tos-maliva-v-f15faa-us/oIvJQUGZj4W3z8XBAdVZERc5SsFBt1QiAEACi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThAqkIOXq8Zmo&qs=13&rc=amZzO205cnZvdzUzNzhoM0BpamZzO205cnZvdzUzNzhoM0BwLmxyMmRrZjVgLS1kLjZzYSNwLmxyMmRrZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338455776700000000000000000000ffff0a008c9138ac01&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3980000000000001,
+            "end_offset": 2.7960000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.3980000000000001,
+            "end_offset": 2.7960000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "83245e38b2dc11ef9e65ec0d9a371a46",
+        "text": "dear, how puzzling",
+        "audio_url": "https://v16m-default.akamaized.net/f1fa6b32a0e4e229edc81684a4e27a9f/6751add7/video/tos/maliva/tos-maliva-v-f15faa-us/oIvJQUGZj4W3z8XBAdVZERc5SsFBt1QiAEACi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThAqkIOXq8Zmo&qs=13&rc=amZzO205cnZvdzUzNzhoM0BpamZzO205cnZvdzUzNzhoM0BwLmxyMmRrZjVgLS1kLjZzYSNwLmxyMmRrZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338455776700000000000000000000ffff0a008c9138ac01&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7960000000000003,
+            "end_offset": 4.194000000000001
+        },
+        "target_timerange": {
+            "start_offset": 2.7960000000000003,
+            "end_offset": 4.194000000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8324602cb2dc11ef9e65ec0d9a371a46",
+        "text": "it all is!",
+        "audio_url": "https://v16m-default.akamaized.net/f1fa6b32a0e4e229edc81684a4e27a9f/6751add7/video/tos/maliva/tos-maliva-v-f15faa-us/oIvJQUGZj4W3z8XBAdVZERc5SsFBt1QiAEACi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThAqkIOXq8Zmo&qs=13&rc=amZzO205cnZvdzUzNzhoM0BpamZzO205cnZvdzUzNzhoM0BwLmxyMmRrZjVgLS1kLjZzYSNwLmxyMmRrZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338455776700000000000000000000ffff0a008c9138ac01&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.194000000000001,
+            "end_offset": 5.5920000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.194000000000001,
+            "end_offset": 5.5920000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

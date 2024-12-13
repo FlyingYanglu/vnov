@@ -1,0 +1,271 @@
+[
+    {
+        "text": "I timidly replied;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "garden",
+                "bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing nervously"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "timid",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "biting lower lip"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“some of the words have got altered.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "garden",
+                "bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking softly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "timid",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "biting lower lip"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“It is wrong from beginning to end,” said the Caterpillar decidedly, and there was silence for some minutes.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "garden",
+                "bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "speaking firmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "decisive",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke",
+                        "type": "puffing"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Caterpillar was the first to speak.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "garden",
+                "bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "preparing to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke",
+                        "type": "puffing"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“What size do you want to be?” it asked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "garden",
+                "bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "natural",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "smoke",
+                        "type": "puffing"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, I’m not particular as to size,”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "trees"
+            ],
+            "scene_features": [
+                "garden",
+                "bench"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "responding casually"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "biting lower lip"
+                ],
+                "composition": "Main character positioned slightly left, camera at eye level"
+            }
+        ]
+    }
+]

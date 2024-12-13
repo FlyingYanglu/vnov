@@ -1,0 +1,184 @@
+[
+    {
+        "text": "“It tells the day of the month, and doesn’t tell what o’clock it is!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "holding a pocket watch",
+                    "pointing at the watch"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Why should it?” muttered the Hatter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "muttering",
+                    "looking down at the table"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "indifferent",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Does _your_ watch tell you what year it is?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at Alice's watch",
+                    "looking at Alice"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "sarcastic",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Of course not,” I replied very readily: “but that’s because it stays the same year for such a long time together.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "responding",
+                    "looking at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "confident",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

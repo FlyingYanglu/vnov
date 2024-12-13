@@ -1,0 +1,186 @@
+[
+    {
+        "text": "“Treacle,” said a sleepy voice behind her.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "royal court",
+                "luxurious interior",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Sleepy Voice",
+                "age": "unknown",
+                "actions": [
+                    "speaking softly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "robe",
+                        "style": "luxurious",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "yawning slightly"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Queen's shrill voice cut through the air, “Collar that Dormouse!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "royal court",
+                "luxurious interior",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Queen",
+                "age": "mature",
+                "actions": [
+                    "shouting commands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "gesturing forcefully"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Behead that Dormouse! Turn that Dormouse out of court!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "royal court",
+                "luxurious interior",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Queen",
+                "age": "mature",
+                "actions": [
+                    "continuing to shout commands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "gesturing forcefully"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Suppress him! Pinch him! Off with his whiskers!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "royal court",
+                "luxurious interior",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Queen",
+                "age": "mature",
+                "actions": [
+                    "shouting final commands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "gesturing forcefully"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

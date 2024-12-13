@@ -1,0 +1,134 @@
+[
+    {
+        "text": "“Well, it must be removed,” the King said very decidedly, and he called the Queen, who was passing at the moment, “My dear!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "luxurious interior",
+                "ornate furniture",
+                "soft lighting"
+            ],
+            "scene_features": [
+                "royal throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking decisively",
+                    "raising hand to call"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I wish you would have this cat removed!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "luxurious interior",
+                "ornate furniture",
+                "soft lighting"
+            ],
+            "scene_features": [
+                "royal throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing towards the viewer",
+                    "speaking with urgency"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Queen had only one way of settling all difficulties, great or small.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "luxurious interior",
+                "ornate furniture",
+                "soft lighting"
+            ],
+            "scene_features": [
+                "royal throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "standing calmly",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,273 @@
+[
+    {
+        "text": "I panted as we ran;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "grassy field",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "running",
+                    "panting"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "exhausted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "sweat on forehead"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "but the Gryphon only answered “Come on!” and ran the faster, while more and more faintly came, carried on the breeze that followed us, the melancholy words:—“Soo—oop of the e—e—evening, Beautiful, beautiful Soup!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "grassy field",
+                "distant trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "running",
+                    "looking back at Alice"
+                ],
+                "gaze_and_direction": "looking back",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned slightly off-center, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "throne",
+                "crowd",
+                "courtroom setting"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "King of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "seated on throne"
+                ],
+                "gaze_and_direction": "looking at the crowd",
+                "expression": [
+                    "regal"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "clean and ornate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "throne",
+                "crowd",
+                "courtroom setting"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding trumpet and scroll"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white suit",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made me quite hungry to look at them—“I wish they’d get the trial done,” I thought, “and hand round the refreshments!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "throne",
+                "crowd",
+                "courtroom setting",
+                "table with tarts"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking at the tarts"
+                ],
+                "gaze_and_direction": "looking at the tarts",
+                "expression": [
+                    "hungry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "But there seemed to be no chance of this, so I began looking at everything about me, to pass away the time.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "throne",
+                "crowd",
+                "courtroom setting",
+                "table with tarts"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking around the courtroom"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    }
+]

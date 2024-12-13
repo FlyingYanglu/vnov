@@ -1,0 +1,207 @@
+[
+    {
+        "text": "“Do you know why it’s called a whiting?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-lined walls",
+                "a cozy fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I shook my head, admitting that I had never thought about it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-lined walls",
+                "a cozy fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shaking head"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I never thought about it,” I said. “Why?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-lined walls",
+                "a cozy fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon’s expression grew solemn.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-lined walls",
+                "a cozy fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“_It does the boots and shoes_,” he replied very solemnly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "book-lined walls",
+                "a cozy fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ornate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

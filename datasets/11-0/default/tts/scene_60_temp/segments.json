@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "a13c23c6b2da11efaf4eb8cef659fbf0",
+        "text": "And even if my head would go",
+        "audio_url": "https://v16m-default.akamaized.net/6fd21754a4f5bf9a3e63085721263494/6751aaae/video/tos/maliva/tos-maliva-v-f15faa-us/o0EdlqAzQqRVsiYE3kBBkoAwkBgfFkmA7EAtiK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvtkIOXq8Zmo&qs=13&rc=MzRnZXE5cmxvdzUzNzhoM0BpMzRnZXE5cmxvdzUzNzhoM0BmZGNnMmRjYDVgLS1kLjZzYSNmZGNnMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338375124600000000000000000000ffff0a006d747d5f21&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4399999999999995
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4399999999999995
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a13c257eb2da11efaf4eb8cef659fbf0",
+        "text": "through, I thought, it would",
+        "audio_url": "https://v16m-default.akamaized.net/6fd21754a4f5bf9a3e63085721263494/6751aaae/video/tos/maliva/tos-maliva-v-f15faa-us/o0EdlqAzQqRVsiYE3kBBkoAwkBgfFkmA7EAtiK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvtkIOXq8Zmo&qs=13&rc=MzRnZXE5cmxvdzUzNzhoM0BpMzRnZXE5cmxvdzUzNzhoM0BmZGNnMmRjYDVgLS1kLjZzYSNmZGNnMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338375124600000000000000000000ffff0a006d747d5f21&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.44,
+            "end_offset": 2.88
+        },
+        "target_timerange": {
+            "start_offset": 1.44,
+            "end_offset": 2.88
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a13c26dcb2da11efaf4eb8cef659fbf0",
+        "text": "be of very little use",
+        "audio_url": "https://v16m-default.akamaized.net/6fd21754a4f5bf9a3e63085721263494/6751aaae/video/tos/maliva/tos-maliva-v-f15faa-us/o0EdlqAzQqRVsiYE3kBBkoAwkBgfFkmA7EAtiK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvtkIOXq8Zmo&qs=13&rc=MzRnZXE5cmxvdzUzNzhoM0BpMzRnZXE5cmxvdzUzNzhoM0BmZGNnMmRjYDVgLS1kLjZzYSNmZGNnMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338375124600000000000000000000ffff0a006d747d5f21&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.88,
+            "end_offset": 4.32
+        },
+        "target_timerange": {
+            "start_offset": 2.88,
+            "end_offset": 4.32
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a13c2830b2da11efaf4eb8cef659fbf0",
+        "text": "without my shoulders.",
+        "audio_url": "https://v16m-default.akamaized.net/6fd21754a4f5bf9a3e63085721263494/6751aaae/video/tos/maliva/tos-maliva-v-f15faa-us/o0EdlqAzQqRVsiYE3kBBkoAwkBgfFkmA7EAtiK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThvtkIOXq8Zmo&qs=13&rc=MzRnZXE5cmxvdzUzNzhoM0BpMzRnZXE5cmxvdzUzNzhoM0BmZGNnMmRjYDVgLS1kLjZzYSNmZGNnMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338375124600000000000000000000ffff0a006d747d5f21&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.32,
+            "end_offset": 5.76
+        },
+        "target_timerange": {
+            "start_offset": 4.32,
+            "end_offset": 5.76
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "text": "“What day of the month is it?” he said, turning to me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "turning to face the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "He had taken his watch out of his pocket and was looking at it uneasily, shaking it every now and then, and holding it to his ear.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a pocket watch",
+                    "shaking it",
+                    "holding it to his ear"
+                ],
+                "gaze_and_direction": "looking at the watch",
+                "expression": [
+                    "uneasy",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I considered a little and then said, “The fourth.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairbow",
+                        "type": "ribbon",
+                        "condition": "tied neatly"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Two days wrong!” sighed the Hatter.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "Hatter positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I told you butter wouldn’t suit the works!” he added, looking angrily at the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening light"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "accusing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pocket watch"
+                ],
+                "composition": "Hatter centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,208 @@
+[
+    {
+        "text": "“He’s perfectly idiotic!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "smoke-filled room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "three-legged stool",
+                "baby"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And with that, I opened the door and stepped inside.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "smoke-filled room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "three-legged stool",
+                "baby"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "opening the door",
+                    "stepping inside"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The door led right into a large kitchen, which was full of smoke from one end to the other.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "smoke-filled room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "three-legged stool",
+                "baby"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the doorway",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "smoke-filled room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "three-legged stool",
+                "baby"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on a three-legged stool",
+                    "nursing a baby"
+                ],
+                "gaze_and_direction": "looking down at the baby",
+                "expression": [
+                    "calm",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "dusty"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "gold chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "text": "Indeed, there was a constant howling and sneezing, punctuated by crashes as if dishes or kettles were being broken.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "chaotic atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "broken dishes",
+                "scattered items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Unknown Character",
+                "age": "middle-aged",
+                "actions": [
+                    "howling",
+                    "sneezing"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "distressed",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tattered shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "loose pants",
+                        "style": "casual",
+                        "condition": "dirty"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Character positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Please, then,” I said, “how am I to get in?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "chaotic atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "broken dishes",
+                "scattered items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned",
+                    "inquiring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“There might be some sense in your knocking,” he continued without looking at me, “if we had the door between us.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "chaotic atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "broken dishes",
+                "scattered items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Unknown Character",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing vaguely"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "dismissive",
+                    "uninterested"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tattered shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "loose pants",
+                        "style": "casual",
+                        "condition": "dirty"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Character positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "For instance, if you were inside, you might knock, and I could let you out, you know.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "chaotic atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "broken dishes",
+                "scattered items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Unknown Character",
+                "age": "middle-aged",
+                "actions": [
+                    "continuing to speak",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "explaining",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tattered shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "loose pants",
+                        "style": "casual",
+                        "condition": "dirty"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Character positioned on the right, camera slightly low angle"
+            }
+        ]
+    }
+]

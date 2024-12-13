@@ -1,0 +1,175 @@
+[
+    {
+        "text": "“Off with their heads!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "large flower-pot",
+                "trees",
+                "distant figures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing aggressively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You shan’t be beheaded!” I said, and I put them into a large flower-pot that stood near.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "large flower-pot",
+                "trees",
+                "distant figures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "placing figures into a large flower-pot"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The three soldiers wandered about for a minute or two, looking for them, and then quietly marched off after the others.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "large flower-pot",
+                "trees",
+                "distant figures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "young adult",
+                "actions": [
+                    "wandering around",
+                    "looking down",
+                    "marching off"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "confused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "helmets",
+                        "type": "standard"
+                    }
+                },
+                "composition": "Characters positioned in a group, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "“Are their heads off?” shouted the Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "large flower-pot",
+                "trees",
+                "distant figures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

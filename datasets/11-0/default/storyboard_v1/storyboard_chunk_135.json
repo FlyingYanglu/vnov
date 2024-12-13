@@ -1,0 +1,278 @@
+[
+    {
+        "text": "The Dormouse said in a hoarse, feeble voice, “I heard every word you fellows were saying.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "adult",
+                "actions": [
+                    "speaking in a hoarse voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "feeble",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown coat",
+                        "style": "worn",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The March Hare said, “Tell us a story!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "March Hare positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Yes, please do!” I pleaded.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pleading with hands clasped"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "earnest",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a chair"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter added, “And be quick about it, or you’ll be asleep again before it’s done.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "speaking with urgency"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "multi-colored suit",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Once upon a time there were three little sisters,” the Dormouse began in a great hurry, “and their names were Elsie, Lacie, and Tillie; and they lived at the bottom of a well—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "adult",
+                "actions": [
+                    "speaking hurriedly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hurried",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown coat",
+                        "style": "worn",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a cushion"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What did they live on?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking curiously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "intrigued"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a chair"
+                ],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

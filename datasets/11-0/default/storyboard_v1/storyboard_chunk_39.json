@@ -1,0 +1,445 @@
+[
+    {
+        "text": "“What else have you got in your pocket?” he went on, turning to me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "turning to face the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Only a thimble,” I said sadly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking down at hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a thimble"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Hand it over here,” said the Dodo.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "reaching out towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Then they all crowded round me once more, while the Dodo solemnly presented the thimble, saying “We beg your acceptance of this elegant thimble;”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "holding out a thimble towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "and, when it had finished this short speech, they all cheered.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "looking around at the crowd"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "satisfied"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "I thought the whole thing very absurd, but they all looked so grave that I did not dare to laugh; and, as I could not think of anything to say, I simply bowed, and took the thimble, looking as solemn as I could.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "bowing slightly",
+                    "taking the thimble"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a thimble"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The next thing was to eat the comfits: this caused some noise and confusion, as the large birds complained that they could not taste theirs, and the small ones choked and had to be patted on the back.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around at the chaos"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a thimble"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "However, it was over at last, and they sat down again in a ring, and begged the Mouse to tell them something more.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "sitting down",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“You promised to tell me your history, you know,” I said to the Mouse.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the Mouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a thimble"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“and why it is you hate—C and D,” I added in a whisper, half afraid that it would be offended again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "whispering",
+                    "looking at the Mouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "cautious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a thimble"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

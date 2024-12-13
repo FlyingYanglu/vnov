@@ -1,0 +1,219 @@
+[
+    {
+        "text": "The King laid his hand upon her arm, and timidly said “Consider, my dear: she is only a child!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "laying hand on Queen's arm",
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Queen turned angrily away from him, and said to the Knave “Turn them over!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "turning away from King",
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "luxurious",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Queen positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Knave did so, very carefully, with one foot.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave",
+                "age": "young adult",
+                "actions": [
+                    "turning something over carefully with one foot"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "royal guard",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "sword",
+                        "type": "sheathed"
+                    }
+                },
+                "composition": "Knave positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Get up!” said the Queen, in a shrill, loud voice, and the three gardeners instantly jumped up, and began bowing to the King, the Queen, the royal children, and everybody else.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a shrill, loud voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "luxurious",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Leave off that!” screamed the Queen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "screaming"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "luxurious",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "bea77be2b2dd11ef9b2a1c34da79de38",
+        "text": "“I quite forgot you didn’t like cats.”",
+        "audio_url": "https://v16m-default.akamaized.net/a1f1c4dd76c8eb66c288ce95e3fcba78/6751afe3/video/tos/maliva/tos-maliva-v-f15faa-us/oQBEhAgWEFLdGUAQEVoDJBLpVJWAufnRVBlfB4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlzkIOXq8Zmo&qs=13&rc=Mzxoc3k5cjNvdzUzNzhoM0BpMzxoc3k5cjNvdzUzNzhoM0BfZjZiMmRjazVgLS1kLjZzYSNfZjZiMmRjazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338508809900000000000000000000ffff0a00af9c1a1080&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.184
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.184
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

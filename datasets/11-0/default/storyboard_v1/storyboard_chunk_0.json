@@ -1,0 +1,280 @@
+[
+    {
+        "text": "I was beginning to get very tired of sitting by my sister on the bank, and of having nothing to do.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "sitting on the bank",
+                    "looking bored"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "tired",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Once or twice, I had peeped into the book she was reading, but it had no pictures or conversations in it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "peeping into the book",
+                    "looking disappointed"
+                ],
+                "gaze_and_direction": "looking at the book",
+                "expression": [
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"And what is the use of a book,\" I thought, \"without pictures or conversations?\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "thinking",
+                    "looking contemplative"
+                ],
+                "gaze_and_direction": "looking into the distance",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I was considering in my own mind (as well as I could, for the hot day made me feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "considering",
+                    "looking sleepy"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sleepy",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There was nothing so very remarkable in that; nor did I think it so very much out of the way to hear the Rabbit say to itself, \"Oh dear! Oh dear! I shall be late!\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "looking surprised",
+                    "turning head"
+                ],
+                "gaze_and_direction": "looking at the White Rabbit",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(When I thought it over afterwards, it occurred to me that I ought to have wondered at this, but at the time it all seemed quite natural);",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "thinking",
+                    "looking reflective"
+                ],
+                "gaze_and_direction": "looking into the distance",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "light dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

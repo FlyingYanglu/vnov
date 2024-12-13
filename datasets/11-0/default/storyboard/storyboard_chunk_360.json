@@ -1,0 +1,198 @@
+[
+    {
+        "text": "“It’s all about as curious as it can be,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "bottom": {
+                        "item": "leopard-print pants",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gold necklace",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It all came different!” the Mock Turtle repeated thoughtfully.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green shell-like armor",
+                        "style": "tight-fitting",
+                        "condition": "shiny"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "baggy",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "silver bracelet",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I should like to hear her try and repeat something now.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hopeful",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "bottom": {
+                        "item": "leopard-print pants",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gold necklace",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Tell her to begin.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "large room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "bottom": {
+                        "item": "leopard-print pants",
+                        "style": "loose",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "gold necklace",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

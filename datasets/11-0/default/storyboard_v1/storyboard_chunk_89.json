@@ -1,0 +1,307 @@
+[
+    {
+        "text": "I laughed so hard that I had to run back into the woods for fear they’d hear me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "dense woods",
+                "afternoon light filtering through trees"
+            ],
+            "scene_features": [
+                "trees",
+                "underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running into the woods",
+                    "laughing"
+                ],
+                "gaze_and_direction": "looking over shoulder towards the direction of laughter",
+                "expression": [
+                    "laughing hysterically"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "loose"
+                    }
+                },
+                "temporary_features": [
+                    "hair slightly tousled"
+                ],
+                "composition": "Main character in mid-run, camera slightly behind and above"
+            }
+        ]
+    },
+    {
+        "text": "When I peeked out again, the Fish-Footman was gone, and the Frog-Footman was sitting on the ground, staring up at the sky.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "dense woods",
+                "afternoon light filtering through trees"
+            ],
+            "scene_features": [
+                "trees",
+                "underbrush"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on the ground",
+                    "staring up at the sky"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Frog-Footman centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I approached the door timidly and knocked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "wooden door",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "door",
+                "pathway"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "approaching the door",
+                    "knocking timidly"
+                ],
+                "gaze_and_direction": "looking at the door",
+                "expression": [
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "loose"
+                    }
+                },
+                "temporary_features": [
+                    "hair slightly tousled"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "The Frog-Footman, still staring up, said, “There’s no sort of use in knocking, and that for two reasons. First, because I’m on the same side of the door as you are; secondly, because they’re making such a noise inside, no one could possibly hear you.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "wooden door",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "door",
+                "pathway"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "staring up at the sky",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Frog-Footman centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Indeed, there was a constant howling and sneezing, punctuated by crashes as if dishes or kettles were being broken.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "chaotic sounds"
+            ],
+            "scene_features": [
+                "interior of a house",
+                "broken items"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "listening to the noise inside"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "loose"
+                    }
+                },
+                "temporary_features": [
+                    "hair slightly tousled"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“Please, then,” I said, “how am I to get in?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "wooden door",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "door",
+                "pathway"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the Frog-Footman"
+                ],
+                "gaze_and_direction": "looking at the Frog-Footman",
+                "expression": [
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "loose"
+                    }
+                },
+                "temporary_features": [
+                    "hair slightly tousled"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“There might be some sense in your knocking,”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "wooden door",
+                "afternoon light"
+            ],
+            "scene_features": [
+                "door",
+                "pathway"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the protagonist"
+                ],
+                "gaze_and_direction": "looking at the protagonist",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "sitting cross-legged"
+                ],
+                "composition": "Frog-Footman centered, camera slightly low angle"
+            }
+        ]
+    }
+]

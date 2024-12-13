@@ -1,0 +1,269 @@
+[
+    {
+        "text": "Still I went on growing, and, as a last resource, I put one arm out of the window, and one foot up the chimney, and said to myself “Now I can do no more, whatever happens. What _will_ become of me?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "chimney",
+                "small room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "putting one arm out of the window",
+                    "putting one foot up the chimney",
+                    "saying to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "worried",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "growing larger"
+                ],
+                "composition": "Main character positioned diagonally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Luckily for Alice, the little magic bottle had now had its full effect, and I grew no larger: still it was very uncomfortable, and, as there seemed to be no sort of chance of my ever getting out of the room again, no wonder I felt unhappy.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "chimney",
+                "small room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing awkwardly in the room"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "unhappy",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "no longer growing"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“It was much pleasanter at home,” I thought, “when one wasn’t always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and yet—it’s rather curious, you know, this sort of life! I do wonder what _can_ have happened to me!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "chimney",
+                "small room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "no longer growing"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one! There ought to be a book written about me, that there ought! And when I grow up, I’ll write one—but I’m grown up now,” I added in a sorrowful tone;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "chimney",
+                "small room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to self",
+                    "speaking in a sorrowful tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sorrowful",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "no longer growing"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“at least there’s no room to grow up any more _here_.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "chimney",
+                "small room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "no longer growing"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But then,” I thought, “shall I _never_ get any older than I am now? That’ll be a comfort, one way—never to be an old woman—but then—always to have lessons to learn! Oh, I shouldn’t like _that!_”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "chimney",
+                "small room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "conflicted",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "no longer growing"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

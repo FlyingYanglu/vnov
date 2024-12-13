@@ -1,0 +1,223 @@
+[
+    {
+        "text": "The hedgehog had unrolled itself, and was in the act of crawling away.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "daytime"
+            ],
+            "scene_features": [
+                "hedgehog",
+                "ridge or furrow",
+                "doubled-up soldiers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hedgehog",
+                "age": "adult",
+                "actions": [
+                    "crawling away"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "neutral"
+                ],
+                "costume": {
+                    "body": {
+                        "item": "spiky fur",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hedgehog positioned at the bottom of the frame, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Besides all this, there was generally a ridge or furrow in the way wherever I wanted to send the hedgehog to.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "daytime"
+            ],
+            "scene_features": [
+                "hedgehog",
+                "ridge or furrow",
+                "doubled-up soldiers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the hedgehog",
+                    "gesturing towards a ridge or furrow"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "condition": "ripped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character positioned on the left, hedgehog on the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "As the doubled-up soldiers were always getting up and walking off to other parts of the ground, I soon came to the conclusion that it was a very difficult game indeed.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "daytime"
+            ],
+            "scene_features": [
+                "hedgehog",
+                "ridge or furrow",
+                "doubled-up soldiers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "watching soldiers walk away",
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "condition": "ripped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character positioned on the right, soldiers walking away on the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The players all played at once without waiting for turns, quarrelling all the while, and fighting for the hedgehogs.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "daytime"
+            ],
+            "scene_features": [
+                "hedgehog",
+                "ridge or furrow",
+                "doubled-up soldiers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Player 1",
+                "age": "young adult",
+                "actions": [
+                    "reaching for the hedgehog",
+                    "arguing with another player"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "condition": "ripped"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Player 1 positioned on the left, Player 2 on the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And in a very short time the Queen was in a furious passion, and went stamping about, and shouting 'Off with his head!' or 'Off with her head!' to the rest of the players.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "daytime"
+            ],
+            "scene_features": [
+                "hedgehog",
+                "ridge or furrow",
+                "doubled-up soldiers",
+                "Queen"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "stamping about",
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "condition": "gleaming"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

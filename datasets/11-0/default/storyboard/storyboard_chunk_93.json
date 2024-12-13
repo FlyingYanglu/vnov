@@ -1,0 +1,193 @@
+[
+    {
+        "text": "It was the White Rabbit, trotting slowly back again, and looking anxiously about as it went, as if it had lost something.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "trotting slowly",
+                    "looking anxiously around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "blue waistcoat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "paws moving",
+                    "ears twitching"
+                ],
+                "composition": "White Rabbit centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I heard it muttering to itself, “The Duchess!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "muttering to itself"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "blue waistcoat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "paws still",
+                    "ears drooping"
+                ],
+                "composition": "White Rabbit centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Duchess! Oh my dear paws! Oh my fur and whiskers!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "gesturing with paws",
+                    "rubbing whiskers"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "blue waistcoat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "paws trembling",
+                    "ears flattened"
+                ],
+                "composition": "White Rabbit centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "She’ll get me executed, as sure as ferrets are ferrets!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "shaking head",
+                    "looking horrified"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "terrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "blue waistcoat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "paws clutching waistcoat",
+                    "ears pulled back"
+                ],
+                "composition": "White Rabbit centered, camera at eye level"
+            }
+        ]
+    }
+]

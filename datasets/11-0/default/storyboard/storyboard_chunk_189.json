@@ -1,0 +1,174 @@
+[
+    {
+        "text": "He only does it to annoy, Because he knows it teases.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand room",
+                "luxurious furniture",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "He",
+                "age": "adult",
+                "actions": [
+                    "standing confidently",
+                    "gesturing slightly"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "smirking",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailored suit",
+                        "style": "modern",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Character positioned slightly off-center to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "CHORUS. (In which the cook and the baby joined): “Wow! wow!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand room",
+                "luxurious furniture",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "raising hands in surprise",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "wide-eyed",
+                "expression": [
+                    "surprised",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "functional",
+                        "condition": "slightly stained"
+                    },
+                    "accessories": {
+                        "item": "chef hat",
+                        "type": "traditional"
+                    }
+                },
+                "composition": "Character positioned slightly off-center to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "While the Duchess sang the second verse of the song, she kept tossing the baby violently up and down, and the poor little thing howled so, that I could hardly hear the words:—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand room",
+                "luxurious furniture",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "singing",
+                    "tossing the baby up and down"
+                ],
+                "gaze_and_direction": "looking at the baby",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I speak severely to my boy, I beat him when he sneezes; For he can thoroughly enjoy The pepper when he pleases.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand room",
+                "luxurious furniture",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking sternly",
+                    "gesturing with a raised hand"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "severe",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

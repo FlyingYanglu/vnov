@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "e7f9ba32b2dd11efa6d498039b74ac70",
+        "text": "I cried again, for this time",
+        "audio_url": "https://v16m-default.akamaized.net/602da27d1ff54593c9bdaadec081f981/6751b02e/video/tos/maliva/tos-maliva-v-f15faa-us/oEhTkHIQJALFiEVtCeVoxUfPAvDpBBAIJA4nzi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsFkIOXq8Zmo&qs=13&rc=am45c3I5cmtvdzUzNzhoM0Bpam45c3I5cmtvdzUzNzhoM0A1NnFwMmRzazVgLS1kLjZzYSM1NnFwMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338515754900000000000000000000ffff0a006c886da76c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6440000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6440000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e7f9bc12b2dd11efa6d498039b74ac70",
+        "text": "the Mouse was bristling all",
+        "audio_url": "https://v16m-default.akamaized.net/602da27d1ff54593c9bdaadec081f981/6751b02e/video/tos/maliva/tos-maliva-v-f15faa-us/oEhTkHIQJALFiEVtCeVoxUfPAvDpBBAIJA4nzi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsFkIOXq8Zmo&qs=13&rc=am45c3I5cmtvdzUzNzhoM0Bpam45c3I5cmtvdzUzNzhoM0A1NnFwMmRzazVgLS1kLjZzYSM1NnFwMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338515754900000000000000000000ffff0a006c886da76c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6440000000000001,
+            "end_offset": 3.2880000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.6440000000000001,
+            "end_offset": 3.2880000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e7f9bd34b2dd11efa6d498039b74ac70",
+        "text": "over, and I felt certain it",
+        "audio_url": "https://v16m-default.akamaized.net/602da27d1ff54593c9bdaadec081f981/6751b02e/video/tos/maliva/tos-maliva-v-f15faa-us/oEhTkHIQJALFiEVtCeVoxUfPAvDpBBAIJA4nzi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsFkIOXq8Zmo&qs=13&rc=am45c3I5cmtvdzUzNzhoM0Bpam45c3I5cmtvdzUzNzhoM0A1NnFwMmRzazVgLS1kLjZzYSM1NnFwMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338515754900000000000000000000ffff0a006c886da76c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2880000000000003,
+            "end_offset": 4.932
+        },
+        "target_timerange": {
+            "start_offset": 3.2880000000000003,
+            "end_offset": 4.932
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e7f9be42b2dd11efa6d498039b74ac70",
+        "text": "must be really offended.",
+        "audio_url": "https://v16m-default.akamaized.net/602da27d1ff54593c9bdaadec081f981/6751b02e/video/tos/maliva/tos-maliva-v-f15faa-us/oEhTkHIQJALFiEVtCeVoxUfPAvDpBBAIJA4nzi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsFkIOXq8Zmo&qs=13&rc=am45c3I5cmtvdzUzNzhoM0Bpam45c3I5cmtvdzUzNzhoM0A1NnFwMmRzazVgLS1kLjZzYSM1NnFwMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338515754900000000000000000000ffff0a006c886da76c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.932,
+            "end_offset": 6.5760000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.932,
+            "end_offset": 6.5760000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

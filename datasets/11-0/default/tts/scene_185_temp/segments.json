@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "3d24dea2b2dd11efb10cb8cef6277d40",
+        "text": "And I declare it’s too",
+        "audio_url": "https://v16m-default.akamaized.net/997059413d87029cddc8101b5f43c35c/6751af09/video/tos/maliva/tos-maliva-v-f15faa-us/oIFAgwqzkiTAAqGE1KRfAiWqBBrcjKEyqDlnAo/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThdikIOXq8Zmo&qs=13&rc=M2R4amw5cjxvdzUzNzhoM0BpM2R4amw5cjxvdzUzNzhoM0AyXzFlMmRzaTVgLS1kLjZzYSMyXzFlMmRzaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338487026100000000000000000000ffff0a00b38264ad45&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.464
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.464
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3d24dfe2b2dd11efb10cb8cef6277d40",
+        "text": "bad, that it is!”",
+        "audio_url": "https://v16m-default.akamaized.net/997059413d87029cddc8101b5f43c35c/6751af09/video/tos/maliva/tos-maliva-v-f15faa-us/oIFAgwqzkiTAAqGE1KRfAiWqBBrcjKEyqDlnAo/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThdikIOXq8Zmo&qs=13&rc=M2R4amw5cjxvdzUzNzhoM0BpM2R4amw5cjxvdzUzNzhoM0AyXzFlMmRzaTVgLS1kLjZzYSMyXzFlMmRzaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338487026100000000000000000000ffff0a00b38264ad45&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.464,
+            "end_offset": 2.928
+        },
+        "target_timerange": {
+            "start_offset": 1.464,
+            "end_offset": 2.928
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

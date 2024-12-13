@@ -1,0 +1,154 @@
+[
+    {
+        "text": "“Well, I can’t show it you myself,” the Mock Turtle said: “I’m too stiff.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "slightly sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "stiff posture"
+                ],
+                "composition": "Mock Turtle centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And the Gryphon never learnt it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "standing beside the Mock Turtle",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indifferent",
+                    "bored"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Hadn’t time,” the Gryphon said: “I went to the Classics master, though.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "casual",
+                    "slightly dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    }
+]

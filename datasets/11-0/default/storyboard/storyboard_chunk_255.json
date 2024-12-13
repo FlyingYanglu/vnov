@@ -1,0 +1,187 @@
+[
+    {
+        "text": "“Now, I’ll manage better this time,” I said to myself, and began by taking the little golden key, and unlocking the door that led into the garden.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "long hall",
+                "little glass table",
+                "golden key"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a little golden key",
+                    "unlocking a door"
+                ],
+                "gaze_and_direction": "looking at the door",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket",
+                        "type": "small"
+                    }
+                },
+                "temporary_features": [
+                    "holding a golden key"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "Then I went to work nibbling at the mushroom (I had kept a piece of it in my pocket) till I was about a foot tall.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "long hall",
+                "little glass table",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nibbling at a mushroom",
+                    "becoming smaller"
+                ],
+                "gaze_and_direction": "looking at the mushroom",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket",
+                        "type": "small"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of mushroom",
+                    "becoming a foot tall"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Once more I found myself in the long hall, and close to the little glass table.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "long hall",
+                "little glass table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the long hall",
+                    "near the little glass table"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket",
+                        "type": "small"
+                    }
+                },
+                "temporary_features": [
+                    "a foot tall"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“Now, I’ll manage better this time,” I said to myself, and began by taking the little golden key, and unlocking the door that led into the garden.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "wooden floor",
+                "evening"
+            ],
+            "scene_features": [
+                "long hall",
+                "little glass table",
+                "golden key"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a little golden key",
+                    "unlocking a door"
+                ],
+                "gaze_and_direction": "looking at the door",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket",
+                        "type": "small"
+                    }
+                },
+                "temporary_features": [
+                    "holding a golden key",
+                    "a foot tall"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    }
+]

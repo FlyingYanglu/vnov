@@ -1,0 +1,252 @@
+[
+    {
+        "text": "“The first thing I’ve got to do,” I said to myself, as I wandered about in the wood, “is to grow to my right size again;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "wandering aimlessly",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking down, lost in thought",
+                "expression": [
+                    "determined",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly behind and above"
+            }
+        ]
+    },
+    {
+        "text": "and the second thing is to find my way into that lovely garden.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking up, eyes scanning the surroundings",
+                "expression": [
+                    "hopeful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly behind and above"
+            }
+        ]
+    },
+    {
+        "text": "It sounded an excellent plan, no doubt, and very neatly and simply arranged;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nodding to self",
+                    "smiling slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "satisfied",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly behind and above"
+            }
+        ]
+    },
+    {
+        "text": "the only difficulty was, that I had not the smallest idea how to set about it;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "scratching head",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly behind and above"
+            }
+        ]
+    },
+    {
+        "text": "and while I was peering about anxiously among the trees, a little sharp bark just over my head made me look up in a great hurry.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "wood",
+                "dense foliage"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "peering around nervously",
+                    "suddenly looking up"
+                ],
+                "gaze_and_direction": "looking up towards the source of the bark",
+                "expression": [
+                    "startled",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "disheveled hair"
+                ],
+                "composition": "Main character centered, camera slightly behind and above"
+            }
+        ]
+    }
+]

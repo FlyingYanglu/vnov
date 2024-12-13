@@ -1,0 +1,222 @@
+[
+    {
+        "text": "“Well, I can’t show it you myself,” the Mock Turtle said: “I’m too stiff.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with flappers"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "flappers",
+                        "type": "paws"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "And the Gryphon never learnt it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "matter-of-fact",
+                    "neutral"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“Hadn’t time,” the Gryphon said: “I went to the Classics master, though.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "neutral"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“I never went to him,” the Mock Turtle said with a sigh: “he taught Laughing and Grief, they used to say.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "flappers",
+                        "type": "paws"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“So he did, so he did,” the Gryphon sighed in his turn; and both creatures hid their faces in their paws.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "bookshelves"
+            ],
+            "scene_features": [
+                "classroom",
+                "desk",
+                "chalkboard"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "sighing",
+                    "hiding face in paws"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly angled"
+            }
+        ]
+    }
+]

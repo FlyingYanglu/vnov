@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "0a2d8a2cb2dc11ef9c85b8cef6a0339e",
+        "text": "“Oh dear, what",
+        "audio_url": "https://v16m-default.akamaized.net/778b1285cbfc74593fc2f38979596b62/6751ad06/video/tos/maliva/tos-maliva-v-f15faa-us/o0SyMAKSZVxzWUY0Cp4oiRBEAABiP1BRBYQFE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUokIOXq8Zmo&qs=13&rc=ajtlZmw5cjxvdzUzNzhoM0BpajtlZmw5cjxvdzUzNzhoM0AtMG5gMmQ0ZTVgLS1kLjZzYSMtMG5gMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338435539900000000000000000000ffff0a0090c39b28e0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.332
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.332
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "0a2d8d06b2dc11ef9c85b8cef6a0339e",
+        "text": "nonsense I’m talking!”",
+        "audio_url": "https://v16m-default.akamaized.net/778b1285cbfc74593fc2f38979596b62/6751ad06/video/tos/maliva/tos-maliva-v-f15faa-us/o0SyMAKSZVxzWUY0Cp4oiRBEAABiP1BRBYQFE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUokIOXq8Zmo&qs=13&rc=ajtlZmw5cjxvdzUzNzhoM0BpajtlZmw5cjxvdzUzNzhoM0AtMG5gMmQ0ZTVgLS1kLjZzYSMtMG5gMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338435539900000000000000000000ffff0a0090c39b28e0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.332,
+            "end_offset": 2.664
+        },
+        "target_timerange": {
+            "start_offset": 1.332,
+            "end_offset": 2.664
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "0a2d9562b2dc11ef9c85b8cef6a0339e",
+        "text": "Poor me!",
+        "audio_url": "https://v16m-default.akamaized.net/e28425f67629df13fa9a917e0920f151/6751ad04/video/tos/maliva/tos-maliva-v-f15faa-us/oMVnBifAEkUF5CsLWQBIUWpAViXFDBA4hfiICJ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUokIOXq8Zmo&qs=13&rc=ajRlZHY5cjxvdzUzNzhoM0BpajRlZHY5cjxvdzUzNzhoM0AybXBeMmQ0ZTVgLS1kLjZzYSMybXBeMmQ0ZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338435539900000000000000000000ffff0a0090c39b28e0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 0.912
+        },
+        "target_timerange": {
+            "start_offset": 2.664,
+            "end_offset": 3.576
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

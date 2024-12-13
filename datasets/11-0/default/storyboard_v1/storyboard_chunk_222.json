@@ -1,0 +1,285 @@
+[
+    {
+        "text": "“Beautiful Soup! Who cares for fish, Game, or any other dish? Who would not give all else for two pennyworth only of beautiful Soup?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "table",
+                "candles",
+                "decorative plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholic",
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Pennyworth only of beautiful Soup? Beau—ootiful Soo—oop! Beau—ootiful Soo—oop!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "table",
+                "candles",
+                "decorative plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholic",
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Soo—oop of the e—e—evening, Beautiful, beauti—FUL SOUP!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "table",
+                "candles",
+                "decorative plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholic",
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a spoon"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Chorus again!” cried the Gryphon, and the Mock Turtle had just begun to repeat it, when a cry of “The trial’s beginning!” was heard in the distance.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "table",
+                "candles",
+                "decorative plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "yelling",
+                    "looking towards the sound"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Come on!” cried the Gryphon, and, taking me by the hand, it hurried off, without waiting for the end of the song.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "table",
+                "candles",
+                "decorative plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "yelling",
+                    "grabbing the protagonist's hand",
+                    "moving quickly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scepter"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What trial is it?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "courtroom",
+                "crowd",
+                "flags"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Protagonist",
+                "age": "young adult",
+                "actions": [
+                    "asking",
+                    "looking at the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small bag"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "text": "“Of course it was,” the Mock Turtle said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "soft fabric",
+                        "type": "shawl"
+                    }
+                },
+                "composition": "Mock Turtle centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“And how did you manage on the twelfth?” I went on eagerly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking eagerly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Alice centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“That’s enough about lessons,” the Gryphon interrupted in a very decided tone: “tell her something about the games now.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "interrupting with a decisive tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing deeply",
+                    "wiping eyes with flapper"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "soft fabric",
+                        "type": "shawl"
+                    }
+                },
+                "composition": "Mock Turtle centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "He looked at me, Alice, and tried to speak, but for a minute or two sobs choked his voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at Alice",
+                    "trying to speak",
+                    "choking on sobs"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "distressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "soft fabric",
+                        "type": "shawl"
+                    }
+                },
+                "composition": "Mock Turtle centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon, ever the impatient one, set to work shaking him and punching him in the back.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "shaking Mock Turtle",
+                    "punching Mock Turtle in the back"
+                ],
+                "gaze_and_direction": "looking at Mock Turtle",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered body",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "At last, the Mock Turtle recovered his voice, and with tears running down his cheeks, he began to speak again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "serene room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "recovering voice",
+                    "speaking with tears"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "tearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "soft fabric",
+                        "type": "shawl"
+                    }
+                },
+                "composition": "Mock Turtle centered, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "text": "I was a good deal frightened by this very sudden change, but I felt that there was no time to be lost, as I was shrinking rapidly; so I set to work at once to eat some of the other bit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large mirror",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking frightened",
+                    "holding a small piece of food"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "fearful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "black belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [
+                    "slight shrinking"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "My chin was pressed so closely against my foot, that there was hardly room to open my mouth; but I did it at last, and managed to swallow a morsel of the lefthand bit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large mirror",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "struggling to open mouth",
+                    "swallowing a morsel of food"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slight discomfort"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "black belt",
+                        "type": "leather"
+                    }
+                },
+                "temporary_features": [
+                    "slight shrinking",
+                    "chin pressed against foot"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

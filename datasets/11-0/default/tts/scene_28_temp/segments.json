@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "f6dcdd9eb2d911ef9b2a1c34da79de38",
+        "text": "Presently she began again.",
+        "audio_url": "https://v16m-default.akamaized.net/461c6b6e75a9a7b9a57aede6e2b5f430/6751a98a/video/tos/maliva/tos-maliva-v-f15faa-us/oQSqELinARkU0TgRgABFEqqwquzoVABwAKiZfl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThZ3kIOXq8Zmo&qs=13&rc=am05N2o5cmRvdzUzNzhoM0Bpam05N2o5cmRvdzUzNzhoM0AyaF9rMmRjXjVgLS1kLjZzYSMyaF9rMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338346494900000000000000000000ffff0a00ad2a933bb3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.752
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.752
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

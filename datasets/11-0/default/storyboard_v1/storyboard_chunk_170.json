@@ -1,0 +1,443 @@
+[
+    {
+        "text": "She’s in prison,” and then ordered, “fetch her here.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "stone walls",
+                "nighttime"
+            ],
+            "scene_features": [
+                "prison cell",
+                "torch lights",
+                "iron bars"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing towards the cell",
+                    "speaking with authority"
+                ],
+                "gaze_and_direction": "looking at the executioner",
+                "expression": [
+                    "stern",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The executioner nodded and went off like an arrow.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "stone walls",
+                "nighttime"
+            ],
+            "scene_features": [
+                "prison cell",
+                "torch lights",
+                "iron bars"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "nodding",
+                    "running swiftly out of frame"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark tunic",
+                        "style": "functional",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "executioner's hood",
+                        "type": "dark"
+                    }
+                },
+                "composition": "Executioner positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "As soon as he was gone, the Cat’s head began fading away.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "stone walls",
+                "nighttime"
+            ],
+            "scene_features": [
+                "prison cell",
+                "torch lights",
+                "iron bars"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "ageless",
+                "actions": [
+                    "head fading into thin air"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning",
+                    "mysterious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "intact"
+                    }
+                },
+                "composition": "Cat's head positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "By the time the executioner returned with the Duchess, the Cat’s head had entirely disappeared.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "stone walls",
+                "nighttime"
+            ],
+            "scene_features": [
+                "prison cell",
+                "torch lights",
+                "iron bars"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "returning with Duchess",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the empty space where the Cat's head was",
+                "expression": [
+                    "confused",
+                    "searching"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark tunic",
+                        "style": "functional",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "executioner's hood",
+                        "type": "dark"
+                    }
+                },
+                "composition": "Executioner positioned on the left, Duchess on the right, camera slightly low angle"
+            },
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "standing beside the executioner",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the empty space where the Cat's head was",
+                "expression": [
+                    "curious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The King and the executioner ran wildly up and down looking for it, while the rest of the party went back to the game.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "stone walls",
+                "nighttime"
+            ],
+            "scene_features": [
+                "prison cell",
+                "torch lights",
+                "iron bars"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "running around",
+                    "searching frantically"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "frustrated",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned on the left, camera slightly low angle"
+            },
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "running around",
+                    "searching frantically"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "confused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark tunic",
+                        "style": "functional",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "executioner's hood",
+                        "type": "dark"
+                    }
+                },
+                "composition": "Executioner positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“You can’t think how glad I am to see you again, you dear old thing!” said the Duchess, as she tucked her arm affectionately into mine, and we walked off together.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "tucking arm into Alice's arm",
+                    "walking"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "happy",
+                    "affectionate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I was very glad to find her in such a pleasant temper, and thought to myself that perhaps it was only the pepper that had made her so savage when we met in the kitchen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "walking with Duchess",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "thoughtful",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairbow",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Alice positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“When _I’m_ a Duchess,” I said to myself, (not in a very hopeful tone though), “I won’t have any pepper in my kitchen _at all_.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "speaking to herself"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined",
+                    "slightly doubtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairbow",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Alice positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Soup does very well without—Maybe it’s always pepper that makes people hot-tempered,” I went on, very much pleased at having found out a new kind of rule,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "speaking to herself"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "pleased",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairbow",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Alice positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

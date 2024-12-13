@@ -1,0 +1,264 @@
+[
+    {
+        "text": "He got behind me as he spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large throne",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "standing behind the viewer",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxuriously embroidered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned slightly behind and to the side, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“A cat may look at a king,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large throne",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve read that in some book, but I don’t remember where.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large throne",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly embarrassed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Well, it must be removed,” the King said very decidedly, and he called the Queen, who was passing at the moment,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large throne",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking decisively",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxuriously embroidered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“My dear! I wish you would have this cat removed!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large throne",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the Queen",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxuriously embroidered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Queen had only one way of settling all difficulties, great or small.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "royal decor"
+            ],
+            "scene_features": [
+                "large throne",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "standing",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxuriously embroidered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "text": "“I couldn’t help but correct him. “Don’t you mean ‘purpose’?” I asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I mean what I say,” the Mock Turtle replied in an offended tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "crossing arms",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a quill pen"
+                ],
+                "composition": "Mock Turtle positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon quickly changed the subject. “Come, let’s hear some of _your_ adventures,” he said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "leaning forward",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "encouraging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a scroll"
+                ],
+                "composition": "Gryphon positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I could tell you my adventures—beginning from this morning,” I said a little timidly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking softly",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking at the floor",
+                "expression": [
+                    "timid",
+                    "hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“but it’s no use going back to yesterday, because I was a different person then.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking softly",
+                    "looking up at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle seemed intrigued.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "antique decor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "leaning forward",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "intrigued",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a quill pen"
+                ],
+                "composition": "Mock Turtle positioned slightly to the right, camera at eye level"
+            }
+        ]
+    }
+]

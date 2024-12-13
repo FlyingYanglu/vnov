@@ -17,7 +17,11 @@ setup(
         'openai',
         'cerberus',
         'PoePT @ git+https://github.com/FlyingYanglu/PoePT@main',  # Add GitHub dependency
-        'JianYingApi @ git+https://github.com/FlyingYanglu/JianYingApi@main'
+        'JianYingApi @ git+https://github.com/FlyingYanglu/JianYingApi@main',
+        'aiohttp',
+        'aiofiles',
+        'pydub',
+        'audiostretchy',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',

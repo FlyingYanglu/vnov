@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "2e90559eb2db11ef8d67506b4b2ab66e",
+        "text": "I said; “I must be shutting",
+        "audio_url": "https://v16m-default.akamaized.net/3dd0c8de82e2fc9efa54152ac85b2c3a/6751ab98/video/tos/maliva/tos-maliva-v-f15faa-us/oI2CA5OERf0GYCeVgpSzqeIgLCXrBAo7XZ31AE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThK8kIOXq8Zmo&qs=13&rc=am51cXg5cmdvdzUzNzhoM0Bpam51cXg5cmdvdzUzNzhoM0BgY3NyMmQ0YjVgLS1kLjZzYSNgY3NyMmQ0YjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338398795200000000000000000000ffff0a0082c0795b69&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2e90571ab2db11ef8d67506b4b2ab66e",
+        "text": "up like a telescope.”",
+        "audio_url": "https://v16m-default.akamaized.net/3dd0c8de82e2fc9efa54152ac85b2c3a/6751ab98/video/tos/maliva/tos-maliva-v-f15faa-us/oI2CA5OERf0GYCeVgpSzqeIgLCXrBAo7XZ31AE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThK8kIOXq8Zmo&qs=13&rc=am51cXg5cmdvdzUzNzhoM0Bpam51cXg5cmdvdzUzNzhoM0BgY3NyMmQ0YjVgLS1kLjZzYSNgY3NyMmQ0YjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338398795200000000000000000000ffff0a0082c0795b69&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5,
+            "end_offset": 3
+        },
+        "target_timerange": {
+            "start_offset": 1.5,
+            "end_offset": 3
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

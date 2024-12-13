@@ -1,0 +1,280 @@
+[
+    {
+        "text": "Just at this moment I felt a very curious sensation, which puzzled me a good deal until I made out what it was: I was beginning to grow larger again, and I thought at first I would get up and leave the court;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "feeling a curious sensation",
+                    "puzzling over the sensation"
+                ],
+                "gaze_and_direction": "looking down at own body",
+                "expression": [
+                    "confused",
+                    "intrigued"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "slight increase in size"
+                ],
+                "composition": "Main character seated, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "but on second thoughts I decided to remain where I was as long as there was room for me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "deciding to stay seated"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "slight increase in size"
+                ],
+                "composition": "Main character seated, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I wish you wouldn’t squeeze so.” said the Dormouse, who was sitting next to me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "complaining about being squeezed"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "annoyed",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "sitting close to the main character"
+                ],
+                "composition": "Dormouse seated, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I can hardly breathe.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "struggling to breathe"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "distressed",
+                    "pained"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "sitting close to the main character"
+                ],
+                "composition": "Dormouse seated, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I can’t help it,” I said very meekly: “I’m growing.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "apologizing meekly",
+                    "explaining the growth"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "slight increase in size"
+                ],
+                "composition": "Main character seated, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You’ve no right to grow _here_,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "carpeted floor"
+            ],
+            "scene_features": [
+                "courtroom",
+                "large table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "protesting the growth"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indignant",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "sitting close to the main character"
+                ],
+                "composition": "Dormouse seated, camera at eye level"
+            }
+        ]
+    }
+]

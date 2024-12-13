@@ -1,0 +1,214 @@
+[
+    {
+        "text": "“That would be grand, certainly,” I said thoughtfully: “but then—I shouldn’t be hungry for it, you know.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking thoughtfully"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Not at first, perhaps,” said the Hatter: “but you could keep it to half-past one as long as you liked.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking casually"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "well-kept",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Is that the way _you_ manage?” I asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly skeptical"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter shook his head mournfully. “Not I!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table with tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "shaking head mournfully"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "well-kept",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

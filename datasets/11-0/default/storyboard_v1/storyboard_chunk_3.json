@@ -1,0 +1,472 @@
+[
+    {
+        "text": "(for, you see, I had learnt several things of this sort in my lessons in the schoolroom, and though this was not a very good opportunity for showing off my knowledge, as there was no one to listen to me, still it was good practice to say it over) \"—yes, that’s about the right distance—but then I wonder what Latitude or Longitude I’ve got to?\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(I had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Presently she began again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I wonder if I shall fall right _through_ the earth! How funny it’ll seem to come out among the people that walk with their heads downward! The Antipathies, I think—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(she was rather glad there _was_ no one listening, this time, as it didn’t sound at all the right word) “—but I shall have to ask them what the name of the country is, you know. Please, Ma’am, is this New Zealand or Australia?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(and she tried to curtsey as she spoke—fancy _curtseying_ as you’re falling through the air! Do you think you could manage it?)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And what an ignorant little girl she’ll think me for asking! No, it’ll never do to ask: perhaps I shall see it written up somewhere.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Down, down, down.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There was nothing else to do, so I soon began talking again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Dinah’ll miss me very much to-night, I should think!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "quiet",
+                "daytime"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing by a desk",
+                    "looking slightly embarrassed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "sheepish",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white pinafore",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

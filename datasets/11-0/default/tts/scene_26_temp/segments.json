@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "ec50a838b2d911efa806043f72b8e3e6",
+        "text": "—yes, that’s about the",
+        "audio_url": "https://v16m-default.akamaized.net/d51e90337631e8eb9e7a40f2600ea227/6751a97e/video/tos/maliva/tos-maliva-v-f15faa-us/ooRBoqBAAEzAiB4qRkfAqjMMRwbnVKwoFigy0E/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThX3kIOXq8Zmo&qs=13&rc=M3U2amo5cjlvdzUzNzhoM0BpM3U2amo5cjlvdzUzNzhoM0BtZGFlMmRjXjVgLS1kLjZzYSNtZGFlMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338344740300000000000000000000ffff0a00ada8c064f6&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3559999999999999
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3559999999999999
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ec50ac3eb2d911efa806043f72b8e3e6",
+        "text": "right distance—but then I",
+        "audio_url": "https://v16m-default.akamaized.net/d51e90337631e8eb9e7a40f2600ea227/6751a97e/video/tos/maliva/tos-maliva-v-f15faa-us/ooRBoqBAAEzAiB4qRkfAqjMMRwbnVKwoFigy0E/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThX3kIOXq8Zmo&qs=13&rc=M3U2amo5cjlvdzUzNzhoM0BpM3U2amo5cjlvdzUzNzhoM0BtZGFlMmRjXjVgLS1kLjZzYSNtZGFlMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338344740300000000000000000000ffff0a00ada8c064f6&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.356,
+            "end_offset": 2.712
+        },
+        "target_timerange": {
+            "start_offset": 1.356,
+            "end_offset": 2.712
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ec50ad88b2d911efa806043f72b8e3e6",
+        "text": "wonder what Latitude or",
+        "audio_url": "https://v16m-default.akamaized.net/d51e90337631e8eb9e7a40f2600ea227/6751a97e/video/tos/maliva/tos-maliva-v-f15faa-us/ooRBoqBAAEzAiB4qRkfAqjMMRwbnVKwoFigy0E/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThX3kIOXq8Zmo&qs=13&rc=M3U2amo5cjlvdzUzNzhoM0BpM3U2amo5cjlvdzUzNzhoM0BtZGFlMmRjXjVgLS1kLjZzYSNtZGFlMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338344740300000000000000000000ffff0a00ada8c064f6&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.712,
+            "end_offset": 4.0680000000000005
+        },
+        "target_timerange": {
+            "start_offset": 2.712,
+            "end_offset": 4.0680000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ec50aef0b2d911efa806043f72b8e3e6",
+        "text": "Longitude I’ve got to?",
+        "audio_url": "https://v16m-default.akamaized.net/d51e90337631e8eb9e7a40f2600ea227/6751a97e/video/tos/maliva/tos-maliva-v-f15faa-us/ooRBoqBAAEzAiB4qRkfAqjMMRwbnVKwoFigy0E/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThX3kIOXq8Zmo&qs=13&rc=M3U2amo5cjlvdzUzNzhoM0BpM3U2amo5cjlvdzUzNzhoM0BtZGFlMmRjXjVgLS1kLjZzYSNtZGFlMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338344740300000000000000000000ffff0a00ada8c064f6&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.0680000000000005,
+            "end_offset": 5.424
+        },
+        "target_timerange": {
+            "start_offset": 4.0680000000000005,
+            "end_offset": 5.424
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

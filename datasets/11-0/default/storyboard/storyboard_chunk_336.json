@@ -1,0 +1,152 @@
+[
+    {
+        "text": "“Swim after them!” screamed the Gryphon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "screaming",
+                    "pointing towards the sea"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "large",
+                        "condition": "spread out"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "muscular",
+                        "condition": "standing"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Turn a somersault in the sea!” cried the Mock Turtle, capering wildly about.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "crying",
+                    "capering wildly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "green",
+                        "condition": "worn on back"
+                    },
+                    "bottom": {
+                        "item": "turtle legs",
+                        "style": "short",
+                        "condition": "moving rapidly"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Change lobsters again!” yelled the Gryphon at the top of its voice.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "waves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "yelling",
+                    "gesturing wildly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "loud"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "large",
+                        "condition": "spread out"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "muscular",
+                        "condition": "standing"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

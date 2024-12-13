@@ -1,0 +1,196 @@
+[
+    {
+        "text": "Taking courage, I continued, “I didn’t know that Cheshire cats always grinned; in fact, I didn’t know that cats _could_ grin.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "luxurious furniture",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "length": "knee-length"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“They all can,” the Duchess said, “and most of ’em do.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "luxurious furniture",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with authority"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "slightly condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "luxuriously embroidered"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a fan"
+                ],
+                "composition": "Duchess positioned slightly right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t know of any that do,” I said politely, feeling pleased to have started a conversation.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "luxurious furniture",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking politely"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "slightly pleased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly tucked"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "length": "knee-length"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "pendant"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“You don’t know much,” the Duchess retorted, “and that’s a fact.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "mansion interior",
+                "luxurious furniture",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "retorting sharply"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "condescending",
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "Victorian",
+                        "condition": "luxuriously embroidered"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a fan"
+                ],
+                "composition": "Duchess positioned slightly right, camera frontal"
+            }
+        ]
+    }
+]

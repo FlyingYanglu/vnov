@@ -21,7 +21,6 @@ class CharacterDesigner(Role):
     character_info_example = CHARACTER_INFO_EXAMPLE
     designer_insertion = DESIGNER_INSERTION
 
-
     def __init__(self, model, **kwargs):
         super().__init__(model, **kwargs)
         self.role = "character designer"

@@ -1,0 +1,195 @@
+[
+    {
+        "text": "“I beg pardon, your Majesty,” he began, “for bringing these in: but I hadn’t quite finished my tea when I was sent for.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "tea set on a table"
+            ],
+            "scene_features": [
+                "courtroom",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "bowing slightly",
+                    "holding a tray with teacups"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding tray with teacups"
+                ],
+                "composition": "Hatter positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“You ought to have finished,” said the King.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "tea set on a table"
+            ],
+            "scene_features": [
+                "courtroom",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "sitting on the throne",
+                    "pointing at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "stern",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on throne"
+                ],
+                "composition": "King positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "tea set on a table"
+            ],
+            "scene_features": [
+                "courtroom",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "turning head to look at the March Hare"
+                ],
+                "gaze_and_direction": "looking to the side",
+                "expression": [
+                    "worried",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding tray with teacups"
+                ],
+                "composition": "Hatter positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“When did you begin?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "tea set on a table"
+            ],
+            "scene_features": [
+                "courtroom",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "sitting on the throne",
+                    "pointing at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "curious",
+                    "interrogating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on throne"
+                ],
+                "composition": "King positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

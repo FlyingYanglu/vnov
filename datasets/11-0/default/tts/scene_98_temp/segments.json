@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "7028ccacb2db11ef83e6b8cef650d1f4",
+        "text": "“Come, there’s no use in",
+        "audio_url": "https://v16m-default.akamaized.net/48dbb6801453d2395952beb0ed9b45fc/6751ac03/video/tos/maliva/tos-maliva-v-f15faa-us/oQkaq9EqZEigwVqgizKoFvB6iQfAFA6ABELRAt/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOQkIOXq8Zmo&qs=13&rc=anM0ZHQ5cjtvdzUzNzhoM0BpanM0ZHQ5cjtvdzUzNzhoM0ByaGhlMmRjYzVgLS1kLjZzYSNyaGhlMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338409321500000000000000000000ffff0a009155e4b6b4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.332
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.332
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7028ce28b2db11ef83e6b8cef650d1f4",
+        "text": "crying like that!”",
+        "audio_url": "https://v16m-default.akamaized.net/48dbb6801453d2395952beb0ed9b45fc/6751ac03/video/tos/maliva/tos-maliva-v-f15faa-us/oQkaq9EqZEigwVqgizKoFvB6iQfAFA6ABELRAt/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOQkIOXq8Zmo&qs=13&rc=anM0ZHQ5cjtvdzUzNzhoM0BpanM0ZHQ5cjtvdzUzNzhoM0ByaGhlMmRjYzVgLS1kLjZzYSNyaGhlMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338409321500000000000000000000ffff0a009155e4b6b4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.332,
+            "end_offset": 2.664
+        },
+        "target_timerange": {
+            "start_offset": 1.332,
+            "end_offset": 2.664
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7028dca6b2db11ef83e6b8cef650d1f4",
+        "text": "said Alice to",
+        "audio_url": "https://v16m-default.akamaized.net/18a5d2649973a95cc50e53fa852552d1/6751ac03/video/tos/maliva/tos-maliva-v-f15faa-us/oE76RXzxqSAHLEEOBoFfCCglCVYAeCENrADfCh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOQkIOXq8Zmo&qs=13&rc=MzVpeHk5cjtvdzUzNzhoM0BpMzVpeHk5cjtvdzUzNzhoM0AuM20zMmRjYzVgLS1kLjZzYSMuM20zMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338409321500000000000000000000ffff0a009155e4b6b4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3800000000000003
+        },
+        "target_timerange": {
+            "start_offset": 2.664,
+            "end_offset": 4.0440000000000005
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "7028de40b2db11ef83e6b8cef650d1f4",
+        "text": "herself, rather sharply;",
+        "audio_url": "https://v16m-default.akamaized.net/18a5d2649973a95cc50e53fa852552d1/6751ac03/video/tos/maliva/tos-maliva-v-f15faa-us/oE76RXzxqSAHLEEOBoFfCCglCVYAeCENrADfCh/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOQkIOXq8Zmo&qs=13&rc=MzVpeHk5cjtvdzUzNzhoM0BpMzVpeHk5cjtvdzUzNzhoM0AuM20zMmRjYzVgLS1kLjZzYSMuM20zMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338409321500000000000000000000ffff0a009155e4b6b4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3800000000000003,
+            "end_offset": 2.7600000000000002
+        },
+        "target_timerange": {
+            "start_offset": 4.0440000000000005,
+            "end_offset": 5.424
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

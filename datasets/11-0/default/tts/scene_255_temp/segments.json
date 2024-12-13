@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "bcb1553cb2de11ef9b65b8cef6277d40",
+        "text": "“Found _it_,” the Mouse replied",
+        "audio_url": "https://v16m-default.akamaized.net/ced34cbd2b889f26de6c308d35d7e114/6751b191/video/tos/maliva/tos-maliva-v-f15faa-us/oYCEEuUlIKhhJ9UBkilDfBkV0sLFAAVQAnfnI4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzLkIOXq8Zmo&qs=13&rc=M2w7cWo5cmVvdzUzNzhoM0BpM2w7cWo5cmVvdzUzNzhoM0A2aC1mMmQ0bjVgLS1kLjZzYSM2aC1mMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338551471800000000000000000000ffff0a00b6614515b1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6800000000000002
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6800000000000002
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "bcb15686b2de11ef9b65b8cef6277d40",
+        "text": "rather crossly: “of course you",
+        "audio_url": "https://v16m-default.akamaized.net/ced34cbd2b889f26de6c308d35d7e114/6751b191/video/tos/maliva/tos-maliva-v-f15faa-us/oYCEEuUlIKhhJ9UBkilDfBkV0sLFAAVQAnfnI4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzLkIOXq8Zmo&qs=13&rc=M2w7cWo5cmVvdzUzNzhoM0BpM2w7cWo5cmVvdzUzNzhoM0A2aC1mMmQ0bjVgLS1kLjZzYSM2aC1mMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338551471800000000000000000000ffff0a00b6614515b1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.68,
+            "end_offset": 3.3600000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.68,
+            "end_offset": 3.3600000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "bcb15780b2de11ef9b65b8cef6277d40",
+        "text": "know what ‘it’ means.”",
+        "audio_url": "https://v16m-default.akamaized.net/ced34cbd2b889f26de6c308d35d7e114/6751b191/video/tos/maliva/tos-maliva-v-f15faa-us/oYCEEuUlIKhhJ9UBkilDfBkV0sLFAAVQAnfnI4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzLkIOXq8Zmo&qs=13&rc=M2w7cWo5cmVvdzUzNzhoM0BpM2w7cWo5cmVvdzUzNzhoM0A2aC1mMmQ0bjVgLS1kLjZzYSM2aC1mMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338551471800000000000000000000ffff0a00b6614515b1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.36,
+            "end_offset": 5.04
+        },
+        "target_timerange": {
+            "start_offset": 3.36,
+            "end_offset": 5.04
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

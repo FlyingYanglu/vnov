@@ -1,0 +1,265 @@
+[
+    {
+        "text": "“Begin at the beginning,” the King said gravely, “and go on till you come to the end: then stop.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "grave",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "These were the verses the White Rabbit read:—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding a scroll",
+                    "reading aloud"
+                ],
+                "gaze_and_direction": "looking down at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit to the side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“They told me you had been to her, And mentioned me to him:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding the scroll",
+                    "reading aloud"
+                ],
+                "gaze_and_direction": "looking down at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit to the side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "She gave me a good character, But said I could not swim.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding the scroll",
+                    "reading aloud"
+                ],
+                "gaze_and_direction": "looking down at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit to the side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "He sent them word I had not gone (We know it to be true):",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding the scroll",
+                    "reading aloud"
+                ],
+                "gaze_and_direction": "looking down at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit to the side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "If she should push the matter on, What would become of you?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding the scroll",
+                    "reading aloud"
+                ],
+                "gaze_and_direction": "looking down at the scroll",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "silver"
+                    }
+                },
+                "composition": "White Rabbit to the side, camera slightly low angle"
+            }
+        ]
+    }
+]

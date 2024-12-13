@@ -1,0 +1,312 @@
+[
+    {
+        "text": "“Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if I’ve been changed in the night? Let me think: was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I’m not the same, the next question is, Who in the world am I? Ah, that’s the great puzzle!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I began thinking over all the children I knew that were of the same age as myself, to see if I could have been changed for any of them.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "deep in thought"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m sure I’m not Ada,” I said, “for her hair goes in such long ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all sorts of things, and she, oh! she knows such a very little! Besides, _she’s_ she, and _I’m_ I, and—oh dear, how puzzling it all is!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "talking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I’ll try if I know all the things I used to know. Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear! I shall never get to twenty at that rate! However, the Multiplication Table doesn’t signify: let’s try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, _that’s_ all wrong, I’m certain! I must have been changed for Mabel!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "counting on fingers",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "confused",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I’ll try and say ‘_How doth the little_—’” and I crossed my hands on my lap as if I were saying lessons, and began to repeat it, but my voice sounded hoarse and strange, and the words did not come the same as they used to do:—“How doth the little crocodile Improve his shining tail,And pour the waters of the Nile On every golden scale!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "crossing hands on lap",
+                    "repeating words"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "concentrated",
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "How cheerfully he seems to grin, How neatly spread his claws,And welcome little fishes in With gently smiling jaws!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "repeating words",
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "confused",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m sure those are not the right words,” I said, and my eyes filled with tears again as I went on,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "morning light",
+                "cozy room"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bed",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the edge of the bed",
+                    "looking sad"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "teary-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

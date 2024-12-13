@@ -1,8 +1,6 @@
 from vnov.configs import CONFIG
 from vnov.llms.base import BaseLLM
 from openai import OpenAI
-import transformers
-
 class Deepseek(BaseLLM):
     max_length = 4096
     def __init__(self, **kwargs):

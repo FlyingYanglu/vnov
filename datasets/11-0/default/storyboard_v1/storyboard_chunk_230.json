@@ -1,0 +1,253 @@
+[
+    {
+        "text": "“When did you begin?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "tea party table",
+                "candles",
+                "teacups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "open court",
+                "evening"
+            ],
+            "scene_features": [
+                "stone benches",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "jacket",
+                        "style": "vintage",
+                        "condition": "slightly torn"
+                    },
+                    "headwear": {
+                        "item": "bowler hat",
+                        "style": "classic",
+                        "condition": "slightly askew"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [
+                    "arm-in-arm with Dormouse"
+                ],
+                "composition": "March Hare centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Fourteenth of March, I _think_ it was,” he said.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "open court",
+                "evening"
+            ],
+            "scene_features": [
+                "stone benches",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "uncertain",
+                    "slightly hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "classic",
+                        "condition": "tilted"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Fifteenth,” said the March Hare.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "open court",
+                "evening"
+            ],
+            "scene_features": [
+                "stone benches",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "confident",
+                    "slightly smug"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "jacket",
+                        "style": "vintage",
+                        "condition": "slightly torn"
+                    },
+                    "headwear": {
+                        "item": "bowler hat",
+                        "style": "classic",
+                        "condition": "slightly askew"
+                    },
+                    "accessories": {
+                        "item": "cane",
+                        "type": "walking stick"
+                    }
+                },
+                "temporary_features": [
+                    "arm-in-arm with Dormouse"
+                ],
+                "composition": "March Hare centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Sixteenth,” added the Dormouse.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "open court",
+                "evening"
+            ],
+            "scene_features": [
+                "stone benches",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "sleepy",
+                    "slightly drowsy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shirt",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "headwear": {
+                        "item": "cap",
+                        "style": "casual",
+                        "condition": "slightly tilted"
+                    },
+                    "accessories": {
+                        "item": "blanket",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "arm-in-arm with March Hare"
+                ],
+                "composition": "Dormouse centered, camera slightly low angle"
+            }
+        ]
+    }
+]

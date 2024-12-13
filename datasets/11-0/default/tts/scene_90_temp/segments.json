@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "4393276eb2db11ef9709b8cef6a04086",
+        "text": "And I tried to fancy what the",
+        "audio_url": "https://v16m-default.akamaized.net/0476cedf3eafae3e28d5abbc25516a1d/6751abc0/video/tos/maliva/tos-maliva-v-f15faa-us/ogduEkr3sBF1VzAmAKi2gqzABw5oWAOqEOfERi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXTkIOXq8Zmo&qs=13&rc=anB1dnA5cnBvdzUzNzhoM0BpanB1dnA5cnBvdzUzNzhoM0BpZm1vMmRjYjVgLS1kLjZzYSNpZm1vMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338402296700000000000000000000ffff0a00a874a3b3ae&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5216000000000003
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5216000000000003
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43932944b2db11ef9709b8cef6a04086",
+        "text": "flame of a candle is like after",
+        "audio_url": "https://v16m-default.akamaized.net/0476cedf3eafae3e28d5abbc25516a1d/6751abc0/video/tos/maliva/tos-maliva-v-f15faa-us/ogduEkr3sBF1VzAmAKi2gqzABw5oWAOqEOfERi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXTkIOXq8Zmo&qs=13&rc=anB1dnA5cnBvdzUzNzhoM0BpanB1dnA5cnBvdzUzNzhoM0BpZm1vMmRjYjVgLS1kLjZzYSNpZm1vMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338402296700000000000000000000ffff0a00a874a3b3ae&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5216,
+            "end_offset": 3.0432000000000006
+        },
+        "target_timerange": {
+            "start_offset": 1.5216,
+            "end_offset": 3.0432000000000006
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43932a52b2db11ef9709b8cef6a04086",
+        "text": "the candle is blown out, for I",
+        "audio_url": "https://v16m-default.akamaized.net/0476cedf3eafae3e28d5abbc25516a1d/6751abc0/video/tos/maliva/tos-maliva-v-f15faa-us/ogduEkr3sBF1VzAmAKi2gqzABw5oWAOqEOfERi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXTkIOXq8Zmo&qs=13&rc=anB1dnA5cnBvdzUzNzhoM0BpanB1dnA5cnBvdzUzNzhoM0BpZm1vMmRjYjVgLS1kLjZzYSNpZm1vMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338402296700000000000000000000ffff0a00a874a3b3ae&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0432,
+            "end_offset": 4.5648
+        },
+        "target_timerange": {
+            "start_offset": 3.0432,
+            "end_offset": 4.5648
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43932b42b2db11ef9709b8cef6a04086",
+        "text": "could not remember ever having",
+        "audio_url": "https://v16m-default.akamaized.net/0476cedf3eafae3e28d5abbc25516a1d/6751abc0/video/tos/maliva/tos-maliva-v-f15faa-us/ogduEkr3sBF1VzAmAKi2gqzABw5oWAOqEOfERi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXTkIOXq8Zmo&qs=13&rc=anB1dnA5cnBvdzUzNzhoM0BpanB1dnA5cnBvdzUzNzhoM0BpZm1vMmRjYjVgLS1kLjZzYSNpZm1vMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338402296700000000000000000000ffff0a00a874a3b3ae&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.5648,
+            "end_offset": 6.0864
+        },
+        "target_timerange": {
+            "start_offset": 4.5648,
+            "end_offset": 6.0864
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "43932c32b2db11ef9709b8cef6a04086",
+        "text": "seen such a thing.",
+        "audio_url": "https://v16m-default.akamaized.net/0476cedf3eafae3e28d5abbc25516a1d/6751abc0/video/tos/maliva/tos-maliva-v-f15faa-us/ogduEkr3sBF1VzAmAKi2gqzABw5oWAOqEOfERi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThXTkIOXq8Zmo&qs=13&rc=anB1dnA5cnBvdzUzNzhoM0BpanB1dnA5cnBvdzUzNzhoM0BpZm1vMmRjYjVgLS1kLjZzYSNpZm1vMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338402296700000000000000000000ffff0a00a874a3b3ae&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.0864,
+            "end_offset": 7.6080000000000005
+        },
+        "target_timerange": {
+            "start_offset": 6.0864,
+            "end_offset": 7.6080000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

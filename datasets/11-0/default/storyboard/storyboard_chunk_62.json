@@ -1,0 +1,127 @@
+[
+    {
+        "text": "So I called softly after it, “Mouse dear! Do come back again, and we won’t talk about cats or dogs either, if you don’t like them!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "riverbank",
+                "water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "calling softly towards the water"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "gentle",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When the Mouse heard this, it turned round and swam slowly back to me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "riverbank",
+                "water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "turning around",
+                    "swimming slowly towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "wet"
+                    }
+                },
+                "composition": "Mouse centered, camera slightly underwater angle"
+            }
+        ]
+    },
+    {
+        "text": "Its face was quite pale, and it said in a low trembling voice, “Let us get to the shore, and then I’ll tell you my history, and you’ll understand why",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "riverbank",
+                "water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking in a low, trembling voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "fearful",
+                    "pale"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "wet"
+                    }
+                },
+                "composition": "Mouse centered, camera slightly underwater angle"
+            }
+        ]
+    }
+]

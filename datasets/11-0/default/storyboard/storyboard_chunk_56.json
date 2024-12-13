@@ -1,0 +1,164 @@
+[
+    {
+        "text": "The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pond",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "leaping out of the water",
+                    "quivering"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "wet"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, I beg your pardon!” I cried hastily, afraid that I had hurt the poor animal’s feelings.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pond",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hastily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I quite forgot you didn’t like cats.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pond",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "regretful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Not like cats!” cried the Mouse, in a shrill, passionate voice.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "pond",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "crying out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "passionate",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "wet"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    }
+]

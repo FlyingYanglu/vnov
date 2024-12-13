@@ -1,0 +1,182 @@
+[
+    {
+        "text": "Lastly, I pictured to myself how this same little sister of mine would, in the after-time, be herself a grown woman;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Little Sister",
+                "age": "adult",
+                "actions": [
+                    "sitting by the fireplace",
+                    "holding a book"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and how she would keep, through all her riper years, the simple and loving heart of her childhood:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Little Sister",
+                "age": "adult",
+                "actions": [
+                    "smiling gently",
+                    "placing a hand over her heart"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "warm",
+                    "loving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and how she would gather about her other little children, and make their eyes bright and eager with many a strange tale, perhaps even with the dream of Wonderland of long ago:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Little Sister",
+                "age": "adult",
+                "actions": [
+                    "sitting with children",
+                    "telling a story"
+                ],
+                "gaze_and_direction": "looking at the children",
+                "expression": [
+                    "animated",
+                    "joyful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and how she would feel with all their simple sorrows, and find a pleasure in all their simple joys,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Little Sister",
+                "age": "adult",
+                "actions": [
+                    "comforting a crying child",
+                    "smiling warmly"
+                ],
+                "gaze_and_direction": "looking at the child",
+                "expression": [
+                    "compassionate",
+                    "gentle"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

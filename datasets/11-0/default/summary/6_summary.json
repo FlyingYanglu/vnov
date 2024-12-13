@@ -1,0 +1,113 @@
+[
+    {
+        "summary": "Alice encounters a series of bizarre characters and events as she attempts to enter a house. She first meets two footmen, one resembling a fish and the other a frog, who deliver an invitation to the Duchess from the Queen. Inside the house, Alice finds the Duchess, her baby, and a cook in a chaotic kitchen filled with pepper and noise. The Duchess's baby unexpectedly turns into a pig, which Alice releases into the woods. Alice then converses with the Cheshire Cat, who provides cryptic advice and vanishes mysteriously. The chapter ends with Alice deciding to visit the March Hare, pondering the strange transformations and encounters she has experienced.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "adventurous",
+                    "polite"
+                ],
+                "actions": [
+                    "tries to enter the house",
+                    "catches the baby",
+                    "releases the pig",
+                    "converses with the Cheshire Cat"
+                ],
+                "relationships": [
+                    "Duchess",
+                    "Cheshire Cat"
+                ]
+            },
+            "Fish-Footman": {
+                "traits": [
+                    "formal",
+                    "solemn"
+                ],
+                "actions": [
+                    "delivers a letter to the Frog-Footman"
+                ],
+                "relationships": [
+                    "Frog-Footman"
+                ]
+            },
+            "Frog-Footman": {
+                "traits": [
+                    "round-faced",
+                    "solemn"
+                ],
+                "actions": [
+                    "receives a letter from the Fish-Footman",
+                    "sits near the door"
+                ],
+                "relationships": [
+                    "Fish-Footman"
+                ]
+            },
+            "Duchess": {
+                "traits": [
+                    "harsh",
+                    "violent"
+                ],
+                "actions": [
+                    "nurses the baby",
+                    "throws the baby at Alice",
+                    "sings a lullaby"
+                ],
+                "relationships": [
+                    "baby",
+                    "Alice"
+                ]
+            },
+            "Baby": {
+                "traits": [
+                    "noisy",
+                    "unruly"
+                ],
+                "actions": [
+                    "sneezes and howls",
+                    "turns into a pig"
+                ],
+                "relationships": [
+                    "Duchess"
+                ]
+            },
+            "Cook": {
+                "traits": [
+                    "violent",
+                    "careless"
+                ],
+                "actions": [
+                    "throws kitchen items at the Duchess and baby",
+                    "stirs soup"
+                ],
+                "relationships": [
+                    "Duchess"
+                ]
+            },
+            "Cheshire Cat": {
+                "traits": [
+                    "mysterious",
+                    "grinning",
+                    "cryptic"
+                ],
+                "actions": [
+                    "provides advice to Alice",
+                    "vanishes and reappears"
+                ],
+                "relationships": [
+                    "Alice"
+                ]
+            }
+        },
+        "key_events": [
+            "Alice encounters the Fish-Footman and Frog-Footman.",
+            "The footmen deliver an invitation to the Duchess.",
+            "Alice enters the house and finds the chaotic kitchen.",
+            "The Duchess's baby turns into a pig.",
+            "Alice converses with the Cheshire Cat.",
+            "The Cheshire Cat vanishes and reappears.",
+            "Alice decides to visit the March Hare."
+        ]
+    }
+]

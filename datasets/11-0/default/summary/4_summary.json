@@ -1,0 +1,67 @@
+[
+    {
+        "summary": "In this segment of 'Alice's Adventures in Wonderland,' Alice encounters the White Rabbit, who mistakes her for his housemaid, Mary Ann, and orders her to fetch his gloves and fan. Alice, confused but obedient, ventures into the Rabbit's house and finds a bottle that causes her to grow uncontrollably large, trapping her inside. The Rabbit, along with other characters like Bill the Lizard, attempts to remove her, leading to chaos and humorous interactions. Alice eventually shrinks after eating a cake, escapes the house, and finds herself in a forest where she encounters an enormous puppy. The story highlights Alice's ongoing struggle with her size changes and her interactions with the whimsical characters of Wonderland.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "obedient",
+                    "resourceful"
+                ],
+                "actions": [
+                    "runs to fetch Rabbit's gloves and fan",
+                    "drinks from a bottle causing her to grow",
+                    "eats a cake to shrink",
+                    "encounters an enormous puppy"
+                ],
+                "relationships": [
+                    "Dinah (her cat)"
+                ]
+            },
+            "White Rabbit": {
+                "traits": [
+                    "anxious",
+                    "authoritative",
+                    "mistaken"
+                ],
+                "actions": [
+                    "orders Alice to fetch his gloves and fan",
+                    "attempts to remove Alice from his house",
+                    "calls for help from other characters"
+                ],
+                "relationships": [
+                    "Mary Ann (housemaid)"
+                ]
+            },
+            "Bill the Lizard": {
+                "traits": [
+                    "flustered",
+                    "helpless"
+                ],
+                "actions": [
+                    "gets kicked down the chimney by Alice",
+                    "is held up by guinea-pigs"
+                ],
+                "relationships": []
+            },
+            "Enormous Puppy": {
+                "traits": [
+                    "playful",
+                    "large"
+                ],
+                "actions": [
+                    "tries to play with Alice",
+                    "chases the stick she offers"
+                ],
+                "relationships": []
+            }
+        },
+        "key_events": [
+            "Alice is mistaken for Mary Ann by the White Rabbit.",
+            "Alice grows uncontrollably large after drinking from a bottle.",
+            "The Rabbit and other characters attempt to remove Alice from the house.",
+            "Alice shrinks after eating a cake.",
+            "Alice encounters an enormous puppy in the forest."
+        ]
+    }
+]

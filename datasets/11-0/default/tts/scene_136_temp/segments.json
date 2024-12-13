@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "38ebffb0b2dc11ef80ebb8cef6a0339e",
+        "text": "I felt so desperate that I was",
+        "audio_url": "https://v16m-default.akamaized.net/821ad276769f8624ffb6ef9a3e1dcd53/6751ad57/video/tos/maliva/tos-maliva-v-f15faa-us/oYW81i5wiEBEo6q1KRfxcA5FqA6MzBkYgAoPAw/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thb_kIOXq8Zmo&qs=13&rc=M282eHY5cnZvdzUzNzhoM0BpM282eHY5cnZvdzUzNzhoM0BiX2dwMmRzZTVgLS1kLjZzYSNiX2dwMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338443499100000000000000000000ffff0a0093c8a4fab5&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.764
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.764
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "38ec00e6b2dc11ef80ebb8cef6a0339e",
+        "text": "ready to ask help of anyone.",
+        "audio_url": "https://v16m-default.akamaized.net/821ad276769f8624ffb6ef9a3e1dcd53/6751ad57/video/tos/maliva/tos-maliva-v-f15faa-us/oYW81i5wiEBEo6q1KRfxcA5FqA6MzBkYgAoPAw/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thb_kIOXq8Zmo&qs=13&rc=M282eHY5cnZvdzUzNzhoM0BpM282eHY5cnZvdzUzNzhoM0BiX2dwMmRzZTVgLS1kLjZzYSNiX2dwMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338443499100000000000000000000ffff0a0093c8a4fab5&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.764,
+            "end_offset": 3.528
+        },
+        "target_timerange": {
+            "start_offset": 1.764,
+            "end_offset": 3.528
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

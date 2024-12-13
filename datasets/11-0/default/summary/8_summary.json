@@ -1,0 +1,103 @@
+[
+    {
+        "summary": "Alice arrives at the Queen’s croquet-ground, where she witnesses three gardeners painting white roses red to avoid the Queen’s wrath. The Queen, known for her quick temper and frequent executions, arrives with a grand procession, including soldiers, courtiers, and royal children. Alice is questioned by the Queen and stands her ground, even when threatened with beheading. The gardeners seek Alice’s protection, and she hides them in a flower-pot. The Queen initiates a chaotic game of croquet, using live hedgehogs and flamingoes as equipment, which leads to constant disputes and threats of execution. Alice befriends the Cheshire Cat, who provides her with company and commentary on the bizarre events. The game descends into further chaos, with the Queen’s frequent outbursts and the disappearance of the Cheshire Cat, leading to a dispute between the King, Queen, and executioner. Alice ultimately decides to leave the game, unsure of her place in this strange world.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "brave",
+                    "polite"
+                ],
+                "actions": [
+                    "questions the gardeners",
+                    "protects the gardeners",
+                    "befriends the Cheshire Cat",
+                    "plays croquet"
+                ],
+                "relationships": [
+                    "befriends the Cheshire Cat"
+                ]
+            },
+            "Queen of Hearts": {
+                "traits": [
+                    "quick-tempered",
+                    "authoritarian",
+                    "cruel"
+                ],
+                "actions": [
+                    "questions Alice",
+                    "threatens beheading",
+                    "initiates croquet game",
+                    "demands executions"
+                ],
+                "relationships": [
+                    "rules over the King of Hearts"
+                ]
+            },
+            "King of Hearts": {
+                "traits": [
+                    "timid",
+                    "submissive"
+                ],
+                "actions": [
+                    "intervenes in Queen’s threats",
+                    "asks for the Cheshire Cat’s removal"
+                ],
+                "relationships": [
+                    "ruled by the Queen of Hearts"
+                ]
+            },
+            "Cheshire Cat": {
+                "traits": [
+                    "mysterious",
+                    "witty",
+                    "disappearing"
+                ],
+                "actions": [
+                    "converses with Alice",
+                    "disappears during dispute"
+                ],
+                "relationships": [
+                    "befriends Alice"
+                ]
+            },
+            "Gardeners (Five, Seven, Two)": {
+                "traits": [
+                    "fearful",
+                    "blaming"
+                ],
+                "actions": [
+                    "paint roses red",
+                    "seek Alice’s protection"
+                ],
+                "relationships": [
+                    "fear the Queen"
+                ]
+            },
+            "Executioner": {
+                "traits": [
+                    "reluctant",
+                    "logical"
+                ],
+                "actions": [
+                    "debates with King and Queen",
+                    "fetches the Duchess"
+                ],
+                "relationships": [
+                    "follows Queen’s orders"
+                ]
+            }
+        },
+        "key_events": [
+            "Alice observes gardeners painting white roses red.",
+            "The Queen arrives with a grand procession.",
+            "Alice is questioned by the Queen and stands her ground.",
+            "The gardeners seek Alice’s protection and are hidden in a flower-pot.",
+            "The Queen initiates a chaotic game of croquet.",
+            "Alice befriends the Cheshire Cat.",
+            "The game descends into chaos with frequent disputes and threats of execution.",
+            "The Cheshire Cat disappears during a dispute.",
+            "Alice decides to leave the game."
+        ]
+    }
+]

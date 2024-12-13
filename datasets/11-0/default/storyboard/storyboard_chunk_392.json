@@ -1,0 +1,199 @@
+[
+    {
+        "text": "“Well, at any rate, the Dormouse said—” the Hatter went on, looking anxiously around.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "looking anxiously around"
+                ],
+                "gaze_and_direction": "eyes darting around the room",
+                "expression": [
+                    "anxious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "But the Dormouse, fast asleep, denied nothing.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "fast asleep"
+                ],
+                "gaze_and_direction": "eyes closed",
+                "expression": [
+                    "peaceful",
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft"
+                    },
+                    "accessories": {
+                        "item": "small blanket",
+                        "type": "quilt",
+                        "condition": "lightly draped"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“After that,” the Hatter continued, “I cut some more bread-and-butter—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "cutting bread-and-butter"
+                ],
+                "gaze_and_direction": "looking down at the bread",
+                "expression": [
+                    "focused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "formal",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a knife"
+                ],
+                "composition": "Hatter positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“But what did the Dormouse say?” one of the jury members asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "adult",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious",
+                    "intrigued"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "round",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Jury Member positioned on the left, camera slightly low angle"
+            }
+        ]
+    }
+]

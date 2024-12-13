@@ -1,0 +1,218 @@
+[
+    {
+        "text": "When I went back to the table for it, I found I could not possibly reach.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "glass surface"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "reaching towards the table"
+                ],
+                "gaze_and_direction": "looking at the table",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "glass surface"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "attempting to climb the table leg"
+                ],
+                "gaze_and_direction": "looking at the table leg",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and when she had tired herself out with trying, the poor little thing sat down and cried.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "glass surface"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "sitting down",
+                    "crying"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Come, there’s no use in crying like that!” said Alice to herself, rather sharply;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "glass surface"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "talking to herself"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I advise you to leave off this minute!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "wooden table",
+                "glass surface"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "talking to herself"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small object"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

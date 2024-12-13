@@ -1,0 +1,107 @@
+[
+    {
+        "segment_id": "93fce476b2de11efb4ac0c42a117b3f4",
+        "text": "‘William the Conqueror, whose",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4948571428571427
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4948571428571427
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "93fce5b6b2de11efb4ac0c42a117b3f4",
+        "text": "cause was favoured by the",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4948571428571429,
+            "end_offset": 2.989714285714286
+        },
+        "target_timerange": {
+            "start_offset": 1.4948571428571429,
+            "end_offset": 2.989714285714286
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "93fce6bab2de11efb4ac0c42a117b3f4",
+        "text": "pope, was soon submitted to",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.9897142857142858,
+            "end_offset": 4.484571428571429
+        },
+        "target_timerange": {
+            "start_offset": 2.9897142857142858,
+            "end_offset": 4.484571428571429
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "93fce7aab2de11efb4ac0c42a117b3f4",
+        "text": "by the English, who wanted",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.484571428571429,
+            "end_offset": 5.9794285714285715
+        },
+        "target_timerange": {
+            "start_offset": 4.484571428571429,
+            "end_offset": 5.9794285714285715
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "93fce886b2de11efb4ac0c42a117b3f4",
+        "text": "leaders, and had been of late",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.9794285714285715,
+            "end_offset": 7.474285714285715
+        },
+        "target_timerange": {
+            "start_offset": 5.9794285714285715,
+            "end_offset": 7.474285714285715
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "93fce96cb2de11efb4ac0c42a117b3f4",
+        "text": "much accustomed to usurpation",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.474285714285714,
+            "end_offset": 8.969142857142858
+        },
+        "target_timerange": {
+            "start_offset": 7.474285714285714,
+            "end_offset": 8.969142857142858
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "93fcea52b2de11efb4ac0c42a117b3f4",
+        "text": "and conquest.",
+        "audio_url": "https://v16m-default.akamaized.net/c44dd47fcd9e12da3d5223e132044c19/6751b154/video/tos/maliva/tos-maliva-v-f15faa-us/oUEGOoApkQVrCCfMVqnCCeAXIBSORxAEPgeLrX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThpCkIOXq8Zmo&qs=13&rc=anJqanQ5cnRvdzUzNzhoM0BpanJqanQ5cnRvdzUzNzhoM0BzcnI2MmRrbTVgLS1kLjZzYSNzcnI2MmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338544722100000000000000000000ffff0a008db1b66e78&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 8.969142857142858,
+            "end_offset": 10.464
+        },
+        "target_timerange": {
+            "start_offset": 8.969142857142858,
+            "end_offset": 10.464
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

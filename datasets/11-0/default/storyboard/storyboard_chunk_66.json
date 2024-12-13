@@ -1,0 +1,138 @@
+[
+    {
+        "text": "At last the Mouse, who seemed to be a person of authority among them, called out, “Sit down, all of you, and listen to me! I’ll soon make you dry enough!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mild temperature"
+            ],
+            "scene_features": [
+                "large room",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "calling out",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on hind legs"
+                ],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They all sat down at once, in a large ring, with the Mouse in the middle.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mild temperature"
+            ],
+            "scene_features": [
+                "large room",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing in the middle of a circle"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "observant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on hind legs"
+                ],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I kept my eyes anxiously fixed on it, for I felt sure I would catch a bad cold if I did not get dry very soon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mild temperature"
+            ],
+            "scene_features": [
+                "large room",
+                "wooden floor",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "fixing eyes on the Mouse"
+                ],
+                "gaze_and_direction": "looking at the Mouse",
+                "expression": [
+                    "anxious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "slightly damp"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "damp hair"
+                ],
+                "composition": "Main character on the left, Mouse on the right, camera at eye level"
+            }
+        ]
+    }
+]

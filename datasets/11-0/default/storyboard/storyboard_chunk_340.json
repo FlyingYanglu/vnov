@@ -1,0 +1,257 @@
+[
+    {
+        "text": "They are waiting on the shingle—will you come and join the dance?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "shingle",
+                "distant horizon",
+                "seagulls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "inviting",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [
+                    "holding a dance invitation"
+                ],
+                "composition": "Narrator positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, will you join the dance?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "shingle",
+                "distant horizon",
+                "seagulls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "repeating the invitation rhythmically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "encouraging",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [
+                    "holding a dance invitation"
+                ],
+                "composition": "Narrator positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, won’t you join the dance?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "shingle",
+                "distant horizon",
+                "seagulls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "repeating the invitation rhythmically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "encouraging",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [
+                    "holding a dance invitation"
+                ],
+                "composition": "Narrator positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“You can really have no notion how delightful it will be",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "shingle",
+                "distant horizon",
+                "seagulls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "speaking enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [
+                    "holding a dance invitation"
+                ],
+                "composition": "Narrator positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "When they take us up and throw us, with the lobsters, out to sea!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "shingle",
+                "distant horizon",
+                "seagulls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing dramatically towards the sea"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [
+                    "holding a dance invitation"
+                ],
+                "composition": "Narrator positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

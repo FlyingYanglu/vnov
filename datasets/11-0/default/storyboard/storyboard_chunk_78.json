@@ -1,0 +1,184 @@
+[
+    {
+        "text": "nd handed them round as prizes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorated tables",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Host",
+                "age": "middle-aged",
+                "actions": [
+                    "handing out small wrapped boxes"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smiling",
+                    "proud"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal black suit",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "red bow tie",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stack of prizes"
+                ],
+                "composition": "Host centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Prizes!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorated tables",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Guest",
+                "age": "young adult",
+                "actions": [
+                    "reaching out to take a prize"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "evening gown",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small wrapped box"
+                ],
+                "composition": "Guest centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There was exactly one a-piece, all round.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorated tables",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Guest",
+                "age": "young adult",
+                "actions": [
+                    "holding a prize",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "satisfied"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "evening gown",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small wrapped box"
+                ],
+                "composition": "Guest centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But she must have a prize herself, you know,” said the Mouse.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorated tables",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small wrapped box"
+                ],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    }
+]

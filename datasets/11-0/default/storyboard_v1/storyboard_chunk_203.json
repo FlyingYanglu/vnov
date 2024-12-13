@@ -1,0 +1,279 @@
+[
+    {
+        "text": "Come, let’s try the first figure!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "ornate decorations",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing towards the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "tail",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "We can do without lobsters, you know.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "ornate decorations",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "tail",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Which shall sing?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "ornate decorations",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at the Gryphon with a questioning gaze"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "tail",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Oh, you sing,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "ornate decorations",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the Mock Turtle"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "lion's mane",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "eagle's wings",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I’ve forgotten the words.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "ornate decorations",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "middle-aged",
+                "actions": [
+                    "shrugging"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "lion's mane",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "eagle's wings",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "So they began solemnly dancing round and round me, every now and then treading on my toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:—“",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "ornate decorations",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "dancing slowly",
+                    "singing sadly"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "bottom": {
+                        "item": "tail",
+                        "style": "natural",
+                        "condition": "worn naturally"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle on the left, camera slightly low angle"
+            }
+        ]
+    }
+]

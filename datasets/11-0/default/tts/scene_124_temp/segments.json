@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "f8e6a58cb2db11ef9cd2b8cef6a04086",
+        "text": "And how odd the directions will look!”",
+        "audio_url": "https://v16m-default.akamaized.net/ca722e90aec586b8b9b10c0b478d92d7/6751acea/video/tos/maliva/tos-maliva-v-f15faa-us/ocQAHEVVnBAesoHwLDBSCB3UFAiIJIfVQhK9iG/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsokIOXq8Zmo&qs=13&rc=am5kPHI5cjRvdzUzNzhoM0Bpam5kPHI5cjRvdzUzNzhoM0AuNDZjMmRzZTVgLS1kLjZzYSMuNDZjMmRzZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338432706200000000000000000000ffff0a00ad5cf135b7&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "text": "So I stood still where I was and waited.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "procession approaching",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "waiting"
+                ],
+                "gaze_and_direction": "looking ahead",
+                "expression": [
+                    "patient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When the procession came opposite to me, they all stopped and looked at me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "procession stopped",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "stopping",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct gaze at the viewer",
+                "expression": [
+                    "severe"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Queen said severely, “Who is this?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "procession stopped",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "speaking severely"
+                ],
+                "gaze_and_direction": "direct gaze at the viewer",
+                "expression": [
+                    "severe"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "immaculate"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "She said it to the Knave of Hearts, who only bowed and smiled in reply.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "procession stopped",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave of Hearts",
+                "age": "young adult",
+                "actions": [
+                    "bowing",
+                    "smiling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red suit",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "heart-shaped badge",
+                        "type": "symbolic"
+                    }
+                },
+                "composition": "Knave of Hearts positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

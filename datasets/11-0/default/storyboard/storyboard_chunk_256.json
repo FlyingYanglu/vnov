@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Then I went to work nibbling at the mushroom (I had kept a piece of it in my pocket) till I was about a foot tall.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open area"
+            ],
+            "scene_features": [
+                "villa",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nibbling at a mushroom",
+                    "becoming smaller"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of mushroom"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Then she walked down the little passage: and _then_—she found herself at last in the beautiful garden, among the bright flower-beds and the cool fountains.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open area"
+            ],
+            "scene_features": [
+                "garden",
+                "flower-beds",
+                "fountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking down a passage",
+                    "entering the garden"
+                ],
+                "gaze_and_direction": "looking around in awe",
+                "expression": [
+                    "surprised",
+                    "happy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of mushroom"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "I found myself near a large rose-tree at the entrance of the garden.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open area"
+            ],
+            "scene_features": [
+                "garden",
+                "rose-tree",
+                "flower-beds",
+                "fountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near a large rose-tree"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "intrigued"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of mushroom"
+                ],
+                "composition": "Main character centered, camera slightly to the side"
+            }
+        ]
+    }
+]

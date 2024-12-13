@@ -1,0 +1,242 @@
+[
+    {
+        "text": "Let me see: that would be four thousand miles down, I think—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "thinking deeply",
+                    "holding a pencil"
+                ],
+                "gaze_and_direction": "looking down at a notebook",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "school uniform",
+                        "style": "standard",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(for, you see, I had learnt several things of this sort in my lessons in the schoolroom,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "recalling past lessons",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "school uniform",
+                        "style": "standard",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "and though this was not a very good opportunity for showing off my knowledge, as there was no one to listen to me, still it was good practice to say it over)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "speaking softly to self",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "school uniform",
+                        "style": "standard",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "—yes, that’s about the right distance—but then I wonder what Latitude or Longitude I’ve got to?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "thinking aloud",
+                    "looking up in thought"
+                ],
+                "gaze_and_direction": "looking up at the ceiling",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "school uniform",
+                        "style": "standard",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(I had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere"
+            ],
+            "scene_features": [
+                "schoolroom",
+                "desk",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "smiling to self",
+                    "nodding slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "school uniform",
+                        "style": "standard",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    }
+]

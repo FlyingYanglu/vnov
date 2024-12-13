@@ -1,0 +1,108 @@
+[
+    {
+        "text": "One of the jurors had a pencil that squeaked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "legal documents"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Juror",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a pencil",
+                    "writing on a slate"
+                ],
+                "gaze_and_direction": "looking down at the slate",
+                "expression": [
+                    "concentrated",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "dress pants",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "wrinkled forehead"
+                ],
+                "composition": "Character positioned slightly to the left, camera angle slightly low"
+            }
+        ]
+    },
+    {
+        "text": "“A nice muddle their slates’ll be in before the trial’s over!” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "legal documents"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the courtroom",
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "looking at the jurors",
+                "expression": [
+                    "amused",
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly to the right, camera angle slightly high"
+            }
+        ]
+    }
+]

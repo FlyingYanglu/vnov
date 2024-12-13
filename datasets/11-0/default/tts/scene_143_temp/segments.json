@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "5dab295cb2dc11ef8add0c42a117b3f4",
+        "text": "Let me think: was I the same",
+        "audio_url": "https://v16m-default.akamaized.net/4db2e046a1b7279cb2430f7f18a9add8/6751ad95/video/tos/maliva/tos-maliva-v-f15faa-us/okAuWKE5BEBTCRzyFtiAkwqYbAfFzAgEi3oYwq/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThAxkIOXq8Zmo&qs=13&rc=M3V0cG05cmZvdzUzNzhoM0BpM3V0cG05cmZvdzUzNzhoM0AubjJwMmRjZjVgLS1kLjZzYSMubjJwMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338449647700000000000000000000ffff0a008c94a78a66&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "5dab2a92b2dc11ef8add0c42a117b3f4",
+        "text": "when I got up this morning?",
+        "audio_url": "https://v16m-default.akamaized.net/4db2e046a1b7279cb2430f7f18a9add8/6751ad95/video/tos/maliva/tos-maliva-v-f15faa-us/okAuWKE5BEBTCRzyFtiAkwqYbAfFzAgEi3oYwq/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThAxkIOXq8Zmo&qs=13&rc=M3V0cG05cmZvdzUzNzhoM0BpM3V0cG05cmZvdzUzNzhoM0AubjJwMmRjZjVgLS1kLjZzYSMubjJwMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338449647700000000000000000000ffff0a008c94a78a66&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.608,
+            "end_offset": 3.216
+        },
+        "target_timerange": {
+            "start_offset": 1.608,
+            "end_offset": 3.216
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

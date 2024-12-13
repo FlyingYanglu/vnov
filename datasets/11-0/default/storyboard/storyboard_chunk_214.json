@@ -1,0 +1,178 @@
+[
+    {
+        "text": "Do you mean that you think you can find out the answer to it?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "cushions",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "leaning forward",
+                    "gesturing with a teacup"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "decorative"
+                    }
+                },
+                "composition": "Character positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Exactly so, I replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "cushions",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting calmly",
+                    "nodding slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory"
+                    }
+                },
+                "composition": "Character positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Then you should say what you mean, the March Hare continued.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "cushions",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "gesturing with a teacup",
+                    "leaning slightly forward"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "decorative"
+                    }
+                },
+                "composition": "Character positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I do, I hastily replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "cushions",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting calmly",
+                    "nodding quickly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "slightly anxious",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory"
+                    }
+                },
+                "composition": "Character positioned on the right, camera slightly low angle"
+            }
+        ]
+    }
+]

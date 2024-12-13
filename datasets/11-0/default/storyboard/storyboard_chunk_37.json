@@ -1,0 +1,210 @@
+[
+    {
+        "text": "It was as much as I could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "garden view through a window",
+                "interior of a room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "lying down on one side",
+                    "looking through a window into the garden"
+                ],
+                "gaze_and_direction": "looking through the window",
+                "expression": [
+                    "frustrated",
+                    "hopeless"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose fit",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character lying down, camera slightly angled to show the garden view"
+            }
+        ]
+    },
+    {
+        "text": "“You ought to be ashamed of yourself,” I said to myself, “a great girl like you, to go on crying in this way!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "garden view through a window",
+                "interior of a room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "self-reprimanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose fit",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character sitting up, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I sat down and began to cry again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "garden view through a window",
+                "interior of a room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down",
+                    "crying"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "teary-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose fit",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character sitting down, camera slightly angled to show tears"
+            }
+        ]
+    },
+    {
+        "text": "Stop this moment, I tell you!” But I went on all the same, shedding gallons of tears, until there was a large pool all round me, about four inches deep and reaching half down the ha",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "garden view through a window",
+                "interior of a room",
+                "soft furnishings"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crying",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "teary-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "loose fit",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character sitting, camera slightly angled to show tears and pooling water"
+            }
+        ]
+    }
+]

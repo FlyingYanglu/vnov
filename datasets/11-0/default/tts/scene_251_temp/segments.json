@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "a6e0cc9cb2de11ef9c85b8cef6a0339e",
+        "text": "“Not I!” said the",
+        "audio_url": "https://v16m-default.akamaized.net/ca17285807c18ee0a7058c2827708cd9/6751b167/video/tos/maliva/tos-maliva-v-f15faa-us/oEo7XnABfLBFAQDEhQwR0fEQwFVSVUyA7JEEBN/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThQLkIOXq8Zmo&qs=13&rc=ajs2bnc5cjRvdzUzNzhoM0Bpajs2bnc5cjRvdzUzNzhoM0AzazNzMmQ0bjVgLS1kLjZzYSMzazNzMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338547581600000000000000000000ffff0a00be398253b1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1400000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1400000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a6e0ce9ab2de11ef9c85b8cef6a0339e",
+        "text": "Lory hastily.",
+        "audio_url": "https://v16m-default.akamaized.net/ca17285807c18ee0a7058c2827708cd9/6751b167/video/tos/maliva/tos-maliva-v-f15faa-us/oEo7XnABfLBFAQDEhQwR0fEQwFVSVUyA7JEEBN/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThQLkIOXq8Zmo&qs=13&rc=ajs2bnc5cjRvdzUzNzhoM0Bpajs2bnc5cjRvdzUzNzhoM0AzazNzMmQ0bjVgLS1kLjZzYSMzazNzMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338547581600000000000000000000ffff0a00be398253b1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.1400000000000001,
+            "end_offset": 2.2800000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.1400000000000001,
+            "end_offset": 2.2800000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

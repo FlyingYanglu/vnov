@@ -1,0 +1,250 @@
+[
+    {
+        "text": "“And so these three little sisters—they were learning to draw, you know—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "drawing table",
+                "scattered papers",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the drawing table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowy",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "beaded"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned on the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“What did they draw?” I asked, quite forgetting my promise.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "drawing table",
+                "scattered papers",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning forward",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly embarrassed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "tailored",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pencil"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Treacle,” said the Dormouse, without considering at all this time.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "drawing table",
+                "scattered papers",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "sitting on the table",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nonchalant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small drawing"
+                ],
+                "composition": "Dormouse positioned on the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“I want a clean cup,” interrupted the Hatter: “let’s all move one place on.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "drawing table",
+                "scattered papers",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "standing up",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fancy waistcoat",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "tailored trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned on the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "He moved on as he spoke, and the Dormouse followed him: the March Hare moved into the Dormouse’s place, and I rather unwillingly took the place of the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "drawing table",
+                "scattered papers",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reluctant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "tailored",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

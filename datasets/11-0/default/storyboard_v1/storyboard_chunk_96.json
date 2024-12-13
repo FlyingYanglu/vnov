@@ -1,0 +1,277 @@
+[
+    {
+        "text": "“You don’t know much,” the Duchess retorted, “and that’s a fact.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mansion interior"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "retorting with a sharp tone"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "condescending",
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I didn’t like the tone of her remark, so I decided to change the subject.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mansion interior"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking away from the Duchess"
+                ],
+                "gaze_and_direction": "looking slightly to the side",
+                "expression": [
+                    "displeased",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "While I was trying to think of something else to say, the cook took the cauldron of soup off the fire and began throwing everything within her reach at the Duchess and the baby.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mansion interior"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "removing a cauldron from the fire",
+                    "throwing objects"
+                ],
+                "gaze_and_direction": "looking at the Duchess and baby",
+                "expression": [
+                    "angry",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "kerchief",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Cook off-center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Fire-irons, saucepans, plates, and dishes flew everywhere.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mansion interior"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "continuing to throw objects"
+                ],
+                "gaze_and_direction": "looking at the Duchess and baby",
+                "expression": [
+                    "angry",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "kerchief",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Cook off-center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Duchess barely noticed, and the baby’s howling made it impossible to tell if the blows were hurting it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mansion interior"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "ignoring the chaos"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "unconcerned",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, _please_ mind what you’re doing!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "mansion interior"
+            ],
+            "scene_features": [
+                "luxurious furniture",
+                "tapestries",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pleading",
+                    "looking at the cook"
+                ],
+                "gaze_and_direction": "looking directly at the cook",
+                "expression": [
+                    "worried",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character off-center, camera at eye level"
+            }
+        ]
+    }
+]

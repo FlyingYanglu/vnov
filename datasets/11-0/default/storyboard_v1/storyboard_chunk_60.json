@@ -1,0 +1,225 @@
+[
+    {
+        "text": "As soon as I was small enough to get through the door, I ran out of the house, and found quite a crowd of little animals and birds waiting outside.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open space"
+            ],
+            "scene_features": [
+                "house",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "running out of the house",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open space"
+            ],
+            "scene_features": [
+                "house",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "young",
+                "actions": [
+                    "being held up"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "helpless"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They all made a rush at me the moment I appeared; but I ran off as hard as I could, and soon found myself safe in a thick wood.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "open space"
+            ],
+            "scene_features": [
+                "house",
+                "grass",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "running away",
+                    "looking back"
+                ],
+                "gaze_and_direction": "looking back at the crowd",
+                "expression": [
+                    "frightened"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“The first thing I’ve got to do,” I said to myself, as I wandered about in the wood, “is to grow to my right size again; and the second thing is to find my way into that lovely garden. I think that will be the best plan.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "dense"
+            ],
+            "scene_features": [
+                "wood",
+                "trees",
+                "underbrush"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "wandering",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "It sounded an excellent plan, no doubt, and very neatly and simply arranged; the only difficulty was, that I had not the smallest idea how to set about it;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "dense"
+            ],
+            "scene_features": [
+                "wood",
+                "trees",
+                "underbrush"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "standing still",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

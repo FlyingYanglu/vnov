@@ -1,0 +1,152 @@
+[
+    {
+        "text": "After a time, I heard a little pattering of feet in the distance, and I hastily dried my eyes to see what was coming.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "hastily drying eyes",
+                    "looking towards the distance"
+                ],
+                "gaze_and_direction": "looking towards the sound",
+                "expression": [
+                    "curious",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves in one hand and a large fan in the other.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding white kid gloves in one hand",
+                    "holding a large fan in the other hand"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white suit",
+                        "style": "tailcoat",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white kid gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "large fan"
+                ],
+                "composition": "White Rabbit centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "He came trotting along in a great hurry, muttering to himself, “Oh! the Duchess, the Duchess!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "trotting quickly",
+                    "muttering to self"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "anxious",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white suit",
+                        "style": "tailcoat",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white kid gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [
+                    "large fan"
+                ],
+                "composition": "White Rabbit centered, camera slightly behind and to the side"
+            }
+        ]
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "text": "The poor thing was waving its tail about in a melancholy way, unable to move.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lizard",
+                "age": "adult",
+                "actions": [
+                    "waving tail",
+                    "unable to move"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple robe",
+                        "style": "worn",
+                        "condition": "faded"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "mouth open"
+                ],
+                "composition": "Lizard centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I soon got it out again and put it right, though I thought to myself, \"Not that it signifies much; I should think it would be _quite_ as much use in the trial one way up as the other.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "helping Lizard",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at Lizard",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding Lizard gently"
+                ],
+                "composition": "Main character on the left, Lizard on the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Once the jurymen had recovered from the shock and their slates and pencils were found and handed back to them, they set to work very diligently to write out a history of the accident.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jurymen",
+                "age": "various",
+                "actions": [
+                    "writing on slates",
+                    "holding pencils"
+                ],
+                "gaze_and_direction": "looking down at slates",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding slates and pencils"
+                ],
+                "composition": "Jurymen in a group, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "All except the Lizard, who seemed too much overcome to do anything but sit with its mouth open, gazing up into the roof of the court.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lizard",
+                "age": "adult",
+                "actions": [
+                    "sitting",
+                    "gazing up"
+                ],
+                "gaze_and_direction": "looking up at the ceiling",
+                "expression": [
+                    "overcome"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple robe",
+                        "style": "worn",
+                        "condition": "faded"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "mouth open"
+                ],
+                "composition": "Lizard centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "\"What do you know about this business?\" the King asked me.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "majestic"
+                    },
+                    "accessories": {
+                        "item": "crown"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "King centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "\"Nothing,\" I replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "high ceiling"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "replying"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Main character on the right, King on the left, camera frontal"
+            }
+        ]
+    }
+]

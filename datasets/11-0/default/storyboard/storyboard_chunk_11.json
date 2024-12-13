@@ -1,0 +1,151 @@
+[
+    {
+        "text": "“I hope they’ll remember her saucer of milk at tea-time.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea table",
+                "saucer of milk",
+                "soft furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Dinah my dear! I wish you were down here with me!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea table",
+                "saucer of milk",
+                "soft furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "gesturing towards the saucer of milk"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "affectionate",
+                    "wistful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "There are no mice in the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea table",
+                "saucer of milk",
+                "soft furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "gesturing towards the air"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reassuring",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "text": "I only wish people knew _that_: then they wouldn’t be so stingy about it, you know—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "soft furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with one hand",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rich velvet dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had quite forgotten the Duchess by this time, and was a little startled when I heard her voice close to my ear.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "soft furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "turning towards the sound",
+                    "looking surprised"
+                ],
+                "gaze_and_direction": "looking towards the viewer",
+                "expression": [
+                    "startled",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "modest",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You’re thinking about something, my dear, and that makes you forget to talk.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "soft furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking gently",
+                    "placing a hand on Alice's shoulder"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "kind",
+                    "understanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rich velvet dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I can’t tell you just now what the moral of that is, but I shall remember it in a bit.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "soft furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking thoughtfully",
+                    "looking away slightly"
+                ],
+                "gaze_and_direction": "looking slightly off-camera",
+                "expression": [
+                    "pensive",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rich velvet dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Perhaps it hasn’t one,” I ventured to remark.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "soft furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "speaking timidly",
+                    "looking at the Duchess"
+                ],
+                "gaze_and_direction": "looking towards the viewer",
+                "expression": [
+                    "hesitant",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "modest",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Tut, tut, child!” said the Duchess.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "luxurious room",
+                "soft furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking sharply",
+                    "gesturing dismissively"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "stern",
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "rich velvet dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

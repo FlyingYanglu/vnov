@@ -1,0 +1,130 @@
+[
+    {
+        "text": "The Cat seemed to think that there was enough of it now in sight, and no more of it appeared.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a window",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Cat",
+                "age": "adult",
+                "actions": [
+                    "sitting on a windowsill",
+                    "looking out the window"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t think they play at all fairly,” I began, in rather a complaining tone,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a window",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the window",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "complaining",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“and they all quarrel so dreadfully one can’t hear oneself speak—and they don’t seem to have any rules in particular; at least, if there are, nobody attends to them—and you’ve no idea how confusing it is all the things b",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a window",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

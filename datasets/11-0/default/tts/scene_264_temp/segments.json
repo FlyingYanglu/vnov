@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "f1d34446b2de11ef98bdb8cef692109a",
+        "text": "“I don’t know the meaning of",
+        "audio_url": "https://v16m-default.akamaized.net/0b87140deadcf8bf315e2fc424e3a6c7/6751b1ed/video/tos/maliva/tos-maliva-v-f15faa-us/owBB2YDRFACEUXR4AVPALBFhMfjEEJAfQnVLaE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsEkIOXq8Zmo&qs=13&rc=MzVmNXk5cjRvdzUzNzhoM0BpMzVmNXk5cjRvdzUzNzhoM0AtXnAzMmQ0bzVgLS1kLjZzYSMtXnAzMmQ0bzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338560275400000000000000000000ffff0a00ada212a173&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3499999999999996
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3499999999999996
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f1d34586b2de11ef98bdb8cef692109a",
+        "text": "half those long words, and,",
+        "audio_url": "https://v16m-default.akamaized.net/0b87140deadcf8bf315e2fc424e3a6c7/6751b1ed/video/tos/maliva/tos-maliva-v-f15faa-us/owBB2YDRFACEUXR4AVPALBFhMfjEEJAfQnVLaE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsEkIOXq8Zmo&qs=13&rc=MzVmNXk5cjRvdzUzNzhoM0BpMzVmNXk5cjRvdzUzNzhoM0AtXnAzMmQ0bzVgLS1kLjZzYSMtXnAzMmQ0bzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338560275400000000000000000000ffff0a00ada212a173&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.35,
+            "end_offset": 2.7
+        },
+        "target_timerange": {
+            "start_offset": 1.35,
+            "end_offset": 2.7
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f1d3468ab2de11ef98bdb8cef692109a",
+        "text": "what’s more, I don’t believe",
+        "audio_url": "https://v16m-default.akamaized.net/0b87140deadcf8bf315e2fc424e3a6c7/6751b1ed/video/tos/maliva/tos-maliva-v-f15faa-us/owBB2YDRFACEUXR4AVPALBFhMfjEEJAfQnVLaE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsEkIOXq8Zmo&qs=13&rc=MzVmNXk5cjRvdzUzNzhoM0BpMzVmNXk5cjRvdzUzNzhoM0AtXnAzMmQ0bzVgLS1kLjZzYSMtXnAzMmQ0bzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338560275400000000000000000000ffff0a00ada212a173&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7,
+            "end_offset": 4.050000000000001
+        },
+        "target_timerange": {
+            "start_offset": 2.7,
+            "end_offset": 4.050000000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f1d3477ab2de11ef98bdb8cef692109a",
+        "text": "you do either!”",
+        "audio_url": "https://v16m-default.akamaized.net/0b87140deadcf8bf315e2fc424e3a6c7/6751b1ed/video/tos/maliva/tos-maliva-v-f15faa-us/owBB2YDRFACEUXR4AVPALBFhMfjEEJAfQnVLaE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsEkIOXq8Zmo&qs=13&rc=MzVmNXk5cjRvdzUzNzhoM0BpMzVmNXk5cjRvdzUzNzhoM0AtXnAzMmQ0bzVgLS1kLjZzYSMtXnAzMmQ0bzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338560275400000000000000000000ffff0a00ada212a173&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.050000000000001,
+            "end_offset": 5.4
+        },
+        "target_timerange": {
+            "start_offset": 4.050000000000001,
+            "end_offset": 5.4
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

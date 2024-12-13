@@ -1,0 +1,317 @@
+[
+    {
+        "text": "I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the middle of the room",
+                    "looking distressed"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "worried",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears welling up in eyes"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "ever so many lessons to learn!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a book",
+                    "looking overwhelmed"
+                ],
+                "gaze_and_direction": "looking down at the book",
+                "expression": [
+                    "frustrated",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears welling up in eyes"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "No, I’ve made up my mind about it;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crossing arms",
+                    "looking determined"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resolute",
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears welling up in eyes"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "if I’m Mabel, I’ll stay down here!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the floor",
+                    "looking defiant"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stubborn",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears welling up in eyes"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "It’ll be no use their putting their heads down and saying ‘Come up again, dear!’",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up with a smirk",
+                    "mocking a gesture"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic",
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears welling up in eyes"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I shall only look up and say ‘Who am I then? Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’—but, oh dear!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up with a determined expression",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resolute",
+                    "slightly sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears welling up in eyes"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I cried, with a sudden burst of tears, “",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small house",
+                "sparse furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "covering face with hands",
+                    "crying"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "heartbroken",
+                    "distraught"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    }
+]

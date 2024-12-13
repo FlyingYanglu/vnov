@@ -1,0 +1,221 @@
+[
+    {
+        "text": "“You are not attending!” said the Mouse to Alice severely.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden floor"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "pointing at Alice"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "severe",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "fitted",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse on the left, Alice on the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“What are you thinking of?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden floor"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "curious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "fitted",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I beg your pardon,” I said very humbly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden floor"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "bowing slightly"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "humble",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You had got to the fifth bend, I think?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden floor"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up"
+                ],
+                "gaze_and_direction": "looking at Mouse",
+                "expression": [
+                    "thoughtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I had _not!_” cried the Mouse, sharply and very angrily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "wooden floor"
+            ],
+            "scene_features": [
+                "room with bookshelves",
+                "large window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "raising voice"
+                ],
+                "gaze_and_direction": "looking at I",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "fitted",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera frontal"
+            }
+        ]
+    }
+]

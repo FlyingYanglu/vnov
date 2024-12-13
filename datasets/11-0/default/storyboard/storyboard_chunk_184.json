@@ -1,0 +1,207 @@
+[
+    {
+        "text": "The Duchess barely noticed, and the baby’s howling made it impossible to tell if the blows were hurting it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cluttered room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "wooden furniture",
+                "pots and pans scattered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "standing still",
+                    "ignoring the baby's cries"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearls",
+                        "type": "necklace"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, _please_ mind what you’re doing!” I cried, jumping up and down in terror.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cluttered room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "wooden furniture",
+                "pots and pans scattered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "jumping up and down",
+                    "waving hands in panic"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "terrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "wide eyes",
+                    "open mouth"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, there goes his _precious_ nose!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cluttered room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "wooden furniture",
+                "pots and pans scattered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pointing towards the baby",
+                    "looking horrified"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "wide eyes",
+                    "open mouth"
+                ],
+                "composition": "Main character positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "as an unusually large saucepan flew close by it, nearly taking it off.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cluttered room"
+            ],
+            "scene_features": [
+                "large kitchen",
+                "wooden furniture",
+                "pots and pans scattered"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "ducking down",
+                    "looking up in fear"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "terrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "digital"
+                    }
+                },
+                "temporary_features": [
+                    "wide eyes",
+                    "open mouth"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

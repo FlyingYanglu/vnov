@@ -1,0 +1,224 @@
+[
+    {
+        "text": "“What _is_ a Caucus-race?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "daytime"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "raising hand",
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Why,” said the Dodo, “the best way to explain it is to do it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "daytime"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown robe",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "feather headdress",
+                        "type": "headgear"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(And, as you might like to try the thing yourself, some winter day, I will tell you how the Dodo managed it.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "daytime"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "accessory"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "First, it marked out a race-course, in a sort of circle, (“the exact shape doesn’t matter,” it said,)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees in the distance",
+                "clear sky"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "marking a circle on the ground with a stick"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown robe",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "feather headdress",
+                        "type": "headgear"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and then all the party were placed along the course.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees in the distance",
+                "clear sky"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "placing characters around the circle"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "satisfied",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown robe",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "feather headdress",
+                        "type": "headgear"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

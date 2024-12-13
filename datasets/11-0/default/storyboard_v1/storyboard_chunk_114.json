@@ -1,0 +1,368 @@
+[
+    {
+        "text": "It was so large a house, that I did not like to go nearer till I had nibbled some more of the lefthand bit of mushroom, and raised myself to about two feet high.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "mushroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nibbling on a mushroom",
+                    "raising self to two feet high"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Even then, I walked up towards it rather timidly, saying to myself, “Suppose it should be raving mad after all! I almost wish I’d gone to see the Hatter instead!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking towards the house",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "timid",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I approached the house and saw a table set out under a tree.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "tree",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "approaching the house",
+                    "looking at the table under the tree"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The March Hare and the Hatter were having tea, with a Dormouse fast asleep between them.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "tree",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "having tea"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "composition": "Character positioned on the left, camera slightly overhead"
+            },
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "having tea"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green jacket",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "composition": "Character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The two were using the Dormouse as a cushion, their elbows resting on it as they talked over its head.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "tree",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "using Dormouse as a cushion",
+                    "resting elbows on Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "composition": "Character positioned on the left, camera slightly overhead"
+            },
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "using Dormouse as a cushion",
+                    "resting elbows on Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green jacket",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "composition": "Character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Very uncomfortable for the Dormouse,” I thought, though it didn't seem to mind being asleep.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "tree",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking about the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The table was large, but the three of them were crowded together at one corner.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "tree",
+                "table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "observing the crowded table"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

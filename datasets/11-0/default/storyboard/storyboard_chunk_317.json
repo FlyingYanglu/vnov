@@ -1,0 +1,235 @@
+[
+    {
+        "text": "Then it watched the Queen till she was out of sight.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field",
+                "distant mountains"
+            ],
+            "scene_features": [
+                "grassy field",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "watching the Queen disappear into the distance"
+                ],
+                "gaze_and_direction": "eyes following the Queen",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "strong"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Then it chuckled.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field",
+                "distant mountains"
+            ],
+            "scene_features": [
+                "grassy field",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "chuckling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "strong"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "\"What fun!\" said the Gryphon, half to itself, half to me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field",
+                "distant mountains"
+            ],
+            "scene_features": [
+                "grassy field",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "gesturing slightly with a wing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "strong"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "\"What _is_ the fun?\" I asked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field",
+                "distant mountains"
+            ],
+            "scene_features": [
+                "grassy field",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question",
+                    "looking at the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "\"Why, _she_,\" said the Gryphon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field",
+                "distant mountains"
+            ],
+            "scene_features": [
+                "grassy field",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "pointing with a claw",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "strong"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    }
+]

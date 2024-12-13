@@ -1,0 +1,243 @@
+[
+    {
+        "text": "He continued without looking at me, “if we had the door between us. For instance, if you were inside, you might knock, and I could let you out, you know.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "continuing to speak",
+                    "not looking at the viewer"
+                ],
+                "gaze_and_direction": "gazing at the sky",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform shirt",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "He was still gazing at the sky, which I found decidedly uncivil.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "gazing at the sky"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform shirt",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“But perhaps he can’t help it,” I thought to myself.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the Frog-Footman",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“His eyes are so very nearly at the top of his head. But at any rate he might answer questions.—How am I to get in?” I repeated aloud.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking aloud",
+                    "looking at the Frog-Footman"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I shall sit here,” the Frog-Footman remarked, “till tomorrow—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting down",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform shirt",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

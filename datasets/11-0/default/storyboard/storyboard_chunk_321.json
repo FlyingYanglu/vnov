@@ -1,0 +1,181 @@
+[
+    {
+        "text": "Sit down, both of you, and don’t speak a word till I’ve finished.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing towards the sofas"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "black"
+                    }
+                },
+                "composition": "Narrator positioned on the left side of the frame, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "So we sat down, and nobody spoke for some minutes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the sofa",
+                    "looking down"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "thoughtful",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap",
+                        "color": "brown"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I thought to myself, 'I don’t see how he can ever finish, if he doesn’t begin.'",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the sofa",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "worried",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap",
+                        "color": "brown"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "But I waited patiently.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on the sofa",
+                    "waiting"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "patient",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap",
+                        "color": "brown"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

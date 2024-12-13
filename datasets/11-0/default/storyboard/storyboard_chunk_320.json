@@ -1,0 +1,208 @@
+[
+    {
+        "text": "I asked the Gryphon. Come on!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "looking at the viewer",
+                    "responding to the question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown of feathers",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So we went up to the Mock Turtle, who looked at us with large eyes full of tears, but said nothing.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "looking at the viewer",
+                    "with large eyes full of tears"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "tearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "turtle legs",
+                        "style": "natural",
+                        "condition": "slow-moving"
+                    },
+                    "accessories": {
+                        "item": "seaweed hair",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"This here young lady,\" said the Gryphon, \"she wants for to know your history, she do.\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the Mock Turtle",
+                    "gesturing towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "serious",
+                    "direct"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "bottom": {
+                        "item": "lion legs",
+                        "style": "natural",
+                        "condition": "muscular"
+                    },
+                    "accessories": {
+                        "item": "crown of feathers",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle spoke in a deep, hollow tone: \"I’ll tell it her.\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "with a deep, hollow tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "turtle legs",
+                        "style": "natural",
+                        "condition": "slow-moving"
+                    },
+                    "accessories": {
+                        "item": "seaweed hair",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    }
+]

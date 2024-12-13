@@ -1,0 +1,237 @@
+[
+    {
+        "text": "As I said these words, my foot slipped, and in another moment, splash! I was up to my chin in salt water.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "clear water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "struggling in the water",
+                    "trying to stand up"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "My first idea was that I had somehow fallen into the sea, and in that case I can go back by…",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "clear water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "pondering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I wish I hadn’t cried so much! I said to myself as I swam about, trying to find my way out.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "clear water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming",
+                    "looking for an exit"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "regretful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I shall be punished for it now, I suppose, by being drowned in my own tears! That _will_ be a queer thing, to be sure!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "clear water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "worried",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "However, everything is queer to-day.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea",
+                "beach",
+                "clear water"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "accepting"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white dress",
+                        "style": "simple",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "water droplets on face"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

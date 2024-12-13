@@ -1,0 +1,261 @@
+[
+    {
+        "text": "The Queen said severely, “Who is this?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "severe",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "She said it to the Knave of Hearts, who only bowed and smiled in reply.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave of Hearts",
+                "age": "young adult",
+                "actions": [
+                    "bowing",
+                    "smiling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red jacket",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "heart-shaped badge",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Knave of Hearts centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Idiot!” said the Queen, tossing her head impatiently;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "tossing head impatiently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and, turning to Alice, she went on, “What’s your name, child?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "turning to Alice"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "stern",
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“My name is Alice, so please your Majesty,” I said very politely;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "bowing slightly"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "polite",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "but I added to myself, “Why, they’re only a pack of cards, after all. I needn’t be afraid of them!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "thinking to herself"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "simple",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Alice centered, camera slightly low angle"
+            }
+        ]
+    }
+]

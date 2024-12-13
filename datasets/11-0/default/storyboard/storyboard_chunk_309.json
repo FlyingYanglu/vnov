@@ -1,0 +1,155 @@
+[
+    {
+        "text": "But I did not venture to say it out loud.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "elegant decor"
+            ],
+            "scene_features": [
+                "luxury villa",
+                "grand hall",
+                "crystal chandelier"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "holding a glass of wine"
+                ],
+                "gaze_and_direction": "looking down, avoiding eye contact",
+                "expression": [
+                    "thoughtful",
+                    "reserved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Thinking again?” the Duchess asked, with another dig of her sharp little chin.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "elegant decor"
+            ],
+            "scene_features": [
+                "luxury villa",
+                "grand hall",
+                "crystal chandelier"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "tilting head slightly",
+                    "pointing chin at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate gown",
+                        "style": "Victorian",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve a right to think,” I said sharply, for I was beginning to feel a little worried.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "elegant decor"
+            ],
+            "scene_features": [
+                "luxury villa",
+                "grand hall",
+                "crystal chandelier"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer",
+                    "clenching the wine glass"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "defensive",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "text": "I was beginning to get very tired of sitting by my sister on the bank, and of having nothing to do.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young child",
+                "actions": [
+                    "sitting on the bank",
+                    "looking bored"
+                ],
+                "gaze_and_direction": "looking down at the ground",
+                "expression": [
+                    "tired",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly disheveled hair"
+                ],
+                "composition": "Main character positioned on the left side of the panel, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Once or twice, I had peeped into the book she was reading, but it had no pictures or conversations in it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young child",
+                "actions": [
+                    "peeping into the book",
+                    "looking disappointed"
+                ],
+                "gaze_and_direction": "looking at the book",
+                "expression": [
+                    "curious",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly disheveled hair"
+                ],
+                "composition": "Main character positioned on the left side of the panel, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "\"And what is the use of a book,\" I thought, \"without pictures or conversations?\"",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young child",
+                "actions": [
+                    "thinking",
+                    "looking contemplative"
+                ],
+                "gaze_and_direction": "looking into the distance",
+                "expression": [
+                    "thoughtful",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly disheveled hair"
+                ],
+                "composition": "Main character positioned on the left side of the panel, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "So I was considering in my own mind (as well as I could, for the hot day made me feel very sleepy and stupid)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "river bank",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young child",
+                "actions": [
+                    "considering",
+                    "looking sleepy"
+                ],
+                "gaze_and_direction": "looking down at the ground",
+                "expression": [
+                    "sleepy",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly disheveled hair"
+                ],
+                "composition": "Main character positioned on the left side of the panel, camera at eye level"
+            }
+        ]
+    }
+]

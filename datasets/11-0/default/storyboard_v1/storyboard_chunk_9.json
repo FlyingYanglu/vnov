@@ -1,0 +1,184 @@
+[
+    {
+        "text": "However, this bottle was not marked 'poison,' so I ventured to taste it, and finding it very nice, (it had, in fact, a sort of mixed flavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered toast,) I very soon finished it off.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "bottle on the table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a bottle",
+                    "tasting the liquid"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "pleased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a bottle"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"What a curious feeling!\" I said; \"I must be shutting up like a telescope.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "bottle on the table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking down at self"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "surprised",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And so it was indeed: I was now only ten inches high, and my face brightened up at the thought that I was now the right size for going through the little door into that lovely garden.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "bottle on the table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking up with a smile"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "happy",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "now ten inches high"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "First, however, I waited for a few minutes to see if I was going to shrink any further. I felt a little nervous about this;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "bottle on the table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking down at self"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "nervous",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "now ten inches high"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    }
+]

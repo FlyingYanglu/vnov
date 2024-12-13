@@ -1,0 +1,246 @@
+[
+    {
+        "text": "I felt dreadfully puzzled.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting at the tea table",
+                    "holding a teacup"
+                ],
+                "gaze_and_direction": "looking puzzled at the viewer",
+                "expression": [
+                    "confused",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "wrinkled forehead"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter’s remark seemed to have no sort of meaning in it, and yet it was certainly English.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "standing beside the tea table",
+                    "holding a teapot"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "mysterious",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "hanging"
+                    }
+                },
+                "temporary_features": [
+                    "wild hair"
+                ],
+                "composition": "Character positioned to the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "\"I don’t quite understand you,\" I said, as politely as I could.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting at the tea table",
+                    "holding a teacup"
+                ],
+                "gaze_and_direction": "looking politely at the viewer",
+                "expression": [
+                    "polite",
+                    "slightly confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "wrinkled forehead"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"The Dormouse is asleep again,\" said the Hatter, and he poured a little hot tea upon its nose.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pouring tea from a teapot onto the Dormouse's nose"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "mischievous",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "hanging"
+                    }
+                },
+                "temporary_features": [
+                    "wild hair"
+                ],
+                "composition": "Character positioned to the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse shook its head impatiently, and said, without opening its eyes, \"Of course, of course; just what I was going to remark myself.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "tea cups"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "adult",
+                "actions": [
+                    "shaking head",
+                    "speaking without opening eyes"
+                ],
+                "gaze_and_direction": "looking slightly upwards at the viewer",
+                "expression": [
+                    "impatient",
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "slightly wet from tea"
+                    },
+                    "headwear": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "closed eyes"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    }
+]

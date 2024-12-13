@@ -1,0 +1,179 @@
+[
+    {
+        "text": "no one listening, this time, as it didn’t sound at all the right word) “—but I shall have to ask them what the name of the country is, you know.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant mountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Please, Ma’am, is this New Zealand or Australia?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant mountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "raising hand slightly",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "(and she tried to curtsey as she spoke—fancy _curtseying_ as you’re falling through the air!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant mountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "attempting to curtsey while falling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Do you think you could manage it?)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "clear sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "distant mountains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer with a questioning gaze"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Alice centered, camera slightly overhead"
+            }
+        ]
+    }
+]

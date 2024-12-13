@@ -1,0 +1,134 @@
+[
+    {
+        "text": "“That’s the judge,” I said to myself, “because of his great wig.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the judge",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, judge on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The judge, by the way, was the King; and as he wore his crown over the wig, (look at the frontispiece if you want to see how he did it,) he did not look at all comfortable, and it was certainly not becoming.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on the judge's bench",
+                    "wearing a crown over a wig"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "uncomfortable"
+                ],
+                "costume": {
+                    "head": {
+                        "item": "wig",
+                        "style": "large, white",
+                        "condition": "neatly placed"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And that’s the jury-box,” I thought, “and those twelve creatures,” (I was obliged to say “creatures,” you see, because some of them were animals, and",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking at the jury-box"
+                ],
+                "gaze_and_direction": "looking at the jury-box",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "plain",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, jury-box on the right, camera slightly overhead"
+            }
+        ]
+    }
+]

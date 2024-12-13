@@ -1,0 +1,109 @@
+[
+    {
+        "summary": "In this segment of 'Alice's Adventures in Wonderland,' Alice finds herself in a pool of her own tears with various animals and birds, all of whom are wet and uncomfortable. They gather to discuss how to get dry, leading to a peculiar 'Caucus-race' where everyone runs at their own pace and everyone wins a prize. Alice, feeling out of place, offers comfits from her pocket as prizes. The Mouse, who had promised to share its history, becomes offended when Alice mentions her cat, Dinah, causing the other animals to flee in fear. Alice is left alone, feeling lonely and regretful for mentioning her beloved cat.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "helpful",
+                    "melancholy"
+                ],
+                "actions": [
+                    "participates in the Caucus-race",
+                    "offers comfits as prizes",
+                    "tries to communicate with the Mouse",
+                    "mentions her cat Dinah"
+                ],
+                "relationships": [
+                    "Dinah (cat)"
+                ]
+            },
+            "The Mouse": {
+                "traits": [
+                    "authoritative",
+                    "easily offended",
+                    "storyteller"
+                ],
+                "actions": [
+                    "calls for a meeting",
+                    "tells a long and dry story",
+                    "becomes offended by Alice's mention of cats",
+                    "leaves abruptly"
+                ],
+                "relationships": [
+                    "dislikes cats and dogs"
+                ]
+            },
+            "The Dodo": {
+                "traits": [
+                    "solemn",
+                    "organizer"
+                ],
+                "actions": [
+                    "proposes the Caucus-race",
+                    "presents Alice with a thimble as a prize"
+                ],
+                "relationships": []
+            },
+            "The Lory": {
+                "traits": [
+                    "sulky",
+                    "argumentative"
+                ],
+                "actions": [
+                    "argues with Alice about age",
+                    "shivers during the Mouse's story"
+                ],
+                "relationships": []
+            },
+            "The Duck": {
+                "traits": [
+                    "curious",
+                    "cross"
+                ],
+                "actions": [
+                    "questions the Mouse about the archbishop's findings"
+                ],
+                "relationships": []
+            },
+            "The Eaglet": {
+                "traits": [
+                    "impatient",
+                    "skeptical"
+                ],
+                "actions": [
+                    "demands the Dodo speak in English"
+                ],
+                "relationships": []
+            },
+            "The Magpie": {
+                "traits": [
+                    "cautious"
+                ],
+                "actions": [
+                    "leaves due to the night-air"
+                ],
+                "relationships": []
+            },
+            "The Canary": {
+                "traits": [
+                    "protective"
+                ],
+                "actions": [
+                    "calls its children to bed"
+                ],
+                "relationships": [
+                    "children"
+                ]
+            }
+        },
+        "key_events": [
+            "The animals and birds gather to discuss how to get dry.",
+            "The Dodo proposes a Caucus-race as a solution.",
+            "The Caucus-race takes place with everyone running at their own pace.",
+            "The Dodo declares everyone a winner and Alice offers comfits as prizes.",
+            "The Mouse begins to tell its history but becomes offended when Alice mentions her cat.",
+            "The animals and birds flee in fear of Alice's cat, leaving her alone."
+        ]
+    }
+]

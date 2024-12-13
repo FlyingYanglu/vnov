@@ -1,0 +1,167 @@
+[
+    {
+        "text": "The twelve jurors were all writing very busily on slates.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "slates",
+                "chairs",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jurors",
+                "age": "various",
+                "actions": [
+                    "writing busily on slates"
+                ],
+                "gaze_and_direction": "focused on slates",
+                "expression": [
+                    "concentrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom appropriate"
+                    },
+                    "accessories": {
+                        "item": "slates",
+                        "type": "writing tool"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Multiple jurors in a row, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What are they doing?” I whispered to the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "slates",
+                "chairs",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "whispering to the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual attire",
+                        "style": "simple"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, Gryphon on the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“They can’t have anything to put down yet, before the trial’s begun.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "slates",
+                "chairs",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "whispering back to I"
+                ],
+                "gaze_and_direction": "looking at I",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the right, I on the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“They’re putting down their names,” the Gryphon whispered in reply, “for fear they should forget them before the end of the trial.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "slates",
+                "chairs",
+                "courtroom benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "whispering explanation to I"
+                ],
+                "gaze_and_direction": "looking at I",
+                "expression": [
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the right, I on the left, camera at eye level"
+            }
+        ]
+    }
+]

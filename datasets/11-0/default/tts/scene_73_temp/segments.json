@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "e947078ab2da11ef9ba6b8cef635af1a",
+        "text": "\"What a curious feeling!\"",
+        "audio_url": "https://v16m-default.akamaized.net/e2a541b75cd36390d2d62abd7c2d57d1/6751ab21/video/tos/maliva/tos-maliva-v-f15faa-us/osCjrADroCqf1AyViSywSffEAYgFICO9CIgXXb/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th81kIOXq8Zmo&qs=13&rc=M2dlcGo5cmlvdzUzNzhoM0BpM2dlcGo5cmlvdzUzNzhoM0BqcS4xMmRzYTVgLS1kLjZzYSNqcS4xMmRzYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338387098000000000000000000000ffff0a00af91d20777&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

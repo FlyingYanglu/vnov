@@ -1,0 +1,218 @@
+[
+    {
+        "text": "His face was so peculiar that I would have called him a fish if not for his attire.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door",
+                "evening"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "carpeted floor",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "standing at the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "peculiar",
+                    "neutral"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform coat",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curly"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "He rapped loudly on the door with his knuckles.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door",
+                "evening"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "carpeted floor",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "knocking on the door with knuckles"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform coat",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curly"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The door opened to reveal another footman, this one with a round face and large eyes like a frog.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door",
+                "evening"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "carpeted floor",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Second Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "opening the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform coat",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curly"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "Both had powdered hair that curled all over their heads.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door",
+                "evening"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "carpeted floor",
+                "ornate wallpaper"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "standing at the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "peculiar",
+                    "neutral"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform coat",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curly"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            },
+            {
+                "name": "Second Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "standing at the door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform coat",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "powdered wig",
+                        "type": "curly"
+                    }
+                },
+                "temporary_features": [
+                    "round face",
+                    "large eyes"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

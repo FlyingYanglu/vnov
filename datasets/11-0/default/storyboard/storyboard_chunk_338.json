@@ -1,0 +1,248 @@
+[
+    {
+        "text": "“Very much indeed,” I replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "intricate wallpaper",
+                "antique furniture",
+                "candlelight"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "length": "mid-thigh"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly angled from the side"
+            }
+        ]
+    },
+    {
+        "text": "“Come, let’s try the first figure!” said the Mock Turtle to the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "intricate wallpaper",
+                "antique furniture",
+                "candlelight"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "gesturing with a flipper",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green shell",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“We can do without lobsters, you know.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "intricate wallpaper",
+                "antique furniture",
+                "candlelight"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "standing still",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green shell",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Which shall sing?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "intricate wallpaper",
+                "antique furniture",
+                "candlelight"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "standing still",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly tilting head"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green shell",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, you sing,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "intricate wallpaper",
+                "antique furniture",
+                "candlelight"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "standing still",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "slightly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered wings",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "bottom": {
+                        "item": "none",
+                        "style": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    }
+]

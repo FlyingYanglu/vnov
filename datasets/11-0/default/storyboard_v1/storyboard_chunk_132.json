@@ -1,0 +1,306 @@
+[
+    {
+        "text": "Here the Dormouse shook itself, and began singing in its sleep '_Twinkle, twinkle, twinkle, twinkle_—'",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "shaking itself",
+                    "singing in sleep"
+                ],
+                "gaze_and_direction": "eyes closed, head tilted slightly",
+                "expression": [
+                    "peaceful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "loose fitting",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and went on so long that they had to pinch it to make it stop.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "being pinched",
+                    "waking up"
+                ],
+                "gaze_and_direction": "eyes opening, looking startled",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "loose fitting",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I barely finished the first verse when the Queen jumped up and bawled out, “He’s murdering the time! Off with his head!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "jumping up",
+                    "bawling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "furious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I exclaimed, “How dreadfully savage!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "exclaiming"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "loose fitting",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter went on in a mournful tone, “And ever since that, he won’t do a thing I ask! It’s always six o’clock now.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a mournful tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fancy suit",
+                        "style": "tailcoat",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "A bright idea came into my head.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "loose fitting",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Is that the reason so many tea-things are put out here?” I asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim light",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "tea cups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "loose fitting",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

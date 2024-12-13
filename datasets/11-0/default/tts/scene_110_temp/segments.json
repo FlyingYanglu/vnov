@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "aee22c86b2db11efbff41070fd2669de",
+        "text": "but Alice had got so much into",
+        "audio_url": "https://v16m-default.akamaized.net/4973cc1d85a388b269e2b1de2764925c/6751ac71/video/tos/maliva/tos-maliva-v-f15faa-us/oURZ8iAqkBzBqXwwWoAgF4ApEf2Gp3giBZEAKA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThEfkIOXq8Zmo&qs=13&rc=anB4cnY5cjZvdzUzNzhoM0BpanB4cnY5cjZvdzUzNzhoM0BgZy9oMmRjZDVgLS1kLjZzYSNgZy9oMmRjZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338420335700000000000000000000ffff0a00a885447083&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.608
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "aee22e5cb2db11efbff41070fd2669de",
+        "text": "the way of expecting nothing but",
+        "audio_url": "https://v16m-default.akamaized.net/4973cc1d85a388b269e2b1de2764925c/6751ac71/video/tos/maliva/tos-maliva-v-f15faa-us/oURZ8iAqkBzBqXwwWoAgF4ApEf2Gp3giBZEAKA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThEfkIOXq8Zmo&qs=13&rc=anB4cnY5cjZvdzUzNzhoM0BpanB4cnY5cjZvdzUzNzhoM0BgZy9oMmRjZDVgLS1kLjZzYSNgZy9oMmRjZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338420335700000000000000000000ffff0a00a885447083&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6079999999999999,
+            "end_offset": 3.216
+        },
+        "target_timerange": {
+            "start_offset": 1.6079999999999999,
+            "end_offset": 3.216
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "aee22fe2b2db11efbff41070fd2669de",
+        "text": "out-of-the-way things to",
+        "audio_url": "https://v16m-default.akamaized.net/4973cc1d85a388b269e2b1de2764925c/6751ac71/video/tos/maliva/tos-maliva-v-f15faa-us/oURZ8iAqkBzBqXwwWoAgF4ApEf2Gp3giBZEAKA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThEfkIOXq8Zmo&qs=13&rc=anB4cnY5cjZvdzUzNzhoM0BpanB4cnY5cjZvdzUzNzhoM0BgZy9oMmRjZDVgLS1kLjZzYSNgZy9oMmRjZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338420335700000000000000000000ffff0a00a885447083&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2159999999999997,
+            "end_offset": 4.824
+        },
+        "target_timerange": {
+            "start_offset": 3.2159999999999997,
+            "end_offset": 4.824
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

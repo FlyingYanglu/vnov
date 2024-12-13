@@ -1,0 +1,187 @@
+[
+    {
+        "text": "So I swallowed one of the cakes, and was delighted to find that I began shrinking directly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "dining room",
+                "table with cakes"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "swallowing a cake",
+                    "looking surprised"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "delighted",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "shrinking"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "As soon as I was small enough to get through the door, I ran out of the house, and found quite a crowd of little animals and birds waiting outside.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "running out of the house",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "young",
+                "actions": [
+                    "being held up"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "helpless"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Bill centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They all made a rush at me the moment I appeared; but I ran off as hard as I could, and soon found myself safe in a thick wood.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "running away",
+                    "looking back"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "red"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

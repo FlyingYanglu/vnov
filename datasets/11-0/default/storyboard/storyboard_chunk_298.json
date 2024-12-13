@@ -1,0 +1,161 @@
+[
+    {
+        "text": "Soup does very well without—Maybe it’s always pepper that makes people hot-tempered,” I went on, very much pleased at having found out a new kind of rule, “and vinegar that makes them sour—and camomile that makes them bitter—and—and barley-sugar and such things that make children sweet-tempered.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "dining room",
+                "table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleased",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I only wish people knew _that_: then they wouldn’t be so stingy about it, you know—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "dining room",
+                "table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking earnestly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hopeful",
+                    "sincere"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had quite forgotten the Duchess by this time, and was a little startled when I heard her voice close to my ear.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "dining room",
+                "table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "turning head quickly",
+                    "looking surprised"
+                ],
+                "gaze_and_direction": "looking to the side",
+                "expression": [
+                    "startled",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

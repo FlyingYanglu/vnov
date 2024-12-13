@@ -1,0 +1,182 @@
+[
+    {
+        "text": "“He took me for his housemaid,” I said to myself as I ran.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "road",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running",
+                    "talking to self"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "determined",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "housemaid"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“How surprised he’ll be when he finds out who I am!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "road",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "smirking",
+                    "anticipating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "housemaid"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "But I’d better take him his fan and gloves—that is, if I can find them.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "road",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "concerned",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "housemaid"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "As I said this, I came upon a neat little house, on the door of which was a bright brass plate with the name “W. RABBIT,” engraved upon it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "neat little house",
+                "brass plate"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stopping",
+                    "looking at the house"
+                ],
+                "gaze_and_direction": "looking at the house",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "housemaid"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    }
+]

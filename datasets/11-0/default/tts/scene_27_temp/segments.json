@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "f213647cb2d911ef81e70c42a1a7d90a",
+        "text": "(I had no idea what Latitude",
+        "audio_url": "https://v16m-default.akamaized.net/0f4cd5979b24edf50830d062d2e395fd/6751a988/video/tos/maliva/tos-maliva-v-f15faa-us/o4AAVIAhipnLgeMqmNE0BFUhVBkDcQUJnIfCx8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm3kIOXq8Zmo&qs=13&rc=M3hpN245cjtvdzUzNzhoM0BpM3hpN245cjtvdzUzNzhoM0A1ZW5rMmRjXjVgLS1kLjZzYSM1ZW5rMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338345621400000000000000000000ffff0a0066a3c71b12&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.548
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.548
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f21366b6b2d911ef81e70c42a1a7d90a",
+        "text": "was, or Longitude either,",
+        "audio_url": "https://v16m-default.akamaized.net/0f4cd5979b24edf50830d062d2e395fd/6751a988/video/tos/maliva/tos-maliva-v-f15faa-us/o4AAVIAhipnLgeMqmNE0BFUhVBkDcQUJnIfCx8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm3kIOXq8Zmo&qs=13&rc=M3hpN245cjtvdzUzNzhoM0BpM3hpN245cjtvdzUzNzhoM0A1ZW5rMmRjXjVgLS1kLjZzYSM1ZW5rMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338345621400000000000000000000ffff0a0066a3c71b12&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.548,
+            "end_offset": 3.096
+        },
+        "target_timerange": {
+            "start_offset": 1.548,
+            "end_offset": 3.096
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f213683cb2d911ef81e70c42a1a7d90a",
+        "text": "but thought they were nice",
+        "audio_url": "https://v16m-default.akamaized.net/0f4cd5979b24edf50830d062d2e395fd/6751a988/video/tos/maliva/tos-maliva-v-f15faa-us/o4AAVIAhipnLgeMqmNE0BFUhVBkDcQUJnIfCx8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm3kIOXq8Zmo&qs=13&rc=M3hpN245cjtvdzUzNzhoM0BpM3hpN245cjtvdzUzNzhoM0A1ZW5rMmRjXjVgLS1kLjZzYSM1ZW5rMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338345621400000000000000000000ffff0a0066a3c71b12&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.096,
+            "end_offset": 4.644
+        },
+        "target_timerange": {
+            "start_offset": 3.096,
+            "end_offset": 4.644
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "f21369aeb2d911ef81e70c42a1a7d90a",
+        "text": "grand words to say.)",
+        "audio_url": "https://v16m-default.akamaized.net/0f4cd5979b24edf50830d062d2e395fd/6751a988/video/tos/maliva/tos-maliva-v-f15faa-us/o4AAVIAhipnLgeMqmNE0BFUhVBkDcQUJnIfCx8/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm3kIOXq8Zmo&qs=13&rc=M3hpN245cjtvdzUzNzhoM0BpM3hpN245cjtvdzUzNzhoM0A1ZW5rMmRjXjVgLS1kLjZzYSM1ZW5rMmRjXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338345621400000000000000000000ffff0a0066a3c71b12&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.644,
+            "end_offset": 6.192
+        },
+        "target_timerange": {
+            "start_offset": 4.644,
+            "end_offset": 6.192
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

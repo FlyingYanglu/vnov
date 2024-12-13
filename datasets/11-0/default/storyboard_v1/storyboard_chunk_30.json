@@ -1,0 +1,316 @@
+[
+    {
+        "text": "“ said the Mouse with an important air, “",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on a table",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "are you all ready?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on a table",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "This is the driest thing I know.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on a table",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Silence all round, if you please!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on a table",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on a table",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Edwin and Morcar, the earls of Mercia and Northumbria—’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "standing on a table",
+                    "gesturing with a paw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Ugh!” said the Lory, with a shiver.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "adult",
+                "actions": [
+                    "shivering",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disgusted",
+                    "shivering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Lory centered, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "text": "The first thing I heard was a general chorus of “There goes Bill!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "middle-aged",
+                "actions": [
+                    "running away from a group of people"
+                ],
+                "gaze_and_direction": "looking over the shoulder at the viewer",
+                "expression": [
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly untucked"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Bill positioned on the right side of the frame, camera slightly behind him"
+            }
+        ]
+    },
+    {
+        "text": "then the Rabbit’s voice along—“Catch him, you by the hedge!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "hedge"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young adult",
+                "actions": [
+                    "pointing towards Bill"
+                ],
+                "gaze_and_direction": "looking at Bill",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn forwards"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned on the left side of the frame, camera slightly behind him"
+            }
+        ]
+    },
+    {
+        "text": "then silence, and then another confusion of voices—“Hold up his head—Brandy now—Don’t choke him—How was it, old fellow? Tell us all about it!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "hedge"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "middle-aged",
+                "actions": [
+                    "being held up by a group of people"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "disoriented"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly untucked"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of brandy"
+                ],
+                "composition": "Bill positioned centrally, surrounded by a group of people, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Last came a little feeble, squeaking voice, (“That’s Bill,” I thought,) “Well, I hardly know—No more, thank ye; I’m better now",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "hedge"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking weakly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "tired",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "casual",
+                        "condition": "slightly untucked"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cap",
+                        "type": "baseball cap",
+                        "condition": "worn backwards"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of brandy"
+                ],
+                "composition": "Bill positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

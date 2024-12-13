@@ -1,0 +1,187 @@
+[
+    {
+        "text": "I had never been in a court of justice before, but I had read about them in books, and I was quite pleased to find that I knew the name of nearly everything there.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom seats"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the courtroom",
+                    "nodding in satisfaction"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleased",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“That’s the judge,” I said to myself, “because of his great wig.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom seats"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pointing towards the judge",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the judge",
+                "expression": [
+                    "confident",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, judge on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The judge, by the way, was the King; and as he wore his crown over the wig, (look at the frontispiece if you want to see how he did it,) he did not look at all comfortable, and it was certainly not becoming.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom seats"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on the judge's bench",
+                    "adjusting crown"
+                ],
+                "gaze_and_direction": "looking slightly uncomfortable",
+                "expression": [
+                    "uneasy",
+                    "displeased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "judge's robe",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "headwear": {
+                        "item": "crown",
+                        "style": "royal",
+                        "condition": "slightly askew"
+                    },
+                    "accessories": {
+                        "item": "large wig",
+                        "type": "judicial"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“And that’s the jury-box,” I thought, “and those twelve creatures,” (I was obliged to say “creatures,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury-box",
+                "courtroom seats"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the jury-box",
+                    "thinking to self"
+                ],
+                "gaze_and_direction": "looking at the jury-box",
+                "expression": [
+                    "thoughtful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "ribbon in hair",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, jury-box on the right, camera slightly overhead"
+            }
+        ]
+    }
+]

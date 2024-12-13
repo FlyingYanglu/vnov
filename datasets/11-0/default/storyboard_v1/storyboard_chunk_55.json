@@ -1,0 +1,286 @@
+[
+    {
+        "text": "This time there were two little shrieks, and more sounds of broken glass.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "broken glass",
+                "cucumber-frames",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "standing near the window",
+                    "looking out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding the window frame"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“What a number of cucumber-frames there must be!” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "broken glass",
+                "cucumber-frames",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "thinking",
+                    "looking out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding the window frame"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“I wonder what they’ll do next! As for pulling me out of the window, I only wish they could! I’m sure I don’t want to stay in here any longer!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "broken glass",
+                "cucumber-frames",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "thinking",
+                    "looking out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding the window frame"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "She waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: “Where’s the other ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill! fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em together first—they don’t reach half high enough yet—Oh! they’ll do well enough; don’t be particular—Here, Bill! catch hold of this rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down! Heads below!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "broken glass",
+                "cucumber-frames",
+                "window"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "listening intently",
+                    "looking out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding the window frame"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "(a loud crash)—“Now, who did that?—It was Bill, I fancy—Who’s to go down the chimney?—Nay, I shan’t! You do it!—That I won’t, then!—Bill’s to go down—Here, Bill! the master says you’re to go down the chimney!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "broken glass",
+                "cucumber-frames",
+                "window",
+                "chimney"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "listening intently",
+                    "looking out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding the window frame"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“Oh! So Bill’s got to come down the chimney, has he?” I said to myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "broken glass",
+                "cucumber-frames",
+                "window",
+                "chimney"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "thinking",
+                    "looking out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "holding the window frame"
+                ],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    }
+]

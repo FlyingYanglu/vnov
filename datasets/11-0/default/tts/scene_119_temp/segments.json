@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "de41da76b2db11ef98bdb8cef692109a",
+        "text": "“Or perhaps they won’t walk",
+        "audio_url": "https://v16m-default.akamaized.net/e51c84765979dd77669788796328919e/6751acbe/video/tos/maliva/tos-maliva-v-f15faa-us/o4AQFWYqEiBAAwKAEziBzFfZEAsqowKTgkRt1q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thq5kIOXq8Zmo&qs=13&rc=anJlN205cnBvdzUzNzhoM0BpanJlN205cnBvdzUzNzhoM0BgXm0tMmRzZDVgLS1kLjZzYSNgXm0tMmRzZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338428277500000000000000000000ffff0a008a0b11c0ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.308
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.308
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "de41dc2eb2db11ef98bdb8cef692109a",
+        "text": "the way I want to go!",
+        "audio_url": "https://v16m-default.akamaized.net/e51c84765979dd77669788796328919e/6751acbe/video/tos/maliva/tos-maliva-v-f15faa-us/o4AQFWYqEiBAAwKAEziBzFfZEAsqowKTgkRt1q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thq5kIOXq8Zmo&qs=13&rc=anJlN205cnBvdzUzNzhoM0BpanJlN205cnBvdzUzNzhoM0BgXm0tMmRzZDVgLS1kLjZzYSNgXm0tMmRzZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338428277500000000000000000000ffff0a008a0b11c0ca&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.308,
+            "end_offset": 2.616
+        },
+        "target_timerange": {
+            "start_offset": 1.308,
+            "end_offset": 2.616
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

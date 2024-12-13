@@ -1,0 +1,233 @@
+[
+    {
+        "text": "“Seven jogged my elbow.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with antique furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "young adult",
+                "actions": [
+                    "jogging the elbow of the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver bracelet",
+                        "type": "bangle"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Seven positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Seven looked up and said, “That’s right, Five! Always lay the blame on others!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with antique furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "young adult",
+                "actions": [
+                    "looking up",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver bracelet",
+                        "type": "bangle"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Seven centered in the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You’d better not talk!” said Five.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with antique furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green sweater",
+                        "style": "knit",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "gold necklace",
+                        "type": "chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Five positioned on the right side of the frame, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I heard the Queen say only yesterday you deserved to be beheaded!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with antique furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green sweater",
+                        "style": "knit",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "khaki pants",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "gold necklace",
+                        "type": "chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Five centered in the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What for?” asked the one who had spoken first.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "room with antique furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "young adult",
+                "actions": [
+                    "asking a question directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black skirt",
+                        "style": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "silver bracelet",
+                        "type": "bangle"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Seven positioned on the left side of the frame, camera at eye level"
+            }
+        ]
+    }
+]

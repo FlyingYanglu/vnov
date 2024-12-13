@@ -24,7 +24,8 @@ class Novel:
         "prompts": "prompts",
         "scene_images": "scene_images2",
         "char_images": "mj_char_images",
-        "tts": "tts"
+        "tts": "tts",
+        "summary": "summary"
     }
     dir : str = None
     bookname : str = None
@@ -197,21 +198,71 @@ class Novel:
             char_to_url = json.load(f)
         return char_to_url
 
-    
     @staticmethod
-    def split_chapter(content, max_length):
-        
+    def split_chapter(content, max_length, model=None):
+        def calculate_token_length(text):
+            """Calculate token length if a model is provided."""
+            return model.token_length(text) if model else 0
+
+        def can_add_to_chunk(chunk, unit_txt):
+            """Check if a unit can be added to the current chunk."""
+            return (
+                len(chunk) + len(unit_txt) < max_length and
+                (not model or calculate_token_length(chunk + unit_txt) <= max_length)
+            )
+
+        def split_long_unit(unit_txt):
+            """Split a long unit into smaller chunks based on max_length."""
+            temp_chunks = []
+            temp_chunk = ""
+            for char in unit_txt:
+                temp_chunk += char
+                if model:
+                    if calculate_token_length(temp_chunk) >= max_length or len(temp_chunk) >= max_length:
+                        temp_chunks.append(temp_chunk)
+                        temp_chunk = ""
+                else:
+                    if len(temp_chunk) >= max_length:
+                        temp_chunks.append(temp_chunk)
+                        temp_chunk = ""
+            if temp_chunk:
+                temp_chunks.append(temp_chunk)
+            return temp_chunks
+
+        def redistribute_chunks(chunks):
+            """Redistribute the last two chunks if the final chunk is too small."""
+            if len(chunks) > 1 and len(chunks[-1]) < max_length // 10:
+                print("Imbalance detected, redistributing the last two chunks.")
+                last_chunk = chunks.pop()
+                second_last_chunk = chunks.pop()
+                combined_chunks = second_last_chunk + last_chunk
+                max_combined_tokens = calculate_token_length(combined_chunks) // 2
+                max_combined_length = len(combined_chunks) // 2
+
+                chunk1, chunk2 = "", ""
+                for paragraph in combined_chunks.split('\n'):
+                    if (
+                        (not model or calculate_token_length(chunk1 + paragraph) <= max_combined_tokens) and
+                        len(chunk1 + paragraph) <= max_combined_length
+                    ):
+                        chunk1 += paragraph + '\n'
+                    else:
+                        chunk2 += paragraph + '\n'
+                chunks.append(chunk1.strip())
+                chunks.append(chunk2.strip())
+            return chunks
+
+        # Main splitting logic
         minimum_txt_units = content.split('\n')
         chunks = []
         chunk = ""
+
         for unit_txt in minimum_txt_units:
-            if len(chunk) + len(unit_txt) < max_length:
+            if can_add_to_chunk(chunk, unit_txt):
                 chunk += unit_txt + '\n'
             else:
-                # if chunk is empty, then we need to split the unit_txt
                 if len(chunk) == 0:
-                    for i in range(0, len(unit_txt), max_length):
-                        chunks.append(unit_txt[i:i+max_length])
+                    chunks.extend(split_long_unit(unit_txt))
                 else:
                     chunks.append(chunk)
                     chunk = unit_txt
@@ -219,26 +270,8 @@ class Novel:
         if len(chunk) > 0:
             chunks.append(chunk)
 
-        # Check if the last chunk is too short
-        if len(chunks) > 1 and len(chunks[-1]) < max_length//10:
-            print("Inbalance detected, Redistributing the last two chunks")
-            # redistribute the -1 and -2 chunks, if -1 is too short
-            # move last pargraphs of -2 to -1
-            last_chunk = chunks[-1]
-            second_last_chunk = chunks[-2]
-            new_chunk = second_last_chunk + last_chunk
-            # balance the length of the last two chunks
-            max_length = len(new_chunk) // 2
-            paragraphs = new_chunk.split('\n')
-            chunk = ""
-            for i, paragraph in enumerate(paragraphs):
-                if len(chunk) + len(paragraph) < max_length:
-                    chunk += paragraph + '\n'
-                else:
-                    chunks[-2] = chunk
-                    break
-            chunks[-1] = '\n'.join(paragraphs[i:])
-        return chunks
+        return redistribute_chunks(chunks)
+
 
     @staticmethod
     def trunc_chapter(content, max_length, mode="force_split"):
@@ -278,18 +311,9 @@ class Novel:
         return chunk, "\n".join(minimum_txt_units[i:])
     
     @staticmethod
-    def split_chapter_by_units(content, num_of_units=2, save_dir=None, 
-                               max_sentence_length=80, min_sentence_length=10):
-        # Configure the Spliter with relevant options
-        options = {
-            'language': 'zh',  # 'zh' for Chinese, 'en' for English
-            'long_short_sent_handle': True,  # Process long/short sentences intelligently
-            'max_length': max_sentence_length,  # Max allowed sentence length
-            'min_length': min_sentence_length,  # Min sentence length before merging
-            'hard_max_length': 200,  # Hard limit on length
-            'remove_blank': True  # Remove extra spaces from sentences
-        }
-        spliter = Spliter(**options)
+    def split_chapter_by_units(content, num_of_units=2, save_dir=None, max_sentence_length=100, min_sentence_length=40):
+        # Create Spliter instance
+        spliter = Spliter(max_length=max_sentence_length, min_length=min_sentence_length)
 
         # Split the content into refined sentences
         refined_units = spliter.cut_to_sentences(content)

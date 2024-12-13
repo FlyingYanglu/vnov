@@ -1,0 +1,352 @@
+[
+    {
+        "text": "rattle of the teacups as the March Hare and his friends shared their never-ending meal,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "holding a teacup",
+                    "gesturing with a spoon"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Character positioned on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the shrill voice of the Queen ordering off her unfortunate guests to execution—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen of Hearts",
+                "age": "adult",
+                "actions": [
+                    "pointing dramatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red dress",
+                        "style": "regal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [
+                    "pointing with a dramatic gesture"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "once more the pig-baby was sneezing on the Duchess’s knee,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pig-baby",
+                "age": "infant",
+                "actions": [
+                    "sneezing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blanket",
+                        "style": "simple",
+                        "condition": "slightly dirty"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the Duchess’s knee"
+                ],
+                "composition": "Character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "while plates and dishes crashed around it—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "adult",
+                "actions": [
+                    "holding the pig-baby",
+                    "looking around in shock"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding the pig-baby"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "once more the shriek of the Gryphon,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "shrieking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "shrieking"
+                ],
+                "composition": "Character positioned on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "the squeaking of the Lizard’s slate-pencil,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lizard",
+                "age": "adult",
+                "actions": [
+                    "holding a slate-pencil",
+                    "squeaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "slate-pencil",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate-pencil"
+                ],
+                "composition": "Character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the choking of the suppressed guinea-pigs,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Guinea-pigs",
+                "age": "young",
+                "actions": [
+                    "choking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple clothes",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    }
+                },
+                "temporary_features": [
+                    "choking"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "filled the air, mixed up with the distant sobs of the miserable Mock Turtle.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "teacups",
+                "table",
+                "tea party guests"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "sobbing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "miserable"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "simple clothes",
+                        "type": "casual"
+                    }
+                },
+                "temporary_features": [
+                    "sobbing"
+                ],
+                "composition": "Character positioned on the left, camera slightly overhead"
+            }
+        ]
+    }
+]

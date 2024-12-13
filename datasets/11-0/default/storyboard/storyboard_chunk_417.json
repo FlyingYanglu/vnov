@@ -1,0 +1,238 @@
+[
+    {
+        "text": "“It proves nothing of the sort!” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal court",
+                "throne",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with conviction"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "closed",
+                        "type": "formal",
+                        "condition": "clean",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "cravat",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Why, you don’t even know what they’re about!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal court",
+                "throne",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "disbelieving"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "closed",
+                        "type": "formal",
+                        "condition": "clean",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "cravat",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Read them,” said the King.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal court",
+                "throne",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "commanding",
+                    "pointing at documents"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "flowing",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The White Rabbit put on his spectacles.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal court",
+                "throne",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "putting on spectacles"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "focused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "tailored",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "White Rabbit centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Where shall I begin, please your Majesty?” he asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal court",
+                "throne",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "asking a question",
+                    "holding documents"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "respectful",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "tailored",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "White Rabbit centered, camera slightly low angle"
+            }
+        ]
+    }
+]

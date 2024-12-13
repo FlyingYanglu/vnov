@@ -1,0 +1,618 @@
+[
+    {
+        "text": "Let us get to the shore, and then I’ll tell you my history, and you’ll understand why it is I hate cats and dogs.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing towards the shore"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It was high time to go, for the pool was getting quite crowded with the birds and animals that had fallen into it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around at the crowded pool"
+                ],
+                "gaze_and_direction": "looking at the pool",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, pool and crowd on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the creatures in the pool"
+                ],
+                "gaze_and_direction": "looking at the pool",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, pool and creatures on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I led the way, and the whole party swam to the shore.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming towards the shore"
+                ],
+                "gaze_and_direction": "looking ahead towards the shore",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character centered, swimming towards the shore, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They were indeed a queer-looking party that assembled on the bank—the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross, and uncomfortable.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the assembled party"
+                ],
+                "gaze_and_direction": "looking at the party",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, party on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I looked around at the Mouse, the Duck, the Dodo, the Lory, and the Eaglet.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around at the specific creatures"
+                ],
+                "gaze_and_direction": "looking at the creatures",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, specific creatures on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "We were quite a sight, and I couldn't help but feel a bit out of place among them.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "awkward"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The first question of course was, how to get dry again: they had a consultation about this, and after a few minutes it seemed quite natural to me to find myself talking familiarly with them, as if I had known them all my life.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "participating in the consultation"
+                ],
+                "gaze_and_direction": "looking at the group",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, group on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had quite a long argument with the Lory, who at last turned sulky, and would only say, “I am older than you, and must know better;” and this I would not allow without knowing how old it was, and, as the Lory positively refused to tell its age, there was no more to be said.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "arguing with the Lory"
+                ],
+                "gaze_and_direction": "looking at the Lory",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, Lory on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "At last the Mouse, who seemed to be a person of authority among them, called out, “Sit down, all of you, and listen to me! _I’ll_ soon make you dry enough!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "calling out to the group"
+                ],
+                "gaze_and_direction": "looking at the group",
+                "expression": [
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none"
+                    },
+                    "bottom": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet fur"
+                ],
+                "composition": "Mouse centered, group in the background, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They all sat down at once, in a large ring, with the Mouse in the middle.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down in the ring"
+                ],
+                "gaze_and_direction": "looking at the Mouse",
+                "expression": [
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, Mouse in the middle, group in a ring, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I kept my eyes anxiously fixed on it, for I felt sure I would catch a bad cold if I did not get dry very soon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking anxiously at the Mouse"
+                ],
+                "gaze_and_direction": "looking at the Mouse",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "slightly wet"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "slightly wet"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "slightly wet hair"
+                ],
+                "composition": "Main character on the left, Mouse in the middle, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Ahem!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "near a pool"
+            ],
+            "scene_features": [
+                "pool",
+                "birds and animals around the pool"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "clearing throat"
+                ],
+                "gaze_and_direction": "looking at the group",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none"
+                    },
+                    "bottom": {
+                        "item": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "wet fur"
+                ],
+                "composition": "Mouse centered, group in the background, camera slightly overhead"
+            }
+        ]
+    }
+]

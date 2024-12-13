@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "d68d81d4b2dd11efbff41070fd2669de",
+        "text": "And yet I wish I could show",
+        "audio_url": "https://v16m-default.akamaized.net/5a2f4e0f5e0ed745f533103008435a69/6751b011/video/tos/maliva/tos-maliva-v-f15faa-us/ogdQlStrL2uhV5JnVbgBBZFf1EIiIAFiACAUfD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2zkIOXq8Zmo&qs=13&rc=MzxkbnY5cmRvdzUzNzhoM0BpMzxkbnY5cmRvdzUzNzhoM0A1bWhxMmRzazVgLS1kLjZzYSM1bWhxMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338512895700000000000000000000ffff0a008a0384daba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5600000000000005
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5600000000000005
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "d68d8332b2dd11efbff41070fd2669de",
+        "text": "you our cat Dinah: I think",
+        "audio_url": "https://v16m-default.akamaized.net/5a2f4e0f5e0ed745f533103008435a69/6751b011/video/tos/maliva/tos-maliva-v-f15faa-us/ogdQlStrL2uhV5JnVbgBBZFf1EIiIAFiACAUfD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2zkIOXq8Zmo&qs=13&rc=MzxkbnY5cmRvdzUzNzhoM0BpMzxkbnY5cmRvdzUzNzhoM0A1bWhxMmRzazVgLS1kLjZzYSM1bWhxMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338512895700000000000000000000ffff0a008a0384daba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.56,
+            "end_offset": 3.12
+        },
+        "target_timerange": {
+            "start_offset": 1.56,
+            "end_offset": 3.12
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "d68d8472b2dd11efbff41070fd2669de",
+        "text": "you’d take a fancy to cats if",
+        "audio_url": "https://v16m-default.akamaized.net/5a2f4e0f5e0ed745f533103008435a69/6751b011/video/tos/maliva/tos-maliva-v-f15faa-us/ogdQlStrL2uhV5JnVbgBBZFf1EIiIAFiACAUfD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2zkIOXq8Zmo&qs=13&rc=MzxkbnY5cmRvdzUzNzhoM0BpMzxkbnY5cmRvdzUzNzhoM0A1bWhxMmRzazVgLS1kLjZzYSM1bWhxMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338512895700000000000000000000ffff0a008a0384daba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.12,
+            "end_offset": 4.68
+        },
+        "target_timerange": {
+            "start_offset": 3.12,
+            "end_offset": 4.68
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "d68d8562b2dd11efbff41070fd2669de",
+        "text": "you could only see her.",
+        "audio_url": "https://v16m-default.akamaized.net/5a2f4e0f5e0ed745f533103008435a69/6751b011/video/tos/maliva/tos-maliva-v-f15faa-us/ogdQlStrL2uhV5JnVbgBBZFf1EIiIAFiACAUfD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2zkIOXq8Zmo&qs=13&rc=MzxkbnY5cmRvdzUzNzhoM0BpMzxkbnY5cmRvdzUzNzhoM0A1bWhxMmRzazVgLS1kLjZzYSM1bWhxMmRzazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338512895700000000000000000000ffff0a008a0384daba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.68,
+            "end_offset": 6.24
+        },
+        "target_timerange": {
+            "start_offset": 4.68,
+            "end_offset": 6.24
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

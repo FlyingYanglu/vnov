@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "2945b632b2dc11ef9cd2b8cef6a04086",
+        "text": "It was the White Rabbit",
+        "audio_url": "https://v16m-default.akamaized.net/ab62a524052109be8408aa2ea1aab856/6751ad40/video/tos/maliva/tos-maliva-v-f15faa-us/o8sVnBI9jADJQgLaISChB0Di8JFbVUVEeAGOfA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thx_kIOXq8Zmo&qs=13&rc=M2Qzang5cnBvdzUzNzhoM0BpM2Qzang5cnBvdzUzNzhoM0BzNmJnMmRrZTVgLS1kLjZzYSNzNmJnMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338440837400000000000000000000ffff0a006c88a5aee0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3823999999999996
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3823999999999996
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2945b790b2dc11ef9cd2b8cef6a04086",
+        "text": "returning, splendidly",
+        "audio_url": "https://v16m-default.akamaized.net/ab62a524052109be8408aa2ea1aab856/6751ad40/video/tos/maliva/tos-maliva-v-f15faa-us/o8sVnBI9jADJQgLaISChB0Di8JFbVUVEeAGOfA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thx_kIOXq8Zmo&qs=13&rc=M2Qzang5cnBvdzUzNzhoM0BpM2Qzang5cnBvdzUzNzhoM0BzNmJnMmRrZTVgLS1kLjZzYSNzNmJnMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338440837400000000000000000000ffff0a006c88a5aee0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3824,
+            "end_offset": 2.7648
+        },
+        "target_timerange": {
+            "start_offset": 1.3824,
+            "end_offset": 2.7648
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2945b8b2b2dc11ef9cd2b8cef6a04086",
+        "text": "dressed, with a pair of",
+        "audio_url": "https://v16m-default.akamaized.net/ab62a524052109be8408aa2ea1aab856/6751ad40/video/tos/maliva/tos-maliva-v-f15faa-us/o8sVnBI9jADJQgLaISChB0Di8JFbVUVEeAGOfA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thx_kIOXq8Zmo&qs=13&rc=M2Qzang5cnBvdzUzNzhoM0BpM2Qzang5cnBvdzUzNzhoM0BzNmJnMmRrZTVgLS1kLjZzYSNzNmJnMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338440837400000000000000000000ffff0a006c88a5aee0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7648,
+            "end_offset": 4.1472
+        },
+        "target_timerange": {
+            "start_offset": 2.7648,
+            "end_offset": 4.1472
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2945b9acb2dc11ef9cd2b8cef6a04086",
+        "text": "white kid gloves in one hand",
+        "audio_url": "https://v16m-default.akamaized.net/ab62a524052109be8408aa2ea1aab856/6751ad40/video/tos/maliva/tos-maliva-v-f15faa-us/o8sVnBI9jADJQgLaISChB0Di8JFbVUVEeAGOfA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thx_kIOXq8Zmo&qs=13&rc=M2Qzang5cnBvdzUzNzhoM0BpM2Qzang5cnBvdzUzNzhoM0BzNmJnMmRrZTVgLS1kLjZzYSNzNmJnMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338440837400000000000000000000ffff0a006c88a5aee0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.1472,
+            "end_offset": 5.5296
+        },
+        "target_timerange": {
+            "start_offset": 4.1472,
+            "end_offset": 5.5296
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2945babab2dc11ef9cd2b8cef6a04086",
+        "text": "and a large fan in the other.",
+        "audio_url": "https://v16m-default.akamaized.net/ab62a524052109be8408aa2ea1aab856/6751ad40/video/tos/maliva/tos-maliva-v-f15faa-us/o8sVnBI9jADJQgLaISChB0Di8JFbVUVEeAGOfA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thx_kIOXq8Zmo&qs=13&rc=M2Qzang5cnBvdzUzNzhoM0BpM2Qzang5cnBvdzUzNzhoM0BzNmJnMmRrZTVgLS1kLjZzYSNzNmJnMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338440837400000000000000000000ffff0a006c88a5aee0&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.5296,
+            "end_offset": 6.912
+        },
+        "target_timerange": {
+            "start_offset": 5.5296,
+            "end_offset": 6.912
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

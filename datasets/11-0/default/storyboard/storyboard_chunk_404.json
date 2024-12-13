@@ -1,0 +1,178 @@
+[
+    {
+        "text": "The King, in a very grave voice, said, \"The trial cannot proceed until all the jurymen are back in their proper places—_all_.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking in a grave voice"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "serious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "\"Oh, I _beg_ your pardon!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking in a polite tone"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "apologetic",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "He emphasized the word \"all\" and looked hard at me as he said it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "emphasizing the word 'all'",
+                    "looking hard at the viewer"
+                ],
+                "gaze_and_direction": "staring directly at the viewer",
+                "expression": [
+                    "intense",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I glanced at the jury-box and saw that I had put the Lizard head downwards.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden courtroom",
+                "daytime"
+            ],
+            "scene_features": [
+                "jury-box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "glancing at the jury-box",
+                    "realizing the mistake"
+                ],
+                "gaze_and_direction": "looking at the jury-box",
+                "expression": [
+                    "startled",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character slightly off-center, camera eye-level"
+            }
+        ]
+    }
+]

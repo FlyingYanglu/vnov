@@ -1,0 +1,266 @@
+[
+    {
+        "text": "“Talking of axes,” the Duchess interrupted, “chop off her head!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden table",
+                "candles",
+                "tapestry on walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "interrupting conversation",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "commanding",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I glanced anxiously at the cook, wondering if she would take the hint.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden table",
+                "candles",
+                "tapestry on walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "glancing at the cook",
+                    "looking anxious"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "But the cook was busy stirring the soup and didn’t seem to be listening.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden table",
+                "candles",
+                "tapestry on walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "stirring soup",
+                    "ignoring the viewer"
+                ],
+                "gaze_and_direction": "looking down at the soup",
+                "expression": [
+                    "focused",
+                    "oblivious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "functional",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "kerchief",
+                        "type": "worn"
+                    }
+                },
+                "composition": "Character positioned off-center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "So I continued, “Twenty-four hours, I _think_; or is it twelve? I—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden table",
+                "candles",
+                "tapestry on walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "continuing conversation",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, don’t bother _me_,” the Duchess said impatiently.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden table",
+                "candles",
+                "tapestry on walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "interrupting conversation",
+                    "waving hand impatiently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I never could abide figures!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden table",
+                "candles",
+                "tapestry on walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "looking away from the viewer"
+                ],
+                "gaze_and_direction": "looking away",
+                "expression": [
+                    "dismissive",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "long dress",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned off-center, camera at eye level"
+            }
+        ]
+    }
+]

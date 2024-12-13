@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "74f3c93ab2db11efae5b08c0eb17a1fc",
+        "text": "“I advise you to leave",
+        "audio_url": "https://v16m-default.akamaized.net/27eaf90fa8e230e781d69271ef432019/6751ac0d/video/tos/maliva/tos-maliva-v-f15faa-us/o8NCAeOER4IDnCzVgrS6qfEzFCXrBAoetJP7AE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2QkIOXq8Zmo&qs=13&rc=ajtmeHg5cmRvdzUzNzhoM0BpajtmeHg5cmRvdzUzNzhoM0AxcjNxMmRzYzVgLS1kLjZzYSMxcjNxMmRzYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338410663600000000000000000000ffff0a00b1819fe658&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1400000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1400000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "74f3cd54b2db11efae5b08c0eb17a1fc",
+        "text": "off this minute!”",
+        "audio_url": "https://v16m-default.akamaized.net/27eaf90fa8e230e781d69271ef432019/6751ac0d/video/tos/maliva/tos-maliva-v-f15faa-us/o8NCAeOER4IDnCzVgrS6qfEzFCXrBAoetJP7AE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th2QkIOXq8Zmo&qs=13&rc=ajtmeHg5cmRvdzUzNzhoM0BpajtmeHg5cmRvdzUzNzhoM0AxcjNxMmRzYzVgLS1kLjZzYSMxcjNxMmRzYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338410663600000000000000000000ffff0a00b1819fe658&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.1400000000000001,
+            "end_offset": 2.2800000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.1400000000000001,
+            "end_offset": 2.2800000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

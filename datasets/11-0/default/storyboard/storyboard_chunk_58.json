@@ -1,0 +1,202 @@
+[
+    {
+        "text": "I cried again, for this time the Mouse was bristling all over, and I felt certain it must be really offended.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crying",
+                    "looking at the Mouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "tear-streaked face"
+                ],
+                "composition": "Main character positioned left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“We won’t talk about her any more if you’d rather not.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking at the Mouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "simple pendant"
+                    }
+                },
+                "temporary_features": [
+                    "tear-streaked face"
+                ],
+                "composition": "Main character positioned left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“We indeed!” cried the Mouse, who was trembling down to the end of his tail.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "trembling",
+                    "crying out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "bristling"
+                    },
+                    "accessories": {
+                        "item": "tail",
+                        "type": "long and thin",
+                        "condition": "trembling"
+                    }
+                },
+                "temporary_features": [
+                    "bristling fur"
+                ],
+                "composition": "Mouse positioned right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“As if _I_ would talk on such a subject!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy room"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "bookshelves",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "gesturing emphatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disdainful",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "bristling"
+                    },
+                    "accessories": {
+                        "item": "tail",
+                        "type": "long and thin",
+                        "condition": "trembling"
+                    }
+                },
+                "temporary_features": [
+                    "bristling fur"
+                ],
+                "composition": "Mouse positioned right, camera slightly low angle"
+            }
+        ]
+    }
+]

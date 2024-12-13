@@ -1,0 +1,246 @@
+[
+    {
+        "text": "Now at _ours_ they had at the end of the bill, ‘French, music, _and washing_—extra.’",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "elegant dining room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "pointing at the bill"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "blazer",
+                        "condition": "clean",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a menu"
+                ],
+                "composition": "Character positioned slightly to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“You couldn’t have wanted it much,” I said;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "elegant dining room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "blazer",
+                        "condition": "clean",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a menu"
+                ],
+                "composition": "Character positioned slightly to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“living at the bottom of the sea.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "elegant dining room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "black blazer",
+                        "style": "tailored",
+                        "type": "blazer",
+                        "condition": "clean",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "red"
+                    }
+                },
+                "temporary_features": [
+                    "holding a menu"
+                ],
+                "composition": "Character positioned slightly to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I couldn’t afford to learn it,” the Mock Turtle sighed.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "elegant dining room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a handkerchief"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I only took the regular course.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "elegant dining room"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a handkerchief"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

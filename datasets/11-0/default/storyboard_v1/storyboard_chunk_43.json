@@ -1,0 +1,279 @@
+[
+    {
+        "text": "“Please come back and finish your story!” I called after it;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "calling out",
+                    "raising hand slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleading",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the others all joined in chorus, “Yes, please do!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Others",
+                "age": "various",
+                "actions": [
+                    "raising hands",
+                    "gesturing enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "encouraging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various casual outfits",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Group of characters centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "but the Mouse only shook its head impatiently, and walked a little quicker.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "shaking head",
+                    "walking briskly"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "impatient",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What a pity it wouldn’t stay!” sighed the Lory, as soon as it was quite out of sight.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lory",
+                "age": "adult",
+                "actions": [
+                    "sighing",
+                    "looking in the direction the Mouse left"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green feathers",
+                        "style": "natural",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Lory centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "An old Crab took the opportunity of saying to her daughter, “Ah, my dear! Let this be a lesson to you never to lose _your_ temper!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Old Crab",
+                "age": "elderly",
+                "actions": [
+                    "speaking to her daughter",
+                    "gesturing with a claw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "instructive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Old Crab centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Hold your tongue, Ma!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Daughter Crab",
+                "age": "young adult",
+                "actions": [
+                    "speaking to her mother",
+                    "gesturing with a claw"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shell",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Daughter Crab centered, camera slightly overhead"
+            }
+        ]
+    }
+]

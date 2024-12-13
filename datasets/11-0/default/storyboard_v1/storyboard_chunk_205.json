@@ -1,0 +1,417 @@
+[
+    {
+        "text": "But the snail replied “Too far, too far!” and gave a look askance—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "replying",
+                    "giving a look askance"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reluctant",
+                    "disinterested"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "coiled",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Snail centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Said he thanked the whiting kindly, but he would not join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "thanking the whiting",
+                    "declining to join the dance"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "polite",
+                    "firm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "coiled",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Snail centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Would not, could not, would not, could not, would not join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "repeating refusal"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "unwavering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "coiled",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Snail centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Would not, could not, would not, could not, could not join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "repeating refusal"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "unwavering"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "coiled",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Snail centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What matters it how far we go?” his scaly friend replied.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Scaly Friend",
+                "age": "adult",
+                "actions": [
+                    "replying"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "encouraging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "scales",
+                        "style": "shiny",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Scaly Friend centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“There is another shore, you know, upon the other side.---The further off from England the nearer is to France—then turn not pale, beloved snail, but come and join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Scaly Friend",
+                "age": "adult",
+                "actions": [
+                    "encouraging the snail"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reassuring",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "scales",
+                        "style": "shiny",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Scaly Friend centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, will you join the dance? Will you, won’t you, will you, won’t you, won’t you join the dance?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Scaly Friend",
+                "age": "adult",
+                "actions": [
+                    "repeating the invitation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "encouraging",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "scales",
+                        "style": "shiny",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Scaly Friend centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle and the Gryphon looked at me expectantly, their eyes wide with anticipation.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "looking expectantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anticipation",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "coiled",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            },
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "looking expectantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anticipation",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "shiny",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Thank you, it’s a very interesting dance to watch,” I said, feeling very glad that it was over at last.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "garden"
+            ],
+            "scene_features": [
+                "villa",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "saying thank you",
+                    "feeling relieved"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grateful",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text": "“Give your evidence,” the King repeated angrily, “or I’ll have you executed, whether you’re nervous or not.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the Hatter",
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking directly at the Hatter",
+                "expression": [
+                    "furious",
+                    "demanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "kneeling",
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking up at the King",
+                "expression": [
+                    "fearful",
+                    "trembling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tweed jacket",
+                        "style": "worn",
+                        "condition": "faded"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "old"
+                    }
+                },
+                "composition": "Hatter positioned slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The King’s eyes narrowed as he demanded, “Give your evidence, or I’ll have you executed.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "narrowing eyes",
+                    "speaking forcefully"
+                ],
+                "gaze_and_direction": "looking directly at the Hatter",
+                "expression": [
+                    "intimidating",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter’s voice wavered as he continued, “I hadn’t begun my tea—not above a week or so—and what with the bread-and-butter getting so thin—and the t",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking hesitantly",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tweed jacket",
+                        "style": "worn",
+                        "condition": "faded"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "old"
+                    }
+                },
+                "composition": "Hatter positioned slightly off-center, camera frontal"
+            }
+        ]
+    }
+]

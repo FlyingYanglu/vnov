@@ -1,0 +1,210 @@
+[
+    {
+        "text": "“He must have imitated somebody else’s hand,” said the King.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "jury box",
+                "royal throne",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking confidently"
+                ],
+                "gaze_and_direction": "looking at the jury",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "(The jury all brightened up again.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "jury box",
+                "royal throne",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury",
+                "age": "various",
+                "actions": [
+                    "looking at the King"
+                ],
+                "gaze_and_direction": "focused on the King",
+                "expression": [
+                    "relieved",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom appropriate",
+                        "condition": "neat"
+                    }
+                },
+                "composition": "Jury positioned in the jury box, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Please your Majesty,” said the Knave, “I didn’t write it, and they can’t prove I did: there’s no name signed at the end.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "jury box",
+                "royal throne",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave",
+                "age": "young adult",
+                "actions": [
+                    "pleading",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "anxious",
+                    "defensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "court attire",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "handcuffs",
+                        "type": "metal"
+                    }
+                },
+                "composition": "Knave positioned slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“If you didn’t sign it,” said the King, “that only makes the matter worse. You _must_ have meant some mischief, or else you’d have signed your name like an honest man.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "jury box",
+                "royal throne",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking sternly"
+                ],
+                "gaze_and_direction": "looking at the Knave",
+                "expression": [
+                    "disapproving",
+                    "condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "There was a general clapping of hands at this: it was the first really clever thing the King had said that day.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit courtroom",
+                "wooden benches",
+                "high ceiling"
+            ],
+            "scene_features": [
+                "jury box",
+                "royal throne",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury",
+                "age": "various",
+                "actions": [
+                    "clapping hands"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "impressed",
+                    "encouraging"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom appropriate",
+                        "condition": "neat"
+                    }
+                },
+                "composition": "Jury positioned in the jury box, camera slightly high angle"
+            }
+        ]
+    }
+]

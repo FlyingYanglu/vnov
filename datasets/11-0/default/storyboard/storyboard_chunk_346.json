@@ -1,0 +1,191 @@
+[
+    {
+        "text": "“crumbs would all wash off in the sea.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sand",
+                "waves",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "gesturing towards the sea"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator on the left side, sea in the background, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "But they _have_ their tails in their mouths; and the reason is—” He yawned and shut his eyes.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sand",
+                "waves",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "yawning",
+                    "shutting eyes"
+                ],
+                "gaze_and_direction": "eyes closed",
+                "expression": [
+                    "tired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator on the left side, sea in the background, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Tell her about the reason and all that,” he said to the Gryphon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sand",
+                "waves",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "speaking to the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "instructive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "shorts",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sunglasses",
+                        "type": "aviator"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator on the left side, Gryphon on the right, sea in the background, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“The reason is,” the Gryphon said, “that they _would_ go with the lobsters to the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "calm sea",
+                "beach"
+            ],
+            "scene_features": [
+                "sand",
+                "waves",
+                "distant horizon"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "speaking to the Narrator"
+                ],
+                "gaze_and_direction": "looking at the Narrator",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "majestic",
+                        "condition": "pristine"
+                    },
+                    "bottom": {
+                        "item": "claws",
+                        "style": "sharp",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the right side, Narrator on the left, sea in the background, camera at eye level"
+            }
+        ]
+    }
+]

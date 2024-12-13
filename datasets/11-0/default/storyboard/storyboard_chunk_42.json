@@ -1,0 +1,215 @@
+[
+    {
+        "text": "I began thinking over all the children I knew that were of the same age as myself, to see if I could have been changed for any of them.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "desk with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting at a desk",
+                    "leaning on one hand",
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down at the desk",
+                "expression": [
+                    "pensive",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown",
+                    "hand supporting chin"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I’m sure I’m not Ada,” I said, “for her hair goes in such long ringlets, and mine doesn’t go in ringlets at all;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "desk with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "determined",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "hand on hip",
+                    "hair straight and loose"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "and I’m sure I can’t be Mabel, for I know all sorts of things, and she,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "desk with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with both hands"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "confident",
+                    "slightly smug"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "hands spread out",
+                    "hair straight and loose"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "Ah, that’s the great puzzle!” oh! she knows such a very little!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelves",
+                "desk with papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "exasperated",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "dark skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [
+                    "hand on chin",
+                    "hair straight and loose"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    }
+]

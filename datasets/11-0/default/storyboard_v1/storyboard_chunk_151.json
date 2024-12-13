@@ -1,0 +1,374 @@
+[
+    {
+        "text": "I heard the sound of many footsteps and looked around, eager to see the Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "First came ten soldiers carrying clubs;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "various",
+                "actions": [
+                    "carrying clubs",
+                    "walking in a line"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "clubs",
+                        "type": "wooden"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Soldiers in a line, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "they were all shaped like the three gardeners, oblong and flat, with their hands and feet at the corners.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "various",
+                "actions": [
+                    "standing still"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "clubs",
+                        "type": "wooden"
+                    }
+                },
+                "temporary_features": [
+                    "oblong and flat shape"
+                ],
+                "composition": "Soldiers in a line, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "Next, the ten courtiers followed;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Courtiers",
+                "age": "various",
+                "actions": [
+                    "walking in pairs"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "dignified",
+                    "composed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "robes",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "diamond ornaments",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Courtiers in pairs, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "they were ornamented all over with diamonds and walked two and two, as the soldiers did.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Courtiers",
+                "age": "various",
+                "actions": [
+                    "walking in pairs"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "dignified",
+                    "composed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "robes",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "diamond ornaments",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Courtiers in pairs, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "After them came the royal children;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Royal Children",
+                "age": "young",
+                "actions": [
+                    "jumping hand in hand"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "joyful",
+                    "happy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dresses/suits",
+                        "style": "royal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "heart ornaments",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Royal children in pairs, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "there were ten of them, and they were all jumping merrily along hand in hand, in couples, and were all ornamented with hearts.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Royal Children",
+                "age": "young",
+                "actions": [
+                    "jumping hand in hand"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "joyful",
+                    "happy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dresses/suits",
+                        "style": "royal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "heart ornaments",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Royal children in pairs, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "Next came the guests, mostly Kings and Queens, and among them, I recognized the White Rabbit.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "walking"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "alert",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "White Rabbit in the crowd, camera slightly behind him"
+            }
+        ]
+    }
+]

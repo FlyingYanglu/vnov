@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "b210fe66b2de11efaf4eb8cef659fbf0",
+        "text": "‘Edwin and Morcar, the",
+        "audio_url": "https://v16m-default.akamaized.net/6994e07bedeb7de405ab3d3f3fe99914/6751b185/video/tos/maliva/tos-maliva-v-f15faa-us/oIbERouJBDXU5JpRpjFBQ0EEVLeuAWbfhABnAV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqLkIOXq8Zmo&qs=13&rc=amg5bHg5cjlvdzUzNzhoM0Bpamg5bHg5cjlvdzUzNzhoM0BlZ2NhMmRzbjVgLS1kLjZzYSNlZ2NhMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338549568000000000000000000000ffff0a006d1241d051&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.58
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.58
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b210ffbab2de11efaf4eb8cef659fbf0",
+        "text": "earls of Mercia and",
+        "audio_url": "https://v16m-default.akamaized.net/6994e07bedeb7de405ab3d3f3fe99914/6751b185/video/tos/maliva/tos-maliva-v-f15faa-us/oIbERouJBDXU5JpRpjFBQ0EEVLeuAWbfhABnAV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqLkIOXq8Zmo&qs=13&rc=amg5bHg5cjlvdzUzNzhoM0Bpamg5bHg5cjlvdzUzNzhoM0BlZ2NhMmRzbjVgLS1kLjZzYSNlZ2NhMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338549568000000000000000000000ffff0a006d1241d051&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.58,
+            "end_offset": 3.16
+        },
+        "target_timerange": {
+            "start_offset": 1.58,
+            "end_offset": 3.16
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b21100c8b2de11efaf4eb8cef659fbf0",
+        "text": "Northumbria, declared for",
+        "audio_url": "https://v16m-default.akamaized.net/6994e07bedeb7de405ab3d3f3fe99914/6751b185/video/tos/maliva/tos-maliva-v-f15faa-us/oIbERouJBDXU5JpRpjFBQ0EEVLeuAWbfhABnAV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqLkIOXq8Zmo&qs=13&rc=amg5bHg5cjlvdzUzNzhoM0Bpamg5bHg5cjlvdzUzNzhoM0BlZ2NhMmRzbjVgLS1kLjZzYSNlZ2NhMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338549568000000000000000000000ffff0a006d1241d051&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.16,
+            "end_offset": 4.74
+        },
+        "target_timerange": {
+            "start_offset": 3.16,
+            "end_offset": 4.74
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b21101c2b2de11efaf4eb8cef659fbf0",
+        "text": "him: and even Stigand, the",
+        "audio_url": "https://v16m-default.akamaized.net/6994e07bedeb7de405ab3d3f3fe99914/6751b185/video/tos/maliva/tos-maliva-v-f15faa-us/oIbERouJBDXU5JpRpjFBQ0EEVLeuAWbfhABnAV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqLkIOXq8Zmo&qs=13&rc=amg5bHg5cjlvdzUzNzhoM0Bpamg5bHg5cjlvdzUzNzhoM0BlZ2NhMmRzbjVgLS1kLjZzYSNlZ2NhMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338549568000000000000000000000ffff0a006d1241d051&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.74,
+            "end_offset": 6.32
+        },
+        "target_timerange": {
+            "start_offset": 4.74,
+            "end_offset": 6.32
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b21102e4b2de11efaf4eb8cef659fbf0",
+        "text": "patriotic archbishop of",
+        "audio_url": "https://v16m-default.akamaized.net/6994e07bedeb7de405ab3d3f3fe99914/6751b185/video/tos/maliva/tos-maliva-v-f15faa-us/oIbERouJBDXU5JpRpjFBQ0EEVLeuAWbfhABnAV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqLkIOXq8Zmo&qs=13&rc=amg5bHg5cjlvdzUzNzhoM0Bpamg5bHg5cjlvdzUzNzhoM0BlZ2NhMmRzbjVgLS1kLjZzYSNlZ2NhMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338549568000000000000000000000ffff0a006d1241d051&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.32,
+            "end_offset": 7.9
+        },
+        "target_timerange": {
+            "start_offset": 6.32,
+            "end_offset": 7.9
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b21103fcb2de11efaf4eb8cef659fbf0",
+        "text": "Canterbury, found it advisable",
+        "audio_url": "https://v16m-default.akamaized.net/6994e07bedeb7de405ab3d3f3fe99914/6751b185/video/tos/maliva/tos-maliva-v-f15faa-us/oIbERouJBDXU5JpRpjFBQ0EEVLeuAWbfhABnAV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqLkIOXq8Zmo&qs=13&rc=amg5bHg5cjlvdzUzNzhoM0Bpamg5bHg5cjlvdzUzNzhoM0BlZ2NhMmRzbjVgLS1kLjZzYSNlZ2NhMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338549568000000000000000000000ffff0a006d1241d051&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.9,
+            "end_offset": 9.48
+        },
+        "target_timerange": {
+            "start_offset": 7.9,
+            "end_offset": 9.48
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

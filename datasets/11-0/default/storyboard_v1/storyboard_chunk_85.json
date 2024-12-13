@@ -1,0 +1,284 @@
+[
+    {
+        "text": "“I’ve seen a good many little girls in my time, but never _one_ with such a neck as that! No, no! You’re a serpent; and there’s no use denying it. I suppose you’ll be telling me next that you never tasted an egg!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "flapping wings",
+                    "pecking at the ground"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "accusatory"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "bird",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "bird"
+                    }
+                },
+                "temporary_features": [
+                    "standing on one leg"
+                ],
+                "composition": "Pigeon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I _have_ tasted eggs, certainly,” I said, who was a very truthful child;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "child",
+                "actions": [
+                    "standing still",
+                    "looking at the Pigeon"
+                ],
+                "gaze_and_direction": "looking at the Pigeon",
+                "expression": [
+                    "calm",
+                    "truthful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding hands together"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“but little girls eat eggs quite as much as serpents do, you know.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "child",
+                "actions": [
+                    "gesturing with hands",
+                    "looking at the Pigeon"
+                ],
+                "gaze_and_direction": "looking at the Pigeon",
+                "expression": [
+                    "calm",
+                    "truthful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding hands together"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I don’t believe it,” the Pigeon said;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "flapping wings",
+                    "pecking at the ground"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "accusatory"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "bird",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "bird"
+                    }
+                },
+                "temporary_features": [
+                    "standing on one leg"
+                ],
+                "composition": "Pigeon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“but if they do, why then they’re a kind of serpent, that’s all I can say.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "flapping wings",
+                    "pecking at the ground"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "accusatory"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "bird",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "bird"
+                    }
+                },
+                "temporary_features": [
+                    "standing on one leg"
+                ],
+                "composition": "Pigeon centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "This was such a new idea to me, that I was quite silent for a minute or two, which gave the Pigeon the opportunity of adding, “You’re looking for eggs, I know _that_ well enough; and what does it matter to me whether you’re a little girl or a serpent?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "open field",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "flapping wings",
+                    "pecking at the ground"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "accusatory"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "bird",
+                        "condition": "ruffled"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "bird"
+                    }
+                },
+                "temporary_features": [
+                    "standing on one leg"
+                ],
+                "composition": "Pigeon centered, camera slightly overhead"
+            }
+        ]
+    }
+]

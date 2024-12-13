@@ -1,0 +1,213 @@
+[
+    {
+        "text": "“What! Never heard of uglifying!” it exclaimed.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "old furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "exclaiming with a dramatic gesture"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "surprised",
+                    "mocking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“You know what to beautify is, I suppose?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "old furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "questioning with a raised eyebrow"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "curious",
+                    "slightly condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Yes,” I said doubtfully: “it means—to—make—anything—prettier.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "old furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hesitantly"
+                ],
+                "gaze_and_direction": "looking down, avoiding eye contact",
+                "expression": [
+                    "doubtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Well, then,” the Gryphon went on, “if you don’t know what to uglify is, you _are_ a simpleton.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "old furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "unknown",
+                "actions": [
+                    "continuing to speak with a condescending tone"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "smirking",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I did not feel encouraged to ask any more questions about it, so I turned to the Mock Turtle and said, “What else had you to learn?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "old furniture",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "turning towards the Mock Turtle",
+                    "speaking with a resigned tone"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "resigned",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Character positioned slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

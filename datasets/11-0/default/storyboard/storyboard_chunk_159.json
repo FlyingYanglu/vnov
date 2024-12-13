@@ -1,0 +1,220 @@
+[
+    {
+        "text": "repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, “I’ve tried every way, and nothing seems to suit them!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking with a subdued tone",
+                    "sobbing slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "disheveled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "tears in eyes"
+                ],
+                "composition": "Pigeon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I haven’t the least idea what you’re talking about,” I said.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking with a confused tone"
+                ],
+                "gaze_and_direction": "looking at the Pigeon",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "scratching head"
+                ],
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve tried the roots of trees, and I’ve tried banks, and I’ve tried hedges,” the Pigeon went on, without attending to me;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking with a distressed tone"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "distressed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "disheveled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flapping wings slightly"
+                ],
+                "composition": "Pigeon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“but those serpents!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "exclaiming with fear"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "terrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "disheveled"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "flapping wings rapidly"
+                ],
+                "composition": "Pigeon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I was more and more puzzled, but I thought there was no use in saying anything more till the Pigeon had finished.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "listening intently"
+                ],
+                "gaze_and_direction": "looking at the Pigeon",
+                "expression": [
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "scratching head"
+                ],
+                "composition": "Main character slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

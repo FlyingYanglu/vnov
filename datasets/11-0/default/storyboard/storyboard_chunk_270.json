@@ -1,0 +1,189 @@
+[
+    {
+        "text": "And then, turning to the rose-tree, she went on, “What _have_ you been doing here?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "rose-tree"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "turning to the rose-tree",
+                    "speaking to the rose-tree"
+                ],
+                "gaze_and_direction": "looking at the rose-tree",
+                "expression": [
+                    "curious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned slightly to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“May it please your Majesty,” said Two, in a very humble tone, going down on one knee as he spoke, “we were trying—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "rose-tree"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Two",
+                "age": "young adult",
+                "actions": [
+                    "going down on one knee",
+                    "speaking in a humble tone"
+                ],
+                "gaze_and_direction": "looking up at the Queen",
+                "expression": [
+                    "humble",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "plain",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Two positioned to the right, slightly lower than the Queen, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“_I_ see!” said the Queen, who had meanwhile been examining the roses.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "rose-tree"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "examining the roses",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the roses",
+                "expression": [
+                    "determined",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned slightly to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the procession moved on, three of the soldiers remaining behind to execute the unfortunate gardeners, who ran to me for protection.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers",
+                "rose-tree"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gardener",
+                "age": "middle-aged",
+                "actions": [
+                    "running towards the viewer",
+                    "looking scared"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "fearful",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "gardening clothes",
+                        "style": "practical",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gardener positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

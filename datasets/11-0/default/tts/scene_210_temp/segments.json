@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "c4fd981eb2dd11ef8fb298039b7ed938",
+        "text": "“Not like cats!” cried",
+        "audio_url": "https://v16m-default.akamaized.net/789474fc462fa3f0d506af41b36587f1/6751aff2/video/tos/maliva/tos-maliva-v-f15faa-us/ocVnBRAAEK4F3BWLaQLEUEmAVuXyDBAfhfoESJ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLzkIOXq8Zmo&qs=13&rc=M2xlOHk5cjVvdzUzNzhoM0BpM2xlOHk5cjVvdzUzNzhoM0AvYnJnMmRrazVgLS1kLjZzYSMvYnJnMmRrazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338509699100000000000000000000ffff0a006752418efe&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3039999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3039999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c4fd9aa8b2dd11ef8fb298039b7ed938",
+        "text": "the Mouse, in a shrill,",
+        "audio_url": "https://v16m-default.akamaized.net/789474fc462fa3f0d506af41b36587f1/6751aff2/video/tos/maliva/tos-maliva-v-f15faa-us/ocVnBRAAEK4F3BWLaQLEUEmAVuXyDBAfhfoESJ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLzkIOXq8Zmo&qs=13&rc=M2xlOHk5cjVvdzUzNzhoM0BpM2xlOHk5cjVvdzUzNzhoM0AvYnJnMmRrazVgLS1kLjZzYSMvYnJnMmRrazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338509699100000000000000000000ffff0a006752418efe&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.304,
+            "end_offset": 2.6079999999999997
+        },
+        "target_timerange": {
+            "start_offset": 1.304,
+            "end_offset": 2.6079999999999997
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c4fd9c7eb2dd11ef8fb298039b7ed938",
+        "text": "passionate voice.",
+        "audio_url": "https://v16m-default.akamaized.net/789474fc462fa3f0d506af41b36587f1/6751aff2/video/tos/maliva/tos-maliva-v-f15faa-us/ocVnBRAAEK4F3BWLaQLEUEmAVuXyDBAfhfoESJ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLzkIOXq8Zmo&qs=13&rc=M2xlOHk5cjVvdzUzNzhoM0BpM2xlOHk5cjVvdzUzNzhoM0AvYnJnMmRrazVgLS1kLjZzYSMvYnJnMmRrazVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338509699100000000000000000000ffff0a006752418efe&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.608,
+            "end_offset": 3.912
+        },
+        "target_timerange": {
+            "start_offset": 2.608,
+            "end_offset": 3.912
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

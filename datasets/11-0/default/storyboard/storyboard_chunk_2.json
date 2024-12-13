@@ -1,0 +1,150 @@
+[
+    {
+        "text": "I had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, I ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green field",
+                "hedge"
+            ],
+            "scene_features": [
+                "rabbit-hole",
+                "rabbit"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running across the field",
+                    "looking at the rabbit"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    },
+    {
+        "text": "In another moment, down I went after it, never once considering how in the world I was to get out again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green field",
+                "hedge"
+            ],
+            "scene_features": [
+                "rabbit-hole"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "jumping into the rabbit-hole"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "slightly worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that I had not a moment to think about stopping.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dark tunnel",
+                "dim light"
+            ],
+            "scene_features": [
+                "rabbit-hole"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "falling down the rabbit-hole"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind and to the side"
+            }
+        ]
+    }
+]

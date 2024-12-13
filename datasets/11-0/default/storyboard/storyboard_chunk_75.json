@@ -1,0 +1,87 @@
+[
+    {
+        "text": "There was no “One, two, three, and away,” but they began running when they liked, and left off when they liked, so that it was not easy to know when the race was over.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field"
+            ],
+            "scene_features": [
+                "scattered participants",
+                "natural terrain"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "watching the participants run"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "However, when they had been running half an hour or so, and were quite dry again, the Dodo suddenly called out “The race is over!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field"
+            ],
+            "scene_features": [
+                "scattered participants",
+                "natural terrain"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "raising a hand",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "pants",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera slightly overhead"
+            }
+        ]
+    }
+]

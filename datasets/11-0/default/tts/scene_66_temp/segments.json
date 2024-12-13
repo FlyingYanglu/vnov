@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "c25f1dd8b2da11efa7c508c0eb61f8d0",
+        "text": "\"Which certainly was not here",
+        "audio_url": "https://v16m-default.akamaized.net/5c729cdafdf5fcaea807c05063471d5d/6751aae5/video/tos/maliva/tos-maliva-v-f15faa-us/oEBUJE9EDejZVBVSQEfnL1AAlFjxAnBhP9MV5R/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhRkIOXq8Zmo&qs=13&rc=M2x0eHg5cnlvdzUzNzhoM0BpM2x0eHg5cnlvdzUzNzhoM0AzXjRsMmRjYDVgLS1kLjZzYSMzXjRsMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338380423900000000000000000000ffff0a006df1ebbe77&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.68
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.68
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c25f2134b2da11efa7c508c0eb61f8d0",
+        "text": "before,\" I said to myself.",
+        "audio_url": "https://v16m-default.akamaized.net/5c729cdafdf5fcaea807c05063471d5d/6751aae5/video/tos/maliva/tos-maliva-v-f15faa-us/oEBUJE9EDejZVBVSQEfnL1AAlFjxAnBhP9MV5R/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThhRkIOXq8Zmo&qs=13&rc=M2x0eHg5cnlvdzUzNzhoM0BpM2x0eHg5cnlvdzUzNzhoM0AzXjRsMmRjYDVgLS1kLjZzYSMzXjRsMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338380423900000000000000000000ffff0a006df1ebbe77&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.68,
+            "end_offset": 3.36
+        },
+        "target_timerange": {
+            "start_offset": 1.68,
+            "end_offset": 3.36
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

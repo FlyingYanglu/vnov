@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "064a118eb2da11ef9e65ec0d9a371a46",
+        "text": "The Antipathies, I think—” (she",
+        "audio_url": "https://v16m-default.akamaized.net/a5911f5a5ad58513ec603ed7dc411ceb/6751a9a8/video/tos/maliva/tos-maliva-v-f15faa-us/oUPRlUJZV4Va0CUBAXVVERR6S4FBp1QiAEACi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThQ4kIOXq8Zmo&qs=13&rc=M3I5OG45cmtvdzUzNzhoM0BpM3I5OG45cmtvdzUzNzhoM0BxXzYuMmQ0XjVgLS1kLjZzYSNxXzYuMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338349124900000000000000000000ffff0a006e616e118e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "064a13a0b2da11ef9e65ec0d9a371a46",
+        "text": "was rather glad there _was_",
+        "audio_url": "https://v16m-default.akamaized.net/a5911f5a5ad58513ec603ed7dc411ceb/6751a9a8/video/tos/maliva/tos-maliva-v-f15faa-us/oUPRlUJZV4Va0CUBAXVVERR6S4FBp1QiAEACi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThQ4kIOXq8Zmo&qs=13&rc=M3I5OG45cmtvdzUzNzhoM0BpM3I5OG45cmtvdzUzNzhoM0BxXzYuMmQ0XjVgLS1kLjZzYSNxXzYuMmQ0XjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338349124900000000000000000000ffff0a006e616e118e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.872,
+            "end_offset": 3.744
+        },
+        "target_timerange": {
+            "start_offset": 1.872,
+            "end_offset": 3.744
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

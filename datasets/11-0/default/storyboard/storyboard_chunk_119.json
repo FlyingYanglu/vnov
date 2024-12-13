@@ -1,0 +1,194 @@
+[
+    {
+        "text": "“Shy, they seem to put everything upon Bill!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "fireplace",
+                "narrow chimney"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing near the fireplace"
+                ],
+                "composition": "Narrator positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "I wouldn’t be in Bill’s place for a good deal: this fireplace is narrow, to be sure; but I think I can kick a little!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "fireplace",
+                "narrow chimney"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "gesturing towards the fireplace"
+                ],
+                "gaze_and_direction": "looking at the fireplace",
+                "expression": [
+                    "determined",
+                    "slightly mischievous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing near the fireplace"
+                ],
+                "composition": "Narrator positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "I drew my foot as far down the chimney as I could, and waited till I heard a little animal (I couldn’t guess of what sort it was) scratching and scrambling about in the chimney close above me:",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "fireplace",
+                "narrow chimney"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "stretching leg into the chimney"
+                ],
+                "gaze_and_direction": "looking up the chimney",
+                "expression": [
+                    "focused",
+                    "listening intently"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing near the fireplace"
+                ],
+                "composition": "Narrator positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "then, saying to myself “This is Bill,” I gave one sharp kick, and waited to see what would happen next.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "nighttime"
+            ],
+            "scene_features": [
+                "fireplace",
+                "narrow chimney"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "kicking into the chimney"
+                ],
+                "gaze_and_direction": "looking up the chimney",
+                "expression": [
+                    "determined",
+                    "anticipating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing near the fireplace"
+                ],
+                "composition": "Narrator positioned to the left, camera slightly angled"
+            }
+        ]
+    }
+]

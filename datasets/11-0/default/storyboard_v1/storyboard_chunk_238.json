@@ -1,0 +1,257 @@
+[
+    {
+        "text": "the Hatter went on, looking anxiously around.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "looking around anxiously"
+                ],
+                "gaze_and_direction": "eyes darting around the room",
+                "expression": [
+                    "worried",
+                    "tense"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a teacup"
+                ],
+                "composition": "Hatter positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "But the Dormouse, fast asleep, denied nothing.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "fast asleep"
+                ],
+                "gaze_and_direction": "eyes closed",
+                "expression": [
+                    "peaceful",
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "small coat",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "tiny hat",
+                        "type": "simple",
+                        "condition": "slightly askew"
+                    }
+                },
+                "temporary_features": [
+                    "head resting on folded arms"
+                ],
+                "composition": "Dormouse positioned on the table, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“After that,” the Hatter continued, “I cut some more bread-and-butter—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "cutting bread-and-butter"
+                ],
+                "gaze_and_direction": "looking at the bread",
+                "expression": [
+                    "focused",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding a knife"
+                ],
+                "composition": "Hatter positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“But what did the Dormouse say?” one of the jury members asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "adult",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "curious",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal jacket",
+                        "style": "tailored",
+                        "condition": "neat"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "round",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [
+                    "holding a notepad"
+                ],
+                "composition": "Jury Member positioned slightly to the side, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“That I can’t remember,” the Hatter admitted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "decorative items"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "admitting forgetfulness"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "embarrassed",
+                    "apologetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [
+                    "holding the knife loosely"
+                ],
+                "composition": "Hatter positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

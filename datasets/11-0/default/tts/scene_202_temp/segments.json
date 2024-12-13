@@ -1,0 +1,107 @@
+[
+    {
+        "segment_id": "98c8ac7ab2dd11ef95a2b8cef650d04c",
+        "text": "(I thought this must be the",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5771428571428583
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5771428571428583
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "98c8ae5ab2dd11ef95a2b8cef650d04c",
+        "text": "right way of speaking to a",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5771428571428572,
+            "end_offset": 3.154285714285715
+        },
+        "target_timerange": {
+            "start_offset": 1.5771428571428572,
+            "end_offset": 3.154285714285715
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "98c8b01cb2dd11ef95a2b8cef650d04c",
+        "text": "mouse: I had never done such a",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.1542857142857144,
+            "end_offset": 4.731428571428572
+        },
+        "target_timerange": {
+            "start_offset": 3.1542857142857144,
+            "end_offset": 4.731428571428572
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "98c8b170b2dd11ef95a2b8cef650d04c",
+        "text": "thing before, but I remembered",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.731428571428571,
+            "end_offset": 6.30857142857143
+        },
+        "target_timerange": {
+            "start_offset": 4.731428571428571,
+            "end_offset": 6.30857142857143
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "98c8b2b0b2dd11ef95a2b8cef650d04c",
+        "text": "having seen in my brother’s",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.308571428571429,
+            "end_offset": 7.885714285714286
+        },
+        "target_timerange": {
+            "start_offset": 6.308571428571429,
+            "end_offset": 7.885714285714286
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "98c8b3f0b2dd11ef95a2b8cef650d04c",
+        "text": "Latin Grammar, “A mouse—of a",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.885714285714286,
+            "end_offset": 9.462857142857144
+        },
+        "target_timerange": {
+            "start_offset": 7.885714285714286,
+            "end_offset": 9.462857142857144
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "98c8b6a2b2dd11ef95a2b8cef650d04c",
+        "text": "mouse—to a mouse—a mouse—O mouse!”)",
+        "audio_url": "https://v16m-default.akamaized.net/99896c1dcb9fd4e013cd6cde873d2631/6751afac/video/tos/maliva/tos-maliva-v-f15faa-us/oUBiVADWUBVftAmERqQ2JEBEAPeFEhnYBEQL0Y/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlPkIOXq8Zmo&qs=13&rc=anJrZ3g5cmpvdzUzNzhoM0BpanJrZ3g5cmpvdzUzNzhoM0A0ZGRpMmRjajVgLS1kLjZzYSM0ZGRpMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338502241000000000000000000000ffff0a008c91bc90a3&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 9.462857142857143,
+            "end_offset": 11.040000000000001
+        },
+        "target_timerange": {
+            "start_offset": 9.462857142857143,
+            "end_offset": 11.040000000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

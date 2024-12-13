@@ -1,0 +1,206 @@
+[
+    {
+        "text": "“I’ll give him sixpence.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Protagonist",
+                "age": "adult",
+                "actions": [
+                    "holding a coin",
+                    "hand outstretched towards the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sixpence coin"
+                ],
+                "composition": "Character positioned slightly to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "I don’t believe there’s an atom of meaning in it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Protagonist",
+                "age": "adult",
+                "actions": [
+                    "hand retracting",
+                    "shaking head"
+                ],
+                "gaze_and_direction": "looking down at the coin",
+                "expression": [
+                    "skeptical"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sixpence coin"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The jury all wrote down on their slates, “She doesn’t believe there’s an atom of meaning in it,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "middle-aged",
+                "actions": [
+                    "writing on a slate",
+                    "hand holding chalk"
+                ],
+                "gaze_and_direction": "focused on the slate",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate"
+                ],
+                "composition": "Character positioned slightly to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "but none of them attempted to explain the paper.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury Member",
+                "age": "middle-aged",
+                "actions": [
+                    "hand retracting from slate",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate"
+                ],
+                "composition": "Character positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

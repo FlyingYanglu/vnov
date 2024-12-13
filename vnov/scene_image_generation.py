@@ -6,8 +6,9 @@ import time
 import random
 from vnov.image_generation.midjourney import Midjourney
 from vnov.data.data import NOVEL_MODE
+from vnov.data import Novel
 class ImageGenerationPipeline:
-    def __init__(self, novel, taotao_url="https://s.mj.run/qRhIa9TaD5Q"):
+    def __init__(self, novel: Novel, taotao_url="https://s.mj.run/qRhIa9TaD5Q"):
         """
         Initialize the pipeline with the novel instance and taotao reference URL.
 
@@ -33,24 +34,30 @@ class ImageGenerationPipeline:
         mj = Midjourney()
         if multithread:
             time.sleep(random.uniform(1, 10))
-        prompt = "anime episode still image: " + self.mj_prompts[i] + ", anime, japanese manga style. Art by Kohei Horikoshi."
+        prompt = self.mj_prompts[i] + "Whimsical, surreal, vibrant fantasy with Victorian charm.Alice In Wonderland Style. "
         scene_info = self.storyboard[i]
-        characters = [item['名字'] for item in scene_info['角色']]
+        characters = [item['name'] for item in scene_info['characters']]
         print(f"Setting up scene {i}")
 
         if len(characters) == 1 and characters[0] in self.char_to_url:
-            char_url = self.char_to_url[characters[0]][0] # pick the first one from the four images
+            # char_url = self.char_to_url[characters[0]][0] # pick the first one from the four images
+            # # pick char_url that not start with "https://s.mj.run/"
+            # char_url = next((url for url in self.char_to_url[characters[0]] if not url.startswith("https://s.mj.run/")), char_url)
+            for url in self.char_to_url[characters[0]]:
+                if not url.startswith("https://s.mj.run/"):
+                    char_url = url
+                    break
             if not char_url.startswith("https://s.mj.run/"):
                 urls = mj.fetch_image(prompt, image_folder=self.img_dir, 
                                       image_name=f'scene{i}', cref=char_url, cw=20, 
-                                      sref=self.taotao_url, sw=45, niji=True, need_new_ref_url=True)
+                                      sref="", sw=-1, niji=False, need_new_ref_url=True)
                 with self.char_to_url_lock:
                     self.char_to_url[characters[0]][0] = urls['cref_url']
                     print(f"Updated char_to_url for character: {characters[0]}")
             else:
                 urls = mj.fetch_image(prompt, image_folder=self.img_dir, 
                                       image_name=f'scene{i}', cref=char_url, cw=20, 
-                                      sref=self.taotao_url, niji=True, sw=45)
+                                      sref="", niji=False, sw=-1)
             url = urls['image_url']
         else:
             urls = mj.fetch_image(prompt, image_folder=self.img_dir, 

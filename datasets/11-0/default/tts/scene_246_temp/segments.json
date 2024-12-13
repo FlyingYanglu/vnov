@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "89737fb0b2de11ef8018506b4b2ab66e",
+        "text": "“Ahem!” said the Mouse",
+        "audio_url": "https://v16m-default.akamaized.net/6e684ad76e86f80cf6829f6dd9178c13/6751b13b/video/tos/maliva/tos-maliva-v-f15faa-us/oMUSvlaEQNkiBcFyVX911AZQiAtJRSCZBEyA4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThoCkIOXq8Zmo&qs=13&rc=Mzg7N2w5cm9vdzUzNzhoM0BpMzg7N2w5cm9vdzUzNzhoM0A1Z2phMmRrbTVgLS1kLjZzYSM1Z2phMmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338542931700000000000000000000ffff0a00bba09d9398&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.496
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.496
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "897381aeb2de11ef8018506b4b2ab66e",
+        "text": "with an important air,",
+        "audio_url": "https://v16m-default.akamaized.net/6e684ad76e86f80cf6829f6dd9178c13/6751b13b/video/tos/maliva/tos-maliva-v-f15faa-us/oMUSvlaEQNkiBcFyVX911AZQiAtJRSCZBEyA4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThoCkIOXq8Zmo&qs=13&rc=Mzg7N2w5cm9vdzUzNzhoM0BpMzg7N2w5cm9vdzUzNzhoM0A1Z2phMmRrbTVgLS1kLjZzYSM1Z2phMmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338542931700000000000000000000ffff0a00bba09d9398&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4960000000000002,
+            "end_offset": 2.992
+        },
+        "target_timerange": {
+            "start_offset": 1.4960000000000002,
+            "end_offset": 2.992
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "897382dab2de11ef8018506b4b2ab66e",
+        "text": "“are you all ready?",
+        "audio_url": "https://v16m-default.akamaized.net/6e684ad76e86f80cf6829f6dd9178c13/6751b13b/video/tos/maliva/tos-maliva-v-f15faa-us/oMUSvlaEQNkiBcFyVX911AZQiAtJRSCZBEyA4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThoCkIOXq8Zmo&qs=13&rc=Mzg7N2w5cm9vdzUzNzhoM0BpMzg7N2w5cm9vdzUzNzhoM0A1Z2phMmRrbTVgLS1kLjZzYSM1Z2phMmRrbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338542931700000000000000000000ffff0a00bba09d9398&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.9920000000000004,
+            "end_offset": 4.488
+        },
+        "target_timerange": {
+            "start_offset": 2.9920000000000004,
+            "end_offset": 4.488
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

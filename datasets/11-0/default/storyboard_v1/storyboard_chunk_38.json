@@ -1,0 +1,280 @@
+[
+    {
+        "text": "But who is to give the prizes?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "chorus of voices",
+                "age": "various",
+                "actions": [
+                    "asking collectively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "various",
+                        "condition": "various"
+                    },
+                    "accessories": {
+                        "item": "various",
+                        "type": "various"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Characters positioned around the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Why, _she_, of course,” said the Dodo, pointing to me with one finger;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "pointing with one finger"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered outfit",
+                        "style": "ornate",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the whole party at once crowded round me, calling out in a confused way, “Prizes! Prizes!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "party members",
+                "age": "various",
+                "actions": [
+                    "crowding around",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "various",
+                        "condition": "various"
+                    },
+                    "accessories": {
+                        "item": "various",
+                        "type": "various"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Characters positioned around the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had no idea what to do, and in despair, I put my hand in my pocket, and pulled out a box of comfits, (luckily the salt water had not got into it), and handed them round as prizes. There was exactly one a-piece, all round.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "putting hand in pocket",
+                    "pulling out a box of comfits",
+                    "handing them out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "desperate",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes",
+                    "holding car keys"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But she must have a prize herself, you know,” said the Mouse.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailored suit",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mouse centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Of course,” the Dodo replied very gravely.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grave"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered outfit",
+                        "style": "ornate",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera slightly overhead"
+            }
+        ]
+    }
+]

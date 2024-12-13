@@ -1,0 +1,277 @@
+[
+    {
+        "text": "The Hatter was the only one who got any advantage from the change: and I was a good deal worse off than before, as the March Hare had just upset the milk-jug into his plate.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "milk jug",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting at the tea table",
+                    "looking smug"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "tall top hat",
+                        "style": "classic",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Hatter positioned on the left side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I did not wish to offend the Dormouse again, so I began very cautiously: “But I don’t understand. Where did they draw the treacle from?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "milk jug",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "sitting at the tea table",
+                    "speaking cautiously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "headwear": {
+                        "item": "white pinafore",
+                        "style": "classic",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You can draw water out of a water-well,” said the Hatter;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "milk jug",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting at the tea table",
+                    "speaking with a condescending tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "patronizing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "tall top hat",
+                        "style": "classic",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Hatter positioned on the left side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“so I should think you could draw treacle out of a treacle-well—eh, stupid?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "milk jug",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting at the tea table",
+                    "speaking with a condescending tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "patronizing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "tall top hat",
+                        "style": "classic",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Hatter positioned on the left side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“But they were _in_ the well,” I said to the Dormouse, not choosing to notice this last remark.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "milk jug",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "sitting at the tea table",
+                    "speaking to the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "headwear": {
+                        "item": "white pinafore",
+                        "style": "classic",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Of course they were,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "milk jug",
+                "plates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "elderly",
+                "actions": [
+                    "sitting at the tea table",
+                    "speaking with a sleepy tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sleepy",
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur coat",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "headwear": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    }
+                },
+                "composition": "Dormouse positioned on the right side, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "5bbec11eb2da11efb10cb8cef6277d40",
+        "text": "down I came upon a heap of",
+        "audio_url": "https://v16m-default.akamaized.net/4a1afb9f89ead78df942ad93e2985f36/6751aa37/video/tos/maliva/tos-maliva-v-f15faa-us/o4fRuO5eIOrqXLHBOASEAgCVDnAoCWGwCEderT/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th~0kIOXq8Zmo&qs=13&rc=M212cXY5cm5vdzUzNzhoM0BpM212cXY5cm5vdzUzNzhoM0BfcDQ0MmRzXzVgLS1kLjZzYSNfcDQ0MmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338363405700000000000000000000ffff0a0064e2b7487c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.392
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.392
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "5bbec29ab2da11efb10cb8cef6277d40",
+        "text": "sticks and dry leaves, and",
+        "audio_url": "https://v16m-default.akamaized.net/4a1afb9f89ead78df942ad93e2985f36/6751aa37/video/tos/maliva/tos-maliva-v-f15faa-us/o4fRuO5eIOrqXLHBOASEAgCVDnAoCWGwCEderT/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th~0kIOXq8Zmo&qs=13&rc=M212cXY5cm5vdzUzNzhoM0BpM212cXY5cm5vdzUzNzhoM0BfcDQ0MmRzXzVgLS1kLjZzYSNfcDQ0MmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338363405700000000000000000000ffff0a0064e2b7487c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3920000000000001,
+            "end_offset": 2.784
+        },
+        "target_timerange": {
+            "start_offset": 1.3920000000000001,
+            "end_offset": 2.784
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "5bbec434b2da11efb10cb8cef6277d40",
+        "text": "the fall was over.",
+        "audio_url": "https://v16m-default.akamaized.net/4a1afb9f89ead78df942ad93e2985f36/6751aa37/video/tos/maliva/tos-maliva-v-f15faa-us/o4fRuO5eIOrqXLHBOASEAgCVDnAoCWGwCEderT/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th~0kIOXq8Zmo&qs=13&rc=M212cXY5cm5vdzUzNzhoM0BpM212cXY5cm5vdzUzNzhoM0BfcDQ0MmRzXzVgLS1kLjZzYSNfcDQ0MmRzXzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338363405700000000000000000000ffff0a0064e2b7487c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7840000000000003,
+            "end_offset": 4.176
+        },
+        "target_timerange": {
+            "start_offset": 2.7840000000000003,
+            "end_offset": 4.176
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

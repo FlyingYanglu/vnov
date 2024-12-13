@@ -1,0 +1,232 @@
+[
+    {
+        "text": "But the snail replied “Too far, too far!” and gave a look askance—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "replying with a loud voice",
+                    "giving a sideways glance"
+                ],
+                "gaze_and_direction": "looking askance at the viewer",
+                "expression": [
+                    "hesitant",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Snail positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Said he thanked the whiting kindly, but he would not join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "speaking politely",
+                    "shaking head"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "grateful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Snail centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Would not, could not, would not, could not, would not join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "repeating phrases",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking slightly down",
+                "expression": [
+                    "resolute",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Snail positioned to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Would not, could not, could not join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Snail",
+                "age": "adult",
+                "actions": [
+                    "repeating phrases",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking slightly down",
+                "expression": [
+                    "resolute",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Snail positioned to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“What matters it how far we go?” his scaly friend replied.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "green grass",
+                "clear sky"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Scaly Friend",
+                "age": "adult",
+                "actions": [
+                    "speaking with a questioning tone",
+                    "tilting head slightly"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "scales",
+                        "style": "natural",
+                        "condition": "shiny and intact"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Scaly Friend centered, camera at eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "de2b100eb2de11ef8446043f72b8e3e6",
+        "text": "“As wet as ever,” I",
+        "audio_url": "https://v16m-default.akamaized.net/a98e09d76a098823b23f82299d642dd1/6751b1c9/video/tos/maliva/tos-maliva-v-f15faa-us/oc4a0BWSXElwiKEVdAP01ZUiaAFABCWPZRQcQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUJkIOXq8Zmo&qs=13&rc=M2k8OW45cnNvdzUzNzhoM0BpM2k8OW45cnNvdzUzNzhoM0BsbGcyMmQ0bjVgLS1kLjZzYSNsbGcyMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338557095200000000000000000000ffff0a00b014e75537&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.326
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.326
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "de2b1252b2de11ef8446043f72b8e3e6",
+        "text": "said in a melancholy",
+        "audio_url": "https://v16m-default.akamaized.net/a98e09d76a098823b23f82299d642dd1/6751b1c9/video/tos/maliva/tos-maliva-v-f15faa-us/oc4a0BWSXElwiKEVdAP01ZUiaAFABCWPZRQcQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUJkIOXq8Zmo&qs=13&rc=M2k8OW45cnNvdzUzNzhoM0BpM2k8OW45cnNvdzUzNzhoM0BsbGcyMmQ0bjVgLS1kLjZzYSNsbGcyMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338557095200000000000000000000ffff0a00b014e75537&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.326,
+            "end_offset": 2.652
+        },
+        "target_timerange": {
+            "start_offset": 1.326,
+            "end_offset": 2.652
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "de2b1536b2de11ef8446043f72b8e3e6",
+        "text": "tone: “it doesn’t seem",
+        "audio_url": "https://v16m-default.akamaized.net/a98e09d76a098823b23f82299d642dd1/6751b1c9/video/tos/maliva/tos-maliva-v-f15faa-us/oc4a0BWSXElwiKEVdAP01ZUiaAFABCWPZRQcQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUJkIOXq8Zmo&qs=13&rc=M2k8OW45cnNvdzUzNzhoM0BpM2k8OW45cnNvdzUzNzhoM0BsbGcyMmQ0bjVgLS1kLjZzYSNsbGcyMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338557095200000000000000000000ffff0a00b014e75537&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.652,
+            "end_offset": 3.978
+        },
+        "target_timerange": {
+            "start_offset": 2.652,
+            "end_offset": 3.978
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "de2b16c6b2de11ef8446043f72b8e3e6",
+        "text": "to dry me at all.”",
+        "audio_url": "https://v16m-default.akamaized.net/a98e09d76a098823b23f82299d642dd1/6751b1c9/video/tos/maliva/tos-maliva-v-f15faa-us/oc4a0BWSXElwiKEVdAP01ZUiaAFABCWPZRQcQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThUJkIOXq8Zmo&qs=13&rc=M2k8OW45cnNvdzUzNzhoM0BpM2k8OW45cnNvdzUzNzhoM0BsbGcyMmQ0bjVgLS1kLjZzYSNsbGcyMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338557095200000000000000000000ffff0a00b014e75537&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.978,
+            "end_offset": 5.304
+        },
+        "target_timerange": {
+            "start_offset": 3.978,
+            "end_offset": 5.304
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

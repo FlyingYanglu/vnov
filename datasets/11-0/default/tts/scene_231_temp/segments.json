@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "3a6bb568b2de11ef9b2a1c34da79de38",
+        "text": "When the Mouse heard this,",
+        "audio_url": "https://v16m-default.akamaized.net/3c0d2dbd5de63e98a40ceaacca8e5760/6751b0b3/video/tos/maliva/tos-maliva-v-f15faa-us/o8EBfAVhEBLfFEBRAnAQOqtcJBFxYXUDV8LQsq/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th4-kIOXq8Zmo&qs=13&rc=M3J3PG85cm5vdzUzNzhoM0BpM3J3PG85cm5vdzUzNzhoM0BpbG9fMmQ0bDVgLS1kLjZzYSNpbG9fMmQ0bDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338529548700000000000000000000ffff0a008e23dec91d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3279999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.3279999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3a6bb75cb2de11ef9b2a1c34da79de38",
+        "text": "it turned round and swam",
+        "audio_url": "https://v16m-default.akamaized.net/3c0d2dbd5de63e98a40ceaacca8e5760/6751b0b3/video/tos/maliva/tos-maliva-v-f15faa-us/o8EBfAVhEBLfFEBRAnAQOqtcJBFxYXUDV8LQsq/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th4-kIOXq8Zmo&qs=13&rc=M3J3PG85cm5vdzUzNzhoM0BpM3J3PG85cm5vdzUzNzhoM0BpbG9fMmQ0bDVgLS1kLjZzYSNpbG9fMmQ0bDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338529548700000000000000000000ffff0a008e23dec91d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.328,
+            "end_offset": 2.6559999999999997
+        },
+        "target_timerange": {
+            "start_offset": 1.328,
+            "end_offset": 2.6559999999999997
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "3a6bb86ab2de11ef9b2a1c34da79de38",
+        "text": "slowly back to me.",
+        "audio_url": "https://v16m-default.akamaized.net/3c0d2dbd5de63e98a40ceaacca8e5760/6751b0b3/video/tos/maliva/tos-maliva-v-f15faa-us/o8EBfAVhEBLfFEBRAnAQOqtcJBFxYXUDV8LQsq/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th4-kIOXq8Zmo&qs=13&rc=M3J3PG85cm5vdzUzNzhoM0BpM3J3PG85cm5vdzUzNzhoM0BpbG9fMmQ0bDVgLS1kLjZzYSNpbG9fMmQ0bDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338529548700000000000000000000ffff0a008e23dec91d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.656,
+            "end_offset": 3.984
+        },
+        "target_timerange": {
+            "start_offset": 2.656,
+            "end_offset": 3.984
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "text": "“I never could abide figures!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "dining table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disdainful",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Talking of axes,” the Duchess interrupted, “chop off her head!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "dining table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a commanding tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant dress",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "I glanced anxiously at the cook, wondering if she would take the hint.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "dining table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "glancing towards the cook"
+                ],
+                "gaze_and_direction": "looking at the cook",
+                "expression": [
+                    "anxious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "modern",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly off-center, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "But the cook was busy stirring the soup and didn’t seem to be listening.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "dining table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "stirring soup vigorously"
+                ],
+                "gaze_and_direction": "focused on the soup",
+                "expression": [
+                    "concentrated",
+                    "oblivious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "functional",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "traditional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned off-center, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I continued, “Twenty-four hours, I _think_; or is it twelve?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "dining table",
+                "chairs",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "modern",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    }
+]

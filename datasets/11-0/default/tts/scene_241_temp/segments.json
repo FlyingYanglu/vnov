@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "6f16e9c2b2de11efb4401c34da79de38",
+        "text": "I had quite a long argument",
+        "audio_url": "https://v16m-default.akamaized.net/22a24504e89fa895d5a1324ac8f1ea03/6751b112/video/tos/maliva/tos-maliva-v-f15faa-us/ogEq5kzFKaCukUmRBgEGGqiBsAAAUof0iXwATK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThppkIOXq8Zmo&qs=13&rc=MzlqN245cmRvdzUzNzhoM0BpMzlqN245cmRvdzUzNzhoM0BnYG5rMmRjbTVgLS1kLjZzYSNnYG5rMmRjbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338538306800000000000000000000ffff0a006c18366421&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6223999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6223999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6f16ec88b2de11efb4401c34da79de38",
+        "text": "with the Lory, who at last",
+        "audio_url": "https://v16m-default.akamaized.net/22a24504e89fa895d5a1324ac8f1ea03/6751b112/video/tos/maliva/tos-maliva-v-f15faa-us/ogEq5kzFKaCukUmRBgEGGqiBsAAAUof0iXwATK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThppkIOXq8Zmo&qs=13&rc=MzlqN245cmRvdzUzNzhoM0BpMzlqN245cmRvdzUzNzhoM0BnYG5rMmRjbTVgLS1kLjZzYSNnYG5rMmRjbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338538306800000000000000000000ffff0a006c18366421&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6224,
+            "end_offset": 3.2447999999999997
+        },
+        "target_timerange": {
+            "start_offset": 1.6224,
+            "end_offset": 3.2447999999999997
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6f16ee54b2de11efb4401c34da79de38",
+        "text": "turned sulky, and would only",
+        "audio_url": "https://v16m-default.akamaized.net/22a24504e89fa895d5a1324ac8f1ea03/6751b112/video/tos/maliva/tos-maliva-v-f15faa-us/ogEq5kzFKaCukUmRBgEGGqiBsAAAUof0iXwATK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThppkIOXq8Zmo&qs=13&rc=MzlqN245cmRvdzUzNzhoM0BpMzlqN245cmRvdzUzNzhoM0BnYG5rMmRjbTVgLS1kLjZzYSNnYG5rMmRjbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338538306800000000000000000000ffff0a006c18366421&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2448,
+            "end_offset": 4.8672
+        },
+        "target_timerange": {
+            "start_offset": 3.2448,
+            "end_offset": 4.8672
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6f16f00cb2de11efb4401c34da79de38",
+        "text": "say, “I am older than you,",
+        "audio_url": "https://v16m-default.akamaized.net/22a24504e89fa895d5a1324ac8f1ea03/6751b112/video/tos/maliva/tos-maliva-v-f15faa-us/ogEq5kzFKaCukUmRBgEGGqiBsAAAUof0iXwATK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThppkIOXq8Zmo&qs=13&rc=MzlqN245cmRvdzUzNzhoM0BpMzlqN245cmRvdzUzNzhoM0BnYG5rMmRjbTVgLS1kLjZzYSNnYG5rMmRjbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338538306800000000000000000000ffff0a006c18366421&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.8672,
+            "end_offset": 6.4896
+        },
+        "target_timerange": {
+            "start_offset": 4.8672,
+            "end_offset": 6.4896
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6f16f1bab2de11efb4401c34da79de38",
+        "text": "and must know better;”",
+        "audio_url": "https://v16m-default.akamaized.net/22a24504e89fa895d5a1324ac8f1ea03/6751b112/video/tos/maliva/tos-maliva-v-f15faa-us/ogEq5kzFKaCukUmRBgEGGqiBsAAAUof0iXwATK/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThppkIOXq8Zmo&qs=13&rc=MzlqN245cmRvdzUzNzhoM0BpMzlqN245cmRvdzUzNzhoM0BnYG5rMmRjbTVgLS1kLjZzYSNnYG5rMmRjbTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338538306800000000000000000000ffff0a006c18366421&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.4896,
+            "end_offset": 8.112
+        },
+        "target_timerange": {
+            "start_offset": 6.4896,
+            "end_offset": 8.112
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

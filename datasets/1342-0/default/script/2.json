@@ -3,56 +3,58 @@
         "Starting Line": "Mr. Bennet was among the earliest of those who waited on Mr. Bingley.",
         "Character List": [
             "Mr. Bennet",
-            "Mrs. Bennet",
             "Elizabeth Bennet",
-            "Kitty Bennet"
+            "Mrs. Bennet"
         ]
     },
     {
-        "Starting Line": "“I hope Mr. Bingley will like it, Lizzy.”",
+        "Starting Line": "Observing his second daughter employed in trimming a hat, he suddenly addressed her with,--",
         "Character List": [
             "Mr. Bennet",
-            "Mrs. Bennet",
-            "Elizabeth Bennet",
-            "Kitty Bennet"
-        ]
-    },
-    {
-        "Starting Line": "Mother, unable to contain herself, began scolding one of her daughters.",
-        "Character List": [
-            "Mother",
-            "Father",
-            "Kitty",
             "Elizabeth Bennet"
         ]
     },
     {
-        "Starting Line": "I asked, “When is your next ball to be, Lizzy?”",
+        "Starting Line": "resentfully, “since we are not to visit.”",
         "Character List": [
-            "Mother",
-            "Father",
             "Elizabeth Bennet",
-            "Mrs. Long"
+            "Mrs. Bennet",
+            "Mr. Bennet",
+            "Kitty Bennet"
         ]
     },
     {
-        "Starting Line": "“Then, my dear, you may have the advantage of your friend, and introduce Mr. Bingley to _her_.”",
+        "Starting Line": "“I do not believe Mrs. Long will do any such thing.”",
         "Character List": [
-            "Father",
-            "Mother",
+            "Mrs. Bennet",
+            "Mr. Bennet",
             "Elizabeth Bennet",
-            "Mary",
-            "Lydia",
-            "Mr. Bingley"
+            "Mary Bennet"
         ]
     },
     {
-        "Starting Line": "“Now, Kitty, you may cough as much as you choose,” said Mr. Bennet;",
+        "Starting Line": "“Now, Kitty, you may cough as much as you choose.”",
         "Character List": [
-            "Father",
-            "Mother",
-            "Kitty",
-            "Lydia"
+            "Mr. Bennet",
+            "Mrs. Bennet",
+            "Kitty Bennet"
+        ]
+    },
+    {
+        "Starting Line": "“What an excellent father you have, girls,” said she, when the door was shut.",
+        "Character List": [
+            "Mrs. Bennet",
+            "Lydia Bennet",
+            "Elizabeth Bennet",
+            "Unnamed Woman"
+        ]
+    },
+    {
+        "Starting Line": "The rest of the evening was spent in conjecturing how soon he would return Mr. Bennet’s visit, and determining when they should ask him to dinner.",
+        "Character List": [
+            "Mrs. Bennet",
+            "Lydia Bennet",
+            "Elizabeth Bennet"
         ]
     }
 ]

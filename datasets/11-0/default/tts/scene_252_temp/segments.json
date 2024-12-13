@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "abfdc9e6b2de11ef8c075c6f6994e9ec",
+        "text": "“I thought you did,” said the Mouse.",
+        "audio_url": "https://v16m-default.akamaized.net/ebf229dbe8a8cfc4a6861bf223767d46/6751b171/video/tos/maliva/tos-maliva-v-f15faa-us/oUEDnUAuumPVhBkeC90BpKALEBJQREAEdQfFVX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLLkIOXq8Zmo&qs=13&rc=MzdyOnE5cjZvdzUzNzhoM0BpMzdyOnE5cjZvdzUzNzhoM0BmaGBjMmRzbjVgLS1kLjZzYSNmaGBjMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338548663500000000000000000000ffff0a008b027b2110&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.16
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.16
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "abfdcf9ab2de11ef8c075c6f6994e9ec",
+        "text": "“—I proceed.",
+        "audio_url": "https://v16m-default.akamaized.net/af9dd15e96c3f0eaa11282f2052feca8/6751b16f/video/tos/maliva/tos-maliva-v-f15faa-us/ogxvddAFeuEDAUGfFDfFQCQAoLWeXRRA1kIQFQ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThLLkIOXq8Zmo&qs=13&rc=M3Y7PHU5cjZvdzUzNzhoM0BpM3Y7PHU5cjZvdzUzNzhoM0BebjZsMmRzbjVgLS1kLjZzYSNebjZsMmRzbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338548663500000000000000000000ffff0a008b027b2110&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 0.984
+        },
+        "target_timerange": {
+            "start_offset": 2.16,
+            "end_offset": 3.144
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

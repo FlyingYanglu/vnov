@@ -1,0 +1,143 @@
+[
+    {
+        "text": "It was all very well to say 'Drink me,' but the wise little Alice was not going to do that in a hurry.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "glass bottle labeled 'Drink me'"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "standing beside the table",
+                    "looking at the bottle"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "cautious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding hands behind back"
+                ],
+                "composition": "Alice positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "No, I’ll look first, I said, and see whether it’s marked ‘poison’ or not;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "glass bottle labeled 'Drink me'"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "leaning closer to the bottle",
+                    "reading the label"
+                ],
+                "gaze_and_direction": "looking at the bottle",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding hands behind back"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "for I had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they would not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that if you cut your finger very deeply with a knife, it usually bleeds; and I",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden table",
+                "glass bottle labeled 'Drink me'"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young child",
+                "actions": [
+                    "standing upright",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "pinafore",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding hands behind back"
+                ],
+                "composition": "Alice positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

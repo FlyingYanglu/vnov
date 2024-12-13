@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "d2f2704cb2de11efb4ac0c42a117b3f4",
+        "text": "William’s conduct at",
+        "audio_url": "https://v16m-default.akamaized.net/7729d50e2251cec4057d42e2997ec80e/6751b1b4/video/tos/maliva/tos-maliva-v-f15faa-us/ogBAPFi7EEVKwvbLqUZi4RBSVJijQA1TUAXCd/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThBJkIOXq8Zmo&qs=13&rc=ampmO3U5cm5vdzUzNzhoM0BpampmO3U5cm5vdzUzNzhoM0Ayc29pMmRrbjVgLS1kLjZzYSMyc29pMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338555314900000000000000000000ffff0a006d118bebe4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.26
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.26
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "d2f271beb2de11efb4ac0c42a117b3f4",
+        "text": "first was moderate.",
+        "audio_url": "https://v16m-default.akamaized.net/7729d50e2251cec4057d42e2997ec80e/6751b1b4/video/tos/maliva/tos-maliva-v-f15faa-us/ogBAPFi7EEVKwvbLqUZi4RBSVJijQA1TUAXCd/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThBJkIOXq8Zmo&qs=13&rc=ampmO3U5cm5vdzUzNzhoM0BpampmO3U5cm5vdzUzNzhoM0Ayc29pMmRrbjVgLS1kLjZzYSMyc29pMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338555314900000000000000000000ffff0a006d118bebe4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.26,
+            "end_offset": 2.52
+        },
+        "target_timerange": {
+            "start_offset": 1.26,
+            "end_offset": 2.52
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

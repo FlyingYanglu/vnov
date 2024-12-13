@@ -1,0 +1,267 @@
+[
+    {
+        "text": "I hastily replied;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking hastily"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly flushed cheeks"
+                ],
+                "composition": "Main character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“only one doesn’t like changing so often, you know.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly flushed cheeks"
+                ],
+                "composition": "Main character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I _don’t_ know,” said the Caterpillar.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I said nothing: I had never been so much contradicted in my life before, and I felt that I was losing my temper.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "clenching fists"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly flushed cheeks"
+                ],
+                "composition": "Main character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Are you content now?” said the Caterpillar.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "unknown",
+                "actions": [
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indifferent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a mushroom"
+                ],
+                "composition": "Caterpillar centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Well, I should like to be a _little_ larger, sir, if you wouldn’t mind,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "soft carpet"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking politely"
+                ],
+                "gaze_and_direction": "looking at the Caterpillar",
+                "expression": [
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "slightly flushed cheeks"
+                ],
+                "composition": "Main character positioned to the left, camera at eye level"
+            }
+        ]
+    }
+]

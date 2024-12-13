@@ -1,0 +1,222 @@
+[
+    {
+        "text": "The Gryphon, always eager to explain, jumped in.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "ocean",
+                "clear sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "jumping in front of the camera"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "majestic",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Why,” he said, “you first form into a line along the sea-shore—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "ocean",
+                "clear sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "explaining",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "majestic",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Two lines!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "ocean",
+                "clear sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "emphasizing with a gesture"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "emphatic",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "majestic",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "ocean",
+                "clear sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "continuing to explain"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "explaining",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "majestic",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“That generally takes some time,” interrupted the Gryphon.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "sea-shore",
+                "ocean",
+                "clear sky"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "interrupting with a gesture"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "emphatic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "majestic",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera slightly low angle"
+            }
+        ]
+    }
+]

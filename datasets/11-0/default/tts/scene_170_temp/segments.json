@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "ec9aa174b2dc11ef8446043f72b8e3e6",
+        "text": "It’ll be no use their putting",
+        "audio_url": "https://v16m-default.akamaized.net/35233c447be084d94b681db5adf4ce54/6751ae84/video/tos/maliva/tos-maliva-v-f15faa-us/og2oEJf6gDLiWsABAVF7BVnABhvQQBjUELf6RE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThObkIOXq8Zmo&qs=13&rc=ajtxb3c5cjtvdzUzNzhoM0Bpajtxb3c5cjtvdzUzNzhoM0BjY2RyMmQ0aDVgLS1kLjZzYSNjY2RyMmQ0aDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338473585100000000000000000000ffff0a0093c8221dab&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.2959999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.2959999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ec9aa49eb2dc11ef8446043f72b8e3e6",
+        "text": "their heads down and saying",
+        "audio_url": "https://v16m-default.akamaized.net/35233c447be084d94b681db5adf4ce54/6751ae84/video/tos/maliva/tos-maliva-v-f15faa-us/og2oEJf6gDLiWsABAVF7BVnABhvQQBjUELf6RE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThObkIOXq8Zmo&qs=13&rc=ajtxb3c5cjtvdzUzNzhoM0Bpajtxb3c5cjtvdzUzNzhoM0BjY2RyMmQ0aDVgLS1kLjZzYSNjY2RyMmQ0aDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338473585100000000000000000000ffff0a0093c8221dab&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.296,
+            "end_offset": 2.5919999999999996
+        },
+        "target_timerange": {
+            "start_offset": 1.296,
+            "end_offset": 2.5919999999999996
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ec9aa606b2dc11ef8446043f72b8e3e6",
+        "text": "‘Come up again, dear!’",
+        "audio_url": "https://v16m-default.akamaized.net/35233c447be084d94b681db5adf4ce54/6751ae84/video/tos/maliva/tos-maliva-v-f15faa-us/og2oEJf6gDLiWsABAVF7BVnABhvQQBjUELf6RE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThObkIOXq8Zmo&qs=13&rc=ajtxb3c5cjtvdzUzNzhoM0Bpajtxb3c5cjtvdzUzNzhoM0BjY2RyMmQ0aDVgLS1kLjZzYSNjY2RyMmQ0aDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338473585100000000000000000000ffff0a0093c8221dab&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.592,
+            "end_offset": 3.888
+        },
+        "target_timerange": {
+            "start_offset": 2.592,
+            "end_offset": 3.888
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

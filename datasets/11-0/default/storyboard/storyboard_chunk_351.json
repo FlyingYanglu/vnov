@@ -1,0 +1,174 @@
+[
+    {
+        "text": "“They’re done with blacking, I believe.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "nodding"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown of leaves",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Gryphon nodded, as if this was the expected answer.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "nodding"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown of leaves",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Boots and shoes under the sea,” the Gryphon continued in a deep voice, “are done with a whiting.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking in a deep voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown of leaves",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Now you know.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking in a deep voice"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown of leaves",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    }
+]

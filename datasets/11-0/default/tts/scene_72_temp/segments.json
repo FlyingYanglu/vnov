@@ -1,0 +1,167 @@
+[
+    {
+        "segment_id": "e42391b0b2da11efaf4eb8cef659fbf0",
+        "text": "However, this bottle was",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4808000000000003
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4808000000000003
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e42392fab2da11efaf4eb8cef659fbf0",
+        "text": "not marked \"poison,\" so I",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4808,
+            "end_offset": 2.9616000000000007
+        },
+        "target_timerange": {
+            "start_offset": 1.4808,
+            "end_offset": 2.9616000000000007
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e42393f4b2da11efaf4eb8cef659fbf0",
+        "text": "ventured to taste it, and",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.9616,
+            "end_offset": 4.442400000000001
+        },
+        "target_timerange": {
+            "start_offset": 2.9616,
+            "end_offset": 4.442400000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e42394d0b2da11efaf4eb8cef659fbf0",
+        "text": "finding it very nice, (it",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.442399999999999,
+            "end_offset": 5.923200000000001
+        },
+        "target_timerange": {
+            "start_offset": 4.442399999999999,
+            "end_offset": 5.923200000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e42395acb2da11efaf4eb8cef659fbf0",
+        "text": "had, in fact, a sort of",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.9232,
+            "end_offset": 7.404
+        },
+        "target_timerange": {
+            "start_offset": 5.9232,
+            "end_offset": 7.404
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e42396bab2da11efaf4eb8cef659fbf0",
+        "text": "mixed flavour of cherry-",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.404,
+            "end_offset": 8.8848
+        },
+        "target_timerange": {
+            "start_offset": 7.404,
+            "end_offset": 8.8848
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e42397b4b2da11efaf4eb8cef659fbf0",
+        "text": "tart, custard, pine-",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 8.884799999999998,
+            "end_offset": 10.3656
+        },
+        "target_timerange": {
+            "start_offset": 8.884799999999998,
+            "end_offset": 10.3656
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e423989ab2da11efaf4eb8cef659fbf0",
+        "text": "apple, roast turkey,",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 10.365599999999999,
+            "end_offset": 11.8464
+        },
+        "target_timerange": {
+            "start_offset": 10.365599999999999,
+            "end_offset": 11.8464
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e4239976b2da11efaf4eb8cef659fbf0",
+        "text": "toffee, and hot buttered",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 11.8464,
+            "end_offset": 13.3272
+        },
+        "target_timerange": {
+            "start_offset": 11.8464,
+            "end_offset": 13.3272
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e4239a5cb2da11efaf4eb8cef659fbf0",
+        "text": "toast,)",
+        "audio_url": "https://v16m-default.akamaized.net/d960bdb94d341fb798233caad8778ff4/6751ab29/video/tos/maliva/tos-maliva-v-f15faa-us/okRVEU41uAPQ0Wmi9VXZFSClArTBBFi6vAEpX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=ajl3aXQ5cmhvdzUzNzhoM0Bpajl3aXQ5cmhvdzUzNzhoM0AvYzZuMmRrYTVgLS1kLjZzYSMvYzZuMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00078000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 13.3272,
+            "end_offset": 14.808
+        },
+        "target_timerange": {
+            "start_offset": 13.3272,
+            "end_offset": 14.808
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e423a074b2da11efaf4eb8cef659fbf0",
+        "text": "I very soon finished it off.",
+        "audio_url": "https://v16m-default.akamaized.net/905987b5301644dd83f8f718d620de75/6751ab1c/video/tos/maliva/tos-maliva-v-f15faa-us/o4nBERehLDEoaQAAiVBBfFriaBJJ6EQ1VVUrjA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCRkIOXq8Zmo&qs=13&rc=M3hwZGs5cmhvdzUzNzhoM0BpM3hwZGs5cmhvdzUzNzhoM0Blbi9hMmRrYTVgLS1kLjZzYSNlbi9hMmRrYTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338386165800000000000000000000ffff0a0090c515d087&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.752
+        },
+        "target_timerange": {
+            "start_offset": 14.808,
+            "end_offset": 16.56
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

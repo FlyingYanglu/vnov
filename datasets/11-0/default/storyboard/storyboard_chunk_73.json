@@ -1,0 +1,127 @@
+[
+    {
+        "text": "The Eaglet bent down its head to hide a smile, and some of the other birds tittered audibly.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "birds flying"
+            ],
+            "scene_features": [
+                "birds gathered",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Eaglet",
+                "age": "young",
+                "actions": [
+                    "bending head down"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "white and brown"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "sharp"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Eaglet on the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“What I was going to say,” said the Dodo in an offended tone, “was, that the best thing to get us dry would be a Caucus-race.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "birds flying"
+            ],
+            "scene_features": [
+                "birds gathered",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "brown and white"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "rounded"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dodo centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I said; not that I wanted much to know, but the Dodo had paused as if it thought that _somebody_ ought to speak, and no one else seemed inclined to say anything.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "birds flying"
+            ],
+            "scene_features": [
+                "birds gathered",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character on the right, camera at eye level"
+            }
+        ]
+    }
+]

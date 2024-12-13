@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "0dda27b4b2de11efa395b8cef635af1a",
+        "text": "“Are you—are you fond—of—of dogs?”",
+        "audio_url": "https://v16m-default.akamaized.net/58ed37e7bf5853eea74e2058dbc3063d/6751b067/video/tos/maliva/tos-maliva-v-f15faa-us/oUCxi5zqo48qFEYAzAEB6WiGw7gRkKfXACASBA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThPgkIOXq8Zmo&qs=13&rc=MzU2eHY5cjRvdzUzNzhoM0BpMzU2eHY5cjRvdzUzNzhoM0A2amdwMmRjbDVgLS1kLjZzYSM2amdwMmRjbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338522129200000000000000000000ffff0a006d121d9616&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.752
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.752
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

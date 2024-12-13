@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "9c3de8e6b2da11efa3e498039b6a5cc0",
+        "text": "But I could not even get my",
+        "audio_url": "https://v16m-default.akamaized.net/a3ed13abb31172b0f59996c68d7d1420/6751aaa1/video/tos/maliva/tos-maliva-v-f15faa-us/osfqHKghpEAfQAzOX2AxIrIifxCCcCCStDvroF/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th9ykIOXq8Zmo&qs=13&rc=anBsOXE5cmlvdzUzNzhoM0BpanBsOXE5cmlvdzUzNzhoM0BxXmJoMmRzYDVgLS1kLjZzYSNxXmJoMmRzYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338374259100000000000000000000ffff0a00aeb9e7f9c8&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.356
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.356
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9c3dea94b2da11efa3e498039b6a5cc0",
+        "text": "head through the doorway.",
+        "audio_url": "https://v16m-default.akamaized.net/a3ed13abb31172b0f59996c68d7d1420/6751aaa1/video/tos/maliva/tos-maliva-v-f15faa-us/osfqHKghpEAfQAzOX2AxIrIifxCCcCCStDvroF/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th9ykIOXq8Zmo&qs=13&rc=anBsOXE5cmlvdzUzNzhoM0BpanBsOXE5cmlvdzUzNzhoM0BxXmJoMmRzYDVgLS1kLjZzYSNxXmJoMmRzYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338374259100000000000000000000ffff0a00aeb9e7f9c8&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.356,
+            "end_offset": 2.712
+        },
+        "target_timerange": {
+            "start_offset": 1.356,
+            "end_offset": 2.712
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

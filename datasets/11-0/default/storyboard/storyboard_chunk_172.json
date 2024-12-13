@@ -1,0 +1,204 @@
+[
+    {
+        "text": "When I peeked out again, the Fish-Footman was gone, and the Frog-Footman was sitting on the ground, staring up at the sky.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "adult",
+                "actions": [
+                    "sitting on the ground",
+                    "staring up at the sky"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "bored",
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "medieval"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Frog-Footman positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I approached the door timidly and knocked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "approaching the door",
+                    "knocking on the door"
+                ],
+                "gaze_and_direction": "looking at the door",
+                "expression": [
+                    "timid",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Frog-Footman, still staring up, said, “There’s no sort of use in knocking, and that for two reasons.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "adult",
+                "actions": [
+                    "sitting on the ground",
+                    "staring up at the sky",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "bored",
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "medieval"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Frog-Footman positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "First, because I’m on the same side of the door as you are; secondly, because they’re making such a noise inside, no one could possibly hear you.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "clear sky"
+            ],
+            "scene_features": [
+                "villa entrance",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "adult",
+                "actions": [
+                    "sitting on the ground",
+                    "staring up at the sky",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking up",
+                "expression": [
+                    "bored",
+                    "distracted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green tunic",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "medieval",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "medieval"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Frog-Footman positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

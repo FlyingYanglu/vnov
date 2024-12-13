@@ -1,0 +1,302 @@
+[
+    {
+        "text": "The Hatter sighed, “Yes, that’s it. It’s always tea-time, and we’ve no time to wash the things between whiles.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "resigned",
+                    "slightly frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Then you keep moving round, I suppose?” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "headwear": {
+                        "item": "hairbow",
+                        "style": "ribbon",
+                        "condition": "bright"
+                    },
+                    "accessories": {
+                        "item": "gloves",
+                        "type": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Exactly so,” the Hatter replied, “as the things get used up.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But what happens when you come to the beginning again?” I ventured to ask.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "headwear": {
+                        "item": "hairbow",
+                        "style": "ribbon",
+                        "condition": "bright"
+                    },
+                    "accessories": {
+                        "item": "gloves",
+                        "type": "white"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The March Hare interrupted, yawning, “Suppose we change the subject. I’m getting tired of this.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The March Hare",
+                "age": "adult",
+                "actions": [
+                    "yawning",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "bored",
+                    "tired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The March Hare positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I vote the young lady tells us a story.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "tea party setting",
+                "evening"
+            ],
+            "scene_features": [
+                "tea table",
+                "teacups",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "suggestive",
+                    "slightly mischievous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "headwear": {
+                        "item": "top hat",
+                        "style": "tall",
+                        "condition": "dented"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "The March Hare positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

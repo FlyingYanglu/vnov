@@ -1,0 +1,366 @@
+[
+    {
+        "text": "the exact shape doesn’t matter,” it said,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking to the audience"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a small podium"
+                ],
+                "composition": "Dodo centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and then all the party were placed along the course, here and there.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Party Members",
+                "age": "various",
+                "actions": [
+                    "standing in various positions along a path"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "scattered across the scene"
+                ],
+                "composition": "Multiple characters scattered, camera wide angle"
+            }
+        ]
+    },
+    {
+        "text": "There was no “One, two, three, and away,” but they began running when they liked, and left off when they liked,",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Party Members",
+                "age": "various",
+                "actions": [
+                    "running sporadically"
+                ],
+                "gaze_and_direction": "looking ahead",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "running in different directions"
+                ],
+                "composition": "Multiple characters running, camera mid-shot"
+            }
+        ]
+    },
+    {
+        "text": "so that it was not easy to know when the race was over.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Party Members",
+                "age": "various",
+                "actions": [
+                    "pausing uncertainly"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing still, unsure"
+                ],
+                "composition": "Multiple characters pausing, camera wide angle"
+            }
+        ]
+    },
+    {
+        "text": "However, when they had been running half an hour or so, and were quite dry again, the Dodo suddenly called out “The race is over!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "calling out to the group"
+                ],
+                "gaze_and_direction": "looking at the group",
+                "expression": [
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a small podium"
+                ],
+                "composition": "Dodo centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and they all crowded round it, panting, and asking, “But who has won?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Party Members",
+                "age": "various",
+                "actions": [
+                    "gathering around the Dodo",
+                    "asking questions"
+                ],
+                "gaze_and_direction": "looking at the Dodo",
+                "expression": [
+                    "panting",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "various",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "breathing heavily"
+                ],
+                "composition": "Multiple characters gathered around Dodo, camera mid-shot"
+            }
+        ]
+    },
+    {
+        "text": "This question the Dodo could not answer without a great deal of thought, and it sat for a long time with one finger pressed upon its forehead (the position in which you usually see Shakespeare, in the pictures of him),",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "sitting and thinking",
+                    "pressing one finger on its forehead"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "deep in thought"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on a small podium"
+                ],
+                "composition": "Dodo sitting, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "while the rest waited in silence. At last the Dodo said, “_Everybody_ has won, and all must have prizes.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "speaking to the group"
+                ],
+                "gaze_and_direction": "looking at the group",
+                "expression": [
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "standing on a small podium"
+                ],
+                "composition": "Dodo centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "5bb2dd9cb2dd11ef9cd2b8cef6a04086",
+        "text": "“I wish I hadn’t cried so much!”",
+        "audio_url": "https://v16m-default.akamaized.net/8c230a03b3676cb472d4477052a0244f/6751af3d/video/tos/maliva/tos-maliva-v-f15faa-us/oUVnBifAEbbF2CtLDQsIUyxAVrWiDBA2hfdIQJ/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThDNkIOXq8Zmo&qs=13&rc=ajs4ZHU5cnBvdzUzNzhoM0Bpajs4ZHU5cnBvdzUzNzhoM0Bgam5gMmRzaTVgLS1kLjZzYSNgam5gMmRzaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338492281300000000000000000000ffff0a006d78a9aa43&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.04
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.04
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

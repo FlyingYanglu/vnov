@@ -1,0 +1,290 @@
+[
+    {
+        "text": "“Why?” the Caterpillar asked.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "sitting on a mushroom",
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "small eyes",
+                        "type": "black dots"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "Another puzzling question.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "puzzled",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I couldn’t think of any good reason, and the Caterpillar seemed to be in a very unpleasant state of mind.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "sitting on a mushroom",
+                    "frowning"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "unpleasant",
+                    "irritated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "small eyes",
+                        "type": "black dots"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "I decided to turn away.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "turning away",
+                    "walking"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "determined",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Come back!” the Caterpillar called after me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "sitting on a mushroom",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent",
+                    "slightly pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "small eyes",
+                        "type": "black dots"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve something important to say!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "green foliage",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "sitting on a mushroom",
+                    "speaking urgently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "small eyes",
+                        "type": "black dots"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Caterpillar centered, camera eye-level"
+            }
+        ]
+    }
+]

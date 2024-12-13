@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "9af5a392b2db11efb89698039b7ed938",
+        "text": "either way I’ll get into the garden,",
+        "audio_url": "https://v16m-default.akamaized.net/b0137550a7a5b4f71b6a9fa95a3a26b1/6751ac4c/video/tos/maliva/tos-maliva-v-f15faa-us/owcfIkASTGuerpAlAVL2FWdACF3AME7RIfeQiI/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThZnkIOXq8Zmo&qs=13&rc=Mzl5ZHc5cnRvdzUzNzhoM0BpMzl5ZHc5cnRvdzUzNzhoM0Ata2dmMmRjYzVgLS1kLjZzYSMta2dmMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338416804800000000000000000000ffff0a006c18b03c02&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9af5a662b2db11efb89698039b7ed938",
+        "text": "and I don’t care which happens!”",
+        "audio_url": "https://v16m-default.akamaized.net/b0137550a7a5b4f71b6a9fa95a3a26b1/6751ac4c/video/tos/maliva/tos-maliva-v-f15faa-us/owcfIkASTGuerpAlAVL2FWdACF3AME7RIfeQiI/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThZnkIOXq8Zmo&qs=13&rc=Mzl5ZHc5cnRvdzUzNzhoM0BpMzl5ZHc5cnRvdzUzNzhoM0Ata2dmMmRjYzVgLS1kLjZzYSMta2dmMmRjYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338416804800000000000000000000ffff0a006c18b03c02&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.8,
+            "end_offset": 3.6
+        },
+        "target_timerange": {
+            "start_offset": 1.8,
+            "end_offset": 3.6
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

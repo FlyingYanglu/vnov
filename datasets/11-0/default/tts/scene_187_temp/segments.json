@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "475390c6b2dd11ef90e608c0eb17a1fc",
+        "text": "My first idea was that I",
+        "audio_url": "https://v16m-default.akamaized.net/f4225d953e977837fb52ace620692ea1/6751af1e/video/tos/maliva/tos-maliva-v-f15faa-us/oMw2AB1ETAiKgGcfwo5RkkzrWBqOqF6WiEGAAl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6ikIOXq8Zmo&qs=13&rc=ampyPHM5cmhvdzUzNzhoM0BpampyPHM5cmhvdzUzNzhoM0A2cS1vMmRjaTVgLS1kLjZzYSM2cS1vMmRjaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338488776200000000000000000000ffff0a007022a72501&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4399999999999995
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4399999999999995
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "475392e2b2dd11ef90e608c0eb17a1fc",
+        "text": "had somehow fallen into",
+        "audio_url": "https://v16m-default.akamaized.net/f4225d953e977837fb52ace620692ea1/6751af1e/video/tos/maliva/tos-maliva-v-f15faa-us/oMw2AB1ETAiKgGcfwo5RkkzrWBqOqF6WiEGAAl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6ikIOXq8Zmo&qs=13&rc=ampyPHM5cmhvdzUzNzhoM0BpampyPHM5cmhvdzUzNzhoM0A2cS1vMmRjaTVgLS1kLjZzYSM2cS1vMmRjaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338488776200000000000000000000ffff0a007022a72501&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.44,
+            "end_offset": 2.88
+        },
+        "target_timerange": {
+            "start_offset": 1.44,
+            "end_offset": 2.88
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "475394e0b2dd11ef90e608c0eb17a1fc",
+        "text": "the sea, “and in that case",
+        "audio_url": "https://v16m-default.akamaized.net/f4225d953e977837fb52ace620692ea1/6751af1e/video/tos/maliva/tos-maliva-v-f15faa-us/oMw2AB1ETAiKgGcfwo5RkkzrWBqOqF6WiEGAAl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6ikIOXq8Zmo&qs=13&rc=ampyPHM5cmhvdzUzNzhoM0BpampyPHM5cmhvdzUzNzhoM0A2cS1vMmRjaTVgLS1kLjZzYSM2cS1vMmRjaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338488776200000000000000000000ffff0a007022a72501&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.88,
+            "end_offset": 4.32
+        },
+        "target_timerange": {
+            "start_offset": 2.88,
+            "end_offset": 4.32
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4753962ab2dd11ef90e608c0eb17a1fc",
+        "text": "I can go back by…”",
+        "audio_url": "https://v16m-default.akamaized.net/f4225d953e977837fb52ace620692ea1/6751af1e/video/tos/maliva/tos-maliva-v-f15faa-us/oMw2AB1ETAiKgGcfwo5RkkzrWBqOqF6WiEGAAl/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6ikIOXq8Zmo&qs=13&rc=ampyPHM5cmhvdzUzNzhoM0BpampyPHM5cmhvdzUzNzhoM0A2cS1vMmRjaTVgLS1kLjZzYSM2cS1vMmRjaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338488776200000000000000000000ffff0a007022a72501&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.32,
+            "end_offset": 5.76
+        },
+        "target_timerange": {
+            "start_offset": 4.32,
+            "end_offset": 5.76
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

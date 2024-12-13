@@ -1,0 +1,154 @@
+[
+    {
+        "text": "Then came a little pattering of feet on the stairs.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs",
+                "nighttime"
+            ],
+            "scene_features": [
+                "villa",
+                "staircase",
+                "carpeted steps"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "pattering feet on the stairs"
+                ],
+                "gaze_and_direction": "looking down the stairs",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "brown shorts",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned at the top of the stairs, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I knew it was the Rabbit coming to look for me, and I trembled till I shook the house, quite forgetting that I was now about a thousand times as large as the Rabbit, and had no reason to be afraid of it.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs",
+                "nighttime"
+            ],
+            "scene_features": [
+                "villa",
+                "staircase",
+                "carpeted steps"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "trembling",
+                    "shaking the house"
+                ],
+                "gaze_and_direction": "looking at the stairs",
+                "expression": [
+                    "fearful",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Presently the Rabbit came up to the door, and tried to open it; but, as the door opened inwards, and my elbow was pressed hard against it, that attempt failed.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden door",
+                "nighttime"
+            ],
+            "scene_features": [
+                "villa",
+                "doorway",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "approaching the door",
+                    "trying to open it"
+                ],
+                "gaze_and_direction": "looking at the door handle",
+                "expression": [
+                    "determined",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "brown shorts",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned at the door, camera slightly low angle"
+            }
+        ]
+    }
+]

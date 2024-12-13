@@ -1,0 +1,189 @@
+[
+    {
+        "text": "I must have been changed for Mabel!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small room",
+                "simple furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in front of a mirror"
+                ],
+                "gaze_and_direction": "looking at the mirror",
+                "expression": [
+                    "confused",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair clip",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a hairbrush"
+                ],
+                "composition": "Main character centered, camera slightly behind the character"
+            }
+        ]
+    },
+    {
+        "text": "No, I’ve made up my mind about it; if I’m Mabel, I’ll stay down here!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small room",
+                "simple furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on a chair",
+                    "leaning forward"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "resolute"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair clip",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a hairbrush"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "It’ll be no use their putting their heads down and saying ‘Come up again, dear!’",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small room",
+                "simple furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing up",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair clip",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a hairbrush"
+                ],
+                "composition": "Main character centered, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "I shall only look up and say ‘Who am I then?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small room",
+                "simple furniture",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking up",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "questioning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "hair clip",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [
+                    "holding a hairbrush"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    }
+]

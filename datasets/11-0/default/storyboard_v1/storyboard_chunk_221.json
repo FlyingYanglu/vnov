@@ -1,0 +1,378 @@
+[
+    {
+        "text": "Sing her ‘_Turtle Soup_,’ will you, old fellow?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "looking at the viewer",
+                    "opening mouth as if to speak"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "resigned",
+                    "slightly sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "”The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing this:—“",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing deeply",
+                    "starting to sing"
+                ],
+                "gaze_and_direction": "looking down at the sheet of music",
+                "expression": [
+                    "emotional",
+                    "struggling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Beautiful Soup, so rich and green, Waiting in a hot tureen!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing with emotion",
+                    "gesturing with one hand"
+                ],
+                "gaze_and_direction": "looking at the sheet of music",
+                "expression": [
+                    "passionate",
+                    "slightly teary"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Who for such dainties would not stoop?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing with emphasis",
+                    "gesturing with both hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "earnest",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Soup of the evening, beautiful Soup!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing with a flourish",
+                    "gesturing dramatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dramatic",
+                    "emotional"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Soup of the evening, beautiful Soup!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing with a flourish",
+                    "gesturing dramatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dramatic",
+                    "emotional"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Beau—ootiful Soo—oop!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing with a flourish",
+                    "gesturing dramatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dramatic",
+                    "emotional"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Beau—ootiful Soo—oop!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "wooden furniture",
+                "candles",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "singing with a flourish",
+                    "gesturing dramatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dramatic",
+                    "emotional"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [
+                    "holding a sheet of music"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "text": "“Right, as usual,” said the Duchess: “what a clear way you have of putting things!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "luxurious interior",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly upholstered furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused",
+                    "slightly condescending"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant gown",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“It’s a mineral, I _think_,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "luxurious interior",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly upholstered furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "uncertain"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Of course it is,” said the Duchess, who seemed ready to agree to everything that I said;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "luxurious interior",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly upholstered furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "agreeable",
+                    "slightly patronizing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant gown",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“there’s a large mustard-mine near here.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "luxurious interior",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly upholstered furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "matter-of-fact",
+                    "slightly smug"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant gown",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "And the moral of that is—‘The more there is of mine, the less there is of yours.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "luxurious interior",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly upholstered furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smug",
+                    "slightly triumphant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant gown",
+                        "style": "Victorian",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled tiara",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Duchess centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, I know!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "luxurious interior",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "crystal chandeliers",
+                "richly upholstered furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "slightly relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

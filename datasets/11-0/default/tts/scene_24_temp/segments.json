@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "e1f172d2b2d911efa7c508c0eb61f8d0",
+        "text": "(for, you see, I had learnt",
+        "audio_url": "https://v16m-default.akamaized.net/dd6368dfce9d2208ed3779dfa4273953/6751a96b/video/tos/maliva/tos-maliva-v-f15faa-us/oESHUzAsIEije7ABVqnhiDgBUIFwJzAfQLEFCV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThS3kIOXq8Zmo&qs=13&rc=M2s6OXM5cjRvdzUzNzhoM0BpM2s6OXM5cjRvdzUzNzhoM0BfZy9lMmRzXjVgLS1kLjZzYSNfZy9lMmRzXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338342984000000000000000000000ffff0a0063718b0ae2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.528
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.528
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e1f17412b2d911efa7c508c0eb61f8d0",
+        "text": "several things of this sort in",
+        "audio_url": "https://v16m-default.akamaized.net/dd6368dfce9d2208ed3779dfa4273953/6751a96b/video/tos/maliva/tos-maliva-v-f15faa-us/oESHUzAsIEije7ABVqnhiDgBUIFwJzAfQLEFCV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThS3kIOXq8Zmo&qs=13&rc=M2s6OXM5cjRvdzUzNzhoM0BpM2s6OXM5cjRvdzUzNzhoM0BfZy9lMmRzXjVgLS1kLjZzYSNfZy9lMmRzXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338342984000000000000000000000ffff0a0063718b0ae2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5280000000000002,
+            "end_offset": 3.056
+        },
+        "target_timerange": {
+            "start_offset": 1.5280000000000002,
+            "end_offset": 3.056
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "e1f17570b2d911efa7c508c0eb61f8d0",
+        "text": "my lessons in the schoolroom,",
+        "audio_url": "https://v16m-default.akamaized.net/dd6368dfce9d2208ed3779dfa4273953/6751a96b/video/tos/maliva/tos-maliva-v-f15faa-us/oESHUzAsIEije7ABVqnhiDgBUIFwJzAfQLEFCV/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThS3kIOXq8Zmo&qs=13&rc=M2s6OXM5cjRvdzUzNzhoM0BpM2s6OXM5cjRvdzUzNzhoM0BfZy9lMmRzXjVgLS1kLjZzYSNfZy9lMmRzXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338342984000000000000000000000ffff0a0063718b0ae2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0560000000000005,
+            "end_offset": 4.5840000000000005
+        },
+        "target_timerange": {
+            "start_offset": 3.0560000000000005,
+            "end_offset": 4.5840000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

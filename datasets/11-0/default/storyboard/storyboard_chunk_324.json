@@ -1,0 +1,200 @@
+[
+    {
+        "text": "“Now at _ours_ they had at the end of the bill, ‘French, music, _and washing_—extra.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "soft music playing"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "adult",
+                "actions": [
+                    "pointing at the bill"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "holding a pen"
+                ],
+                "composition": "Narrator positioned on the left, camera slightly angled from the front"
+            }
+        ]
+    },
+    {
+        "text": "“You couldn’t have wanted it much,” I said; “living at the bottom of the sea.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "bill on a table",
+                "candles",
+                "soft music playing"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "button-up",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "holding a glass of wine"
+                ],
+                "composition": "Main character centered, camera slightly angled from the front"
+            }
+        ]
+    },
+    {
+        "text": "“I couldn’t afford to learn it,” the Mock Turtle sighed.",
+        "scene": {
+            "location_type": "fantasy",
+            "environment_features": [
+                "underwater",
+                "soft light filtering through water",
+                "serene"
+            ],
+            "scene_features": [
+                "seaweed",
+                "coral",
+                "bubbles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "unknown",
+                "actions": [
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "seaweed",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Mock Turtle positioned on the right, camera slightly angled from the front"
+            }
+        ]
+    },
+    {
+        "text": "“I only took the regular course.” “What was that?”",
+        "scene": {
+            "location_type": "fantasy",
+            "environment_features": [
+                "underwater",
+                "soft light filtering through water",
+                "serene"
+            ],
+            "scene_features": [
+                "seaweed",
+                "coral",
+                "bubbles"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "unknown",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "seaweed",
+                        "style": "natural",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Mock Turtle centered, camera slightly angled from the front"
+            }
+        ]
+    }
+]

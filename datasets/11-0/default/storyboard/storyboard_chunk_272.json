@@ -1,0 +1,178 @@
+[
+    {
+        "text": "“Their heads are gone, if it please your Majesty!” the soldiers shouted in reply.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal court",
+                "soldiers",
+                "Queen"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "various",
+                "actions": [
+                    "shouting",
+                    "looking at the Queen"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "alarmed",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "helmets",
+                        "type": "metal"
+                    }
+                },
+                "composition": "Soldiers positioned in the foreground, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“That’s right!” shouted the Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal court",
+                "soldiers",
+                "Queen"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "shouting",
+                    "looking at the soldiers"
+                ],
+                "gaze_and_direction": "looking at the soldiers",
+                "expression": [
+                    "authoritative",
+                    "pleased"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Can you play croquet?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal court",
+                "soldiers",
+                "Queen"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "asking a question",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "expectant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "The soldiers were silent, and looked at me, as the question was evidently meant for me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "open field",
+                "daytime"
+            ],
+            "scene_features": [
+                "royal court",
+                "soldiers",
+                "Queen"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "various",
+                "actions": [
+                    "standing silently",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "neutral",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "helmets",
+                        "type": "metal"
+                    }
+                },
+                "composition": "Soldiers positioned in the foreground, camera slightly low angle"
+            }
+        ]
+    }
+]

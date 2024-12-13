@@ -1,0 +1,256 @@
+[
+    {
+        "text": "—but I’m a deal too flustered to tell you—all I know is, something comes at me like a Jack-in-the-box, and up I goes like a sky-rocket!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed curtains"
+            ],
+            "scene_features": [
+                "old-fashioned room",
+                "wooden furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing wildly",
+                    "looking startled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "flustered",
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Main character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "What happened to you?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed curtains"
+            ],
+            "scene_features": [
+                "old-fashioned room",
+                "wooden furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Other Character",
+                "age": "middle-aged",
+                "actions": [
+                    "raising an eyebrow",
+                    "leaning forward"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "tailored",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "rimless"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Other character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“So you did, old fellow!” said the others.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed curtains"
+            ],
+            "scene_features": [
+                "old-fashioned room",
+                "wooden furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Other Character",
+                "age": "middle-aged",
+                "actions": [
+                    "smiling",
+                    "nodding"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "amused",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "sweater",
+                        "style": "knit",
+                        "condition": "soft and warm"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "tailored",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "glasses",
+                        "type": "rimless"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Other character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“We must burn the house down!” said the Rabbit’s voice;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed curtains"
+            ],
+            "scene_features": [
+                "old-fashioned room",
+                "wooden furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "young",
+                "actions": [
+                    "speaking loudly",
+                    "gesturing with paws"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "waistcoat",
+                        "condition": "neat"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "tailored",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and I called out as loud as I could, “If you do, I’ll set Dinah at you!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "closed curtains"
+            ],
+            "scene_features": [
+                "old-fashioned room",
+                "wooden furniture",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shouting",
+                    "pointing"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defiant",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "tucked in",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Main character positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

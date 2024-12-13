@@ -1,0 +1,174 @@
+[
+    {
+        "text": "(The jury all looked puzzled.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury",
+                "age": "various",
+                "actions": [
+                    "looking puzzled"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "perplexed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom appropriate"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "reading glasses"
+                    }
+                },
+                "composition": "Jury members positioned in the jury box, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“He must have imitated somebody else’s hand,” said the King.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "color": "purple"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "King positioned centrally on the judge's bench, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Please your Majesty,” said the Knave, “I didn’t write it, and they can’t prove I did: there’s no name signed at the end.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive",
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "court attire",
+                        "style": "formal",
+                        "color": "black"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Knave positioned in the witness stand, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "(The jury all brightened up again.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden paneling",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "judge's bench",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Jury",
+                "age": "various",
+                "actions": [
+                    "looking relieved"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relieved",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal attire",
+                        "style": "courtroom appropriate"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "reading glasses"
+                    }
+                },
+                "composition": "Jury members positioned in the jury box, camera frontal"
+            }
+        ]
+    }
+]

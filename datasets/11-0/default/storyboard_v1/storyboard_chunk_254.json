@@ -1,0 +1,206 @@
+[
+    {
+        "text": "“It isn’t directed at all,” said the White Rabbit;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding a piece of paper",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“in fact, there’s nothing written on the _outside_.” He unfolded the paper as he spoke, and added “It isn’t a letter, after all: it’s a set of verses.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "unfolding a piece of paper",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "realization",
+                    "slightly surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Are they in the prisoner’s handwriting?” asked another of the jurymen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Juryman",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "black suit jacket",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "white shirt",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“No, they’re not,” said the White Rabbit.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden tables",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "jury box",
+                "courtroom benches",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "firm",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "formal",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

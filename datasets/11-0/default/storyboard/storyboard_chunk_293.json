@@ -1,0 +1,173 @@
+[
+    {
+        "text": "The King, the Queen, and the executioner were all talking at once, while all the rest were quite silent, and looked very uncomfortable.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing animatedly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned on the left, camera frontal"
+            },
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with hands clasped"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tiara",
+                        "type": "diamond"
+                    }
+                },
+                "composition": "Queen positioned on the right, camera frontal"
+            },
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a stern face"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "executioner's robe",
+                        "style": "dark",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "axe",
+                        "type": "large"
+                    }
+                },
+                "composition": "Executioner positioned in the center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The moment I appeared, I was appealed to by all three to settle the question, and they repeated their arguments to me, though, as they all spoke at once, I found it very hard indeed to make out exactly what they said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing with a puzzled expression"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "simple",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The executioner’s argument was, that you couldn’t cut off a head unless there was a body to cut it off from: that he had never had to do such a thing.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal chamber"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a firm tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "executioner's robe",
+                        "style": "dark",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "axe",
+                        "type": "large"
+                    }
+                },
+                "composition": "Executioner positioned in the center, camera frontal"
+            }
+        ]
+    }
+]

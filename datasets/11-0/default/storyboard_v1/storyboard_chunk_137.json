@@ -1,0 +1,255 @@
+[
+    {
+        "text": "The March Hare said to me, very earnestly.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "speaking earnestly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve had nothing yet,” I replied in an offended tone, “so I can’t take more.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking in an offended tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "offended"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter said, “You mean you can’t take _less_. It’s very easy to take _more_ than nothing.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "speaking with a sarcastic tone"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sarcastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Nobody asked _your_ opinion,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking dismissively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "The Hatter asked triumphantly, “Who’s making personal remarks now?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "speaking triumphantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "triumphant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "tailcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "vintage"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "I did not quite know what to say to this, so I helped myself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated my question, “Why did they live at the bottom of a well?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting",
+                "afternoon"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "pastries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "helping herself to tea and bread-and-butter",
+                    "turning to the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the Dormouse",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "plain"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    }
+]

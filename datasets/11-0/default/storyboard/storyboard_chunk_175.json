@@ -1,0 +1,137 @@
+[
+    {
+        "text": "“I shall sit here,” the Frog-Footman remarked, “till tomorrow—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "near a house"
+            ],
+            "scene_features": [
+                "large house",
+                "open door",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on a bench",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "determined",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green suit",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Frog-Footman positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Just then, the door of the house opened, and a large plate came skimming out, straight at his head.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "near a house"
+            ],
+            "scene_features": [
+                "large house",
+                "open door",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on a bench",
+                    "looking surprised"
+                ],
+                "gaze_and_direction": "looking up at the plate",
+                "expression": [
+                    "startled",
+                    "wide-eyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green suit",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Frog-Footman positioned centrally, camera slightly behind him, showing the plate flying towards him"
+            }
+        ]
+    },
+    {
+        "text": "It grazed his nose and shattered against a tree behind him.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "near a house"
+            ],
+            "scene_features": [
+                "large house",
+                "open door",
+                "trees in the background"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Frog-Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on a bench",
+                    "touching his nose"
+                ],
+                "gaze_and_direction": "looking at the shattered plate",
+                "expression": [
+                    "shocked",
+                    "disoriented"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green suit",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Frog-Footman positioned centrally, camera slightly behind him, showing the shattered plate and the tree"
+            }
+        ]
+    }
+]

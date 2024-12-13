@@ -1,0 +1,262 @@
+[
+    {
+        "text": "catch hold of this rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "roof",
+                "chimney",
+                "loose slate"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "adult",
+                "actions": [
+                    "reaching out to grab a rope",
+                    "looking up at the roof"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned",
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "tucked in",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Heads below!” (a loud crash)—“Now, who did that?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "roof",
+                "chimney",
+                "loose slate"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "adult",
+                "actions": [
+                    "looking down",
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "shocked",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "tucked in",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "It was Bill, I fancy—Who’s to go down the chimney?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "roof",
+                "chimney",
+                "loose slate"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "adult",
+                "actions": [
+                    "standing near the chimney",
+                    "looking hesitant"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "reluctant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "tucked in",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Nay, I shan’t! You do it!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "roof",
+                "chimney",
+                "loose slate"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "adult",
+                "actions": [
+                    "stepping back from the chimney",
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "tucked in",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "That I won’t, then!—Bill’s to go down—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "dusty atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "roof",
+                "chimney",
+                "loose slate"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "adult",
+                "actions": [
+                    "standing near the chimney",
+                    "looking resigned"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defeated",
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown shirt",
+                        "style": "tucked in",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "tool belt",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [
+                    "sweaty forehead"
+                ],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    }
+]

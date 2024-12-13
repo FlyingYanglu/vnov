@@ -1,0 +1,189 @@
+[
+    {
+        "text": "Have you guessed the riddle yet?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "eccentric decor"
+            ],
+            "scene_features": [
+                "tea table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "turning to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly mischievous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "No, I give it up, what’s the answer?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "eccentric decor"
+            ],
+            "scene_features": [
+                "tea table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the Hatter"
+                ],
+                "gaze_and_direction": "looking slightly up at the Hatter",
+                "expression": [
+                    "frustrated",
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "Victorian",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "ribbon",
+                        "type": "hair accessory",
+                        "condition": "tied neatly"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned slightly to the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I haven’t the slightest idea,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "eccentric decor"
+            ],
+            "scene_features": [
+                "tea table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "shrugging"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "apologetic",
+                    "sheepish"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Nor I,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "eccentric decor"
+            ],
+            "scene_features": [
+                "tea table",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "shaking head"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "indifferent",
+                    "bored"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly rumpled"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique",
+                        "condition": "dangling from a chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "March Hare positioned slightly to the right, camera at eye level"
+            }
+        ]
+    }
+]

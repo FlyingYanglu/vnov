@@ -1,0 +1,181 @@
+[
+    {
+        "text": "“Yes, but _I_ grow at a reasonable pace,” said the Dormouse: “not in that ridiculous fashion.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defensive",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "well-groomed"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse positioned slightly left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And he got up very sulkily and crossed over to the other side of the court.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "getting up",
+                    "crossing the court"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sullen",
+                    "disgruntled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "well-groomed"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Dormouse crossing the court, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "All this time the Queen had never left off staring at the Hatter, and, just as the Dormouse crossed the court, she said to one of the officers of the court, “Bring me the list of the singers in the last concert!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "staring at the Hatter",
+                    "speaking to an officer"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "commanding",
+                    "intimidating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "on which the wretched Hatter trembled so, that he shook both his shoes off.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal throne"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "trembling",
+                    "shaking shoes off"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "terrified",
+                    "panicked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Hatter positioned slightly right, camera at eye level"
+            }
+        ]
+    }
+]

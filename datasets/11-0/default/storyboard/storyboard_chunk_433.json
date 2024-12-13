@@ -1,0 +1,247 @@
+[
+    {
+        "text": "So I sat on, with closed eyes, and half believed myself in Wonderland, though I knew I had but to open them again, and all would change to dull reality—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "comfortable chair",
+                "soft cushions",
+                "curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting on a chair",
+                    "eyes closed"
+                ],
+                "gaze_and_direction": "eyes closed",
+                "expression": [
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "the grass would be only rustling in the wind, and the pool rippling to the waving of the reeds—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "breeze",
+                "sunlight",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass field",
+                "pool",
+                "reeds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the pool",
+                    "looking at the pool"
+                ],
+                "gaze_and_direction": "looking at the pool",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, pool centered, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "the rattling teacups would change to tinkling sheep-bells, and the Queen’s shrill cries to the voice of the shepherd boy—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm atmosphere",
+                "daytime transitioning to evening"
+            ],
+            "scene_features": [
+                "meadow",
+                "sheep",
+                "shepherd boy"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the meadow",
+                    "listening"
+                ],
+                "gaze_and_direction": "looking towards the shepherd boy",
+                "expression": [
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the right, shepherd boy on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and the sneeze of the baby, the shriek of the Gryphon, and all the other queer noises, would change (I knew) to the confused clamour of the busy farm-yard—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "busy atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "farm-yard",
+                "animals",
+                "farmhands"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the farm-yard",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "overwhelmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, farm-yard in the background, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "while the lowing of the cattle in the distance would take the place of the Mock Turtle’s heavy sobs.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunset",
+                "calm atmosphere",
+                "evening"
+            ],
+            "scene_features": [
+                "farm-yard",
+                "cattle",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing in the farm-yard",
+                    "listening to the cattle"
+                ],
+                "gaze_and_direction": "looking towards the cattle",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "dark trousers",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character on the left, cattle in the distance, camera slightly low angle"
+            }
+        ]
+    }
+]

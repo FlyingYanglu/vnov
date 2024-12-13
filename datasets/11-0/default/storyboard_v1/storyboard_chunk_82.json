@@ -1,0 +1,241 @@
+[
+    {
+        "text": "repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, “I’ve tried every way, and nothing seems to suit them!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open area",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "repeating words in a subdued tone",
+                    "sobbing slightly"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I haven’t the least idea what you’re talking about,” I said.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open area",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "looking at the Pigeon"
+                ],
+                "gaze_and_direction": "looking at the Pigeon",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“I’ve tried the roots of trees, and I’ve tried banks, and I’ve tried hedges,” the Pigeon went on, without attending to me;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open area",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "continuing to speak",
+                    "gesturing with wings"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "desperate"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“but those serpents! There’s no pleasing them!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open area",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "gesturing with wings",
+                    "emphasizing words"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I was more and more puzzled, but I thought there was no use in saying anything more till the Pigeon had finished.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open area",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "listening",
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking at the Pigeon",
+                "expression": [
+                    "puzzled",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“As if it wasn’t trouble enough hatching the eggs,”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "open area",
+                "daytime"
+            ],
+            "scene_features": [
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Pigeon",
+                "age": "adult",
+                "actions": [
+                    "speaking",
+                    "gesturing with wings"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "exhausted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "ruffled"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Pigeon centered, camera slightly low angle"
+            }
+        ]
+    }
+]

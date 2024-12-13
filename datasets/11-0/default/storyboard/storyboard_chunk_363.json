@@ -1,0 +1,171 @@
+[
+    {
+        "text": "“I used to say when I was a child,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "ancient",
+                        "condition": "worn but regal"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Gryphon positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Well, I never heard it before,” said the Mock Turtle; “but it sounds uncommon nonsense.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn but sturdy"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Mock Turtle positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I said nothing; I had sat down with my face in my hands, wondering if anything would ever happen in a natural way again.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down",
+                    "covering face with hands"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "bracelet",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Main character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“I should like to have it explained,” said the Mock Turtle.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "room with a fireplace",
+                "bookshelves",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn but sturdy"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "simple"
+                    }
+                },
+                "composition": "Mock Turtle positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

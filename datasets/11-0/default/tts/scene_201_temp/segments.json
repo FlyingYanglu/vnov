@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "920a6c84b2dd11ef8d67506b4b2ab66e",
+        "text": "I am very tired of swimming",
+        "audio_url": "https://v16m-default.akamaized.net/41d149d82eea59b13992f6ad4791a01e/6751af9a/video/tos/maliva/tos-maliva-v-f15faa-us/ocC3ZvBAEi14QUBWtFz0AR5SBANVFObZkEEbi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thf7kIOXq8Zmo&qs=13&rc=amhvPHE5cmdvdzUzNzhoM0BpamhvPHE5cmdvdzUzNzhoM0Atai1uMmRrajVgLS1kLjZzYSMtai1uMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338501372700000000000000000000ffff0a00be39c80ae9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.572
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.572
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "920a6e28b2dd11ef8d67506b4b2ab66e",
+        "text": "about here, O Mouse!”",
+        "audio_url": "https://v16m-default.akamaized.net/41d149d82eea59b13992f6ad4791a01e/6751af9a/video/tos/maliva/tos-maliva-v-f15faa-us/ocC3ZvBAEi14QUBWtFz0AR5SBANVFObZkEEbi/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thf7kIOXq8Zmo&qs=13&rc=amhvPHE5cmdvdzUzNzhoM0BpamhvPHE5cmdvdzUzNzhoM0Atai1uMmRrajVgLS1kLjZzYSMtai1uMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338501372700000000000000000000ffff0a00be39c80ae9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.572,
+            "end_offset": 3.144
+        },
+        "target_timerange": {
+            "start_offset": 1.572,
+            "end_offset": 3.144
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

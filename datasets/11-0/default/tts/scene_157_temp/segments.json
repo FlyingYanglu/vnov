@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "a6bcc56ab2dc11ef81e70c42a1a7d90a",
+        "text": "“How doth the little",
+        "audio_url": "https://v16m-default.akamaized.net/a6ae596e4dde4c85e42e28908170baf8/6751ae0f/video/tos/maliva/tos-maliva-v-f15faa-us/ooAAVEArRnnLv6tWbSEJBFUhVBaDeQmJREfBjr/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzGkIOXq8Zmo&qs=13&rc=amU5OW05cmRvdzUzNzhoM0BpamU5OW05cmRvdzUzNzhoM0BrNG5zMmRzZzVgLS1kLjZzYSNrNG5zMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338461877200000000000000000000ffff0a00b382e80e3e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.2879999999999998
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.2879999999999998
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a6bcc7c2b2dc11ef81e70c42a1a7d90a",
+        "text": "crocodile Improve his",
+        "audio_url": "https://v16m-default.akamaized.net/a6ae596e4dde4c85e42e28908170baf8/6751ae0f/video/tos/maliva/tos-maliva-v-f15faa-us/ooAAVEArRnnLv6tWbSEJBFUhVBaDeQmJREfBjr/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzGkIOXq8Zmo&qs=13&rc=amU5OW05cmRvdzUzNzhoM0BpamU5OW05cmRvdzUzNzhoM0BrNG5zMmRzZzVgLS1kLjZzYSNrNG5zMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338461877200000000000000000000ffff0a00b382e80e3e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.288,
+            "end_offset": 2.5759999999999996
+        },
+        "target_timerange": {
+            "start_offset": 1.288,
+            "end_offset": 2.5759999999999996
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "a6bcca74b2dc11ef81e70c42a1a7d90a",
+        "text": "shining tail, And pour the",
+        "audio_url": "https://v16m-default.akamaized.net/a6ae596e4dde4c85e42e28908170baf8/6751ae0f/video/tos/maliva/tos-maliva-v-f15faa-us/ooAAVEArRnnLv6tWbSEJBFUhVBaDeQmJREfBjr/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThzGkIOXq8Zmo&qs=13&rc=amU5OW05cmRvdzUzNzhoM0BpamU5OW05cmRvdzUzNzhoM0BrNG5zMmRzZzVgLS1kLjZzYSNrNG5zMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338461877200000000000000000000ffff0a00b382e80e3e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.576,
+            "end_offset": 3.864
+        },
+        "target_timerange": {
+            "start_offset": 2.576,
+            "end_offset": 3.864
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

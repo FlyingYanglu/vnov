@@ -1,0 +1,214 @@
+[
+    {
+        "text": "“I shall sit here,” he said, “on and off, for days and days.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable chair",
+                "bookshelf",
+                "warm fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting in a comfortable chair",
+                    "leaning back"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "relaxed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "well-kept",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "cravat",
+                        "type": "elegant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Footman centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“But what am _I_ to do?” I asked, feeling a bit lost.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable chair",
+                "bookshelf",
+                "warm fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the Footman",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "lightly worn"
+                    },
+                    "jacket": {
+                        "item": "cardigan",
+                        "style": "open",
+                        "type": "knit",
+                        "condition": "soft",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "bit of disheveled hair"
+                ],
+                "composition": "Main character positioned to the left, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Anything you like,” the Footman replied, and began whistling.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable chair",
+                "bookshelf",
+                "warm fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting in the chair",
+                    "whistling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "tailcoat",
+                        "style": "formal",
+                        "type": "long",
+                        "condition": "well-kept",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "cravat",
+                        "type": "elegant"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Footman centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, there’s no use in talking to him,” I said desperately.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "comfortable chair",
+                "bookshelf",
+                "warm fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the Footman",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "desperate",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "lightly worn"
+                    },
+                    "jacket": {
+                        "item": "cardigan",
+                        "style": "open",
+                        "type": "knit",
+                        "condition": "soft",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "bit of disheveled hair"
+                ],
+                "composition": "Main character positioned to the left, camera slightly high angle"
+            }
+        ]
+    }
+]

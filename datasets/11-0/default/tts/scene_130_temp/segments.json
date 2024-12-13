@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "192e5786b2dc11efb10cb8cef6277d40",
+        "text": "I sat down and",
+        "audio_url": "https://v16m-default.akamaized.net/71e3c5d0041917530d8eb44925fcad1d/6751ad20/video/tos/maliva/tos-maliva-v-f15faa-us/oYViLAZYvU6AUgoFGjEAQsv14CR7ivBBW9SFE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThuokIOXq8Zmo&qs=13&rc=M3RoNHc5cmlvdzUzNzhoM0BpM3RoNHc5cmlvdzUzNzhoM0BobWBkMmRrZTVgLS1kLjZzYSNobWBkMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338438185200000000000000000000ffff0a0081c9271ccd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1280000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1280000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "192e5934b2dc11efb10cb8cef6277d40",
+        "text": "began to cry again.",
+        "audio_url": "https://v16m-default.akamaized.net/71e3c5d0041917530d8eb44925fcad1d/6751ad20/video/tos/maliva/tos-maliva-v-f15faa-us/oYViLAZYvU6AUgoFGjEAQsv14CR7ivBBW9SFE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThuokIOXq8Zmo&qs=13&rc=M3RoNHc5cmlvdzUzNzhoM0BpM3RoNHc5cmlvdzUzNzhoM0BobWBkMmRrZTVgLS1kLjZzYSNobWBkMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338438185200000000000000000000ffff0a0081c9271ccd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.1280000000000001,
+            "end_offset": 2.2560000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.1280000000000001,
+            "end_offset": 2.2560000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

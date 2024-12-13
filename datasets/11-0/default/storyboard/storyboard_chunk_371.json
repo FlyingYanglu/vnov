@@ -1,0 +1,239 @@
+[
+    {
+        "text": "cried the Gryphon, and, taking me by the hand, it hurried off, without waiting for the end of the song.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field"
+            ],
+            "scene_features": [
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "crying out",
+                    "grabbing the protagonist's hand",
+                    "hurrying off"
+                ],
+                "gaze_and_direction": "looking at the protagonist",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the left, protagonist on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "was heard in the distance. “Come on!” “What trial is it?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field"
+            ],
+            "scene_features": [
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Protagonist",
+                "age": "young adult",
+                "actions": [
+                    "panting",
+                    "looking at the Gryphon"
+                ],
+                "gaze_and_direction": "looking at the Gryphon",
+                "expression": [
+                    "curious",
+                    "out of breath"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Protagonist centered, camera slightly behind, looking forward"
+            }
+        ]
+    },
+    {
+        "text": "I panted as we ran; but the Gryphon only answered “Come on!” and ran the faster, while more and more faintly came, carried on the breeze that followed us, the melancholy words:—",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field"
+            ],
+            "scene_features": [
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "adult",
+                "actions": [
+                    "running faster",
+                    "calling out 'Come on!'"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "intact"
+                    },
+                    "accessories": {
+                        "item": "claws",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon on the right, protagonist on the left, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“Soo—oop of the e—e—evening, Beautiful, beautiful Soup!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "open field"
+            ],
+            "scene_features": [
+                "trees",
+                "distant hills"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Protagonist",
+                "age": "young adult",
+                "actions": [
+                    "panting",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "confused",
+                    "out of breath"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Protagonist centered, camera slightly behind, looking forward"
+            }
+        ]
+    },
+    {
+        "text": "The King and Queen of Hearts were seated on their throne.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "indoor",
+                "throne room"
+            ],
+            "scene_features": [
+                "throne",
+                "decorative banners",
+                "carpet"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "King of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "seated on the throne"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "regal",
+                    "composed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "King centered, camera frontal"
+            },
+            {
+                "name": "Queen of Hearts",
+                "age": "middle-aged",
+                "actions": [
+                    "seated on the throne"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "regal",
+                    "composed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elegant",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Queen centered, camera frontal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "text": "“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real Turtle.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "seaside cottage",
+                "wooden furniture",
+                "seashell decorations"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "sighing deeply"
+                ],
+                "gaze_and_direction": "looking down, then up at the viewer",
+                "expression": [
+                    "melancholic",
+                    "nostalgic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "seaweed necklace",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“_I’ve_ been to a day-school, too,” I said, trying to match the Mock Turtle’s tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "seaside cottage",
+                "wooden furniture",
+                "seashell decorations"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking",
+                    "trying to match the Mock Turtle’s tone"
+                ],
+                "gaze_and_direction": "looking at the Mock Turtle",
+                "expression": [
+                    "thoughtful",
+                    "empathetic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "small pendant",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You needn’t be so proud as all that.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "seaside cottage",
+                "wooden furniture",
+                "seashell decorations"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing slightly with a hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "teasing",
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "seaweed necklace",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“With extras?” the Mock Turtle asked, a little anxiously.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "soft shadows",
+                "evening"
+            ],
+            "scene_features": [
+                "seaside cottage",
+                "wooden furniture",
+                "seashell decorations"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "middle-aged",
+                "actions": [
+                    "asking",
+                    "looking a little anxious"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "turtle shell",
+                        "style": "natural",
+                        "condition": "worn but intact"
+                    },
+                    "accessories": {
+                        "item": "seaweed necklace",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

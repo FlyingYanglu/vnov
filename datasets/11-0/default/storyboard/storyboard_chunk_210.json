@@ -1,0 +1,156 @@
+[
+    {
+        "text": "“No room! No room!” they cried out when they saw me coming.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "large table",
+                "arm-chairs",
+                "candles on table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "raising hands in protest",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "frustrated",
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "hanging from vest"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“There’s plenty of room!” I said indignantly, and I sat down in a large arm-chair at one end of the table.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "large table",
+                "arm-chairs",
+                "candles on table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting down in a large arm-chair",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "indignant",
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character positioned at one end of the table, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Have some wine,” the March Hare said in an encouraging tone.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "large table",
+                "arm-chairs",
+                "candles on table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "pouring wine into a glass",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "encouraging",
+                    "friendly"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "casual",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "hanging from vest"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly low angle"
+            }
+        ]
+    }
+]

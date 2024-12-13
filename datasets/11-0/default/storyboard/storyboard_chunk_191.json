@@ -1,0 +1,143 @@
+[
+    {
+        "text": "The cook threw a frying-pan after her as she went out, but it just missed her.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "kitchen setting",
+                "evening"
+            ],
+            "scene_features": [
+                "kitchen counters",
+                "stove",
+                "pots and pans"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing a frying-pan towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cook positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I caught the baby with some difficulty, as it was a queer-shaped little creature, and held out its arms and legs in all directions, “just like a starfish,” I thought.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "living room setting",
+                "evening"
+            ],
+            "scene_features": [
+                "sofa",
+                "coffee table",
+                "baby toys"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "catching the baby",
+                    "holding the baby out with arms and legs spread"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The poor little thing was snorting like a steam-engine when I caught it, and kept doubling itself up and straightening itself out again, so that altogether I had my hands full.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "living room setting",
+                "evening"
+            ],
+            "scene_features": [
+                "sofa",
+                "coffee table",
+                "baby toys"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding the baby",
+                    "trying to calm the baby"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stressed",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "casual",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding the baby"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

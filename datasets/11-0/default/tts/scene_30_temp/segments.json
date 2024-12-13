@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "0143ba1eb2da11ef8aa0b8cef692109a",
+        "text": "How funny it’ll seem to come",
+        "audio_url": "https://v16m-default.akamaized.net/5f190079fdff6045dc6fe95b2534b2c7/6751a9a0/video/tos/maliva/tos-maliva-v-f15faa-us/oAAAGtiEEgozdnqfYVikRmB6mTqR1wFiBAKqA5/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thi3kIOXq8Zmo&qs=13&rc=Mzk6OXM5cmhvdzUzNzhoM0BpMzk6OXM5cmhvdzUzNzhoM0BnaC9lMmRzXjVgLS1kLjZzYSNnaC9lMmRzXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338348254000000000000000000000ffff0a0064a749d2fd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.376
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.376
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "0143bea6b2da11ef8aa0b8cef692109a",
+        "text": "out among the people that walk",
+        "audio_url": "https://v16m-default.akamaized.net/5f190079fdff6045dc6fe95b2534b2c7/6751a9a0/video/tos/maliva/tos-maliva-v-f15faa-us/oAAAGtiEEgozdnqfYVikRmB6mTqR1wFiBAKqA5/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thi3kIOXq8Zmo&qs=13&rc=Mzk6OXM5cmhvdzUzNzhoM0BpMzk6OXM5cmhvdzUzNzhoM0BnaC9lMmRzXjVgLS1kLjZzYSNnaC9lMmRzXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338348254000000000000000000000ffff0a0064a749d2fd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3760000000000001,
+            "end_offset": 2.752
+        },
+        "target_timerange": {
+            "start_offset": 1.3760000000000001,
+            "end_offset": 2.752
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "0143c14eb2da11ef8aa0b8cef692109a",
+        "text": "with their heads downward!",
+        "audio_url": "https://v16m-default.akamaized.net/5f190079fdff6045dc6fe95b2534b2c7/6751a9a0/video/tos/maliva/tos-maliva-v-f15faa-us/oAAAGtiEEgozdnqfYVikRmB6mTqR1wFiBAKqA5/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thi3kIOXq8Zmo&qs=13&rc=Mzk6OXM5cmhvdzUzNzhoM0BpMzk6OXM5cmhvdzUzNzhoM0BnaC9lMmRzXjVgLS1kLjZzYSNnaC9lMmRzXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338348254000000000000000000000ffff0a0064a749d2fd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7520000000000002,
+            "end_offset": 4.128
+        },
+        "target_timerange": {
+            "start_offset": 2.7520000000000002,
+            "end_offset": 4.128
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

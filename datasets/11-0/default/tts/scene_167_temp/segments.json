@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "dd6f5a28b2dc11ef8add0c42a117b3f4",
+        "text": "and oh!",
+        "audio_url": "https://v16m-default.akamaized.net/a859754579b9c955c30b0a7f98b3a93b/6751ae66/video/tos/maliva/tos-maliva-v-f15faa-us/oIxs1va8DCvCiRBAwEQAZ4gVSEAEUBYBiW8xF/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThPbkIOXq8Zmo&qs=13&rc=anY1a2s5cjRvdzUzNzhoM0BpanY1a2s5cjRvdzUzNzhoM0AubTNrMmRraDVgLS1kLjZzYSMubTNrMmRraDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338470945300000000000000000000ffff0a008034df43d9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 0.888
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 0.888
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "dd6f6090b2dc11ef8add0c42a117b3f4",
+        "text": "ever so many lessons to learn!”",
+        "audio_url": "https://v16m-default.akamaized.net/753455a4aa219efd09529672fcc7c2bb/6751ae67/video/tos/maliva/tos-maliva-v-f15faa-us/okA3ADoIGAFVBSGfhQviPJnAtCV6UL3eEIIBA1/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThPbkIOXq8Zmo&qs=13&rc=ajNrc3E5cjRvdzUzNzhoM0BpajNrc3E5cjRvdzUzNzhoM0AubnBxMmRraDVgLS1kLjZzYSMubnBxMmRraDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338470945300000000000000000000ffff0a008034df43d9&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "target_timerange": {
+            "start_offset": 0.888,
+            "end_offset": 2.7600000000000002
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

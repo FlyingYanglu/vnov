@@ -1,0 +1,144 @@
+[
+    {
+        "text": "My hands were clasped upon her knee, and the bright eager eyes were looking up into hers—she could hear the very tones of my voice, and see that queer little toss of my head to keep back the wandering hair that _would_ always get into my eyes—and still as she listened, or seemed to listen, the whole place around her became alive with the strange creatures of my little sister’s dream.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "cozy atmosphere",
+                "daytime"
+            ],
+            "scene_features": [
+                "living room",
+                "comfortable sofa",
+                "bookshelves"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Little Sister",
+                "age": "child",
+                "actions": [
+                    "clasping hands on her knee",
+                    "looking up"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "attentive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "pink"
+                    }
+                },
+                "temporary_features": [
+                    "bright eyes",
+                    "slight smile"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The long grass rustled at my feet as the White Rabbit hurried by—the frightened Mouse splashed his way through the neighbouring pool—I could hear the",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "grassy field",
+                "small pool",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "young",
+                "actions": [
+                    "hurrying by",
+                    "looking around nervously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white fur",
+                        "style": "natural",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "small waistcoat",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [
+                    "twitching nose",
+                    "ears perked up"
+                ],
+                "composition": "Character positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The long grass rustled at my feet as the White Rabbit hurried by—the frightened Mouse splashed his way through the neighbouring pool—I could hear the",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight filtering through trees",
+                "daytime"
+            ],
+            "scene_features": [
+                "grassy field",
+                "small pool",
+                "trees"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "young",
+                "actions": [
+                    "splashing through the pool",
+                    "looking around nervously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frightened",
+                    "alert"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "wet"
+                    },
+                    "accessories": {
+                        "item": "small tail",
+                        "type": "brown"
+                    }
+                },
+                "temporary_features": [
+                    "twitching whiskers",
+                    "ears perked up"
+                ],
+                "composition": "Character positioned on the right, camera slightly low angle"
+            }
+        ]
+    }
+]

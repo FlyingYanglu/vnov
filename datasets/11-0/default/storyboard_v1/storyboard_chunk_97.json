@@ -1,0 +1,341 @@
+[
+    {
+        "text": "I cried, jumping up and down in terror.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "crying",
+                    "jumping up and down"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "terrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, there goes his _precious_ nose!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pointing at the saucepan"
+                ],
+                "gaze_and_direction": "looking at the saucepan",
+                "expression": [
+                    "shocked"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "as an unusually large saucepan flew close by it, nearly taking it off.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "ducking"
+                ],
+                "gaze_and_direction": "looking at the saucepan",
+                "expression": [
+                    "terrified"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“If everybody minded their own business,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "vintage",
+                        "condition": "well-worn"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "the Duchess said in a hoarse growl, “the world would go round a deal faster than it does.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elaborate dress",
+                        "style": "vintage",
+                        "condition": "well-worn"
+                    },
+                    "accessories": {
+                        "item": "jeweled brooch",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Which would _not_ be an advantage,”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I said, glad to show off a little of my knowledge.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Just think of what work it would make with the day and night! You see the earth takes twenty-four hours to turn round on its axis—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "chaotic",
+                "daytime"
+            ],
+            "scene_features": [
+                "kitchen",
+                "cluttered counters",
+                "large saucepan"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "tears streaming down face"
+                ],
+                "composition": "Main character centered, camera slightly low angle"
+            }
+        ]
+    }
+]

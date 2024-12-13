@@ -1,0 +1,235 @@
+[
+    {
+        "text": "“But then,” I thought, “shall I _never_ get any older than I am now?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bookshelf",
+                "desk with a lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking deeply"
+                ],
+                "gaze_and_direction": "looking down at hands",
+                "expression": [
+                    "pensive",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {
+                        "item": "hair tie",
+                        "type": "simple elastic"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the edge of the bed"
+                ],
+                "composition": "Main character positioned left of center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "That’ll be a comfort, one way—never to be an old woman—but then—always to have lessons to learn!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bookshelf",
+                "desk with a lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sighing",
+                    "looking up"
+                ],
+                "gaze_and_direction": "looking at the ceiling",
+                "expression": [
+                    "mixed emotions",
+                    "half-smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {
+                        "item": "hair tie",
+                        "type": "simple elastic"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the edge of the bed"
+                ],
+                "composition": "Main character positioned left of center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Oh, I shouldn’t like _that!_”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bookshelf",
+                "desk with a lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "shaking head slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {
+                        "item": "hair tie",
+                        "type": "simple elastic"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the edge of the bed"
+                ],
+                "composition": "Main character positioned left of center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, you foolish Alice!” I answered myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bookshelf",
+                "desk with a lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "gesturing with hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "exasperated",
+                    "rolling eyes"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {
+                        "item": "hair tie",
+                        "type": "simple elastic"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the edge of the bed"
+                ],
+                "composition": "Main character positioned left of center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“How can you learn lessons in here?",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "quiet atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "bedroom",
+                "bookshelf",
+                "desk with a lamp"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the room",
+                    "pointing at the bookshelf"
+                ],
+                "gaze_and_direction": "looking at the bookshelf",
+                "expression": [
+                    "curious",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white nightgown",
+                        "style": "loose",
+                        "condition": "soft and comfortable"
+                    },
+                    "accessories": {
+                        "item": "hair tie",
+                        "type": "simple elastic"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on the edge of the bed"
+                ],
+                "composition": "Main character positioned left of center, camera slightly low angle"
+            }
+        ]
+    }
+]

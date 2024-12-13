@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "b149c85cb2dc11ef8c075c6f6994e9ec",
+        "text": "How neatly spread his claws,",
+        "audio_url": "https://v16m-default.akamaized.net/357148aeed7833d462062ba61da016b7/6751ae1e/video/tos/maliva/tos-maliva-v-f15faa-us/oUyQS0W8L4mhVjJnVVPBBLelbEEgEAFRABAUfD/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThkGkIOXq8Zmo&qs=13&rc=am5yNWs5cmlvdzUzNzhoM0Bpam5yNWs5cmlvdzUzNzhoM0A0a19yMmQ0ZzVgLS1kLjZzYSM0a19yMmQ0ZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338463630200000000000000000000ffff0a006df0f4686c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

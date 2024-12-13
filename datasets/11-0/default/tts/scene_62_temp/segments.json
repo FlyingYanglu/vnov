@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "ac8fb292b2da11efa395b8cef635af1a",
+        "text": "I think I could, if I",
+        "audio_url": "https://v16m-default.akamaized.net/1fc174c50514092b9aced515bc291526/6751aabd/video/tos/maliva/tos-maliva-v-f15faa-us/ocBsEkiBAyfgc9mAVzKRwN2ElAinpqFqdsA1Zo/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThxtkIOXq8Zmo&qs=13&rc=M2dvZHc5cnBvdzUzNzhoM0BpM2dvZHc5cnBvdzUzNzhoM0BvbF9tMmRjYDVgLS1kLjZzYSNvbF9tMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338376876200000000000000000000ffff0a008a03778e2b&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.512
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.512
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ac8fb3b4b2da11efa395b8cef635af1a",
+        "text": "only knew how to begin.",
+        "audio_url": "https://v16m-default.akamaized.net/1fc174c50514092b9aced515bc291526/6751aabd/video/tos/maliva/tos-maliva-v-f15faa-us/ocBsEkiBAyfgc9mAVzKRwN2ElAinpqFqdsA1Zo/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThxtkIOXq8Zmo&qs=13&rc=M2dvZHc5cnBvdzUzNzhoM0BpM2dvZHc5cnBvdzUzNzhoM0BvbF9tMmRjYDVgLS1kLjZzYSNvbF9tMmRjYDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338376876200000000000000000000ffff0a008a03778e2b&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.512,
+            "end_offset": 3.024
+        },
+        "target_timerange": {
+            "start_offset": 1.512,
+            "end_offset": 3.024
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

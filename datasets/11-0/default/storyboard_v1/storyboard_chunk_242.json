@@ -1,0 +1,221 @@
+[
+    {
+        "text": "“You may go,” the King said, and the Hatter hurriedly left the court, without even waiting to put his shoes on.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "throne",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing towards the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            },
+            {
+                "name": "Hatter",
+                "age": "young adult",
+                "actions": [
+                    "hurrying out of the court",
+                    "barefoot"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "suit",
+                        "style": "formal",
+                        "condition": "slightly disheveled"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "top hat"
+                    }
+                },
+                "composition": "Hatter on the right side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“—and just take his head off outside,” the Queen added to one of the officers, but the Hatter was out of sight before the officer could get to the door.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "throne",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing towards the door"
+                ],
+                "gaze_and_direction": "looking at the officer",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "Queen positioned centrally, camera slightly low angle"
+            },
+            {
+                "name": "Officer",
+                "age": "young adult",
+                "actions": [
+                    "turning towards the door"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "sword",
+                        "type": "decorative"
+                    }
+                },
+                "composition": "Officer on the left side, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Call the next witness!” the King ordered.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "throne",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking",
+                    "gesturing towards the crowd"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The next witness was the Duchess’s cook. She carried the pepper-box in her hand, and I guessed who it was even before she got into the court, by the way the people near the door began sneezing all at once.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal decor",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "throne",
+                "crowd"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "carrying a pepper-box",
+                    "entering the court"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "plain",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "pepper-box",
+                        "type": "small container"
+                    }
+                },
+                "composition": "Cook positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

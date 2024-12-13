@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "174de712b2da11efae5b08c0eb17a1fc",
+        "text": "(and she tried to curtsey as she",
+        "audio_url": "https://v16m-default.akamaized.net/dbc7ef32bf7432db6c17495eab8a6658/6751a9c3/video/tos/maliva/tos-maliva-v-f15faa-us/o4MfAQeAqIqo9X4C9S18CuRreMA2Crg7iOIqXC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThI4kIOXq8Zmo&qs=13&rc=anh2aXk5cnFvdzUzNzhoM0Bpanh2aXk5cnFvdzUzNzhoM0BxYHJrMmRrXjVgLS1kLjZzYSNxYHJrMmRrXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338351761200000000000000000000ffff0a009001d1584a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.504
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.504
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "174de884b2da11efae5b08c0eb17a1fc",
+        "text": "spoke—fancy _curtseying_ as",
+        "audio_url": "https://v16m-default.akamaized.net/dbc7ef32bf7432db6c17495eab8a6658/6751a9c3/video/tos/maliva/tos-maliva-v-f15faa-us/o4MfAQeAqIqo9X4C9S18CuRreMA2Crg7iOIqXC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThI4kIOXq8Zmo&qs=13&rc=anh2aXk5cnFvdzUzNzhoM0Bpanh2aXk5cnFvdzUzNzhoM0BxYHJrMmRrXjVgLS1kLjZzYSNxYHJrMmRrXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338351761200000000000000000000ffff0a009001d1584a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.5040000000000002,
+            "end_offset": 3.008
+        },
+        "target_timerange": {
+            "start_offset": 1.5040000000000002,
+            "end_offset": 3.008
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "174de988b2da11efae5b08c0eb17a1fc",
+        "text": "you’re falling through the air!",
+        "audio_url": "https://v16m-default.akamaized.net/dbc7ef32bf7432db6c17495eab8a6658/6751a9c3/video/tos/maliva/tos-maliva-v-f15faa-us/o4MfAQeAqIqo9X4C9S18CuRreMA2Crg7iOIqXC/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThI4kIOXq8Zmo&qs=13&rc=anh2aXk5cnFvdzUzNzhoM0Bpanh2aXk5cnFvdzUzNzhoM0BxYHJrMmRrXjVgLS1kLjZzYSNxYHJrMmRrXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338351761200000000000000000000ffff0a009001d1584a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.0080000000000005,
+            "end_offset": 4.5120000000000005
+        },
+        "target_timerange": {
+            "start_offset": 3.0080000000000005,
+            "end_offset": 4.5120000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "text": "“three inches is such a wretched height to be.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "discontent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "three inches tall"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“It is a very good height indeed!” said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three inches high).",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "rearing upright",
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "three inches tall"
+                ],
+                "composition": "Caterpillar centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“But I’m not used to it!” I pleaded in a piteous tone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pleading with the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "piteous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "three inches tall"
+                ],
+                "composition": "Main character centered, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "And I thought to myself, “I wish the creatures wouldn’t be so easily offended!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking silently"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "three inches tall"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You’ll get used to it in time,” said the Caterpillar;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "daytime"
+            ],
+            "scene_features": [
+                "grass",
+                "flowers",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "adult",
+                "actions": [
+                    "speaking calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "three inches tall"
+                ],
+                "composition": "Caterpillar centered, camera eye-level"
+            }
+        ]
+    }
+]

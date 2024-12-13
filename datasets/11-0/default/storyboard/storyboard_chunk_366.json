@@ -1,0 +1,99 @@
+[
+    {
+        "text": "“Yes, I think you’d better leave off,” said the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxury furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "regal",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled collar",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Gryphon centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And I was relieved to stop, though I still felt puzzled and longed for something more natural to happen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "intimate setting"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxury furniture",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking contemplative"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "relieved",
+                    "puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

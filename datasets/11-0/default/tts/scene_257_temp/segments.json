@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "c99a245eb2de11ef903208c0eb61f8d0",
+        "text": "The question is, what did",
+        "audio_url": "https://v16m-default.akamaized.net/5cb4660b2fd738a8b108780aa12ce401/6751b1a2/video/tos/maliva/tos-maliva-v-f15faa-us/o8Q0FvRu41CiPzXAdVAbBRB2BZEpEBUQUAliS/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th8JkIOXq8Zmo&qs=13&rc=M245d205cmpvdzUzNzhoM0BpM245d205cmpvdzUzNzhoM0Brc2RoMmQ0bjVgLS1kLjZzYSNrc2RoMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338553542800000000000000000000ffff0a00aea25f9976&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.44
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.44
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "c99a2620b2de11ef903208c0eb61f8d0",
+        "text": "the archbishop find?”",
+        "audio_url": "https://v16m-default.akamaized.net/5cb4660b2fd738a8b108780aa12ce401/6751b1a2/video/tos/maliva/tos-maliva-v-f15faa-us/o8Q0FvRu41CiPzXAdVAbBRB2BZEpEBUQUAliS/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th8JkIOXq8Zmo&qs=13&rc=M245d205cmpvdzUzNzhoM0BpM245d205cmpvdzUzNzhoM0Brc2RoMmQ0bjVgLS1kLjZzYSNrc2RoMmQ0bjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338553542800000000000000000000ffff0a00aea25f9976&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.44,
+            "end_offset": 2.88
+        },
+        "target_timerange": {
+            "start_offset": 1.44,
+            "end_offset": 2.88
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

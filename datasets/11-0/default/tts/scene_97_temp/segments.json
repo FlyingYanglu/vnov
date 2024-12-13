@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "683e1e70b2db11ef952f1070fd2669de",
+        "text": "and when she had tired herself",
+        "audio_url": "https://v16m-default.akamaized.net/7c19f92ebd91b2c09235c9041b8a2d4e/6751abfa/video/tos/maliva/tos-maliva-v-f15faa-us/o8PWe8AYEEHeaIACqVOCRD5CoEaWSqAfgXcFBr/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5QkIOXq8Zmo&qs=13&rc=Mzp0NXg5cjhvdzUzNzhoM0BpMzp0NXg5cjhvdzUzNzhoM0BgaG80MmRrYzVgLS1kLjZzYSNgaG80MmRrYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338408448100000000000000000000ffff0a008db3b92f77&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.624
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.624
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "683e214ab2db11ef952f1070fd2669de",
+        "text": "out with trying, the poor little",
+        "audio_url": "https://v16m-default.akamaized.net/7c19f92ebd91b2c09235c9041b8a2d4e/6751abfa/video/tos/maliva/tos-maliva-v-f15faa-us/o8PWe8AYEEHeaIACqVOCRD5CoEaWSqAfgXcFBr/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5QkIOXq8Zmo&qs=13&rc=Mzp0NXg5cjhvdzUzNzhoM0BpMzp0NXg5cjhvdzUzNzhoM0BgaG80MmRrYzVgLS1kLjZzYSNgaG80MmRrYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338408448100000000000000000000ffff0a008db3b92f77&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6239999999999999,
+            "end_offset": 3.248
+        },
+        "target_timerange": {
+            "start_offset": 1.6239999999999999,
+            "end_offset": 3.248
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "683e22c6b2db11ef952f1070fd2669de",
+        "text": "thing sat down and cried.",
+        "audio_url": "https://v16m-default.akamaized.net/7c19f92ebd91b2c09235c9041b8a2d4e/6751abfa/video/tos/maliva/tos-maliva-v-f15faa-us/o8PWe8AYEEHeaIACqVOCRD5CoEaWSqAfgXcFBr/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5QkIOXq8Zmo&qs=13&rc=Mzp0NXg5cjhvdzUzNzhoM0BpMzp0NXg5cjhvdzUzNzhoM0BgaG80MmRrYzVgLS1kLjZzYSNgaG80MmRrYzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338408448100000000000000000000ffff0a008db3b92f77&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2479999999999998,
+            "end_offset": 4.872
+        },
+        "target_timerange": {
+            "start_offset": 3.2479999999999998,
+            "end_offset": 4.872
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

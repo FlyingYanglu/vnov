@@ -1,0 +1,238 @@
+[
+    {
+        "text": "Hardly knowing what I did, I picked up a little bit of stick, and held it out to the puppy.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "picking up a stick",
+                    "holding it out"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character on the left, stick held out, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Whereupon the puppy jumped into the air off all its feet at once, with a yelp of delight, and rushed at the stick.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "jumping into the air",
+                    "rushing at the stick"
+                ],
+                "gaze_and_direction": "looking at the stick",
+                "expression": [
+                    "excited",
+                    "delighted"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "short",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "jumping"
+                ],
+                "composition": "Puppy centered, mid-air, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Then I dodged behind a great thistle, to keep myself from being run over.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "dodging behind a thistle"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "startled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character partially hidden behind thistle, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And the moment I appeared on the other side, the puppy made another rush at the stick, and tumbled head over heels in its hurry to get hold of it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "rushing at the stick",
+                    "tumbling head over heels"
+                ],
+                "gaze_and_direction": "looking at the stick",
+                "expression": [
+                    "determined",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "short",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "tumbling"
+                ],
+                "composition": "Puppy centered, tumbling, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Then I, thinking it was very like having a game of play with a cart-horse, and expecting every moment to be trampled under its feet, ran round.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running round"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "nervous",
+                    "playful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "holding a stick"
+                ],
+                "composition": "Main character running, camera at eye level"
+            }
+        ]
+    }
+]

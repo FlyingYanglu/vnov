@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "be898d96b2db11efa5430c42a117b3e0",
+        "text": "“Now I’m opening out like the",
+        "audio_url": "https://v16m-default.akamaized.net/cc84d4dc1d0b4eef56edce1f9208fea8/6751ac8a/video/tos/maliva/tos-maliva-v-f15faa-us/oAEDnUAeDmmVhBsCaZgB08ALEBJCRBAEmQfFVW/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThdfkIOXq8Zmo&qs=13&rc=MzR1PHg5cjxvdzUzNzhoM0BpMzR1PHg5cjxvdzUzNzhoM0BqbGguMmRrZDVgLS1kLjZzYSNqbGguMmRrZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338422971100000000000000000000ffff0a009154ba47cd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.86
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.86
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "be898f4eb2db11efa5430c42a117b3e0",
+        "text": "largest telescope that ever was!”",
+        "audio_url": "https://v16m-default.akamaized.net/cc84d4dc1d0b4eef56edce1f9208fea8/6751ac8a/video/tos/maliva/tos-maliva-v-f15faa-us/oAEDnUAeDmmVhBsCaZgB08ALEBJCRBAEmQfFVW/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThdfkIOXq8Zmo&qs=13&rc=MzR1PHg5cjxvdzUzNzhoM0BpMzR1PHg5cjxvdzUzNzhoM0BqbGguMmRrZDVgLS1kLjZzYSNqbGguMmRrZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338422971100000000000000000000ffff0a009154ba47cd&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.86,
+            "end_offset": 3.72
+        },
+        "target_timerange": {
+            "start_offset": 1.86,
+            "end_offset": 3.72
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

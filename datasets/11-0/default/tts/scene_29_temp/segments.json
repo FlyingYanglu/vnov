@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "fbdbbb6cb2d911efb89698039b7ed938",
+        "text": "“I wonder if I shall fall",
+        "audio_url": "https://v16m-default.akamaized.net/4f5a7f0beb31f0fb1ec8c043861ec7e0/6751a995/video/tos/maliva/tos-maliva-v-f15faa-us/o0KpISaPlGXmq8ARAqLVCrOACCBgLCeoIfeMiI/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th.3kIOXq8Zmo&qs=13&rc=ajh4eW85cmZvdzUzNzhoM0Bpajh4eW85cmZvdzUzNzhoM0BqLm02MmRrXjVgLS1kLjZzYSNqLm02MmRrXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338347359500000000000000000000ffff0a006d1921a330&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.272
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.272
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "fbdbbe0ab2d911efb89698039b7ed938",
+        "text": "right _through_ the earth!”",
+        "audio_url": "https://v16m-default.akamaized.net/4f5a7f0beb31f0fb1ec8c043861ec7e0/6751a995/video/tos/maliva/tos-maliva-v-f15faa-us/o0KpISaPlGXmq8ARAqLVCrOACCBgLCeoIfeMiI/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th.3kIOXq8Zmo&qs=13&rc=ajh4eW85cmZvdzUzNzhoM0Bpajh4eW85cmZvdzUzNzhoM0BqLm02MmRrXjVgLS1kLjZzYSNqLm02MmRrXjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338347359500000000000000000000ffff0a006d1921a330&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.272,
+            "end_offset": 2.544
+        },
+        "target_timerange": {
+            "start_offset": 1.272,
+            "end_offset": 2.544
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

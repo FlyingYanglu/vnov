@@ -1,0 +1,143 @@
+[
+    {
+        "text": "I went in without knocking, and hurried upstairs, in great fear lest I should meet the real Mary Ann, and be turned out of the house before I had found the fan and gloves.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "upstairs hallway",
+                "closed doors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "entering the house",
+                    "hurrying up the stairs"
+                ],
+                "gaze_and_direction": "looking ahead with a worried expression",
+                "expression": [
+                    "anxious",
+                    "fearful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "small handbag",
+                        "type": "worn over the shoulder"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind following the movement"
+            }
+        ]
+    },
+    {
+        "text": "“How queer it seems,” I said to myself, “to be going messages for a rabbit!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "upstairs hallway",
+                "closed doors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pausing on the stairs",
+                    "thinking to oneself"
+                ],
+                "gaze_and_direction": "looking at the viewer with a puzzled expression",
+                "expression": [
+                    "confused",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "small handbag",
+                        "type": "worn over the shoulder"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I suppose Dinah’ll be sending me on messages next!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden stairs",
+                "evening"
+            ],
+            "scene_features": [
+                "house",
+                "upstairs hallway",
+                "closed doors"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "continuing to think to oneself",
+                    "slightly shaking head"
+                ],
+                "gaze_and_direction": "looking at the viewer with a resigned expression",
+                "expression": [
+                    "resigned",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "small handbag",
+                        "type": "worn over the shoulder"
+                    }
+                },
+                "temporary_features": [
+                    "slightly out of breath"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

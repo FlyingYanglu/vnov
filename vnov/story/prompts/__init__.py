@@ -46,3 +46,8 @@ from .director import (
     DIRECTOR_PROMPT,
     BATCH_DIRECTOR_PROMPT
 )
+
+from .summarizer import (
+    SUMMARIZER_INSTRUCTION,
+    LAST_SUMMARIZER_PROMPT
+)

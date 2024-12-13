@@ -1,0 +1,147 @@
+[
+    {
+        "text": "This of course, I could _not_ stand, and I went round the court and got behind him, and very soon found an opportunity of taking it away.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floors",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "wooden benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "walking around the court",
+                    "approaching Bill from behind"
+                ],
+                "gaze_and_direction": "looking at Bill",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding car keys"
+                ],
+                "composition": "Main character on the right, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "I did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floors",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "wooden benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "adult",
+                "actions": [
+                    "looking confused",
+                    "searching around",
+                    "writing with one finger on a slate"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "confused",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "juror robe",
+                        "style": "traditional",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "slate",
+                        "type": "writing tool"
+                    }
+                },
+                "temporary_features": [
+                    "holding a slate with no marks"
+                ],
+                "composition": "Bill centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Herald, read the accusation!” said the King.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floors",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "wooden benches",
+                "royal throne"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting on the throne",
+                    "pointing at the Herald"
+                ],
+                "gaze_and_direction": "looking at the Herald",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "majestic"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "King centered, camera slightly high angle"
+            }
+        ]
+    }
+]

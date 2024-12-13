@@ -1,0 +1,362 @@
+[
+    {
+        "text": "“Will you walk a little faster?” said a whiting to a snail.",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "swimming forward",
+                    "looking back at the snail"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the left, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“There’s a porpoise close behind us, and he’s treading on my tail.",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "swimming forward",
+                    "looking back at the porpoise"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the left, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "See how eagerly the lobsters and the turtles all advance!",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Lobster",
+                "age": "adult",
+                "actions": [
+                    "swimming forward",
+                    "claw raised"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "hardened"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "They are waiting on the shingle—will you come and join the dance?",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Turtle",
+                "age": "adult",
+                "actions": [
+                    "waiting on the seabed",
+                    "looking up"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hopeful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell",
+                        "style": "natural",
+                        "condition": "hardened"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned on the right, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, will you join the dance?",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "swimming in circles",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, won’t you join the dance?",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "swimming in circles",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "pleading"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You can really have no notion how delightful it will be",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "swimming forward",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When they take us up and throw us, with the lobsters, out to sea!”",
+        "scene": {
+            "location_type": "underwater",
+            "environment_features": [
+                "clear water",
+                "sunlight filtering through",
+                "seabed"
+            ],
+            "scene_features": [
+                "coral reef",
+                "seaweed",
+                "various sea creatures"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Whiting",
+                "age": "adult",
+                "actions": [
+                    "swimming forward",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fish scales",
+                        "style": "natural",
+                        "condition": "shiny"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

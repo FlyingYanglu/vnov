@@ -1,0 +1,218 @@
+[
+    {
+        "text": "By the time I had caught the flamingo and brought it back, the fight was over, and both the hedgehogs were out of sight: “but it doesn’t matter much,”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open field"
+            ],
+            "scene_features": [
+                "flamingo",
+                "hedgehogs",
+                "arch",
+                "ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a flamingo under one arm",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a flamingo"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I thought, “as all the arches are gone from this side of the ground.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open field"
+            ],
+            "scene_features": [
+                "flamingo",
+                "hedgehogs",
+                "arch",
+                "ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "holding a flamingo under one arm",
+                    "looking down at the ground"
+                ],
+                "gaze_and_direction": "looking at the ground",
+                "expression": [
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a flamingo"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I tucked it away under my arm, that it might not escape again, and went back for a little more conversation with my friend.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open field"
+            ],
+            "scene_features": [
+                "flamingo",
+                "hedgehogs",
+                "arch",
+                "ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "tucking the flamingo securely under the arm",
+                    "walking towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding a flamingo"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "When I got back to the Cheshire Cat, I was surprised to find quite a large crowd collected round it: there was a dispute going on between the executioner and the King of Hearts.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunlight",
+                "open field"
+            ],
+            "scene_features": [
+                "Cheshire Cat",
+                "crowd",
+                "executioner",
+                "King of Hearts"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Cheshire Cat",
+                "age": "unknown",
+                "actions": [
+                    "floating in the air",
+                    "grinning widely"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "jacket": {
+                        "item": "none",
+                        "style": "none",
+                        "type": "none",
+                        "condition": "none",
+                        "sleeves": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "grinning widely"
+                ],
+                "composition": "Cheshire Cat centered, camera slightly overhead"
+            }
+        ]
+    }
+]

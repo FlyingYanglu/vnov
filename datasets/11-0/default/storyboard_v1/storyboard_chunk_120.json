@@ -1,0 +1,222 @@
+[
+    {
+        "text": "\"You might just as well say that ‘I see what I eat’ is the same thing as ‘I eat what I see’!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "wooden table",
+                "candles"
+            ],
+            "scene_features": [
+                "tea cups",
+                "pastries",
+                "teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"You might just as well say,\" added the March Hare, \"that ‘I like what I get’ is the same thing as ‘I get what I like’!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "wooden table",
+                "candles"
+            ],
+            "scene_features": [
+                "tea cups",
+                "pastries",
+                "teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "leaning forward",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "enthusiastic"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown waistcoat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "pocket watch"
+                    }
+                },
+                "composition": "March Hare positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"You might just as well say,\" added the Dormouse, who seemed to be talking in his sleep, \"that ‘I breathe when I sleep’ is the same thing as ‘I sleep when I breathe’!\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "wooden table",
+                "candles"
+            ],
+            "scene_features": [
+                "tea cups",
+                "pastries",
+                "teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "speaking softly",
+                    "eyes half-closed"
+                ],
+                "gaze_and_direction": "looking slightly off-camera",
+                "expression": [
+                    "sleepy",
+                    "dreamy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown coat",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "top hat"
+                    }
+                },
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "\"It is the same thing with you,\" said the Hatter, and here the conversation dropped.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "wooden table",
+                "candles"
+            ],
+            "scene_features": [
+                "tea cups",
+                "pastries",
+                "teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "adult",
+                "actions": [
+                    "pointing at the viewer",
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "slightly stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green jacket",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "top hat"
+                    }
+                },
+                "composition": "Hatter positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The party sat silent for a minute while I thought over all I could remember about ravens and writing-desks, which wasn’t much.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit tea party setting",
+                "wooden table",
+                "candles"
+            ],
+            "scene_features": [
+                "tea cups",
+                "pastries",
+                "teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "sitting silently",
+                    "looking down in thought"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "pensive",
+                    "slightly confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "apron"
+                    }
+                },
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

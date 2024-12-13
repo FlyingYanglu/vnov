@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "91f96598b2dc11ef8018506b4b2ab66e",
+        "text": "I shall never get to",
+        "audio_url": "https://v16m-default.akamaized.net/b12a3f9d033bb5f96dc71a14bcd200ec/6751adea/video/tos/maliva/tos-maliva-v-f15faa-us/ooCMAAFrEiVBU4YxgPSZZEB8Z1RTWii2AQQ55/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsGkIOXq8Zmo&qs=13&rc=ampseXA5cjVvdzUzNzhoM0BpampseXA5cjVvdzUzNzhoM0Bgai5wMmQ0ZzVgLS1kLjZzYSNgai5wMmQ0ZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338458382800000000000000000000ffff0a00ada9dad52e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1400000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1400000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "91f96746b2dc11ef8018506b4b2ab66e",
+        "text": "twenty at that rate!",
+        "audio_url": "https://v16m-default.akamaized.net/b12a3f9d033bb5f96dc71a14bcd200ec/6751adea/video/tos/maliva/tos-maliva-v-f15faa-us/ooCMAAFrEiVBU4YxgPSZZEB8Z1RTWii2AQQ55/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThsGkIOXq8Zmo&qs=13&rc=ampseXA5cjVvdzUzNzhoM0BpampseXA5cjVvdzUzNzhoM0Bgai5wMmQ0ZzVgLS1kLjZzYSNgai5wMmQ0ZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338458382800000000000000000000ffff0a00ada9dad52e&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.1400000000000001,
+            "end_offset": 2.2800000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.1400000000000001,
+            "end_offset": 2.2800000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

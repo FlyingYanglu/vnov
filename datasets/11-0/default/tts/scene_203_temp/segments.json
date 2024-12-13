@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "9d5a536ab2dd11efa5430c42a117b3e0",
+        "text": "The Mouse looked at me rather",
+        "audio_url": "https://v16m-default.akamaized.net/8500bfd0d9a9cf0dff0c8d4f49fef2be/6751afb1/video/tos/maliva/tos-maliva-v-f15faa-us/oQZRvCAE0EU1kBS3qPikbiBAEVW14SvQF7wzA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1PkIOXq8Zmo&qs=13&rc=ajd4Z2o5cmxvdzUzNzhoM0Bpajd4Z2o5cmxvdzUzNzhoM0BtNWJmMmRrajVgLS1kLjZzYSNtNWJmMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338503329800000000000000000000ffff0a00803a3278b7&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6319999999999997
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6319999999999997
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9d5a55f4b2dd11efa5430c42a117b3e0",
+        "text": "inquisitively, and seemed to me",
+        "audio_url": "https://v16m-default.akamaized.net/8500bfd0d9a9cf0dff0c8d4f49fef2be/6751afb1/video/tos/maliva/tos-maliva-v-f15faa-us/oQZRvCAE0EU1kBS3qPikbiBAEVW14SvQF7wzA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1PkIOXq8Zmo&qs=13&rc=ajd4Z2o5cmxvdzUzNzhoM0Bpajd4Z2o5cmxvdzUzNzhoM0BtNWJmMmRrajVgLS1kLjZzYSNtNWJmMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338503329800000000000000000000ffff0a00803a3278b7&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.6320000000000001,
+            "end_offset": 3.2640000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.6320000000000001,
+            "end_offset": 3.2640000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9d5a570cb2dd11efa5430c42a117b3e0",
+        "text": "to wink with one of its little",
+        "audio_url": "https://v16m-default.akamaized.net/8500bfd0d9a9cf0dff0c8d4f49fef2be/6751afb1/video/tos/maliva/tos-maliva-v-f15faa-us/oQZRvCAE0EU1kBS3qPikbiBAEVW14SvQF7wzA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1PkIOXq8Zmo&qs=13&rc=ajd4Z2o5cmxvdzUzNzhoM0Bpajd4Z2o5cmxvdzUzNzhoM0BtNWJmMmRrajVgLS1kLjZzYSNtNWJmMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338503329800000000000000000000ffff0a00803a3278b7&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.2640000000000002,
+            "end_offset": 4.896000000000001
+        },
+        "target_timerange": {
+            "start_offset": 3.2640000000000002,
+            "end_offset": 4.896000000000001
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9d5a584cb2dd11efa5430c42a117b3e0",
+        "text": "eyes, but it said nothing.",
+        "audio_url": "https://v16m-default.akamaized.net/8500bfd0d9a9cf0dff0c8d4f49fef2be/6751afb1/video/tos/maliva/tos-maliva-v-f15faa-us/oQZRvCAE0EU1kBS3qPikbiBAEVW14SvQF7wzA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1PkIOXq8Zmo&qs=13&rc=ajd4Z2o5cmxvdzUzNzhoM0Bpajd4Z2o5cmxvdzUzNzhoM0BtNWJmMmRrajVgLS1kLjZzYSNtNWJmMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338503329800000000000000000000ffff0a00803a3278b7&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.896000000000001,
+            "end_offset": 6.5280000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.896000000000001,
+            "end_offset": 6.5280000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Alice’s Right Foot, Esq., Hearthrug, near the Fender, (with Alice’s love).",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hearthrug",
+                "fender",
+                "fireplace"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice’s Right Foot, Esq.",
+                "age": "unknown",
+                "actions": [
+                    "resting on the hearthrug",
+                    "near the fender"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "content"
+                ],
+                "costume": {
+                    "footwear": {
+                        "item": "bare foot",
+                        "style": "natural",
+                        "condition": "clean"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Just then my head struck against the roof of the hall: in fact, I was now more than nine feet high, and I at once took up the little golden key and hurried off to the garden door.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hall",
+                "roof",
+                "garden door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "holding a little golden key",
+                    "hurrying towards the garden door"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "golden key",
+                        "type": "small"
+                    }
+                },
+                "temporary_features": [
+                    "height increased to over nine feet"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Oh dear, what nonsense I’m talking!” Poor me!",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "hall",
+                "roof",
+                "garden door"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young",
+                "actions": [
+                    "holding a little golden key",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "disappointed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dress",
+                        "style": "Victorian",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "golden key",
+                        "type": "small"
+                    }
+                },
+                "temporary_features": [
+                    "height increased to over nine feet"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "text": "“You make me giddy.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "playful",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Queen centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And then, turning to the rose-tree, she went on, “What _have_ you been doing here?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "turning towards the rose-tree",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the rose-tree",
+                "expression": [
+                    "curious",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Queen centered, camera slightly behind her, focusing on the rose-tree"
+            }
+        ]
+    },
+    {
+        "text": "“May it please your Majesty,” said Two, in a very humble tone, going down on one knee as he spoke, “we were trying—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Two",
+                "age": "middle-aged",
+                "actions": [
+                    "kneeling down",
+                    "speaking humbly"
+                ],
+                "gaze_and_direction": "looking up at the Queen",
+                "expression": [
+                    "submissive",
+                    "nervous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "plain",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "gardener's"
+                    }
+                },
+                "composition": "Two kneeling, camera low angle, focusing on his face and the Queen in the background"
+            }
+        ]
+    },
+    {
+        "text": "“_I_ see!” said the Queen, who had meanwhile been examining the roses.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "examining the roses",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the roses",
+                "expression": [
+                    "decisive",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Queen centered, camera slightly behind her, focusing on the roses"
+            }
+        ]
+    },
+    {
+        "text": "“Off with their heads!” and the procession moved on, three of the soldiers remaining behind to execute the unfortunate gardeners, who ran to me for protection.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "commanding",
+                    "moving away"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "authoritative",
+                    "cold"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "ornate"
+                    }
+                },
+                "composition": "Queen walking away, camera following her from behind, showing the soldiers and gardeners in the background"
+            }
+        ]
+    }
+]

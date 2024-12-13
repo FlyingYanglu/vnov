@@ -1,0 +1,297 @@
+[
+    {
+        "text": "“An arm, you goose! Who ever saw one that size? Why, it fills the whole window!” the Rabbit retorted angrily.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden interior",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "small room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "retorting angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Sure, it does, yer honour: but it’s an arm for all that.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden interior",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "small room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "responding calmly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "respectful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "grey trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "eyeglasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Well, it’s got no business there, at any rate: go and take it away!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden interior",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "small room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "commanding sternly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "stern",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "There was a long silence after this, and I could only hear whispers now and then; such as, “Sure, I don’t like it, yer honour, at all, at all!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden interior",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "small room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "whispering nervously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "uneasy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown vest",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "grey trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "eyeglasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Do as I tell you, you coward!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden interior",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "small room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "shouting forcefully"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "forceful",
+                    "intimidating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "and at last I spread out my hand again, and made another snatch in the air.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden interior",
+                "nighttime"
+            ],
+            "scene_features": [
+                "window",
+                "small room",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "spreading out hand",
+                    "making a snatch in the air"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "grey trousers",
+                        "style": "formal",
+                        "condition": "pressed"
+                    },
+                    "accessories": {
+                        "item": "eyeglasses",
+                        "type": "round"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    }
+]

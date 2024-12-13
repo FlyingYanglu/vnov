@@ -1,0 +1,137 @@
+[
+    {
+        "text": "when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded",
+                "courtroom"
+            ],
+            "scene_features": [
+                "large table with tarts",
+                "soldiers",
+                "White Rabbit",
+                "King"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Knave",
+                "age": "young adult",
+                "actions": [
+                    "standing in chains"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "chains",
+                        "type": "heavy metal"
+                    }
+                },
+                "temporary_features": [
+                    "surrounded by soldiers"
+                ],
+                "composition": "Knave centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded",
+                "courtroom"
+            ],
+            "scene_features": [
+                "large table with tarts",
+                "soldiers",
+                "White Rabbit",
+                "King"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding a trumpet in one hand",
+                    "holding a scroll in the other hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white suit",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "trumpet",
+                        "type": "brass"
+                    }
+                },
+                "temporary_features": [
+                    "standing near the King"
+                ],
+                "composition": "White Rabbit positioned to the side, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made me quite hungry to look at them—“I",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "crowded",
+                "courtroom"
+            ],
+            "scene_features": [
+                "large table with tarts",
+                "soldiers",
+                "White Rabbit",
+                "King"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking at the tarts"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "hungry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [
+                    "standing in the crowd"
+                ],
+                "composition": "Main character positioned to the side, camera frontal"
+            }
+        ]
+    }
+]

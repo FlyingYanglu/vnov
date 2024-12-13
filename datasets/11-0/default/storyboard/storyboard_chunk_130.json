@@ -1,0 +1,104 @@
+[
+    {
+        "text": "the thistle again; then the puppy began a series of short charges at the stick, running a very little way forwards each time and a long way back, and barking hoarsely all the while, till at last it sat down a good way off, panting, with its tongue hanging out of its mouth, and its great eyes half shut.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "grass"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick",
+                "puppy"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "running towards the stick",
+                    "running back",
+                    "barking hoarsely",
+                    "sitting down",
+                    "panting"
+                ],
+                "gaze_and_direction": "looking at the stick",
+                "expression": [
+                    "excited",
+                    "tired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "short",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "tongue hanging out",
+                    "eyes half shut"
+                ],
+                "composition": "Puppy centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "This seemed to me a good opportunity for making my escape; so I set off at once, and ran till I was quite tired and out of breath, and till the puppy’s",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "open field",
+                "grass"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick",
+                "puppy"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running away from the puppy"
+                ],
+                "gaze_and_direction": "looking back at the puppy",
+                "expression": [
+                    "determined",
+                    "tired"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "out of breath"
+                ],
+                "composition": "Main character centered, camera slightly behind"
+            }
+        ]
+    }
+]

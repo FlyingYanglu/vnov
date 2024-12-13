@@ -1,0 +1,189 @@
+[
+    {
+        "text": "and in a very short time the Queen was in a furious passion, and went stamping about, and shouting “Off with his head!” or “Off with her head!” about once in a minute.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "royal court",
+                "opulent decor",
+                "daytime"
+            ],
+            "scene_features": [
+                "thrones",
+                "tapestries",
+                "jewel-encrusted walls"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "stamping feet",
+                    "shouting"
+                ],
+                "gaze_and_direction": "looking around wildly",
+                "expression": [
+                    "furious",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "temporary_features": [
+                    "flushed face"
+                ],
+                "composition": "Queen positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I began to feel very uneasy: to be sure, I had not as yet had any dispute with the Queen, but I knew that it might happen any minute, “and then,” I thought, “what would become of me? They’re dreadfully fond of beheading people here; the great wonder is, that there’s any one left alive!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "royal court",
+                "opulent decor",
+                "daytime"
+            ],
+            "scene_features": [
+                "thrones",
+                "tapestries",
+                "jewel-encrusted walls"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking around nervously"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "uneasy",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "modest",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "biting lower lip"
+                ],
+                "composition": "Alice positioned slightly off-center, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I was looking about for some way of escape, and wondering whether I could get away without being seen, when I noticed a curious appearance in the air: it puzzled me very much at first, but, after watching it a minute or two, I made it out to be a grin, and I said to myself “It’s the Cheshire Cat: now I shall have somebody to talk to.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "royal court",
+                "opulent decor",
+                "daytime"
+            ],
+            "scene_features": [
+                "thrones",
+                "tapestries",
+                "jewel-encrusted walls"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking around",
+                    "watching the air"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "puzzled",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "modest",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "apron",
+                        "type": "plain"
+                    }
+                },
+                "temporary_features": [
+                    "squinting slightly"
+                ],
+                "composition": "Alice positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“How are you getting on?” said the Cat, as soon as there was mouth enough for it to speak with.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "royal court",
+                "opulent decor",
+                "daytime"
+            ],
+            "scene_features": [
+                "thrones",
+                "tapestries",
+                "jewel-encrusted walls"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Cheshire Cat",
+                "age": "ageless",
+                "actions": [
+                    "grinning",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "grinning",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "none",
+                        "style": "none",
+                        "condition": "none"
+                    },
+                    "accessories": {
+                        "item": "none",
+                        "type": "none"
+                    }
+                },
+                "temporary_features": [
+                    "floating in the air"
+                ],
+                "composition": "Cheshire Cat positioned slightly off-center, camera at eye level"
+            }
+        ]
+    }
+]

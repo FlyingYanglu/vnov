@@ -1,0 +1,160 @@
+[
+    {
+        "text": "So you see, Miss, we’re doing our best, afore she comes, to—”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "villa",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gardener",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing with hands",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "earnest",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "simple",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding gardening tools"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "At that moment, Five, who had been anxiously looking across the garden, called out, “The Queen! The Queen!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "villa",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "young adult",
+                "actions": [
+                    "looking across the garden",
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "anxious",
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "simple",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding gardening tools"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The three gardeners instantly threw themselves flat upon their faces.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "villa",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gardener",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing self flat on the ground"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "fearful",
+                    "submissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain shirt",
+                        "style": "worn",
+                        "condition": "slightly dirty"
+                    },
+                    "bottom": {
+                        "item": "overalls",
+                        "style": "simple",
+                        "condition": "stained"
+                    },
+                    "accessories": {
+                        "item": "gardening gloves",
+                        "type": "worn"
+                    }
+                },
+                "temporary_features": [
+                    "holding gardening tools"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "text": "I didn’t like the tone of her remark, so I decided to change the subject.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "displeased",
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "slight frown"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "While I was trying to think of something else to say, the cook took the cauldron of soup off the fire and began throwing everything within her reach at the Duchess and the baby.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "removing cauldron from fire",
+                    "reaching for objects"
+                ],
+                "gaze_and_direction": "looking at the Duchess and baby",
+                "expression": [
+                    "angry",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "casual",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [
+                    "holding a cauldron"
+                ],
+                "composition": "Cook positioned on the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "Fire-irons, saucepans, plates, and dishes flew everywhere.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "living room",
+                "fireplace",
+                "sofas",
+                "coffee table"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "throwing objects"
+                ],
+                "gaze_and_direction": "looking at the Duchess and baby",
+                "expression": [
+                    "angry",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white apron",
+                        "style": "worn",
+                        "condition": "stained"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "casual",
+                        "condition": "neat"
+                    }
+                },
+                "temporary_features": [
+                    "holding a saucepan"
+                ],
+                "composition": "Cook positioned on the left, camera slightly angled"
+            }
+        ]
+    }
+]

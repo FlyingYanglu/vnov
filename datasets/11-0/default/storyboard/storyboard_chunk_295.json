@@ -1,0 +1,183 @@
+[
+    {
+        "text": "This last remark made everyone look so grave and anxious.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "stone walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "sitting on the throne"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grave",
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I could think of nothing else to say but “It belongs to the Duchess: you’d better ask _her_ about it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "stone walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the Queen"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "thoughtful",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Character positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The Queen turned to the executioner and said, “She’s in prison,” and then ordered, “fetch her here.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "stone walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "turning to the executioner",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the executioner",
+                "expression": [
+                    "authoritative",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "jeweled"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The executioner nodded and went off like an arrow.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal court"
+            ],
+            "scene_features": [
+                "throne",
+                "tapestries",
+                "stone walls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Executioner",
+                "age": "middle-aged",
+                "actions": [
+                    "nodding",
+                    "running off"
+                ],
+                "gaze_and_direction": "looking forward",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark hooded robe",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "executioner's axe",
+                        "type": "large"
+                    }
+                },
+                "composition": "Character positioned at the edge of the frame, camera at eye level"
+            }
+        ]
+    }
+]

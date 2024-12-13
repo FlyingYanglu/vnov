@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "cca8533cb2d911efaf4eb8cef659fbf0",
+        "text": "\"I wonder how many miles",
+        "audio_url": "https://v16m-default.akamaized.net/488356efef289932a16b89244f5021ee/6751a945/video/tos/maliva/tos-maliva-v-f15faa-us/oooVwUEB5AM8MRJOhfTjVTQEDfLXFBARlBAnVE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThFOkIOXq8Zmo&qs=13&rc=M2s5OnI5cnJvdzUzNzhoM0BpM2s5OnI5cnJvdzUzNzhoM0BoXnMwMmRzNjVgLS1kLjZzYSNoXnMwMmRzNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338339448000000000000000000000ffff0a00bba1ac2ca4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.416
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.416
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "cca854b8b2d911efaf4eb8cef659fbf0",
+        "text": "I’ve fallen by this time?\"",
+        "audio_url": "https://v16m-default.akamaized.net/488356efef289932a16b89244f5021ee/6751a945/video/tos/maliva/tos-maliva-v-f15faa-us/oooVwUEB5AM8MRJOhfTjVTQEDfLXFBARlBAnVE/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThFOkIOXq8Zmo&qs=13&rc=M2s5OnI5cnJvdzUzNzhoM0BpM2s5OnI5cnJvdzUzNzhoM0BoXnMwMmRzNjVgLS1kLjZzYSNoXnMwMmRzNjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338339448000000000000000000000ffff0a00bba1ac2ca4&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.416,
+            "end_offset": 2.832
+        },
+        "target_timerange": {
+            "start_offset": 1.416,
+            "end_offset": 2.832
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

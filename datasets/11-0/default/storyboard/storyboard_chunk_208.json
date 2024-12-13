@@ -1,0 +1,188 @@
+[
+    {
+        "text": "It was so large a house, that I did not like to go nearer till I had nibbled some more of the lefthand bit of mushroom, and raised myself to about two feet high.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "trees",
+                "mushrooms"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "nibbling on a mushroom",
+                    "raising self to about two feet high"
+                ],
+                "gaze_and_direction": "looking at the house",
+                "expression": [
+                    "hesitant",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Even then, I walked up towards it rather timidly, saying to myself, “Suppose it should be raving mad after all!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "walking towards the house",
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the house",
+                "expression": [
+                    "timid",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I almost wish I’d gone to see the Hatter instead!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "trees"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "speaking to self",
+                    "looking away from the house"
+                ],
+                "gaze_and_direction": "looking away from the house",
+                "expression": [
+                    "regretful",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I approached the house and saw a table set out under a tree.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "large house",
+                "garden",
+                "trees",
+                "table under a tree"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young",
+                "actions": [
+                    "approaching the house",
+                    "looking at the table under the tree"
+                ],
+                "gaze_and_direction": "looking at the table",
+                "expression": [
+                    "curious",
+                    "surprised"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

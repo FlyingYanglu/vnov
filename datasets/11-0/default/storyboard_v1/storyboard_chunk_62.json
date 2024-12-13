@@ -1,0 +1,404 @@
+[
+    {
+        "text": "and the moment I appeared on the other side, the puppy made another rush at the stick, and tumbled head over heels in its hurry to get hold of it;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "rushing towards the stick",
+                    "tumbling head over heels"
+                ],
+                "gaze_and_direction": "focused on the stick",
+                "expression": [
+                    "eager",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "short and fluffy",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "tongue slightly out"
+                ],
+                "composition": "Puppy centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "then I, thinking it was very like having a game of play with a cart-horse, and expecting every moment to be trampled under its feet, ran round the thistle again;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running around the thistle"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "nervous",
+                    "apprehensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "holding breath"
+                ],
+                "composition": "Main character on the right, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "then the puppy began a series of short charges at the stick, running a very little way forwards each time and a long way back, and barking hoarsely all the while, till at last it sat down a good way off, panting, with its tongue hanging out of its mouth, and its great eyes half shut.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Puppy",
+                "age": "young",
+                "actions": [
+                    "charging at the stick",
+                    "running back",
+                    "barking hoarsely",
+                    "sitting down",
+                    "panting"
+                ],
+                "gaze_and_direction": "looking at the stick",
+                "expression": [
+                    "exhausted",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "short and fluffy",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "tongue hanging out",
+                    "eyes half shut"
+                ],
+                "composition": "Puppy centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "This seemed to me a good opportunity for making my escape;",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around cautiously"
+                ],
+                "gaze_and_direction": "looking at the puppy",
+                "expression": [
+                    "thoughtful",
+                    "cautious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "holding breath"
+                ],
+                "composition": "Main character on the left, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "so I set off at once, and ran till I was quite tired and out of breath, and till the puppy’s bark sounded quite faint in the distance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "running away",
+                    "looking back"
+                ],
+                "gaze_and_direction": "looking back at the puppy",
+                "expression": [
+                    "tired",
+                    "relieved"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "out of breath"
+                ],
+                "composition": "Main character on the left, camera slightly behind"
+            }
+        ]
+    },
+    {
+        "text": "“And yet what a dear little puppy it was!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning against a buttercup",
+                    "fanning self with a leaf"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smiling",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "resting"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I said, as I leant against a buttercup to rest myself, and fanned myself with one of the leaves.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground",
+                "buttercup"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning against a buttercup",
+                    "fanning self with a leaf"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "relaxed",
+                    "content"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "resting"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I should have liked teaching it tricks very much, if—if I’d only been the right size to do it!",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunny day",
+                "grassy field",
+                "near a thistle"
+            ],
+            "scene_features": [
+                "thistle",
+                "stick on the ground",
+                "buttercup"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "leaning against a buttercup",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "wistful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "t-shirt",
+                        "condition": "worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "sneakers",
+                        "type": "sporty"
+                    }
+                },
+                "temporary_features": [
+                    "resting"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

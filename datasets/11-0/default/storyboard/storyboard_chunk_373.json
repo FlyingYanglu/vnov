@@ -1,0 +1,162 @@
+[
+    {
+        "text": "“wish they’d get the trial done,” I thought, “and hand round the refreshments!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury box",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking down, deep in thought",
+                "expression": [
+                    "impatient",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "But there seemed to be no chance of this, so I began looking at everything about me, to pass away the time.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury box",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around the courtroom"
+                ],
+                "gaze_and_direction": "scanning the room",
+                "expression": [
+                    "bored",
+                    "disinterested"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I had never been in a court of justice before, but I had read about them in books, and I was quite pleased to find that I knew the name of nearly everything there.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "courtroom"
+            ],
+            "scene_features": [
+                "judge's bench",
+                "jury box",
+                "witness stand"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking around with recognition"
+                ],
+                "gaze_and_direction": "scanning the room",
+                "expression": [
+                    "pleased",
+                    "satisfied"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character seated, camera slightly overhead"
+            }
+        ]
+    }
+]

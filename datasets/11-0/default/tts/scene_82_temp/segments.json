@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "19f05b66b2db11efa395b8cef635af1a",
+        "text": "But, alas for poor Alice!",
+        "audio_url": "https://v16m-default.akamaized.net/1538acad90a0dd526babbd1cdb1738d4/6751ab72/video/tos/maliva/tos-maliva-v-f15faa-us/owVKzgE2uABpoSFIEGBwASERbkixqqWilAO8fA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th-8kIOXq8Zmo&qs=13&rc=anBkNHA5cjdvdzUzNzhoM0BpanBkNHA5cjdvdzUzNzhoM0BhZi9yMmRjYjVgLS1kLjZzYSNhZi9yMmRjYjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338395262200000000000000000000ffff0a0090c15da753&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

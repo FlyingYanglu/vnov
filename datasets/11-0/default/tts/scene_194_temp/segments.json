@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "6d73352cb2dd11efb90d0c42a1a7d90a",
+        "text": "That _will_ be a queer",
+        "audio_url": "https://v16m-default.akamaized.net/bf6c53b6cb9be8f00187c47e55b6547a/6751af5b/video/tos/maliva/tos-maliva-v-f15faa-us/oAJSgoBeEiF1EiAqZAikAWwAgzKMPqoRz5vBo9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6NkIOXq8Zmo&qs=13&rc=anc0eG05cnhvdzUzNzhoM0Bpanc0eG05cnhvdzUzNzhoM0BgMmExMmQ0aTVgLS1kLjZzYSNgMmExMmQ0aTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338495206000000000000000000000ffff0a00a73292e6ab&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1280000000000001
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.1280000000000001
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "6d73378eb2dd11efb90d0c42a1a7d90a",
+        "text": "thing, to be sure!",
+        "audio_url": "https://v16m-default.akamaized.net/bf6c53b6cb9be8f00187c47e55b6547a/6751af5b/video/tos/maliva/tos-maliva-v-f15faa-us/oAJSgoBeEiF1EiAqZAikAWwAgzKMPqoRz5vBo9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6NkIOXq8Zmo&qs=13&rc=anc0eG05cnhvdzUzNzhoM0Bpanc0eG05cnhvdzUzNzhoM0BgMmExMmQ0aTVgLS1kLjZzYSNgMmExMmQ0aTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338495206000000000000000000000ffff0a00a73292e6ab&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.1280000000000001,
+            "end_offset": 2.2560000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.1280000000000001,
+            "end_offset": 2.2560000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

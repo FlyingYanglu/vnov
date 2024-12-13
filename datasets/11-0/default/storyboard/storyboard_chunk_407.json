@@ -1,0 +1,149 @@
+[
+    {
+        "text": "The King persisted. \"Nothing whatever,\" I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne room",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            },
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "responding to the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "resigned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "composition": "I positioned to the side, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The King turned to the jury and said, \"That’s very important.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne room",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "turning to the jury",
+                    "speaking to the jury"
+                ],
+                "gaze_and_direction": "looking at the jury",
+                "expression": [
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "They were just beginning to write this down on their slates when the White Rabbit interrupted, \"Unimportant, your Majesty means, of course,\" he said in a very respectful tone, but frowning and making faces at him as he spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden panels",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne room",
+                "courtroom"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "interrupting the King",
+                    "speaking to the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "respectful but frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white suit",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "white gloves",
+                        "type": "formal"
+                    }
+                },
+                "composition": "White Rabbit positioned to the side, camera frontal"
+            }
+        ]
+    }
+]

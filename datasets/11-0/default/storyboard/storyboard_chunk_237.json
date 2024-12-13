@@ -1,0 +1,205 @@
+[
+    {
+        "text": "“Then the Dormouse shall!” they both cried.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "looking at the Dormouse",
+                    "pointing towards the Dormouse"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "“Wake up, Dormouse!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mad Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing towards the Dormouse",
+                    "waving hand"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "And they pinched it on both sides at once.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Alice",
+                "age": "young adult",
+                "actions": [
+                    "pinching the Dormouse on one side"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "Victorian",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "white apron",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the left, camera slightly angled"
+            },
+            {
+                "name": "Mad Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pinching the Dormouse on the other side"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered suit",
+                        "style": "Victorian",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned to the right, camera slightly angled"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse slowly opened his eyes.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "cozy atmosphere"
+            ],
+            "scene_features": [
+                "tea party setting",
+                "table",
+                "chairs"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "young",
+                "actions": [
+                    "opening eyes slowly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "sleepy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "brown fur",
+                        "style": "natural",
+                        "condition": "soft and fluffy"
+                    },
+                    "accessories": {
+                        "item": "small spectacles",
+                        "type": "decorative"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

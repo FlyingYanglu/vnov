@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "9c367ce4b2dc11ef8d5a98039b74ac70",
+        "text": "London is the capital of",
+        "audio_url": "https://v16m-default.akamaized.net/d9553b65607279a5f01a36051c9c6077/6751ae03/video/tos/maliva/tos-maliva-v-f15faa-us/ooAEQEeAVmvEnLWfRA2UBVZooJSDhBFbJ8vBhX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqGkIOXq8Zmo&qs=13&rc=Mzx3ZHg5cjlvdzUzNzhoM0BpMzx3ZHg5cjlvdzUzNzhoM0BvYjJyMmRzZzVgLS1kLjZzYSNvYjJyMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338460119500000000000000000000ffff0a0081c911a22a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4880000000000004
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4880000000000004
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9c368004b2dc11ef8d5a98039b74ac70",
+        "text": "Paris, and Paris is the",
+        "audio_url": "https://v16m-default.akamaized.net/d9553b65607279a5f01a36051c9c6077/6751ae03/video/tos/maliva/tos-maliva-v-f15faa-us/ooAEQEeAVmvEnLWfRA2UBVZooJSDhBFbJ8vBhX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqGkIOXq8Zmo&qs=13&rc=Mzx3ZHg5cjlvdzUzNzhoM0BpMzx3ZHg5cjlvdzUzNzhoM0BvYjJyMmRzZzVgLS1kLjZzYSNvYjJyMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338460119500000000000000000000ffff0a0081c911a22a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.488,
+            "end_offset": 2.976
+        },
+        "target_timerange": {
+            "start_offset": 1.488,
+            "end_offset": 2.976
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9c368202b2dc11ef8d5a98039b74ac70",
+        "text": "capital of Rome, and",
+        "audio_url": "https://v16m-default.akamaized.net/d9553b65607279a5f01a36051c9c6077/6751ae03/video/tos/maliva/tos-maliva-v-f15faa-us/ooAEQEeAVmvEnLWfRA2UBVZooJSDhBFbJ8vBhX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqGkIOXq8Zmo&qs=13&rc=Mzx3ZHg5cjlvdzUzNzhoM0BpMzx3ZHg5cjlvdzUzNzhoM0BvYjJyMmRzZzVgLS1kLjZzYSNvYjJyMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338460119500000000000000000000ffff0a0081c911a22a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.976,
+            "end_offset": 4.464
+        },
+        "target_timerange": {
+            "start_offset": 2.976,
+            "end_offset": 4.464
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9c3683c4b2dc11ef8d5a98039b74ac70",
+        "text": "Rome—no, _that’s_ all",
+        "audio_url": "https://v16m-default.akamaized.net/d9553b65607279a5f01a36051c9c6077/6751ae03/video/tos/maliva/tos-maliva-v-f15faa-us/ooAEQEeAVmvEnLWfRA2UBVZooJSDhBFbJ8vBhX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqGkIOXq8Zmo&qs=13&rc=Mzx3ZHg5cjlvdzUzNzhoM0BpMzx3ZHg5cjlvdzUzNzhoM0BvYjJyMmRzZzVgLS1kLjZzYSNvYjJyMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338460119500000000000000000000ffff0a0081c911a22a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.464,
+            "end_offset": 5.952
+        },
+        "target_timerange": {
+            "start_offset": 4.464,
+            "end_offset": 5.952
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "9c368568b2dc11ef8d5a98039b74ac70",
+        "text": "wrong, I’m certain!",
+        "audio_url": "https://v16m-default.akamaized.net/d9553b65607279a5f01a36051c9c6077/6751ae03/video/tos/maliva/tos-maliva-v-f15faa-us/ooAEQEeAVmvEnLWfRA2UBVZooJSDhBFbJ8vBhX/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThqGkIOXq8Zmo&qs=13&rc=Mzx3ZHg5cjlvdzUzNzhoM0BpMzx3ZHg5cjlvdzUzNzhoM0BvYjJyMmRzZzVgLS1kLjZzYSNvYjJyMmRzZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338460119500000000000000000000ffff0a0081c911a22a&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.952,
+            "end_offset": 7.44
+        },
+        "target_timerange": {
+            "start_offset": 5.952,
+            "end_offset": 7.44
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

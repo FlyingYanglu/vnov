@@ -1,0 +1,137 @@
+[
+    {
+        "text": "“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "inkstands",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "throwing an inkstand",
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the Lizard",
+                "expression": [
+                    "furious",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Queen centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "(The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "inkstands",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Bill",
+                "age": "young",
+                "actions": [
+                    "writing on slate",
+                    "wiping ink from face"
+                ],
+                "gaze_and_direction": "looking at the slate",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "slightly stained"
+                    },
+                    "accessories": {
+                        "item": "slate",
+                        "type": "writing tool"
+                    }
+                },
+                "temporary_features": [
+                    "ink on face"
+                ],
+                "composition": "Bill centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Then the words don’t _fit_ you,” said the King, looking round the court with a smile.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large table",
+                "inkstands",
+                "slates"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "speaking",
+                    "looking around the court"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smiling",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elegant",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "King centered, camera slightly low angle"
+            }
+        ]
+    }
+]

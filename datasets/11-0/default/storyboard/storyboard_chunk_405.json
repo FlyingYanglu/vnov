@@ -1,0 +1,140 @@
+[
+    {
+        "text": "The poor thing was waving its tail about in a melancholy way, unable to move.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden floor",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Animal",
+                "age": "young",
+                "actions": [
+                    "waving tail",
+                    "struggling to move"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "soft",
+                        "condition": "slightly matted"
+                    },
+                    "accessories": {
+                        "item": "collar",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "tail limp"
+                ],
+                "composition": "Animal positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "I soon got it out again and put it right, though I thought to myself, \"Not that it signifies much; I should think it would be _quite_ as much use in the trial one way up as the other.\"",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "soft shadows"
+            ],
+            "scene_features": [
+                "small room",
+                "wooden floor",
+                "curtains drawn"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "picking up the animal",
+                    "adjusting its position"
+                ],
+                "gaze_and_direction": "looking at the animal",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "holding the animal gently"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Once the jurymen had recovered from the shock and their slates and pencils were found and handed back to them, they set to work very diligently to",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "bright lighting",
+                "daytime",
+                "courtroom setting"
+            ],
+            "scene_features": [
+                "large room",
+                "wooden benches",
+                "podium"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Juror",
+                "age": "middle-aged",
+                "actions": [
+                    "recovering from shock",
+                    "receiving slate and pencil"
+                ],
+                "gaze_and_direction": "looking at the slate",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "suit",
+                        "style": "formal",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "striped"
+                    }
+                },
+                "temporary_features": [
+                    "holding slate and pencil"
+                ],
+                "composition": "Juror positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

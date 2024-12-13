@@ -1,0 +1,122 @@
+[
+    {
+        "summary": "In this segment, Alice finds herself in a courtroom where the King and Queen of Hearts preside over the trial of the Knave of Hearts, accused of stealing tarts. The courtroom is filled with various creatures, including the White Rabbit, the Hatter, the March Hare, and the Dormouse. The trial is chaotic, with jurors writing down their names on slates, the Hatter providing confusing testimony, and the Queen demanding the execution of anyone who displeases her. Alice, feeling herself grow larger, becomes increasingly frustrated with the absurdity of the proceedings. The trial is interrupted by the Queen's outbursts and the disappearance of the cook, who was the next witness. The segment ends with the White Rabbit calling Alice as the next witness, setting up the next phase of the trial.",
+        "characters": {
+            "Alice": {
+                "traits": [
+                    "curious",
+                    "frustrated",
+                    "growing"
+                ],
+                "actions": [
+                    "observes the trial",
+                    "feels herself grow larger",
+                    "becomes frustrated with the proceedings"
+                ],
+                "relationships": []
+            },
+            "King of Hearts": {
+                "traits": [
+                    "authoritative",
+                    "confused"
+                ],
+                "actions": [
+                    "presides over the trial",
+                    "asks questions to the Hatter",
+                    "orders executions"
+                ],
+                "relationships": [
+                    "Queen of Hearts"
+                ]
+            },
+            "Queen of Hearts": {
+                "traits": [
+                    "ruthless",
+                    "impatient"
+                ],
+                "actions": [
+                    "demands executions",
+                    "stares at the Hatter",
+                    "orders the Dormouse to be beheaded"
+                ],
+                "relationships": [
+                    "King of Hearts"
+                ]
+            },
+            "White Rabbit": {
+                "traits": [
+                    "flustered",
+                    "obedient"
+                ],
+                "actions": [
+                    "blows trumpet",
+                    "reads accusations",
+                    "calls witnesses"
+                ],
+                "relationships": []
+            },
+            "Hatter": {
+                "traits": [
+                    "nervous",
+                    "confused"
+                ],
+                "actions": [
+                    "provides confusing testimony",
+                    "bites teacup instead of bread-and-butter",
+                    "leaves court hurriedly"
+                ],
+                "relationships": [
+                    "March Hare",
+                    "Dormouse"
+                ]
+            },
+            "March Hare": {
+                "traits": [
+                    "defensive",
+                    "sleepy"
+                ],
+                "actions": [
+                    "disputes Hatter's testimony",
+                    "sleeps during trial"
+                ],
+                "relationships": [
+                    "Hatter",
+                    "Dormouse"
+                ]
+            },
+            "Dormouse": {
+                "traits": [
+                    "sleepy",
+                    "passive"
+                ],
+                "actions": [
+                    "sleeps during trial",
+                    "denies nothing"
+                ],
+                "relationships": [
+                    "Hatter",
+                    "March Hare"
+                ]
+            },
+            "Cook": {
+                "traits": [
+                    "rebellious",
+                    "mysterious"
+                ],
+                "actions": [
+                    "refuses to give evidence",
+                    "disappears during trial"
+                ],
+                "relationships": []
+            }
+        },
+        "key_events": [
+            "The King and Queen of Hearts preside over the trial of the Knave of Hearts.",
+            "The Hatter provides confusing testimony about his tea and bread-and-butter.",
+            "The Queen demands the execution of the Dormouse and the Hatter.",
+            "Alice feels herself grow larger and becomes frustrated with the trial.",
+            "The cook disappears after refusing to give evidence.",
+            "The White Rabbit calls Alice as the next witness."
+        ]
+    }
+]

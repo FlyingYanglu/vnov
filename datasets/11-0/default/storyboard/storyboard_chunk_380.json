@@ -1,0 +1,184 @@
+[
+    {
+        "text": "On this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment scroll, and read as follows:—",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "tapestries on walls"
+            ],
+            "scene_features": [
+                "throne room",
+                "royal court"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "blowing trumpet",
+                    "unrolling parchment scroll"
+                ],
+                "gaze_and_direction": "looking at the parchment",
+                "expression": [
+                    "focused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding trumpet",
+                    "holding parchment scroll"
+                ],
+                "composition": "Character positioned to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "tapestries on walls"
+            ],
+            "scene_features": [
+                "throne room",
+                "royal court"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "reading from parchment scroll"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "narrative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding parchment scroll"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Consider your verdict,” the King said to the jury.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "tapestries on walls"
+            ],
+            "scene_features": [
+                "throne room",
+                "royal court"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the jury"
+                ],
+                "gaze_and_direction": "looking at the jury",
+                "expression": [
+                    "authoritative",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "sitting on throne"
+                ],
+                "composition": "Character positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Not yet, not yet!” the Rabbit hastily interrupted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "tapestries on walls"
+            ],
+            "scene_features": [
+                "throne room",
+                "royal court"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "interrupting the King"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "anxious",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding parchment scroll"
+                ],
+                "composition": "Character positioned to the right, camera at eye level"
+            }
+        ]
+    }
+]

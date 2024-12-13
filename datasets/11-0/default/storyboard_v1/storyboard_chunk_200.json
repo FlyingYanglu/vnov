@@ -1,0 +1,227 @@
+[
+    {
+        "text": "“That generally takes some time,” interrupted the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "interrupting the Mock Turtle"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The Mock Turtle, undeterred, continued, “—you advance twice—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "elderly",
+                "actions": [
+                    "continuing the explanation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "beaded",
+                        "condition": "faded"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Each with a lobster as a partner!” shouted the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "shouting excitedly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned on the right, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Of course,” the Mock Turtle said: “advance twice, set to partners—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mock Turtle",
+                "age": "elderly",
+                "actions": [
+                    "continuing the explanation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "reassuring"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shell-like armor",
+                        "style": "ancient",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "necklace",
+                        "type": "beaded",
+                        "condition": "faded"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Mock Turtle centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“—change lobsters, and retire in same order,” continued the Gryphon.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains"
+            ],
+            "scene_features": [
+                "large hall",
+                "decorative pillars",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Gryphon",
+                "age": "mature",
+                "actions": [
+                    "continuing the explanation"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "serious",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered cloak",
+                        "style": "flowing",
+                        "condition": "slightly tattered"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "simple",
+                        "condition": "worn"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Gryphon positioned on the left, camera slightly low angle"
+            }
+        ]
+    }
+]

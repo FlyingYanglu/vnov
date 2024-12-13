@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "b98ccc02b2dd11efb90d0c42a1a7d90a",
+        "text": "“Oh, I beg your pardon!”",
+        "audio_url": "https://v16m-default.akamaized.net/a88852090d1d19b5e28963961aeabe79/6751afda/video/tos/maliva/tos-maliva-v-f15faa-us/oYsR8U2iAaqzAEkEsAizFWBBoVkoAg93fKqwo9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th6PkIOXq8Zmo&qs=13&rc=amZoOXc5cnhvdzUzNzhoM0BpamZoOXc5cnhvdzUzNzhoM0BeZWpeMmRjajVgLS1kLjZzYSNeZWpeMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338507701200000000000000000000ffff0a006be8500a80&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.8
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b98cde0eb2dd11efb90d0c42a1a7d90a",
+        "text": "I cried hastily, afraid",
+        "audio_url": "https://v16m-default.akamaized.net/edd133e322fd119c7e143d56837162fb/6751afdf/video/tos/maliva/tos-maliva-v-f15faa-us/o8dR8IoqfFEkj2B3ABqzQ3AOWigkiwAyuKAEW4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCPkIOXq8Zmo&qs=13&rc=MztxN3I5cnhvdzUzNzhoM0BpMztxN3I5cnhvdzUzNzhoM0A0MTBrMmRjajVgLS1kLjZzYSM0MTBrMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338507701200000000000000000000ffff0a006be8500a80&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.384
+        },
+        "target_timerange": {
+            "start_offset": 1.8,
+            "end_offset": 3.1839999999999997
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b98cdf62b2dd11efb90d0c42a1a7d90a",
+        "text": "that I had hurt the poor",
+        "audio_url": "https://v16m-default.akamaized.net/edd133e322fd119c7e143d56837162fb/6751afdf/video/tos/maliva/tos-maliva-v-f15faa-us/o8dR8IoqfFEkj2B3ABqzQ3AOWigkiwAyuKAEW4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCPkIOXq8Zmo&qs=13&rc=MztxN3I5cnhvdzUzNzhoM0BpMztxN3I5cnhvdzUzNzhoM0A0MTBrMmRjajVgLS1kLjZzYSM0MTBrMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338507701200000000000000000000ffff0a006be8500a80&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.3840000000000001,
+            "end_offset": 2.768
+        },
+        "target_timerange": {
+            "start_offset": 3.184,
+            "end_offset": 4.568
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "b98ce052b2dd11efb90d0c42a1a7d90a",
+        "text": "animal’s feelings.",
+        "audio_url": "https://v16m-default.akamaized.net/edd133e322fd119c7e143d56837162fb/6751afdf/video/tos/maliva/tos-maliva-v-f15faa-us/o8dR8IoqfFEkj2B3ABqzQ3AOWigkiwAyuKAEW4/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThCPkIOXq8Zmo&qs=13&rc=MztxN3I5cnhvdzUzNzhoM0BpMztxN3I5cnhvdzUzNzhoM0A0MTBrMmRjajVgLS1kLjZzYSM0MTBrMmRjajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338507701200000000000000000000ffff0a006be8500a80&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.7680000000000007,
+            "end_offset": 4.152
+        },
+        "target_timerange": {
+            "start_offset": 4.5680000000000005,
+            "end_offset": 5.952
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

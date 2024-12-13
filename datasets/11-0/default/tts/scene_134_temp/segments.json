@@ -1,0 +1,62 @@
+[
+    {
+        "segment_id": "2e9ebf16b2dc11efa6d498039b74ac70",
+        "text": "He came trotting along in",
+        "audio_url": "https://v16m-default.akamaized.net/7d6339a4c22d8e7579127cf629a190af/6751ad46/video/tos/maliva/tos-maliva-v-f15faa-us/oQCwEiQkR1Ub4WBQYSIZR5VAAH2FB4R0AEivO/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm_kIOXq8Zmo&qs=13&rc=am5nbmo5cnJvdzUzNzhoM0Bpam5nbmo5cnJvdzUzNzhoM0A1MDBwMmRrZTVgLS1kLjZzYSM1MDBwMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338441723600000000000000000000ffff0a007021f130b2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2e9ec146b2dc11efa6d498039b74ac70",
+        "text": "a great hurry, muttering",
+        "audio_url": "https://v16m-default.akamaized.net/7d6339a4c22d8e7579127cf629a190af/6751ad46/video/tos/maliva/tos-maliva-v-f15faa-us/oQCwEiQkR1Ub4WBQYSIZR5VAAH2FB4R0AEivO/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm_kIOXq8Zmo&qs=13&rc=am5nbmo5cnJvdzUzNzhoM0Bpam5nbmo5cnJvdzUzNzhoM0A1MDBwMmRrZTVgLS1kLjZzYSM1MDBwMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338441723600000000000000000000ffff0a007021f130b2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4000000000000001,
+            "end_offset": 2.8
+        },
+        "target_timerange": {
+            "start_offset": 1.4000000000000001,
+            "end_offset": 2.8
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2e9ec2ccb2dc11efa6d498039b74ac70",
+        "text": "to himself, “Oh!",
+        "audio_url": "https://v16m-default.akamaized.net/7d6339a4c22d8e7579127cf629a190af/6751ad46/video/tos/maliva/tos-maliva-v-f15faa-us/oQCwEiQkR1Ub4WBQYSIZR5VAAH2FB4R0AEivO/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm_kIOXq8Zmo&qs=13&rc=am5nbmo5cnJvdzUzNzhoM0Bpam5nbmo5cnJvdzUzNzhoM0A1MDBwMmRrZTVgLS1kLjZzYSM1MDBwMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338441723600000000000000000000ffff0a007021f130b2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.8000000000000003,
+            "end_offset": 4.2
+        },
+        "target_timerange": {
+            "start_offset": 2.8000000000000003,
+            "end_offset": 4.2
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "2e9eca10b2dc11efa6d498039b74ac70",
+        "text": "the Duchess, the Duchess!",
+        "audio_url": "https://v16m-default.akamaized.net/94176da3b62d8aed285e2d0f603e6b14/6751ad43/video/tos/maliva/tos-maliva-v-f15faa-us/oERVEU414A3QkYAi1WgZYSCpAOABBFiwvAELM/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thm_kIOXq8Zmo&qs=13&rc=MzN4Z2o5cnJvdzUzNzhoM0BpMzN4Z2o5cnJvdzUzNzhoM0BgLWJmMmRrZTVgLS1kLjZzYSNgLWJmMmRrZTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338441723600000000000000000000ffff0a007021f130b2&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.848
+        },
+        "target_timerange": {
+            "start_offset": 4.2,
+            "end_offset": 6.048
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "text": "“Give your evidence,” the King said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the cook"
+                ],
+                "gaze_and_direction": "looking at the cook",
+                "expression": [
+                    "commanding"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Shan’t,” the cook replied.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cook",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking defiantly"
+                ],
+                "gaze_and_direction": "looking at the King",
+                "expression": [
+                    "defiant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "apron",
+                        "style": "worn",
+                        "condition": "dirty"
+                    },
+                    "accessories": {
+                        "item": "chef's hat",
+                        "type": "white"
+                    }
+                },
+                "composition": "Cook positioned slightly off-center, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The King looked anxiously at the White Rabbit, who said in a low voice, “Your Majesty must cross-examine _this_ witness.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "looking anxiously at the White Rabbit"
+                ],
+                "gaze_and_direction": "looking at the White Rabbit",
+                "expression": [
+                    "anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Well, if I must, I must,” the King said, with a melancholy air.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a melancholy air"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "melancholy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "He folded his arms and frowned at the cook till his eyes were nearly out of sight.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "royal court",
+                "evening"
+            ],
+            "scene_features": [
+                "throne",
+                "courtroom",
+                "tapestries"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "folding arms",
+                    "frowning at the cook"
+                ],
+                "gaze_and_direction": "looking at the cook",
+                "expression": [
+                    "frowning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden"
+                    }
+                },
+                "composition": "King positioned centrally, camera slightly low angle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "text": "“It isn’t directed at all,” said the White Rabbit;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "paper on a table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "holding a piece of paper",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "White Rabbit centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“in fact, there’s nothing written on the _outside_.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "paper on a table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "examining the paper closely"
+                ],
+                "gaze_and_direction": "looking at the paper",
+                "expression": [
+                    "puzzled",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "White Rabbit centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "He unfolded the paper as he spoke, and added “It isn’t a letter, after all: it’s a set of verses.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "paper on a table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "unfolding the paper",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "surprised",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "White Rabbit centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Are they in the prisoner’s handwriting?” asked another of the jurymen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "paper on a table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Juryman",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "black suit",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "spectacles",
+                        "type": "gold-rimmed"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Juryman centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“No, they’re not,” said the White Rabbit, “and that’s the queerest thing about it.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden furniture",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "jury box",
+                "paper on a table"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "White Rabbit",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "perplexed",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white waistcoat",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "gold"
+                    }
+                },
+                "temporary_features": [
+                    "holding a piece of paper"
+                ],
+                "composition": "White Rabbit centered, camera slightly overhead"
+            }
+        ]
+    }
+]

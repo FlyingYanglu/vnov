@@ -1,0 +1,182 @@
+[
+    {
+        "text": "“—or next day, maybe,” he continued as if nothing had happened.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "he",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking casually"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nonchalant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "dark red"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“How am I to get in?” I asked again, louder this time.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking loudly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Are you to get in at all?” he said. “That’s the first question, you know.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "he",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking with a hint of sarcasm"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark suit",
+                        "style": "tailored",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "dark red"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I muttered to myself, “It’s really dreadful, the way all the creatures argue.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "villa interior",
+                "luxurious furniture",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "muttering under breath"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": "ce445376b2de11efa5430c42a117b3e0",
+        "text": "The Mouse did not notice",
+        "audio_url": "https://v16m-default.akamaized.net/3c9bb0937753d41649ab2725e9a2eafc/6751b1b3/video/tos/maliva/tos-maliva-v-f15faa-us/oYVhCUABkFUfLBJApn1KVBQA1EEbfB4DERXUpx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1JkIOXq8Zmo&qs=13&rc=anZsM3Q5cmxvdzUzNzhoM0BpanZsM3Q5cmxvdzUzNzhoM0BjaF5tMmRrbjVgLS1kLjZzYSNjaF5tMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338554431000000000000000000000ffff0a0064a8c70664&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4079999999999995
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4079999999999995
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ce445574b2de11efa5430c42a117b3e0",
+        "text": "this question, but hurriedly",
+        "audio_url": "https://v16m-default.akamaized.net/3c9bb0937753d41649ab2725e9a2eafc/6751b1b3/video/tos/maliva/tos-maliva-v-f15faa-us/oYVhCUABkFUfLBJApn1KVBQA1EEbfB4DERXUpx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1JkIOXq8Zmo&qs=13&rc=anZsM3Q5cmxvdzUzNzhoM0BpanZsM3Q5cmxvdzUzNzhoM0BjaF5tMmRrbjVgLS1kLjZzYSNjaF5tMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338554431000000000000000000000ffff0a0064a8c70664&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4080000000000001,
+            "end_offset": 2.816
+        },
+        "target_timerange": {
+            "start_offset": 1.4080000000000001,
+            "end_offset": 2.816
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ce445682b2de11efa5430c42a117b3e0",
+        "text": "went on, “‘—found it",
+        "audio_url": "https://v16m-default.akamaized.net/3c9bb0937753d41649ab2725e9a2eafc/6751b1b3/video/tos/maliva/tos-maliva-v-f15faa-us/oYVhCUABkFUfLBJApn1KVBQA1EEbfB4DERXUpx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1JkIOXq8Zmo&qs=13&rc=anZsM3Q5cmxvdzUzNzhoM0BpanZsM3Q5cmxvdzUzNzhoM0BjaF5tMmRrbjVgLS1kLjZzYSNjaF5tMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338554431000000000000000000000ffff0a0064a8c70664&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.8160000000000003,
+            "end_offset": 4.224
+        },
+        "target_timerange": {
+            "start_offset": 2.8160000000000003,
+            "end_offset": 4.224
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ce445768b2de11efa5430c42a117b3e0",
+        "text": "advisable to go with Edgar",
+        "audio_url": "https://v16m-default.akamaized.net/3c9bb0937753d41649ab2725e9a2eafc/6751b1b3/video/tos/maliva/tos-maliva-v-f15faa-us/oYVhCUABkFUfLBJApn1KVBQA1EEbfB4DERXUpx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1JkIOXq8Zmo&qs=13&rc=anZsM3Q5cmxvdzUzNzhoM0BpanZsM3Q5cmxvdzUzNzhoM0BjaF5tMmRrbjVgLS1kLjZzYSNjaF5tMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338554431000000000000000000000ffff0a0064a8c70664&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.224,
+            "end_offset": 5.632
+        },
+        "target_timerange": {
+            "start_offset": 4.224,
+            "end_offset": 5.632
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ce445844b2de11efa5430c42a117b3e0",
+        "text": "Atheling to meet William and",
+        "audio_url": "https://v16m-default.akamaized.net/3c9bb0937753d41649ab2725e9a2eafc/6751b1b3/video/tos/maliva/tos-maliva-v-f15faa-us/oYVhCUABkFUfLBJApn1KVBQA1EEbfB4DERXUpx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1JkIOXq8Zmo&qs=13&rc=anZsM3Q5cmxvdzUzNzhoM0BpanZsM3Q5cmxvdzUzNzhoM0BjaF5tMmRrbjVgLS1kLjZzYSNjaF5tMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338554431000000000000000000000ffff0a0064a8c70664&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.632000000000001,
+            "end_offset": 7.04
+        },
+        "target_timerange": {
+            "start_offset": 5.632000000000001,
+            "end_offset": 7.04
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "ce44592ab2de11efa5430c42a117b3e0",
+        "text": "offer him the crown.",
+        "audio_url": "https://v16m-default.akamaized.net/3c9bb0937753d41649ab2725e9a2eafc/6751b1b3/video/tos/maliva/tos-maliva-v-f15faa-us/oYVhCUABkFUfLBJApn1KVBQA1EEbfB4DERXUpx/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th1JkIOXq8Zmo&qs=13&rc=anZsM3Q5cmxvdzUzNzhoM0BpanZsM3Q5cmxvdzUzNzhoM0BjaF5tMmRrbjVgLS1kLjZzYSNjaF5tMmRrbjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338554431000000000000000000000ffff0a0064a8c70664&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.040000000000001,
+            "end_offset": 8.448
+        },
+        "target_timerange": {
+            "start_offset": 7.040000000000001,
+            "end_offset": 8.448
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

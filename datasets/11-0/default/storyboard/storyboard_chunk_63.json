@@ -1,0 +1,132 @@
+[
+    {
+        "text": "It was high time to go, for the pool was getting quite crowded with the birds and animals that had fallen into it.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "pool area"
+            ],
+            "scene_features": [
+                "pool",
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duck",
+                "age": "adult",
+                "actions": [
+                    "swimming in the pool"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "wet",
+                        "condition": "ruffled"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the left side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "There were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "pool area"
+            ],
+            "scene_features": [
+                "pool",
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dodo",
+                "age": "adult",
+                "actions": [
+                    "standing near the pool"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "dry",
+                        "condition": "disheveled"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the right side of the frame, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I led the way, and the whole party swam to the shore.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlight",
+                "daytime",
+                "pool area"
+            ],
+            "scene_features": [
+                "pool",
+                "trees",
+                "grass"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "swimming towards the shore"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "wet"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "wet",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    }
+]

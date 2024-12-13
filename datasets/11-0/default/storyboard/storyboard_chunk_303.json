@@ -1,0 +1,267 @@
+[
+    {
+        "text": "“Shall I try the experiment?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a small vial",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly hesitant"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "ruffled",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "type": "velvet",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [
+                    "holding a vial in one hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“He might bite,” I cautiously replied, not feeling at all anxious to have the experiment tried.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the desk",
+                    "looking at the Duchess"
+                ],
+                "gaze_and_direction": "gaze slightly averted, looking at the Duchess",
+                "expression": [
+                    "cautious",
+                    "uneasy"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "type": "cotton",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "hand resting on the desk"
+                ],
+                "composition": "Character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Very true,” said the Duchess: “flamingoes and mustard both bite.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "holding the vial",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "serious",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "ruffled",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "type": "velvet",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [
+                    "holding a vial in one hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And the moral of that is—‘Birds of a feather flock together.’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "holding the vial",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "direct eye contact with the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "ruffled",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "type": "velvet",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "pearl necklace",
+                        "type": "strand"
+                    }
+                },
+                "temporary_features": [
+                    "holding a vial in one hand"
+                ],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Only mustard isn’t a bird,” I remarked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "bookshelf",
+                "desk",
+                "candles"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing near the desk",
+                    "looking at the Duchess"
+                ],
+                "gaze_and_direction": "gaze slightly averted, looking at the Duchess",
+                "expression": [
+                    "thoughtful",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple shirt",
+                        "style": "casual",
+                        "condition": "lightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "type": "cotton",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "leather strap"
+                    }
+                },
+                "temporary_features": [
+                    "hand resting on the desk"
+                ],
+                "composition": "Character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    }
+]

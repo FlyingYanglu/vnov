@@ -1,0 +1,144 @@
+[
+    {
+        "text": "“Nonsense!” I said, very loudly and decidedly, and the Queen was silent.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking loudly",
+                    "gesturing emphatically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "determined",
+                    "assertive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The King laid his hand upon her arm, and timidly said “Consider, my dear: she is only a child!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "middle-aged",
+                "actions": [
+                    "placing hand on Queen's arm",
+                    "speaking timidly"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "concerned",
+                    "timid"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "King on the left, Queen on the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Queen turned angrily away from him, and said to the Knave “Turn them over!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening",
+                "royal decor"
+            ],
+            "scene_features": [
+                "throne room",
+                "tapestries",
+                "carpeted floor"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "middle-aged",
+                "actions": [
+                    "turning away from the King",
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the Knave",
+                "expression": [
+                    "angry",
+                    "dismissive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "royal"
+                    }
+                },
+                "composition": "Queen on the right, Knave on the left, camera frontal"
+            }
+        ]
+    }
+]

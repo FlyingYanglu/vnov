@@ -1,0 +1,342 @@
+[
+    {
+        "text": "“Dinah’s our cat. And she’s such a capital one for catching mice you can’t think! And oh, I wish you could see her after the birds! Why, she’ll eat a little bird as soon as look at it!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking enthusiastically"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "excited",
+                    "animated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "gesturing with hands"
+                ],
+                "composition": "Narrator centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "This speech caused a remarkable sensation among the party.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Birds",
+                "age": "various",
+                "actions": [
+                    "reacting with alarm"
+                ],
+                "gaze_and_direction": "looking at the narrator",
+                "expression": [
+                    "startled",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "vibrant"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [
+                    "fluttering wings"
+                ],
+                "composition": "Birds positioned around the narrator, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Some of the birds hurried off at once.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Birds",
+                "age": "various",
+                "actions": [
+                    "flying away quickly"
+                ],
+                "gaze_and_direction": "looking away from the narrator",
+                "expression": [
+                    "panicked",
+                    "hurried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathers",
+                        "style": "natural",
+                        "condition": "vibrant"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [
+                    "flapping wings vigorously"
+                ],
+                "composition": "Birds flying off, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "One old Magpie began wrapping itself up very carefully, remarking, “I really must be getting home; the night-air doesn’t suit my throat!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Magpie",
+                "age": "old",
+                "actions": [
+                    "wrapping itself carefully",
+                    "speaking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "concerned",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "black and white feathers",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [
+                    "fluttering wings slightly"
+                ],
+                "composition": "Magpie centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "A Canary called out in a trembling voice to its children, “Come away, my dears! It’s high time you were all in bed!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Canary",
+                "age": "adult",
+                "actions": [
+                    "calling out",
+                    "gesturing with beak"
+                ],
+                "gaze_and_direction": "looking at its children",
+                "expression": [
+                    "worried",
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "yellow feathers",
+                        "style": "natural",
+                        "condition": "bright"
+                    },
+                    "accessories": {
+                        "item": "beak",
+                        "type": "natural"
+                    }
+                },
+                "temporary_features": [
+                    "fluttering wings slightly"
+                ],
+                "composition": "Canary centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "On various pretexts, they all moved off, and I was soon left alone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "watching the birds leave"
+                ],
+                "gaze_and_direction": "looking at the departing birds",
+                "expression": [
+                    "disappointed",
+                    "lonely"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "standing still"
+                ],
+                "composition": "Narrator centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I wish I hadn’t mentioned Dinah!” I said to myself in a melancholy tone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "daytime",
+                "sunny",
+                "garden"
+            ],
+            "scene_features": [
+                "trees",
+                "flowers",
+                "birds"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self",
+                    "sighing"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "sad",
+                    "regretful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "casual shirt",
+                        "style": "short-sleeved",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "jeans",
+                        "style": "regular fit",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "watch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [
+                    "standing still"
+                ],
+                "composition": "Narrator centered, camera at eye level"
+            }
+        ]
+    }
+]

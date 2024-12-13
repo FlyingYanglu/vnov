@@ -1,0 +1,137 @@
+[
+    {
+        "segment_id": "86c0e320b2d911ef82461070fd8d78a0",
+        "text": "I had never before seen a",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5199999999999996
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.5199999999999996
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0e6e0b2d911ef82461070fd8d78a0",
+        "text": "rabbit with either a",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.52,
+            "end_offset": 3.039999999999999
+        },
+        "target_timerange": {
+            "start_offset": 1.52,
+            "end_offset": 3.039999999999999
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0e866b2d911ef82461070fd8d78a0",
+        "text": "waistcoat-pocket, or a watch",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.04,
+            "end_offset": 4.559999999999999
+        },
+        "target_timerange": {
+            "start_offset": 3.04,
+            "end_offset": 4.559999999999999
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0e9e2b2d911ef82461070fd8d78a0",
+        "text": "to take out of it, and",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.5600000000000005,
+            "end_offset": 6.08
+        },
+        "target_timerange": {
+            "start_offset": 4.5600000000000005,
+            "end_offset": 6.08
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0eb54b2d911ef82461070fd8d78a0",
+        "text": "burning with curiosity, I ran",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 6.08,
+            "end_offset": 7.6
+        },
+        "target_timerange": {
+            "start_offset": 6.08,
+            "end_offset": 7.6
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0ecdab2d911ef82461070fd8d78a0",
+        "text": "across the field after it,",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 7.6,
+            "end_offset": 9.12
+        },
+        "target_timerange": {
+            "start_offset": 7.6,
+            "end_offset": 9.12
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0ee56b2d911ef82461070fd8d78a0",
+        "text": "and fortunately was just in",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 9.120000000000001,
+            "end_offset": 10.64
+        },
+        "target_timerange": {
+            "start_offset": 9.120000000000001,
+            "end_offset": 10.64
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0f018b2d911ef82461070fd8d78a0",
+        "text": "time to see it pop down a",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 10.64,
+            "end_offset": 12.16
+        },
+        "target_timerange": {
+            "start_offset": 10.64,
+            "end_offset": 12.16
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "86c0f19eb2d911ef82461070fd8d78a0",
+        "text": "large rabbit-hole under the hedge.",
+        "audio_url": "https://v16m-default.akamaized.net/de380e4ee0206f383431cfc6e4081548/6751a8de/video/tos/maliva/tos-maliva-v-f15faa-us/osAwVV2jDEBGiReRLiFAJJVtWBfhnABEEuQphU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th3IkIOXq8Zmo&qs=13&rc=M3A1dHg5cnVvdzUzNzhoM0BpM3A1dHg5cnVvdzUzNzhoM0BlMWJlMmRjNTVgLS1kLjZzYSNlMWJlMmRjNTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338327355700000000000000000000ffff0a008158b2657f&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 12.16,
+            "end_offset": 13.68
+        },
+        "target_timerange": {
+            "start_offset": 12.16,
+            "end_offset": 13.68
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

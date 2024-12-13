@@ -1,0 +1,199 @@
+[
+    {
+        "text": "“I’m a hatter.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal throne",
+                "witness stand",
+                "audience benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "standing at the witness stand",
+                    "holding a hat"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nervous",
+                    "sweating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "shaking hands"
+                ],
+                "composition": "Hatter centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Here the Queen put on her spectacles, and began staring at the Hatter, who turned pale and fidgeted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal throne",
+                "witness stand",
+                "audience benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Queen",
+                "age": "mature",
+                "actions": [
+                    "putting on spectacles",
+                    "staring at the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "stern",
+                    "intimidating"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal gown",
+                        "style": "elegant",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "holding spectacles"
+                ],
+                "composition": "Queen centered, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "“Give your evidence,” said the King; “and don’t be nervous, or I’ll have you executed on the spot.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal throne",
+                "witness stand",
+                "audience benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "mature",
+                "actions": [
+                    "speaking to the Hatter"
+                ],
+                "gaze_and_direction": "looking at the Hatter",
+                "expression": [
+                    "commanding",
+                    "threatening"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "majestic",
+                        "condition": "pristine"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "regal"
+                    }
+                },
+                "temporary_features": [
+                    "gesturing with hand"
+                ],
+                "composition": "King centered, camera slightly high angle"
+            }
+        ]
+    },
+    {
+        "text": "This did not seem to encourage the witness at all: he kept shifting from one foot to the other, looking uneasily at the Queen, and in his confusion he",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "courtroom setting",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "royal throne",
+                "witness stand",
+                "audience benches"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "shifting from one foot to the other",
+                    "looking uneasily at the Queen"
+                ],
+                "gaze_and_direction": "looking at the Queen",
+                "expression": [
+                    "anxious",
+                    "trembling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "vintage",
+                        "condition": "slightly worn"
+                    },
+                    "bottom": {
+                        "item": "trousers",
+                        "style": "formal",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [
+                    "shaking hands"
+                ],
+                "composition": "Hatter centered, camera slightly low angle"
+            }
+        ]
+    }
+]

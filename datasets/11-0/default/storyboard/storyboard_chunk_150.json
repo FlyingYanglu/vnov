@@ -1,0 +1,186 @@
+[
+    {
+        "text": "“It is a very good height indeed!” said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three inches high).",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "soft grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "rearing itself upright",
+                    "speaking angrily"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "small antennae",
+                        "type": "delicate"
+                    }
+                },
+                "temporary_features": [
+                    "three inches high"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But I’m not used to it!” I pleaded in a piteous tone.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "soft grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pleading"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "piteous"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And I thought to myself, “I wish the creatures wouldn’t be so easily offended!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "soft grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking"
+                ],
+                "gaze_and_direction": "looking away from the viewer",
+                "expression": [
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“You’ll get used to it in time,” said the Caterpillar; and it put the hookah into its mouth and began smoking again.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "sunlit meadow",
+                "soft grass",
+                "daytime"
+            ],
+            "scene_features": [
+                "meadow",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Caterpillar",
+                "age": "young",
+                "actions": [
+                    "speaking",
+                    "putting the hookah into its mouth",
+                    "smoking"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "green body",
+                        "style": "segmented",
+                        "condition": "healthy"
+                    },
+                    "accessories": {
+                        "item": "small antennae",
+                        "type": "delicate"
+                    }
+                },
+                "temporary_features": [
+                    "three inches high",
+                    "holding a hookah"
+                ],
+                "composition": "Caterpillar centered, camera slightly overhead"
+            }
+        ]
+    }
+]

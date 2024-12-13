@@ -1,0 +1,572 @@
+{
+    "Hatter": {
+        "Name": "Hatter",
+        "Prompt": "A whimsical and slightly unhinged figure from Wonderland, clad in a tattered, multi-colored suit with mismatched buttons, his wild, unkempt hair adorned with a jaunty hat sporting a perpetually spinning top, his eyes perpetually wide with a mix of confusion and curiosity, embodying the chaotic essence of time gone awry.",
+        "num_occurence": 62
+    },
+    "March Hare": {
+        "Name": "March Hare",
+        "Prompt": "A whimsical, perpetually anxious hare with wild, unkempt fur in shades of brown and white, wearing a tattered waistcoat and a perpetually crooked top hat, his eyes wide with a mix of confusion and urgency, always seen at a mad tea party, embodying the chaotic charm of Wonderland.",
+        "num_occurence": 27
+    },
+    "I": {
+        "Name": "Alice",
+        "Prompt": "A curious and adventurous young girl with a cascade of blonde curls, wide blue eyes that reflect her boundless wonder, and a simple, light-blue dress adorned with a pinafore, embodying the spirit of innocence and relentless curiosity as she tumbles through the whimsical Wonderland.",
+        "num_occurence": 701
+    },
+    "Unknown Character": {
+        "Name": "Unknown Character",
+        "Prompt": "A shadowy figure with a perpetual sneeze, clad in tattered Victorian garb, their face obscured by a cloud of dust and a perpetually runny nose, embodying the chaotic energy of a household in disarray, with each sneeze echoing like a distant bell tolling in a forgotten tower.",
+        "num_occurence": 5
+    },
+    "Rabbit": {
+        "Name": "Rabbit",
+        "Prompt": "A flustered, anthropomorphic rabbit with a perpetually frazzled demeanor, clad in a tailored waistcoat and pocket watch, his long ears twitching nervously as he scurries about, always on the verge of a panic, embodying the frantic urgency of a character perpetually late for an important date.",
+        "num_occurence": 21
+    },
+    "White Rabbit": {
+        "Name": "White Rabbit",
+        "Prompt": "A perpetually hurried, impeccably dressed rabbit with pristine white fur, pink eyes that dart with nervous energy, and a penchant for checking his pocket watch, embodying the essence of time's fleeting nature and the chaos of Wonderland.",
+        "num_occurence": 37
+    },
+    "Mock Turtle": {
+        "Name": "Mock Turtle",
+        "Prompt": "A melancholic, anthropomorphic sea turtle with a weathered, greenish-brown shell, soft, wrinkled skin, and large, mournful eyes that seem to hold the weight of forgotten memories, often seen wearing a tattered scholar's robe adorned with seaweed and barnacles, embodying a blend of wisdom and sorrow, as if he carries the echoes of ancient underwater tales.",
+        "num_occurence": 60
+    },
+    "Unknown Voice": {
+        "Name": "Unknown Voice",
+        "Prompt": "A lively, ruddy-cheeked farmhand with a thick Irish brogue, clad in simple, earth-stained linen trousers and a woolen tunic, his hands perpetually stained with soil from the orchards, exuding a cheerful, hardworking spirit amidst the apple trees.",
+        "num_occurence": 2
+    },
+    "Pat": {
+        "Name": "Pat",
+        "Prompt": "A burly, red-haired Irishman with a mischievous twinkle in his emerald-green eyes, clad in a tattered fisherman's garb, whose hearty laughter and thick brogue belie a sharp wit and a heart as vast as the sea he navigates.",
+        "num_occurence": 4
+    },
+    "Servant": {
+        "Name": "Servant",
+        "Prompt": "A weathered, loyal retainer with a stooped posture, clad in simple, patched livery, his face etched with lines of worry and devotion, exuding a quiet resilience and unwavering dedication to his duty, despite the creeping shadows of uncertainty.",
+        "num_occurence": 2
+    },
+    "Gryphon": {
+        "Name": "Gryphon",
+        "Prompt": "A majestic, half-lion, half-eagle creature with shimmering golden feathers and a mane of fiery red, its piercing emerald eyes glinting with both wisdom and impatience, clad in a tattered scholar's robe adorned with ancient runes, embodying a blend of regal authority and playful curiosity.",
+        "num_occurence": 77
+    },
+    "She": {
+        "Name": "She",
+        "Prompt": "A curious and slightly bewildered young woman with a cascade of auburn curls, wide green eyes that reflect her constant state of wonder, and a simple yet elegant dress adorned with delicate lace, embodying a blend of innocence and resilience as she navigates a world of peculiar events and cryptic encounters.",
+        "num_occurence": 4
+    },
+    "she": {
+        "Name": "Alice",
+        "Prompt": "A curious and adventurous young girl with a cascade of golden curls, wide blue eyes that sparkle with wonder, and a simple yet elegant dress adorned with lace, embodying a spirit of relentless inquisitiveness and bravery in the face of the unknown.",
+        "num_occurence": 2
+    },
+    "Narrator": {
+        "Name": "Narrator",
+        "Prompt": "A whimsical, omniscient presence with a penchant for whimsical asides, dressed in a tattered waistcoat adorned with pocket watches and keys, their eyes twinkling with a mix of curiosity and nostalgia, guiding readers through the surreal and often nonsensical Wonderland with a voice that dances between the absurd and the profound.",
+        "num_occurence": 77
+    },
+    "Alice": {
+        "Name": "Alice",
+        "Prompt": "A curious and imaginative young girl with a cascade of golden curls, wide blue eyes that reflect her endless wonder, and a simple yet elegant dress adorned with a pinafore, embodying the innocence and adventurous spirit of a Victorian-era child navigating a surreal and whimsical world.",
+        "num_occurence": 44
+    },
+    "Bill": {
+        "Name": "Bill",
+        "Prompt": "A hapless, ink-stained Lizard with a perpetually bewildered expression, his scaly green body speckled with smudges of black ink, and a tiny, trembling hand clutching a slate, embodying the epitome of confusion and misfortune in a whimsical Wonderland.",
+        "num_occurence": 11
+    },
+    "Master": {
+        "Name": "Master",
+        "Prompt": "A commanding figure draped in a midnight-black robe adorned with silver runes, his face obscured by a hood, exuding an aura of ancient wisdom and stern authority, with eyes that gleam like cold stars, overseeing the mystical tasks with an unyielding gaze.",
+        "num_occurence": 1
+    },
+    "He": {
+        "Name": "He",
+        "Prompt": "A whimsical, enigmatic figure with eyes nearly at the top of his elongated head, dressed in a tattered waistcoat and mismatched trousers, exuding an air of aloof mischief as he gazes at the sky, embodying a playful yet subtly commanding presence.",
+        "num_occurence": 6
+    },
+    "Other Character": {
+        "Name": "Other Character",
+        "Prompt": "A grizzled, weathered figure with a shock of silver hair and a perpetual twinkle in his eyes, clad in a tattered explorer's coat adorned with ancient maps and trinkets, embodying the spirit of adventure and camaraderie, always ready with a hearty laugh and a tale of daring exploits.",
+        "num_occurence": 2
+    },
+    "Dinah": {
+        "Name": "Dinah",
+        "Prompt": "A loyal and gentle tabby cat with soft, tawny fur, bright green eyes, and a fondness for curling up in laps, embodying the comforting presence of a cherished companion in a whimsical Wonderland.",
+        "num_occurence": 1
+    },
+    "Two Creatures": {
+        "Name": "Two Creatures",
+        "Prompt": "Two whimsical, otherworldly beings with iridescent scales shimmering like oil on water, their eyes large and luminescent, adorned with delicate, fluttering wings that leave trails of stardust, embodying a blend of childlike exuberance and profound melancholy.",
+        "num_occurence": 1
+    },
+    "Whiting": {
+        "Name": "Whiting",
+        "Prompt": "A slender, silver-scaled fish with iridescent fins and a perpetually anxious expression, darting through the surreal, dreamlike landscape of Wonderland, its eyes wide with urgency as it implores the snail to hasten its pace.",
+        "num_occurence": 1
+    },
+    "Snail": {
+        "Name": "Snail",
+        "Prompt": "A slow-moving, contemplative snail with a shimmering, iridescent shell adorned with delicate, spiraling patterns, its eyes perched on long, inquisitive stalks, exuding a wise and world-weary demeanor, as if privy to secrets of the deep sea.",
+        "num_occurence": 5
+    },
+    "Lobster": {
+        "Name": "Lobster",
+        "Prompt": "A vibrant, crimson crustacean with a gleaming, armored shell adorned with intricate patterns, wielding a pair of oversized pincers that gleam menacingly under the sun, exuding a regal yet formidable presence as it strides forward with purposeful determination.",
+        "num_occurence": 1
+    },
+    "Puppy": {
+        "Name": "Puppy",
+        "Prompt": "A colossal, endearing hound with soulful, round eyes the size of saucers, a perpetually wagging tail that could knock over thistles, and a tongue that lolls out in a perpetual grin, embodying boundless energy and unwavering loyalty.",
+        "num_occurence": 4
+    },
+    "Scaly Friend": {
+        "Name": "Scaly Friend",
+        "Prompt": "A serpentine companion with iridescent emerald scales that shimmer like moonlight on water, a forked tongue that flickers with every word, and eyes that glow with ancient wisdom, embodying a blend of reptilian grace and enigmatic charm.",
+        "num_occurence": 1
+    },
+    "Blue Caterpillar": {
+        "Name": "Blue Caterpillar",
+        "Prompt": "A contemplative, enigmatic creature with azure-blue scales, perched atop a mushroom, exuding an air of ancient wisdom through its languid, smoke-like exhales, and possessing eyes that shimmer like distant stars, embodying both serenity and inscrutable mystery.",
+        "num_occurence": 1
+    },
+    "Caterpillar": {
+        "Name": "Caterpillar",
+        "Prompt": "A contemplative, enigmatic blue Caterpillar with a languid, sleepy demeanor, adorned with intricate patterns that shimmer in the light, perched atop a mushroom, exuding an air of philosophical detachment as it smokes a long hookah, its voice a slow, deliberate drawl that challenges and confounds.",
+        "num_occurence": 32
+    },
+    "Alice’s Right Foot, Esq.": {
+        "Name": "Alice’s Right Foot, Esq.",
+        "Prompt": "A whimsical, anthropomorphic appendage adorned with a tiny, polished shoe and a jaunty top hat, exuding a dignified yet playful demeanor, as if it could tap its way through Wonderland’s enigmatic corridors with a mind of its own.",
+        "num_occurence": 1
+    },
+    "Young Man": {
+        "Name": "Young Man",
+        "Prompt": "A curious and slightly impertinent youth with tousled chestnut hair, bright blue eyes that gleam with inquisitiveness, and a casual attire of a simple linen shirt and breeches, embodying the spirit of youthful curiosity and a touch of impertinence.",
+        "num_occurence": 4
+    },
+    "Father William": {
+        "Name": "Father William",
+        "Prompt": "An aged, wizened sage with silver hair tied in a loose knot, his weathered face etched with wisdom and a twinkle in his eyes, clad in simple, homespun robes, embodying a playful yet profound demeanor, as he recounts tales of youth with a gentle, knowing smile.",
+        "num_occurence": 8
+    },
+    "Youth": {
+        "Name": "Youth",
+        "Prompt": "A curious and impertinent young man with a mischievous glint in his bright blue eyes, dressed in the simple yet elegant attire of a Victorian gentleman, his tousled chestnut hair and inquisitive demeanor hinting at a restless spirit and a penchant for challenging the status quo.",
+        "num_occurence": 5
+    },
+    "Father": {
+        "Name": "Father",
+        "Prompt": "A wizened patriarch with a robust jawline, his steely blue eyes glinting with a mix of wisdom and impatience, clad in a tweed waistcoat and spectacles perched on a nose once adept at balancing eels, embodying a stern yet enduring presence from a bygone era of legal acumen and familial authority.",
+        "num_occurence": 4
+    },
+    "Listeners": {
+        "Name": "Listeners",
+        "Prompt": "A group of curious, wide-eyed woodland creatures, each with a unique, whimsical appearance—a rabbit with spectacles perched on its nose, a wise old owl with feathers of deep emerald, and a playful squirrel with a cap of golden acorns, all gathered in a circle of soft moss, their attentive gazes reflecting a blend of wonder and curiosity.",
+        "num_occurence": 1
+    },
+    "Mad Hatter": {
+        "Name": "Mad Hatter",
+        "Prompt": "A whimsical, perpetually anxious figure from Wonderland, adorned in a tattered, multi-colored top hat and a mismatched waistcoat, with wild, unkempt hair and perpetually twitching eyes, embodying the chaotic essence of time gone mad.",
+        "num_occurence": 6
+    },
+    "Dormouse": {
+        "Name": "Dormouse",
+        "Prompt": "A diminutive, sleepy rodent with soft, velvety fur the color of midnight, adorned with delicate silver whiskers and large, drowsy eyes that seem to hold the weight of endless dreams, often found nestled in a cozy teacup, its voice a gentle murmur that drifts between sleep and wakefulness, embodying a whimsical blend of innocence and profound wisdom.",
+        "num_occurence": 27
+    },
+    "Queen": {
+        "Name": "Queen",
+        "Prompt": "A tyrannical monarch with a towering crown adorned with sharp, menacing spikes, her eyes a piercing icy blue, and a gown of crimson velvet that trails behind her like a river of blood, exuding an aura of relentless fury and capricious judgment.",
+        "num_occurence": 54
+    },
+    "The Hatter": {
+        "Name": "The Hatter",
+        "Prompt": "A whimsical, perpetually anxious figure from Wonderland, adorned in a tattered, multi-colored suit with mismatched buttons, his wild, unkempt hair streaked with hints of green and gold, and eyes perpetually wide with a mix of madness and mirth, forever trapped in a state of perpetual tea-time chaos.",
+        "num_occurence": 7
+    },
+    "Pigeon": {
+        "Name": "Pigeon",
+        "Prompt": "A frazzled, irate bird with ruffled gray feathers and a perpetually flustered demeanor, perched on a weathered branch, its beady eyes darting nervously as it bemoans the relentless pursuit of serpents, embodying a mix of maternal protectiveness and exasperation.",
+        "num_occurence": 21
+    },
+    "Protagonist": {
+        "Name": "Alice",
+        "Prompt": "A curious and adventurous young girl with a cascade of golden curls, wide blue eyes that shimmer with wonder, and a simple yet elegant blue dress, embodying a spirit of relentless inquisitiveness and a heart full of dreams.",
+        "num_occurence": 4
+    },
+    "King of Hearts": {
+        "Name": "King of Hearts",
+        "Prompt": "A regal yet whimsical figure, adorned in a crimson velvet robe emblazoned with golden hearts, his visage a stoic mask of painted red and white, crowned with a towering heart-shaped crown, exuding an aura of both authority and enigmatic charm.",
+        "num_occurence": 2
+    },
+    "Queen of Hearts": {
+        "Name": "Queen of Hearts",
+        "Prompt": "A tyrannical monarch with a crimson complexion, adorned in a lavish, heart-patterned gown of royal red and gold, her piercing blue eyes radiating fury, and a crown of oversized hearts perched atop her head, embodying capricious cruelty and an insatiable thirst for power.",
+        "num_occurence": 3
+    },
+    "Knave": {
+        "Name": "Knave",
+        "Prompt": "A sly and cunning figure, clad in a tattered red suit adorned with golden embroidery, his sharp, angular face framed by a ruffled white collar, and a mischievous glint in his beady black eyes, standing defiantly in chains, embodying the essence of trickery and deceit.",
+        "num_occurence": 2
+    },
+    "King": {
+        "Name": "King",
+        "Prompt": "A portly monarch with a crown perched precariously over a powdered wig, his beady eyes peering through spectacles, exuding an air of imperious authority tempered by a touch of whimsical absurdity, as he presides over the chaotic court with a mix of sternness and bemusement.",
+        "num_occurence": 73
+    },
+    "Jurors": {
+        "Name": "Jurors",
+        "Prompt": "Twelve diverse individuals, each with their own unique attire and expressions, scribbling intently on slates with worn chalk, their faces a mix of concentration and contemplation, reflecting the gravity of their civic duty in a world where every decision is etched in stone.",
+        "num_occurence": 1
+    },
+    "Footman": {
+        "Name": "Footman",
+        "Prompt": "A peculiar footman from a whimsical woodland realm, with a face resembling a fish, adorned in traditional livery with powdered, curling hair, exuding an air of enigmatic patience and a penchant for whistling.",
+        "num_occurence": 6
+    },
+    "Juror": {
+        "Name": "Juror",
+        "Prompt": "A solemn figure in a Victorian-era black suit, with a stern face framed by a high collar and a bowler hat, clutching a slate and pencil, embodying the rigid formality and weighty responsibility of their role in the whimsical courtroom drama.",
+        "num_occurence": 3
+    },
+    "The Dormouse": {
+        "Name": "The Dormouse",
+        "Prompt": "A drowsy, diminutive rodent with soft, velvety fur the color of midnight, adorned with a tiny, tattered waistcoat and a perpetually sleepy expression, who drifts in and out of consciousness, his tiny voice barely audible amidst the whimsical chaos of the tea party.",
+        "num_occurence": 2
+    },
+    "Second Footman": {
+        "Name": "Second Footman",
+        "Prompt": "A round-faced, frog-eyed footman from the 17th century, with powdered hair curling exuberantly over his head, exuding an air of dutiful curiosity beneath his ornate livery.",
+        "num_occurence": 2
+    },
+    "Fish-Footman": {
+        "Name": "Fish-Footman",
+        "Prompt": "A surreal, aquatic-themed servant with shimmering scales that transition from deep blue to silver, webbed hands clutching a massive, ornate envelope, his goggle-eyed gaze fixed in a blank stare, exuding an eerie, otherworldly presence befitting Wonderland's peculiar etiquette.",
+        "num_occurence": 2
+    },
+    "Frog-Footman": {
+        "Name": "Frog-Footman",
+        "Prompt": "A stoic amphibian servant clad in a tattered blue livery, with bulging green eyes that seem to peer into the very soul, and webbed hands clutching a silver tray, exuding an air of resigned patience and unflappable calm amidst the whimsical chaos of Wonderland.",
+        "num_occurence": 10
+    },
+    "Jury Member": {
+        "Name": "Jury Member",
+        "Prompt": "A bespectacled, slightly disheveled figure in a Victorian-era frock coat, clutching a slate and chalk, with a furrowed brow and a penchant for jotting down cryptic notes, embodying the meticulous yet bewildered spirit of a court observer in Wonderland.",
+        "num_occurence": 6
+    },
+    "he": {
+        "Name": "The Enigmatic Traveler",
+        "Prompt": "A tall, slender figure cloaked in a tattered, time-worn greatcoat, with a face obscured by a wide-brimmed hat and a perpetual shadow, exuding an aura of mysterious wisdom and a penchant for cryptic dialogue, as if he carries the weight of countless journeys and untold stories.",
+        "num_occurence": 2
+    },
+    "Mouse": {
+        "Name": "Mouse",
+        "Prompt": "A diminutive, inquisitive rodent with sleek, wet fur clinging to its slender frame, its beady eyes glinting with both curiosity and caution, as it navigates the whimsical world of Wonderland with a sharp, trembling voice that betrays its nervous disposition.",
+        "num_occurence": 34
+    },
+    "Duchess": {
+        "Name": "Duchess",
+        "Prompt": "A formidable figure in a tattered, multi-colored dress, with a sharp, angular face framed by wild, unkempt hair, and eyes that gleam with a mix of impatience and cunning, embodying a harsh, no-nonsense demeanor and a penchant for moralistic quips.",
+        "num_occurence": 50
+    },
+    "Cook": {
+        "Name": "Cook",
+        "Prompt": "A robust, fiery-tempered kitchen matron with a perpetually flushed face from the heat of the hearth, her hair tightly bound in a white cap, and her hands perpetually stained with spices, wielding a wooden spoon like a weapon, embodying both the chaos and the heart of the kitchen.",
+        "num_occurence": 12
+    },
+    "Family Member": {
+        "Name": "Family Member",
+        "Prompt": "A stern patriarch with a commanding presence, his silver hair neatly combed back, sharp blue eyes that pierce through any defiance, and a tailored suit that speaks of old-world wealth, embodying a strict adherence to tradition and an unyielding sense of duty.",
+        "num_occurence": 2
+    },
+    "The King": {
+        "Name": "The King",
+        "Prompt": "A whimsical yet authoritative ruler with a crown of golden laurels, a crimson velvet robe embroidered with silver stars, and a stern yet curious visage, embodying both the whimsicality of Wonderland and the gravity of a monarch's decree.",
+        "num_occurence": 5
+    },
+    "The March Hare": {
+        "Name": "The March Hare",
+        "Prompt": "A frenetic, tea-obsessed hare with wild, unkempt fur in shades of burnt orange and amber, perpetually wearing a tattered waistcoat and a top hat slightly askew, his eyes perpetually wide with a mix of madness and merriment, embodying the chaotic spirit of an endless, whimsical tea party.",
+        "num_occurence": 2
+    },
+    "Baby": {
+        "Name": "Baby",
+        "Prompt": "A peculiar infant with a disproportionately long, snout-like nose and eyes that shrink to almost nothing, its pudgy body writhing and grunting in a chaotic symphony of sneezes and howls, embodying a surreal blend of innocence and otherworldly oddity.",
+        "num_occurence": 4
+    },
+    "Cheshire Cat": {
+        "Name": "Cheshire Cat",
+        "Prompt": "A whimsical, enigmatic feline with a perpetual, Cheshire grin, shimmering purple stripes adorning its ethereal fur, and eyes that twinkle with a knowing mischief, capable of fading into the very air, leaving only its grin behind, embodying an aura of playful bewilderment.",
+        "num_occurence": 6
+    },
+    "Gardener One": {
+        "Name": "Gardener One",
+        "Prompt": "A meticulous and slightly eccentric gardener, clad in a tattered smock stained with vibrant hues of red and green, with nimble fingers adept at transforming white roses into crimson blooms, his weathered face framed by a wild mane of silver hair, exuding a quiet determination and a hint of whimsical magic.",
+        "num_occurence": 1
+    },
+    "Gardener Two": {
+        "Name": "Gardener Two",
+        "Prompt": "A meticulous and patient figure clad in a faded, paint-splattered smock, with calloused hands and a perpetual twinkle in their eyes, meticulously tending to vibrant, oversized flowers in a whimsical garden, embodying a serene yet playful spirit.",
+        "num_occurence": 1
+    },
+    "Gardener Five": {
+        "Name": "Gardener Five",
+        "Prompt": "A sullen, diminutive figure with a perpetual scowl, clad in tattered overalls and a straw hat, his hands perpetually stained with soil, embodying a reluctant yet diligent worker in a whimsical garden realm.",
+        "num_occurence": 1
+    },
+    "Duck": {
+        "Name": "Duck",
+        "Prompt": "A quizzical, water-loving bird with a sleek, iridescent plumage that shimmers like liquid silver under the sun, its webbed feet constantly paddling in the air as if still in a pond, and a beak that quacks with a curious blend of wisdom and whimsy.",
+        "num_occurence": 5
+    },
+    "Dodo": {
+        "Name": "Dodo",
+        "Prompt": "A solemn, slightly disheveled bird with a perpetually thoughtful expression, its feathers a mix of faded browns and greys, standing with one finger pressed to its forehead, embodying a blend of wisdom and whimsical confusion, as it navigates the absurdities of Wonderland with a dignified air.",
+        "num_occurence": 16
+    },
+    "Seven": {
+        "Name": "Seven",
+        "Prompt": "A sharp-tongued, no-nonsense figure with a stern visage, clad in a simple yet sturdy tunic adorned with faded numbers, his eyes sharp and calculating, embodying a pragmatic yet somewhat cynical demeanor, always ready to point out the faults of others.",
+        "num_occurence": 6
+    },
+    "Five": {
+        "Name": "Five",
+        "Prompt": "A diminutive, anxious figure with a perpetually furrowed brow, clad in a mismatched patchwork of royal blue and emerald green, whose wide, darting eyes betray a constant state of nervous vigilance, embodying the jittery essence of a courtier always on the brink of royal displeasure.",
+        "num_occurence": 6
+    },
+    "Lory": {
+        "Name": "Lory",
+        "Prompt": "A whimsical, emerald-feathered parrot with a penchant for philosophical debates, sporting a ruffled neck plumage and a beak that speaks with the wisdom of ages, perched on a gilded perch in the fantastical Wonderland, embodying both the curiosity of a child and the sagacity of a seasoned thinker.",
+        "num_occurence": 7
+    },
+    "Eaglet": {
+        "Name": "Eaglet",
+        "Prompt": "A young, inquisitive eagle with sleek, golden-brown feathers, sharp talons, and piercing blue eyes that glimmer with both curiosity and a hint of mischief, perched regally among the other birds, its head often tilted in a quizzical manner as it challenges the language of the land.",
+        "num_occurence": 7
+    },
+    "Guinea-pig": {
+        "Name": "Guinea-pig",
+        "Prompt": "A diminutive, round-bodied creature with sleek, velvety fur in shades of caramel and cream, sporting a pair of beady black eyes and a perpetually twitching nose, clad in a tiny, ruffled waistcoat and top hat, embodying a blend of curiosity and cautious optimism.",
+        "num_occurence": 2
+    },
+    "Court Officer": {
+        "Name": "Court Officer",
+        "Prompt": "A stern and imposing figure from a bygone era, clad in a dark, intricately embroidered robe with gold trim, his face marked by a thick, bushy mustache and a piercing gaze, exuding an air of rigid authority and unyielding protocol.",
+        "num_occurence": 1
+    },
+    "Gardeners": {
+        "Name": "Gardeners",
+        "Prompt": "A group of humble, earth-stained figures, clad in simple, tattered tunics and leather aprons, their hands calloused and faces weathered from years of tending to the lush, mystical gardens, each adorned with a small, intricately woven wreath of ivy and wildflowers, symbolizing their deep connection to nature and their unwavering dedication to their craft.",
+        "num_occurence": 1
+    },
+    "Two": {
+        "Name": "Two",
+        "Prompt": "A diminutive, anxious figure with a perpetually furrowed brow, clad in a mismatched patchwork of gardener's attire, his hands perpetually stained with soil, embodying the frantic urgency of one constantly on the brink of royal retribution.",
+        "num_occurence": 2
+    },
+    "Gardener": {
+        "Name": "Gardener",
+        "Prompt": "A humble, weather-beaten figure in a tattered smock, with dirt-stained hands and a weathered face etched with years of toil, their eyes glimmering with a mix of fear and determination as they seek refuge, embodying the resilience of those who tend to the earth.",
+        "num_occurence": 3
+    },
+    "Officer": {
+        "Name": "Officer",
+        "Prompt": "A stern and rigid figure clad in a crimson uniform adorned with gold epaulettes, his face a mask of unyielding authority, with a tall, plumed hat casting a shadow over his sharp, calculating eyes, embodying the rigid discipline of Wonderland's enigmatic court.",
+        "num_occurence": 1
+    },
+    "Soldiers": {
+        "Name": "Soldiers",
+        "Prompt": "Oblong and flat, these ten soldiers resemble oversized playing cards, with hands and feet sprouting from each corner, their rigid, uniform shapes painted in bold, monochrome hues, marching with mechanical precision and an eerie silence, embodying the surreal, regimented world of Wonderland.",
+        "num_occurence": 4
+    },
+    "Courts": {
+        "Name": "Courts",
+        "Prompt": "A procession of ten courtiers, each adorned from head to toe in shimmering diamonds, their opulent attire reflecting the grandeur of the era, walking in pairs with an air of regal elegance and unspoken camaraderie.",
+        "num_occurence": 1
+    },
+    "Royal Children": {
+        "Name": "Royal Children",
+        "Prompt": "Ten vivacious siblings, each adorned in opulent, jewel-toned tunics and gowns, their faces alight with youthful exuberance, their golden crowns glimmering as they dance in harmonious pairs, embodying the radiant innocence and boundless joy of a fairy-tale kingdom.",
+        "num_occurence": 1
+    },
+    "Knave of Hearts": {
+        "Name": "Knave of Hearts",
+        "Prompt": "A dapper figure in a crimson doublet adorned with golden hearts, his sharp, angular face framed by a neatly trimmed beard, exuding a blend of courtly grace and enigmatic charm, always ready with a bow and a knowing smile.",
+        "num_occurence": 2
+    },
+    "Sleepy Voice": {
+        "Name": "Sleepy Voice",
+        "Prompt": "A drowsy, ethereal figure draped in soft, tattered linens, with eyes that shimmer like moonlight through mist, and a voice that lulls like a distant lullaby, embodying the essence of restful dreams and forgotten whispers.",
+        "num_occurence": 1
+    },
+    "The Queen": {
+        "Name": "The Queen",
+        "Prompt": "A tyrannical monarch with a porcelain complexion marred by crimson rage, her raven-black hair adorned with a towering crown of gold and rubies, her eyes a piercing icy blue that could freeze the heart, and her regal attire of crimson velvet and ermine, exuding an aura of merciless authority and volatile temper.",
+        "num_occurence": 6
+    },
+    "CHORUS": {
+        "Name": "CHORUS",
+        "Prompt": "A celestial ensemble of shimmering, translucent figures, each adorned in flowing robes of iridescent silk, their faces veiled in gossamer, their voices a harmonious blend of awe and wonder, echoing through the ethereal realm with an otherworldly resonance.",
+        "num_occurence": 1
+    },
+    "The Knave": {
+        "Name": "The Knave",
+        "Prompt": "A whimsical, cardboard figure with a jaunty hat tilted over one eye, wearing a tattered red and white striped suit, his expression a mix of sly humor and perpetual bewilderment, embodying the absurdity and charm of a character crafted from dreams and paper.",
+        "num_occurence": 3
+    },
+    "Animal": {
+        "Name": "Animal",
+        "Prompt": "A forlorn, anthropomorphic fox with a tattered, russet-red coat, large, soulful amber eyes, and a drooping, bushy tail, embodying a poignant blend of wisdom and sorrow, trapped in a world where its playful spirit is muted by unseen chains.",
+        "num_occurence": 1
+    },
+    "chorus": {
+        "Name": "Chorus",
+        "Prompt": "A harmonious ensemble of voices, each distinct yet blending seamlessly, embodying a tapestry of diverse personalities and attire, from regal cloaks to simple tunics, united in their collective curiosity and anticipation, their presence a symphony of questions and wonder.",
+        "num_occurence": 1
+    },
+    "party guests": {
+        "Name": "Party Guests",
+        "Prompt": "A kaleidoscope of eclectic revelers, each adorned in opulent Victorian finery—ruffled shirts, corseted gowns, and top hats adorned with feathers—their faces alight with a mix of curiosity and excitement, mingling amidst the gilded chandeliers and plush velvet drapes of a grand soirée, their laughter echoing like melodic chimes in the ornate halls.",
+        "num_occurence": 1
+    },
+    "Lizard": {
+        "Name": "Lizard",
+        "Prompt": "A lethargic, emerald-scaled reptile with a perpetually open mouth, its beady eyes glazed with a mix of confusion and resignation, clutching a tiny slate-pencil between its clawed fingers, symbolizing the absurdity of its role in the whimsical court.",
+        "num_occurence": 2
+    },
+    "Host": {
+        "Name": "Host",
+        "Prompt": "A dapper, silver-haired gentleman from a whimsical Victorian era, adorned in a tailcoat with intricate gold embroidery, spectacles perched on a sharp nose, and a pocket watch dangling from a chain, orchestrating the scene with a charismatic yet enigmatic charm, as if he holds the very strings of time and wonder.",
+        "num_occurence": 1
+    },
+    "Guest": {
+        "Name": "Guest",
+        "Prompt": "A dapper gentleman from the Victorian era, with a neatly trimmed beard, piercing blue eyes, and a three-piece suit adorned with a gold pocket watch, exuding an air of refined curiosity and subtle charm.",
+        "num_occurence": 2
+    },
+    "Speaker": {
+        "Name": "Speaker",
+        "Prompt": "A charismatic orator with a mane of silver hair, sharp emerald eyes, and a tailored suit adorned with intricate gold embroidery, exuding an aura of wisdom and authority, commanding attention with every word.",
+        "num_occurence": 1
+    },
+    "Large Bird": {
+        "Name": "Large Bird",
+        "Prompt": "A towering avian creature with iridescent feathers that shimmer like opals in the sunlight, a beak as sharp as a rapier, and eyes that gleam with both wisdom and impatience, perched majestically amidst the chaos, exuding an air of regal disdain for the trivialities of comfit consumption.",
+        "num_occurence": 1
+    },
+    "Hedgehog": {
+        "Name": "Hedgehog",
+        "Prompt": "A prickly yet endearing woodland creature with sleek, silver-tipped quills that shimmer under moonlight, a soft, velvety underbelly, and soulful, emerald-green eyes that reveal a heart of gold beneath a cautious exterior.",
+        "num_occurence": 1
+    },
+    "Player 1": {
+        "Name": "Player 1",
+        "Prompt": "A spirited young girl with wild, tangled auburn curls, wearing a tattered pinafore over a simple dress, her eyes sparkling with mischief as she fiercely guards her hedgehog, embodying the chaotic energy of a child lost in a whimsical, nonsensical world.",
+        "num_occurence": 1
+    },
+    "Cat": {
+        "Name": "Cheshire Cat",
+        "Prompt": "A whimsical, enigmatic feline with a perpetual, mischievous grin, shimmering purple-striped fur, and glowing yellow eyes that seem to hold the secrets of Wonderland, capable of fading into and out of existence with a playful, haunting grace.",
+        "num_occurence": 25
+    },
+    "Old Crab": {
+        "Name": "Old Crab",
+        "Prompt": "A wise and weathered crustacean with a stern yet benevolent demeanor, her shell adorned with intricate, sea-worn patterns, and eyes that gleam with the wisdom of countless tides, embodying the timeless lesson of temperance and patience.",
+        "num_occurence": 1
+    },
+    "Young Crab": {
+        "Name": "Young Crab",
+        "Prompt": "A feisty, diminutive crustacean with a vibrant red shell adorned with intricate seaweed patterns, sharp, beady eyes that gleam with impatience, and a pair of pincers that snap with a quick, irritated rhythm, embodying a spirited yet easily provoked demeanor.",
+        "num_occurence": 2
+    },
+    "The Cat": {
+        "Name": "The Cat",
+        "Prompt": "A whimsical, enigmatic feline with shimmering emerald fur, a perpetual smirk that reveals sharp, gleaming teeth, and eyes that twinkle with a knowing mischief, capable of fading into the shadows and reappearing at will, embodying the essence of unpredictable charm and elusive wisdom.",
+        "num_occurence": 2
+    },
+    "Magpie": {
+        "Name": "Magpie",
+        "Prompt": "A dapper old magpie with iridescent black and white plumage, adorned with a tiny, tattered top hat and a monocle perched precariously on its beak, exuding an air of refined eccentricity as it delicately wraps itself in a shimmering, silken scarf, bemoaning the ill effects of the night air on its throat.",
+        "num_occurence": 1
+    },
+    "Birds": {
+        "Name": "Birds",
+        "Prompt": "A flock of vibrant, iridescent birds with shimmering feathers that shift colors like a kaleidoscope, each one with a melodious, almost human-like voice, flitting through the air with a grace that belies their hurried nature, embodying both the beauty and fleetingness of life.",
+        "num_occurence": 1
+    },
+    "Canary": {
+        "Name": "Canary",
+        "Prompt": "A maternal canary with vibrant yellow plumage, delicate wings, and a melodious yet trembling voice, perched on a gilded cage in a cozy, dimly lit nursery, her eyes filled with a mix of love and urgency as she calls her children to bed.",
+        "num_occurence": 2
+    },
+    "Juryman": {
+        "Name": "Juryman",
+        "Prompt": "A solemn figure in a dark, tailored suit from the Victorian era, with a stern face framed by a neatly trimmed beard, his piercing blue eyes reflecting a keen sense of duty and a mind attuned to meticulous scrutiny, embodying the weight of justice in a time of rigid societal norms.",
+        "num_occurence": 2
+    },
+    "Executioner": {
+        "Name": "Executioner",
+        "Prompt": "A stoic figure draped in a tattered black hood and a blood-stained tabard, wielding a gleaming axe with a handle carved from ancient oak, his eyes hidden beneath the shadow of his cowl, exuding a solemn yet formidable presence, embodying the grim duty of severing heads with unwavering precision.",
+        "num_occurence": 4
+    },
+    "Jury": {
+        "Name": "Jury",
+        "Prompt": "A collective of twelve animated, anthropomorphic figures, each a unique blend of human and animal traits—one with the wings of an owl, another with the scales of a fish—clad in traditional judicial robes, their expressions shifting from puzzled to enlightened with the turn of a page, embodying the whimsical yet profound nature of justice in this surreal courtroom.",
+        "num_occurence": 2
+    },
+    "Nurse": {
+        "Name": "Nurse",
+        "Prompt": "A stern yet nurturing figure from the Victorian era, with a towering stature, iron-gray bun, and a crisp white apron, her piercing blue eyes and authoritative voice instilling both fear and comfort, embodying the essence of maternal discipline and care.",
+        "num_occurence": 1
+    },
+    "Miss Alice": {
+        "Name": "Miss Alice",
+        "Prompt": "A curious and determined young girl with a cascade of golden curls, wide blue eyes that sparkle with wonder, and a simple yet elegant dress adorned with tiny flowers, embodying the spirit of adventure and a keen sense of responsibility.",
+        "num_occurence": 2
+    },
+    "You": {
+        "Name": "You",
+        "Prompt": "A spectral figure cloaked in a tattered, iridescent robe that shifts between shades of twilight and dawn, with eyes that glow like embers in the dark, embodying a paradox of timeless wisdom and youthful curiosity, navigating the ethereal realms with an enigmatic presence.",
+        "num_occurence": 1
+    },
+    "Him": {
+        "Name": "Him",
+        "Prompt": "A shadowy figure cloaked in midnight robes, with eyes that glow like embers in the dark, exuding an aura of ancient wisdom and enigmatic power, whose presence commands both reverence and fear.",
+        "num_occurence": 2
+    },
+    "Sister": {
+        "Name": "Sister",
+        "Prompt": "A serene and thoughtful figure, with auburn hair cascading in gentle waves, soft blue eyes reflecting the tranquility of the setting sun, and a simple, flowing dress that whispers of pastoral charm, embodying a nurturing spirit and a dreamy, imaginative soul.",
+        "num_occurence": 3
+    },
+    "sister": {
+        "Name": "Sister",
+        "Prompt": "A gentle and nurturing figure from Victorian England, with soft auburn curls cascading down her shoulders, kind blue eyes that reflect a lifetime of wisdom, and a modest, high-collared dress adorned with delicate lace, embodying a serene presence and unwavering affection.",
+        "num_occurence": 2
+    },
+    "Little Sister": {
+        "Name": "Little Sister",
+        "Prompt": "A cherubic child with wide, innocent blue eyes and a cascade of golden curls, dressed in a simple, white pinafore adorned with tiny embroidered flowers, embodying the pure, untaintered spirit of Wonderland's wonder and the promise of a heart that will remain simple and loving through the ages.",
+        "num_occurence": 5
+    },
+    "Guests": {
+        "Name": "Guests",
+        "Prompt": "A diverse assembly of courtiers and nobles, each adorned in opulent, era-appropriate attire—velvet cloaks, brocade jackets, and feathered hats—their faces a mix of boredom and anticipation, resting under the shade of ancient oaks, their hushed conversations a symphony of intrigue and gossip.",
+        "num_occurence": 1
+    },
+    "Pig-baby": {
+        "Name": "Pig-baby",
+        "Prompt": "A chubby, rosy-cheeked infant with a snout resembling a piglet, clad in a simple, tattered smock, perpetually sneezing and squirming, embodying the absurd charm of Wonderland's peculiar inhabitants.",
+        "num_occurence": 1
+    },
+    "Guinea-pigs": {
+        "Name": "Guinea-pigs",
+        "Prompt": "A colony of suppressed guinea-pigs, each with sleek, velvety fur in muted shades of grey and brown, their beady black eyes reflecting a mix of fear and resilience, huddled together in a makeshift burrow, their tiny paws clutching at each other as they navigate the labyrinth of oppression and survival.",
+        "num_occurence": 1
+    }
+}

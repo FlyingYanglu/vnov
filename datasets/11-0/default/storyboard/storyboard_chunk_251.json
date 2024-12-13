@@ -1,0 +1,137 @@
+[
+    {
+        "text": "“Why with an M?” I asked.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "asking a question"
+                ],
+                "gaze_and_direction": "looking at the March Hare",
+                "expression": [
+                    "curious",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "blue"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“Why not?” said the March Hare.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "responding to the question"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nonchalant",
+                    "slightly amused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "jacket",
+                        "style": "formal",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "classic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "March Hare positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The Dormouse had closed its eyes by this time, and was going off into a doze; but, on being pinched by the Hatter, it woke up again with a little shriek, and went on: “—that begins with an M, such as mouse-traps, and the moon, and memory, and muchness—you know you say things are “much of a muchness”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit",
+                "evening",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Dormouse",
+                "age": "adult",
+                "actions": [
+                    "waking up from a doze",
+                    "continuing to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "startled",
+                    "slightly dazed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple robe",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "small hat",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "eyes half-closed"
+                ],
+                "composition": "Dormouse positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

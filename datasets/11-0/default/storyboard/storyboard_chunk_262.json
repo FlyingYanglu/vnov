@@ -1,0 +1,201 @@
+[
+    {
+        "text": "I heard the sound of many footsteps and looked around, eager to see the Queen.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "looking around",
+                    "listening intently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "eager",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [
+                    "dark circles under the eyes"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "First came ten soldiers carrying clubs; they were all shaped like the three gardeners, oblong and flat, with their hands and feet at the corners.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Soldiers",
+                "age": "various",
+                "actions": [
+                    "marching in a line",
+                    "carrying clubs"
+                ],
+                "gaze_and_direction": "looking straight ahead",
+                "expression": [
+                    "stoic",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "uniform",
+                        "style": "military",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "clubs",
+                        "type": "wooden"
+                    }
+                },
+                "temporary_features": [
+                    "oblong and flat shape"
+                ],
+                "composition": "Soldiers in a line, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "Next, the ten courtiers followed; they were ornamented all over with diamonds and walked two and two, as the soldiers did.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Courts",
+                "age": "various",
+                "actions": [
+                    "walking two by two",
+                    "glancing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "proud",
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "robes",
+                        "style": "ornate",
+                        "condition": "sparkling with diamonds"
+                    },
+                    "accessories": {
+                        "item": "diamond ornaments",
+                        "type": "jewelry"
+                    }
+                },
+                "temporary_features": [
+                    "diamond-studded attire"
+                ],
+                "composition": "Courts walking in pairs, camera slightly behind them"
+            }
+        ]
+    },
+    {
+        "text": "After them came the royal children; there were ten of them, and they were all jumping merrily along hand in hand, in couples, and were all ornamented.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "villa",
+                "city",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Royal Children",
+                "age": "young",
+                "actions": [
+                    "jumping merrily",
+                    "holding hands"
+                ],
+                "gaze_and_direction": "looking at each other",
+                "expression": [
+                    "joyful",
+                    "excited"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dresses",
+                        "style": "royal",
+                        "condition": "ornate"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [
+                    "ornamental attire"
+                ],
+                "composition": "Children jumping in pairs, camera slightly behind them"
+            }
+        ]
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "text": "“Whoever lives there,” I thought, “it’ll never do to come upon them _this_ size: why, I should frighten them out of their wits!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "quaint little house",
+                "woods"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "standing near the house"
+                ],
+                "gaze_and_direction": "looking at the house",
+                "expression": [
+                    "concerned",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "So I began nibbling at the righthand bit again, and did not venture to go near the house till I had brought myself down to nine inches high.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "quaint little house",
+                "woods"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "nibbling at something",
+                    "standing near the house"
+                ],
+                "gaze_and_direction": "looking at the house",
+                "expression": [
+                    "determined",
+                    "focused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "I stood there, staring at the quaint little house, trying to figure out my next move.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "quaint little house",
+                "woods"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "standing",
+                    "staring at the house"
+                ],
+                "gaze_and_direction": "looking at the house",
+                "expression": [
+                    "pensive",
+                    "contemplative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "small size"
+                ],
+                "composition": "Main character positioned to the left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "Suddenly, a footman in livery came rushing out of the woods.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "quaint little house",
+                "woods"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Footman",
+                "age": "middle-aged",
+                "actions": [
+                    "rushing out of the woods"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "urgent",
+                    "alarmed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "livery",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "none"
+                ],
+                "composition": "Footman positioned to the right, camera slightly behind"
+            }
+        ]
+    }
+]

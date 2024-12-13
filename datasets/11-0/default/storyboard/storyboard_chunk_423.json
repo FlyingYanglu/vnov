@@ -1,0 +1,182 @@
+[
+    {
+        "text": "The Knave shook his head sadly. \"Do I look like it?\" he said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Knave",
+                "age": "young adult",
+                "actions": [
+                    "shaking head",
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "sad",
+                    "worried"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "cardboard tunic",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cardboard crown",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "(Which he certainly did _not_, being made entirely of cardboard.)",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The Knave",
+                "age": "young adult",
+                "actions": [
+                    "standing still",
+                    "looking at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "neutral"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "cardboard tunic",
+                        "style": "simple",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "cardboard crown",
+                        "type": "minimalistic"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "The King went on muttering over the verses to himself: “‘_We know it to be true_—’ that’s the jury, of course—‘_I gave her one, they gave him two_—’ why, that must be what he did with the tarts, you know—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "The King",
+                "age": "middle-aged",
+                "actions": [
+                    "muttering to self",
+                    "looking down at papers"
+                ],
+                "gaze_and_direction": "looking down",
+                "expression": [
+                    "thoughtful",
+                    "confused"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "well-kept"
+                    },
+                    "accessories": {
+                        "item": "golden crown",
+                        "type": "ornate"
+                    }
+                },
+                "temporary_features": [
+                    "holding papers"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“But, it goes on ‘_they all returned from him to you_,’” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden walls",
+                "evening"
+            ],
+            "scene_features": [
+                "courtroom",
+                "wooden benches",
+                "royal banners"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "concerned"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera at eye level"
+            }
+        ]
+    }
+]

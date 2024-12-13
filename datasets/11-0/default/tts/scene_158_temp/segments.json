@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "ac639c3cb2dc11efb89698039b7ed938",
+        "text": "“How cheerfully he seems to grin,",
+        "audio_url": "https://v16m-default.akamaized.net/b1c943e8c48105dd7be0a64185102b17/6751ae16/video/tos/maliva/tos-maliva-v-f15faa-us/oEqRpeNIA5rfAEREKCLOXWBGgaSxACAberoCUw/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThbGkIOXq8Zmo&qs=13&rc=M2R3cXY5cmdvdzUzNzhoM0BpM2R3cXY5cmdvdzUzNzhoM0BhNjQ0MmQ0ZzVgLS1kLjZzYSNhNjQ0MmQ0ZzVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338462757000000000000000000000ffff0a00ad556cd6ba&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 2.112
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

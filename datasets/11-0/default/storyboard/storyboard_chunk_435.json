@@ -1,0 +1,158 @@
+[
+    {
+        "text": "find a pleasure in all their simple joys,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "warm ambiance",
+                "daytime"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelf",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "sitting comfortably",
+                    "holding a book"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "content",
+                    "reflective"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "knit",
+                        "condition": "worn but neat"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "half-frame"
+                    }
+                },
+                "temporary_features": [
+                    "slight smile"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "remembering her own child-life,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "warm ambiance",
+                "daytime"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelf",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "closing eyes",
+                    "leaning back slightly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "nostalgic",
+                    "softly smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "knit",
+                        "condition": "worn but neat"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "half-frame"
+                    }
+                },
+                "temporary_features": [
+                    "slight smile"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and the happy summer days.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft lighting",
+                "warm ambiance",
+                "daytime"
+            ],
+            "scene_features": [
+                "cozy room",
+                "bookshelf",
+                "window with curtains"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "opening eyes",
+                    "looking out the window"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "reflective",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "soft sweater",
+                        "style": "knit",
+                        "condition": "worn but neat"
+                    },
+                    "bottom": {
+                        "item": "slacks",
+                        "style": "casual",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "reading glasses",
+                        "type": "half-frame"
+                    }
+                },
+                "temporary_features": [
+                    "slight smile"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

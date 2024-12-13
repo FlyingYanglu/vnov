@@ -1,0 +1,260 @@
+[
+    {
+        "text": "“I suppose so,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "a table with a teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Well, then,” the Cat went on, “you see, a dog growls when it’s angry, and wags its tail when it’s pleased.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "a table with a teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "sitting on the table"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat centered, camera slightly above eye level"
+            }
+        ]
+    },
+    {
+        "text": "Now I growl when I’m pleased, and wag my tail when I’m angry.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "a table with a teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "sitting on the table"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat centered, camera slightly above eye level"
+            }
+        ]
+    },
+    {
+        "text": "Therefore I’m mad.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "a table with a teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "sitting on the table"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat centered, camera slightly above eye level"
+            }
+        ]
+    },
+    {
+        "text": "“I call it purring, not growling,” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "a table with a teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to the viewer"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "thoughtful",
+                    "slightly puzzled"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue dress",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "simple necklace",
+                        "type": "silver chain"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Call it what you like,” said the Cat.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "wooden floor",
+                "curtains drawn"
+            ],
+            "scene_features": [
+                "room with a large window",
+                "a table with a teapot"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "adult",
+                "actions": [
+                    "speaking to the viewer",
+                    "sitting on the table"
+                ],
+                "gaze_and_direction": "looking directly at the camera",
+                "expression": [
+                    "calm",
+                    "explaining"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Cat centered, camera slightly above eye level"
+            }
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "text": "“Wake up, Alice dear!” said my sister; “Why, what a long sleep you’ve had!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft morning light",
+                "cozy room",
+                "daytime"
+            ],
+            "scene_features": [
+                "bed",
+                "curtains",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "sister",
+                "age": "young adult",
+                "actions": [
+                    "standing by the bed",
+                    "leaning slightly forward"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "concerned",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "casual",
+                        "type": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the left side of the frame, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Oh, I’ve had such a curious dream!” I said, and I told my sister, as well as I could remember them, all these strange Adventures of mine that you have just been reading about;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft morning light",
+                "cozy room",
+                "daytime"
+            ],
+            "scene_features": [
+                "bed",
+                "curtains",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "sitting up in bed",
+                    "gesturing with hands"
+                ],
+                "gaze_and_direction": "looking at sister",
+                "expression": [
+                    "excited",
+                    "thoughtful"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "nightgown",
+                        "style": "simple",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {}
+                },
+                "temporary_features": [
+                    "hair disheveled"
+                ],
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and when I had finished, my sister kissed me, and said, “It _was_ a curious dream, dear, certainly: but now run in to your tea; it’s getting late.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "soft morning light",
+                "cozy room",
+                "daytime"
+            ],
+            "scene_features": [
+                "bed",
+                "curtains",
+                "furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "sister",
+                "age": "young adult",
+                "actions": [
+                    "leaning in to kiss Alice",
+                    "standing by the bed"
+                ],
+                "gaze_and_direction": "looking at Alice",
+                "expression": [
+                    "reassuring",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "skirt",
+                        "style": "casual",
+                        "type": "pleated",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned on the left side of the frame, camera slightly low angle"
+            }
+        ]
+    }
+]

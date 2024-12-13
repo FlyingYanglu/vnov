@@ -1,0 +1,77 @@
+[
+    {
+        "segment_id": "72a9d95cb2dc11ef9c85b8cef6a0339e",
+        "text": "“I’m sure I’m not Ada,” I",
+        "audio_url": "https://v16m-default.akamaized.net/1402e46ec8353f91dbb874111ca1ebe1/6751adbd/video/tos/maliva/tos-maliva-v-f15faa-us/oofURWqFgAAiAyoi1LBdkzEVqEAyaWq3KiiwB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5qkIOXq8Zmo&qs=13&rc=M3dtaW85cm9vdzUzNzhoM0BpM3dtaW85cm9vdzUzNzhoM0BlMV5lMmRjZjVgLS1kLjZzYSNlMV5lMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338453129400000000000000000000ffff0a006d7254f85d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4303999999999997
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.4303999999999997
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "72a9daa6b2dc11ef9c85b8cef6a0339e",
+        "text": "said, “for her hair goes",
+        "audio_url": "https://v16m-default.akamaized.net/1402e46ec8353f91dbb874111ca1ebe1/6751adbd/video/tos/maliva/tos-maliva-v-f15faa-us/oofURWqFgAAiAyoi1LBdkzEVqEAyaWq3KiiwB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5qkIOXq8Zmo&qs=13&rc=M3dtaW85cm9vdzUzNzhoM0BpM3dtaW85cm9vdzUzNzhoM0BlMV5lMmRjZjVgLS1kLjZzYSNlMV5lMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338453129400000000000000000000ffff0a006d7254f85d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4304000000000001,
+            "end_offset": 2.8608000000000002
+        },
+        "target_timerange": {
+            "start_offset": 1.4304000000000001,
+            "end_offset": 2.8608000000000002
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "72a9dbe6b2dc11ef9c85b8cef6a0339e",
+        "text": "in such long ringlets,",
+        "audio_url": "https://v16m-default.akamaized.net/1402e46ec8353f91dbb874111ca1ebe1/6751adbd/video/tos/maliva/tos-maliva-v-f15faa-us/oofURWqFgAAiAyoi1LBdkzEVqEAyaWq3KiiwB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5qkIOXq8Zmo&qs=13&rc=M3dtaW85cm9vdzUzNzhoM0BpM3dtaW85cm9vdzUzNzhoM0BlMV5lMmRjZjVgLS1kLjZzYSNlMV5lMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338453129400000000000000000000ffff0a006d7254f85d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.8608000000000002,
+            "end_offset": 4.2912
+        },
+        "target_timerange": {
+            "start_offset": 2.8608000000000002,
+            "end_offset": 4.2912
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "72a9dcfeb2dc11ef9c85b8cef6a0339e",
+        "text": "and mine doesn’t go in",
+        "audio_url": "https://v16m-default.akamaized.net/1402e46ec8353f91dbb874111ca1ebe1/6751adbd/video/tos/maliva/tos-maliva-v-f15faa-us/oofURWqFgAAiAyoi1LBdkzEVqEAyaWq3KiiwB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5qkIOXq8Zmo&qs=13&rc=M3dtaW85cm9vdzUzNzhoM0BpM3dtaW85cm9vdzUzNzhoM0BlMV5lMmRjZjVgLS1kLjZzYSNlMV5lMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338453129400000000000000000000ffff0a006d7254f85d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 4.2912,
+            "end_offset": 5.7216000000000005
+        },
+        "target_timerange": {
+            "start_offset": 4.2912,
+            "end_offset": 5.7216000000000005
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "72a9dde4b2dc11ef9c85b8cef6a0339e",
+        "text": "ringlets at all;",
+        "audio_url": "https://v16m-default.akamaized.net/1402e46ec8353f91dbb874111ca1ebe1/6751adbd/video/tos/maliva/tos-maliva-v-f15faa-us/oofURWqFgAAiAyoi1LBdkzEVqEAyaWq3KiiwB9/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th5qkIOXq8Zmo&qs=13&rc=M3dtaW85cm9vdzUzNzhoM0BpM3dtaW85cm9vdzUzNzhoM0BlMV5lMmRjZjVgLS1kLjZzYSNlMV5lMmRjZjVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338453129400000000000000000000ffff0a006d7254f85d&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 5.7216000000000005,
+            "end_offset": 7.152
+        },
+        "target_timerange": {
+            "start_offset": 5.7216000000000005,
+            "end_offset": 7.152
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

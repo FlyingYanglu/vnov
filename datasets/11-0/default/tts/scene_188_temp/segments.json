@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "4c528f46b2dd11efa7c508c0eb61f8d0",
+        "text": "Another moment, splash!",
+        "audio_url": "https://v16m-default.akamaized.net/8ed6a591ee0cd9b7ad552e3b56ab5cad/6751af22/video/tos/maliva/tos-maliva-v-f15faa-us/o8ULDBEVs6DAVdQRr1A3FHRBfgJABnEhWYEBeU/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThlNkIOXq8Zmo&qs=13&rc=ams2aWo5cmpvdzUzNzhoM0Bpams2aWo5cmpvdzUzNzhoM0AuYmdhMmRjaTVgLS1kLjZzYSMuYmdhMmRjaTVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338489657500000000000000000000ffff0a006df1fcd458&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.92
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.92
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

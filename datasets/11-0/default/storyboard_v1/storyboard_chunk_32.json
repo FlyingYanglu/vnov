@@ -1,0 +1,160 @@
+[
+    {
+        "text": "‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "old books"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "scrolls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Stigand",
+                "age": "middle-aged",
+                "actions": [
+                    "holding a scroll",
+                    "looking thoughtful"
+                ],
+                "gaze_and_direction": "gazing at the viewer",
+                "expression": [
+                    "pensive"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "archbishop robe",
+                        "style": "traditional",
+                        "condition": "well-worn"
+                    },
+                    "accessories": {
+                        "item": "cross necklace",
+                        "type": "silver"
+                    }
+                },
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Found _what_?” said the Duck.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "old books"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "scrolls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duck",
+                "age": "adult",
+                "actions": [
+                    "turning head towards the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered coat",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“Found _it_,” the Mouse replied rather crossly: “of course you know what ‘it’ means.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "old books"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "scrolls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Mouse",
+                "age": "adult",
+                "actions": [
+                    "crossing arms",
+                    "looking annoyed"
+                ],
+                "gaze_and_direction": "glaring at the viewer",
+                "expression": [
+                    "irritated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple tunic",
+                        "style": "plain",
+                        "condition": "clean"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    },
+    {
+        "text": "“I know what ‘it’ means well enough, when _I_ find a thing,” said the Duck: “it’s generally a frog or a worm.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "wooden furniture",
+                "old books"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "scrolls"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duck",
+                "age": "adult",
+                "actions": [
+                    "nodding confidently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered coat",
+                        "style": "natural",
+                        "condition": "well-kept"
+                    }
+                },
+                "composition": "Character positioned centrally, camera eye-level"
+            }
+        ]
+    }
+]

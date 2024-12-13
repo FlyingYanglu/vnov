@@ -1,0 +1,32 @@
+[
+    {
+        "segment_id": "4f18a534b2de11efae5b08c0eb17a1fc",
+        "text": "I led the way, and the whole",
+        "audio_url": "https://v16m-default.akamaized.net/f467fb7e6ce9e284c8363266bf83d2b1/6751b0d5/video/tos/maliva/tos-maliva-v-f15faa-us/osRAwiAqkBzBqXw4XoAwFVHqEfv5IMgiyTEAKA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th.-kIOXq8Zmo&qs=13&rc=M2l4Zmo5cnZvdzUzNzhoM0BpM2l4Zmo5cnZvdzUzNzhoM0AtaS8xMmRzbDVgLS1kLjZzYSMtaS8xMmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338533047400000000000000000000ffff0a008db6f3e836&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.476
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.476
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "4f18a66ab2de11efae5b08c0eb17a1fc",
+        "text": "party swam to the shore.",
+        "audio_url": "https://v16m-default.akamaized.net/f467fb7e6ce9e284c8363266bf83d2b1/6751b0d5/video/tos/maliva/tos-maliva-v-f15faa-us/osRAwiAqkBzBqXw4XoAwFVHqEfv5IMgiyTEAKA/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Th.-kIOXq8Zmo&qs=13&rc=M2l4Zmo5cnZvdzUzNzhoM0BpM2l4Zmo5cnZvdzUzNzhoM0AtaS8xMmRzbDVgLS1kLjZzYSMtaS8xMmRzbDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338533047400000000000000000000ffff0a008db6f3e836&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.476,
+            "end_offset": 2.952
+        },
+        "target_timerange": {
+            "start_offset": 1.476,
+            "end_offset": 2.952
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

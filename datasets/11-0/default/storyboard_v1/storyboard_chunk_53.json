@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Next came an angry voice—the Rabbit’s—“Pat! Pat! Where are you?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "calling out loudly"
+                ],
+                "gaze_and_direction": "looking around",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "And then a voice I had never heard before, “Sure then I’m here! Digging for apples, yer honour!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Pat",
+                "age": "adult",
+                "actions": [
+                    "digging in the ground"
+                ],
+                "gaze_and_direction": "looking up at the Rabbit",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shirt",
+                        "style": "casual",
+                        "condition": "slightly dirty"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "wide-brimmed"
+                    }
+                },
+                "temporary_features": [
+                    "dirt on hands"
+                ],
+                "composition": "Pat positioned right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Digging for apples, indeed!” said the Rabbit angrily.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "gesturing angrily"
+                ],
+                "gaze_and_direction": "looking at Pat",
+                "expression": [
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Here! Come and help me out of _this!_” (Sounds of more broken glass.)",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "struggling to move"
+                ],
+                "gaze_and_direction": "looking at Pat",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [
+                    "stuck in a bush"
+                ],
+                "composition": "Rabbit positioned center, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Now tell me, Pat, what’s that in the window?”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers",
+                "window"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Rabbit",
+                "age": "adult",
+                "actions": [
+                    "pointing towards the window"
+                ],
+                "gaze_and_direction": "looking at the window",
+                "expression": [
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "vest",
+                        "style": "formal",
+                        "condition": "neatly worn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Rabbit positioned left, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Sure, it’s an arm, yer honour!” Pat’s voice echoed, pronouncing it “arrum.”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "garden",
+                "trees",
+                "flowers",
+                "window"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Pat",
+                "age": "adult",
+                "actions": [
+                    "pointing at the window"
+                ],
+                "gaze_and_direction": "looking at the window",
+                "expression": [
+                    "confident"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "shirt",
+                        "style": "casual",
+                        "condition": "slightly dirty"
+                    },
+                    "accessories": {
+                        "item": "hat",
+                        "type": "wide-brimmed"
+                    }
+                },
+                "temporary_features": [
+                    "dirt on hands"
+                ],
+                "composition": "Pat positioned right, camera slightly low angle"
+            }
+        ]
+    }
+]

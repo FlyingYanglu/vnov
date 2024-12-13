@@ -1,0 +1,17 @@
+[
+    {
+        "segment_id": "d3b9b808b2db11ef8fb298039b7ed938",
+        "text": "I’m sure I shan’t be able!",
+        "audio_url": "https://v16m-default.akamaized.net/fcf4099f62efa01fe7bad453e42f0f4d/6751acab/video/tos/maliva/tos-maliva-v-f15faa-us/o8kiqsmqYETUwW2gizKoVwB9ikfAFAEABEkRAI/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThN5kIOXq8Zmo&qs=13&rc=M3Jsd3c5cmxvdzUzNzhoM0BpM3Jsd3c5cmxvdzUzNzhoM0BqMWY2MmRjZDVgLS1kLjZzYSNqMWY2MmRjZDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338426500600000000000000000000ffff0a00638965ec3c&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.872
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    }
+]

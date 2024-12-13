@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "1d1e6438b2de11efa7c508c0eb61f8d0",
+        "text": "A little bright-eyed",
+        "audio_url": "https://v16m-default.akamaized.net/787708bd3bae8749bc51709e078a9ce5/6751b086/video/tos/maliva/tos-maliva-v-f15faa-us/oA1RgQQUfLEC5wBSADVnRCBVXEBJFhAe1VAE5q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOgkIOXq8Zmo&qs=13&rc=amplZG85cjtvdzUzNzhoM0BpamplZG85cjtvdzUzNzhoM0BecDRhMmQ0bDVgLS1kLjZzYSNecDRhMmQ0bDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338524736700000000000000000000ffff0a0066a3718cda&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6880000000000002
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.6880000000000002
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1d1e6596b2de11efa7c508c0eb61f8d0",
+        "text": "terrier, you know, with oh,",
+        "audio_url": "https://v16m-default.akamaized.net/787708bd3bae8749bc51709e078a9ce5/6751b086/video/tos/maliva/tos-maliva-v-f15faa-us/oA1RgQQUfLEC5wBSADVnRCBVXEBJFhAe1VAE5q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOgkIOXq8Zmo&qs=13&rc=amplZG85cjtvdzUzNzhoM0BpamplZG85cjtvdzUzNzhoM0BecDRhMmQ0bDVgLS1kLjZzYSNecDRhMmQ0bDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338524736700000000000000000000ffff0a0066a3718cda&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.688,
+            "end_offset": 3.3760000000000003
+        },
+        "target_timerange": {
+            "start_offset": 1.688,
+            "end_offset": 3.3760000000000003
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "1d1e6690b2de11efa7c508c0eb61f8d0",
+        "text": "such long curly brown hair!",
+        "audio_url": "https://v16m-default.akamaized.net/787708bd3bae8749bc51709e078a9ce5/6751b086/video/tos/maliva/tos-maliva-v-f15faa-us/oA1RgQQUfLEC5wBSADVnRCBVXEBJFhAe1VAE5q/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7ThOgkIOXq8Zmo&qs=13&rc=amplZG85cjtvdzUzNzhoM0BpamplZG85cjtvdzUzNzhoM0BecDRhMmQ0bDVgLS1kLjZzYSNecDRhMmQ0bDVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338524736700000000000000000000ffff0a0066a3718cda&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 3.376,
+            "end_offset": 5.064
+        },
+        "target_timerange": {
+            "start_offset": 3.376,
+            "end_offset": 5.064
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

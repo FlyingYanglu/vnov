@@ -1,0 +1,182 @@
+[
+    {
+        "text": "when I was a little startled by seeing the Cheshire Cat sitting on a bough of a tree a few yards off.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "tree",
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cheshire Cat",
+                "age": "ageless",
+                "actions": [
+                    "sitting on a bough of a tree"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "long claws",
+                    "many teeth"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "It looked good-natured, I thought: still it had very long claws and a great many teeth, so I felt that it ought to be treated with respect.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "tree",
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cheshire Cat",
+                "age": "ageless",
+                "actions": [
+                    "sitting on a bough of a tree"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "long claws",
+                    "many teeth"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“Cheshire Puss,” I began, rather timidly, as I did not at all know whether it would like the name: however, it only grinned a little wider.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "tree",
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cheshire Cat",
+                "age": "ageless",
+                "actions": [
+                    "sitting on a bough of a tree"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning wider"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "long claws",
+                    "many teeth"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "The Cat only grinned when it saw me.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "bright sunlight",
+                "blue sky",
+                "daytime"
+            ],
+            "scene_features": [
+                "tree",
+                "garden",
+                "villa"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cheshire Cat",
+                "age": "ageless",
+                "actions": [
+                    "sitting on a bough of a tree"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "grinning"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "striped",
+                        "condition": "smooth"
+                    },
+                    "accessories": {
+                        "item": "none"
+                    }
+                },
+                "temporary_features": [
+                    "long claws",
+                    "many teeth"
+                ],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    }
+]

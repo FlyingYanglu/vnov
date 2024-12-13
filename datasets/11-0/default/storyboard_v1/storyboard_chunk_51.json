@@ -1,0 +1,294 @@
+[
+    {
+        "text": "“Oh, you foolish Alice!” I answered myself.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "cluttered with books and papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking to self"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated",
+                    "exasperated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“How can you learn lessons in here? Why, there’s hardly room for _you_, and no room at all for any lesson-books!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "cluttered with books and papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "gesturing around the room"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "disappointed",
+                    "serious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And so I went on, taking first one side and then the other, and making quite a conversation of it altogether;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "cluttered with books and papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "pacing back and forth"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "engaged"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "but after a few minutes I heard a voice outside, and stopped to listen.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "small room",
+                "cluttered with books and papers"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "stopping and listening"
+                ],
+                "gaze_and_direction": "looking towards the door",
+                "expression": [
+                    "alert",
+                    "curious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white blouse",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "bottom": {
+                        "item": "blue skirt",
+                        "style": "pleated",
+                        "condition": "neat"
+                    },
+                    "accessories": {
+                        "item": "hairband",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a book"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Mary Ann! Mary Ann!” said the voice.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "garden",
+                "villa exterior"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Voice",
+                "age": "unknown",
+                "actions": [
+                    "calling out"
+                ],
+                "gaze_and_direction": "looking towards the villa",
+                "expression": [
+                    "urgent"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "unknown",
+                        "style": "unknown",
+                        "condition": "unknown"
+                    },
+                    "bottom": {
+                        "item": "unknown",
+                        "style": "unknown",
+                        "condition": "unknown"
+                    },
+                    "accessories": {
+                        "item": "unknown",
+                        "type": "unknown"
+                    }
+                },
+                "temporary_features": [
+                    "unknown"
+                ],
+                "composition": "Voice off-screen, camera focused on the villa door"
+            }
+        ]
+    },
+    {
+        "text": "“Fetch me my gloves this moment!”",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "garden",
+                "villa exterior"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Voice",
+                "age": "unknown",
+                "actions": [
+                    "commanding"
+                ],
+                "gaze_and_direction": "looking towards the villa",
+                "expression": [
+                    "imperative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "unknown",
+                        "style": "unknown",
+                        "condition": "unknown"
+                    },
+                    "bottom": {
+                        "item": "unknown",
+                        "style": "unknown",
+                        "condition": "unknown"
+                    },
+                    "accessories": {
+                        "item": "unknown",
+                        "type": "unknown"
+                    }
+                },
+                "temporary_features": [
+                    "unknown"
+                ],
+                "composition": "Voice off-screen, camera focused on the villa door"
+            }
+        ]
+    }
+]

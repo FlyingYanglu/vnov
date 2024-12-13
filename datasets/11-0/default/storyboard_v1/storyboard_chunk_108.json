@@ -1,0 +1,178 @@
+[
+    {
+        "text": "“How do you know I’m mad?” I said.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "eerie atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "shadows",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly anxious"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“You must be,” said the Cat, “or you wouldn’t have come here.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "eerie atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "shadows",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "unknown",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "smirking",
+                    "knowing"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "natural",
+                        "condition": "smooth"
+                    }
+                },
+                "temporary_features": [
+                    "floating in mid-air"
+                ],
+                "composition": "Cat positioned slightly to the side, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "I didn’t think that proved it at all; however, I went on “And how do you know that you’re mad?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "eerie atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "shadows",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "skeptical",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "simple dress",
+                        "style": "casual",
+                        "condition": "worn"
+                    },
+                    "accessories": {
+                        "item": "hair ribbon",
+                        "type": "simple"
+                    }
+                },
+                "temporary_features": [
+                    "holding a small notebook"
+                ],
+                "composition": "Main character centered, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“To begin with,” said the Cat, “a dog’s not mad. You grant that?”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "eerie atmosphere",
+                "nighttime"
+            ],
+            "scene_features": [
+                "mysterious room",
+                "shadows",
+                "old furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Cat",
+                "age": "unknown",
+                "actions": [
+                    "speaking directly to the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "calm",
+                    "matter-of-fact"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "fur",
+                        "style": "natural",
+                        "condition": "smooth"
+                    }
+                },
+                "temporary_features": [
+                    "floating in mid-air"
+                ],
+                "composition": "Cat positioned slightly to the side, camera at eye level"
+            }
+        ]
+    }
+]

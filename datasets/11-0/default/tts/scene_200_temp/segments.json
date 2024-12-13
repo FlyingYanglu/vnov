@@ -1,0 +1,47 @@
+[
+    {
+        "segment_id": "8caec938b2dd11efb10cb8cef6277d40",
+        "text": "So I began: “O Mouse,",
+        "audio_url": "https://v16m-default.akamaized.net/d6f836dfffc594ea1d2508b11a73f7c8/6751af92/video/tos/maliva/tos-maliva-v-f15faa-us/o8VIgeoI5eAtCBOArLrdC6IAiGmle1XxrACZCS/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn7kIOXq8Zmo&qs=13&rc=M3J2OXM5cmVvdzUzNzhoM0BpM3J2OXM5cmVvdzUzNzhoM0BkaWtrMmRrajVgLS1kLjZzYSNkaWtrMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338500497100000000000000000000ffff0a00b4104030d1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.44
+        },
+        "target_timerange": {
+            "start_offset": 0,
+            "end_offset": 1.44
+        },
+        "ignore_audio": false,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8caecb72b2dd11efb10cb8cef6277d40",
+        "text": "do you know the way",
+        "audio_url": "https://v16m-default.akamaized.net/d6f836dfffc594ea1d2508b11a73f7c8/6751af92/video/tos/maliva/tos-maliva-v-f15faa-us/o8VIgeoI5eAtCBOArLrdC6IAiGmle1XxrACZCS/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn7kIOXq8Zmo&qs=13&rc=M3J2OXM5cmVvdzUzNzhoM0BpM3J2OXM5cmVvdzUzNzhoM0BkaWtrMmRrajVgLS1kLjZzYSNkaWtrMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338500497100000000000000000000ffff0a00b4104030d1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 1.4400000000000002,
+            "end_offset": 2.88
+        },
+        "target_timerange": {
+            "start_offset": 1.4400000000000002,
+            "end_offset": 2.88
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    },
+    {
+        "segment_id": "8caecd20b2dd11efb10cb8cef6277d40",
+        "text": "out of this pool?",
+        "audio_url": "https://v16m-default.akamaized.net/d6f836dfffc594ea1d2508b11a73f7c8/6751af92/video/tos/maliva/tos-maliva-v-f15faa-us/o8VIgeoI5eAtCBOArLrdC6IAiGmle1XxrACZCS/?a=7073&bti=OTU0QDItLmA%3D&ch=0&cr=0&dr=4&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=312&bt=156&ds=5&ft=.cwOVInz7Thn7kIOXq8Zmo&qs=13&rc=M3J2OXM5cmVvdzUzNzhoM0BpM3J2OXM5cmVvdzUzNzhoM0BkaWtrMmRrajVgLS1kLjZzYSNkaWtrMmRrajVgLS1kLjZzcw%3D%3D&vvpl=1&l=02173338500497100000000000000000000ffff0a00b4104030d1&btag=e00070000&format=mp3&mime_type=audio_mpeg",
+        "source_timerange": {
+            "start_offset": 2.8800000000000003,
+            "end_offset": 4.32
+        },
+        "target_timerange": {
+            "start_offset": 2.8800000000000003,
+            "end_offset": 4.32
+        },
+        "ignore_audio": true,
+        "audio_path": null
+    }
+]

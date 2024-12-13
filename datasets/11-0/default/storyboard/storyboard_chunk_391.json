@@ -1,0 +1,131 @@
+[
+    {
+        "text": "“You did!” the Hatter insisted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Hatter",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing at the viewer"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "insistent",
+                    "intense"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "checkered vest",
+                        "style": "fitted",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "top hat",
+                        "type": "tall",
+                        "condition": "slightly tilted"
+                    }
+                },
+                "composition": "Hatter positioned to the left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“I deny it!” the March Hare retorted.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "March Hare",
+                "age": "adult",
+                "actions": [
+                    "crossing arms defiantly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "defiant",
+                    "angry"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "waistcoat",
+                        "style": "vintage",
+                        "condition": "slightly torn"
+                    },
+                    "accessories": {
+                        "item": "pocket watch",
+                        "type": "antique",
+                        "condition": "dangling from pocket"
+                    }
+                },
+                "composition": "March Hare positioned to the right, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "“He denies it,” the King said, “leave out that part.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "tea party setting"
+            ],
+            "scene_features": [
+                "tea table",
+                "chairs",
+                "curious objects"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "King",
+                "age": "elderly",
+                "actions": [
+                    "gesturing dismissively"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "authoritative",
+                    "bored"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "royal robe",
+                        "style": "elaborate",
+                        "condition": "luxurious"
+                    },
+                    "accessories": {
+                        "item": "crown",
+                        "type": "golden",
+                        "condition": "slightly askew"
+                    }
+                },
+                "composition": "King positioned centrally, camera frontal"
+            }
+        ]
+    }
+]

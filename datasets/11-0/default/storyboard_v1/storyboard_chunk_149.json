@@ -1,0 +1,252 @@
+[
+    {
+        "text": "“What for?” asked the one who had spoken first.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Two",
+                "age": "adult",
+                "actions": [
+                    "raising hand slightly",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "curious",
+                    "slightly annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "dark green tunic",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "brown trousers",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "leather belt",
+                        "type": "functional"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned centrally, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "“That’s none of your business, Two!” said Seven.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "adult",
+                "actions": [
+                    "pointing finger at Two",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at Two",
+                "expression": [
+                    "defensive",
+                    "stern"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“Yes, it is his business!” said Five.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "adult",
+                "actions": [
+                    "raising hand slightly",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "assertive",
+                    "determined"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "grey skirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "gold bracelet",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "“And I’ll tell him—it was for bringing the cook tulip-roots instead of onions.”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Five",
+                "age": "adult",
+                "actions": [
+                    "pointing finger at Seven",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at Seven",
+                "expression": [
+                    "confident",
+                    "slightly smug"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "blue blouse",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "grey skirt",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "gold bracelet",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the right, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "Seven flung down his brush and was about to say, “Well, of all the unjust things—”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "evening light",
+                "wooden furniture"
+            ],
+            "scene_features": [
+                "large table",
+                "candles",
+                "books"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Seven",
+                "age": "adult",
+                "actions": [
+                    "throwing brush down",
+                    "opening mouth to speak"
+                ],
+                "gaze_and_direction": "looking at Five",
+                "expression": [
+                    "angry",
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "red shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "black trousers",
+                        "style": "casual",
+                        "condition": "slightly wrinkled"
+                    },
+                    "accessories": {
+                        "item": "silver necklace",
+                        "type": "ornamental"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Character positioned slightly to the left, camera at eye level"
+            }
+        ]
+    }
+]

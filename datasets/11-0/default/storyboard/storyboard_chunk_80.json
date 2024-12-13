@@ -1,0 +1,185 @@
+[
+    {
+        "text": "when it had finished this short speech, they all cheered.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorative ceiling",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Speaker",
+                "age": "middle-aged",
+                "actions": [
+                    "finishing a speech"
+                ],
+                "gaze_and_direction": "looking at the audience",
+                "expression": [
+                    "satisfied"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "formal suit",
+                        "style": "tailored",
+                        "condition": "neatly pressed"
+                    },
+                    "accessories": {
+                        "item": "tie",
+                        "type": "silk",
+                        "color": "red"
+                    }
+                },
+                "composition": "Character positioned slightly left, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "I thought the whole thing very absurd, but they all looked so grave that I did not dare to laugh;",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorative ceiling",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "thinking",
+                    "looking around"
+                ],
+                "gaze_and_direction": "looking at the audience",
+                "expression": [
+                    "confused",
+                    "suppressed laughter"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera slightly overhead"
+            }
+        ]
+    },
+    {
+        "text": "and, as I could not think of anything to say, I simply bowed, and took the thimble, looking as solemn as I could.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorative ceiling",
+                "luxurious furniture"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "I",
+                "age": "young adult",
+                "actions": [
+                    "bowing",
+                    "taking a thimble"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "solemn"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "white shirt",
+                        "style": "button-up",
+                        "condition": "neatly worn"
+                    },
+                    "jacket": {
+                        "item": "blue jacket",
+                        "style": "open jacket",
+                        "type": "hooded jacket",
+                        "condition": "hood down",
+                        "sleeves": "long"
+                    },
+                    "accessories": {
+                        "item": "black choker",
+                        "type": "minimalistic"
+                    }
+                },
+                "composition": "Main character centered, camera frontal"
+            }
+        ]
+    },
+    {
+        "text": "The next thing was to eat the comfits: this caused some noise and confusion, as the large birds complained that they could not taste theirs,",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dim lighting",
+                "evening"
+            ],
+            "scene_features": [
+                "grand hall",
+                "decorative ceiling",
+                "luxurious furniture"
+            ]
+        },
+        "act": 1,
+        "characters": [
+            {
+                "name": "Large Bird",
+                "age": "adult",
+                "actions": [
+                    "eating comfits",
+                    "complaining"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "frustrated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "feathered robe",
+                        "style": "ornate",
+                        "condition": "well-maintained"
+                    },
+                    "accessories": {
+                        "item": "jeweled necklace",
+                        "type": "gold"
+                    }
+                },
+                "composition": "Character positioned slightly right, camera frontal"
+            }
+        ]
+    }
+]

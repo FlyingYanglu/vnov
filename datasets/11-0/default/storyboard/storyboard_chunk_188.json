@@ -1,0 +1,155 @@
+[
+    {
+        "text": "“Oh, don’t bother _me_,” the Duchess said impatiently.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft ambient light",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "soft furnishings",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "speaking impatiently"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "impatient",
+                    "annoyed"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace and earrings",
+                        "condition": "sparkling"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned centrally, camera at eye level"
+            }
+        ]
+    },
+    {
+        "text": "And with that she began nursing her child again, singing a sort of lullaby to it as she did so, and giving it a violent shake at the end of every line.",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft ambient light",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "soft furnishings",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "nursing her child",
+                    "singing a lullaby",
+                    "shaking the child violently at the end of each line"
+                ],
+                "gaze_and_direction": "looking at the child",
+                "expression": [
+                    "tender",
+                    "slightly agitated"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace and earrings",
+                        "condition": "sparkling"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned centrally, child in her arms, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "“Speak roughly to your little boy, And beat him when he sneezes: I never could abide figures!”",
+        "scene": {
+            "location_type": "indoor",
+            "environment_features": [
+                "dimly lit room",
+                "soft ambient light",
+                "evening"
+            ],
+            "scene_features": [
+                "luxurious interior",
+                "soft furnishings",
+                "large windows"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Duchess",
+                "age": "middle-aged",
+                "actions": [
+                    "singing the lullaby",
+                    "gesturing with her hand"
+                ],
+                "gaze_and_direction": "looking at the child",
+                "expression": [
+                    "stern",
+                    "authoritative"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "elegant blouse",
+                        "style": "high-collared",
+                        "condition": "neatly pressed"
+                    },
+                    "bottom": {
+                        "item": "long skirt",
+                        "style": "flowing",
+                        "condition": "clean"
+                    },
+                    "accessories": {
+                        "item": "jewelry",
+                        "type": "necklace and earrings",
+                        "condition": "sparkling"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Duchess positioned centrally, child in her arms, camera slightly low angle"
+            }
+        ]
+    }
+]

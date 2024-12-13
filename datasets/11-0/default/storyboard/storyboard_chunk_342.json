@@ -1,0 +1,201 @@
+[
+    {
+        "text": "There is another shore, you know, upon the other side.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "calm sea",
+                "sunset",
+                "golden hour"
+            ],
+            "scene_features": [
+                "shoreline",
+                "distant horizon",
+                "waves gently lapping"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing towards the horizon"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "thoughtful",
+                    "calm"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain white t-shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "regular fit",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "simple wristwatch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned on the left, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "The further off from England the nearer is to France—then turn not pale, beloved snail, but come and join the dance.",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "calm sea",
+                "sunset",
+                "golden hour"
+            ],
+            "scene_features": [
+                "shoreline",
+                "distant horizon",
+                "waves gently lapping"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "pointing towards the horizon",
+                    "smiling encouragingly"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "encouraging",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain white t-shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "regular fit",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "simple wristwatch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator centered, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, will you join the dance?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "calm sea",
+                "sunset",
+                "golden hour"
+            ],
+            "scene_features": [
+                "shoreline",
+                "distant horizon",
+                "waves gently lapping"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing invitingly",
+                    "smiling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "inviting",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain white t-shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "regular fit",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "simple wristwatch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator positioned on the right, camera slightly low angle"
+            }
+        ]
+    },
+    {
+        "text": "Will you, won’t you, will you, won’t you, won’t you join the dance?",
+        "scene": {
+            "location_type": "outdoor",
+            "environment_features": [
+                "calm sea",
+                "sunset",
+                "golden hour"
+            ],
+            "scene_features": [
+                "shoreline",
+                "distant horizon",
+                "waves gently lapping"
+            ]
+        },
+        "act": 0,
+        "characters": [
+            {
+                "name": "Narrator",
+                "age": "middle-aged",
+                "actions": [
+                    "gesturing invitingly",
+                    "smiling"
+                ],
+                "gaze_and_direction": "looking at the viewer",
+                "expression": [
+                    "inviting",
+                    "smiling"
+                ],
+                "costume": {
+                    "top": {
+                        "item": "plain white t-shirt",
+                        "style": "casual",
+                        "condition": "neatly worn"
+                    },
+                    "bottom": {
+                        "item": "blue jeans",
+                        "style": "regular fit",
+                        "condition": "slightly worn"
+                    },
+                    "accessories": {
+                        "item": "simple wristwatch",
+                        "type": "analog"
+                    }
+                },
+                "temporary_features": [],
+                "composition": "Narrator centered, camera slightly low angle"
+            }
+        ]
+    }
+]
