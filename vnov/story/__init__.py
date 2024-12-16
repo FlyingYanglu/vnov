@@ -5,3 +5,7 @@ from .director import Director
 from .midjourney_simple_char_designer import MidJourneySimpleCharDesigner
 from .tts import TTS
 from .summarizer import Summarizer
+from .factverifier import FactCCVerifier
+from .evaluator import Evaluator
+from .improver import Improver
+from .path_picker import PathPicker

@@ -14,13 +14,11 @@ class Deepseek(BaseLLM):
             {"role": "system", "content": system_msg},
             {"role": "user", "content": context}
         ]
-        print(context)
         response = self.client.chat.completions.create(
             model="deepseek-chat",
             messages=context,
             stream=False
         )
-        print(response)
         self.last_output = response
         return response.choices[0].message.content
     

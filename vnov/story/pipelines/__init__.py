@@ -1,0 +1,1 @@
+from .summarizer_pipeline import PipelineProcessor

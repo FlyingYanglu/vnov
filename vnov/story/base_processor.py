@@ -34,6 +34,7 @@ class BaseProcessor:
         split_response = response.split("}")
         json_data = extract_json_from_string(response)
         response = split_response[-1].strip().replace("```", "")
+        print(json_data)
         return response, json_data
 
     def create_prompt(self, template, **kwargs):

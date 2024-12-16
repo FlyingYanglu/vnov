@@ -25,7 +25,8 @@ class Novel:
         "scene_images": "scene_images2",
         "char_images": "mj_char_images",
         "tts": "tts",
-        "summary": "summary"
+        "summary": "summary",
+        "evaluations": "evaluations",
     }
     dir : str = None
     bookname : str = None

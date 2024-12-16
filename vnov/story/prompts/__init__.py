@@ -51,3 +51,12 @@ from .summarizer import (
     SUMMARIZER_INSTRUCTION,
     LAST_SUMMARIZER_PROMPT
 )
+
+from .evaluator import (
+    EVALUATOR_INSTRUCTION,
+    EVALUATION_RUBRIC
+)
+
+from .improver import (
+    IMPROVE_INSTRUCTION
+)
